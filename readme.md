@@ -1,24 +1,5 @@
 # Awesome AI Meets Biomedicine
-
-AI separated into "Fundamental LLMs(Large language models)" for biology and "AI Agents" for biomedical/bioinformatics research.
-
-## Fundamental LLMs
-
-| Year    | Title                                                        | Domain          | Venue                  | Paper/ Source                                                | Code/Product                                           |
-| ------- | ------------------------------------------------------------ | --------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| 2025.07 | **AlphaGenome: Advancing regulatory variant effect prediction with a unified DNA sequence model** | RNA             | Nature Communication   | [Link](https://www.nature.com/articles/s41467-025-60872-5)   | [Link](https://github.com/lbcb-sci/RiNALMo)            |
-| 2025.06 | **AlphaGenome: Advancing regulatory variant effect prediction with a unified DNA sequence model** | DNA/RNA         | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1) | [Link](https://github.com/google-deepmind/alphagenome) |
-| 2025.06 | **SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model** | DNA             | ICML 2025              | [Link](https://arxiv.org/abs/2506.01833)                     | [Link](https://github.com/YangLab/CSI)                 |
-| 2025.05 | **BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model** | DNA             | arXiv                  | [Link](https://arxiv.org/abs/2505.23579)                     | [Link](https://github.com/bowang-lab/BioReason)        |
-| 2025.04 | **Cell2Sentence at Scale: A Framework for Scaling Foundation Models for Single-Cell Biology** | single cell RNA | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1) | [Link](https://github.com/vandijklab/cell2sentence)    |
-| 2025.02 | **Genome modeling and design across all domains of life with Evo 2** | DNA             | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1) | [Link](https://github.com/arcinstitute/evo2)           |
-| 2025.02 | **A Long-Context Generative Genomic Foundation Model (Generator)** | DNA             | arXiv                  | [Link](https://arxiv.org/abs/2502.07272)                     | [Link](https://github.com/GenerTeam/GENERator)         |
-| 2025.01 | **GENA-LM: a new DNA language model for long sequences**     | DNA             | Nucleic Acids Research | [Link](https://academic.oup.com/nar/article/53/2/gkae1310/7954523) | [Link](https://github.com/AIRI-Institute/GENA_LM)      |
-| 2024.03 | **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** | DNA             | arXiv                  | [Link](https://arxiv.org/abs/2403.03234)                     | [Link](https://caduceus-dna.github.io/)                |
-| 2024.01 | **OmniNA: A foundation model for nucleotide sequences**      | DNA/RNA         | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1) |                                                        |
-| 2023.11 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** | DNA             | NeurIPS 2023           | [Link](https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) | [Link](https://github.com/HazyResearch/hyena-dna)      |
-| 2021.07 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language** | DNA             | Bioinformatics         | [Link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | [Link](https://github.com/jerryji1993/DNABERT)         |
-|         |                                                              |                 |                        |                                                              |                                                        |
+AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for biomedical/bioinformatics/biology research.
 
 ## AI Agents
 
@@ -37,8 +18,39 @@ AI separated into "Fundamental LLMs(Large language models)" for biology and "AI 
 | 2024.05 | **A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights** | Multi-omics/single cell RNA                 | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2) | [Link](https://github.com/lyyang01/Bio-Copilot)             |
 
 
+## AI Tools
+| Year    | Title                                                        | Domain                                 | Venue   | Paper/Source                                                 | Code/Product                                |
+| ------- | ------------------------------------------------------------ | -------------------------------------- | ------- | ------------------------------------------------------------ | ------------------------------------------- |
+| 2025.04 | **SCassist: An AI Based Workflow Assistant for Single-Cell Analysis** | Single Cell tasks(cluster, annotation) | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1) | [Link](https://github.com/NIH-NEI/SCassist) |
 
-## Other Awesome Projects
+## Fundamental LLMs
+
+| Year    | Title                                                        | Domain          | Venue                  | Paper/ Source                                                | Code/Product                                           |
+| ------- | ------------------------------------------------------------ | --------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+| 2025.07 | **RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks<br>** | RNA             | Nature Communication   | [Link](https://www.nature.com/articles/s41467-025-60872-5)   | [Link](https://github.com/lbcb-sci/RiNALMo)            |
+| 2025.06 | **AlphaGenome: Advancing regulatory variant effect prediction with a unified DNA sequence model** | DNA/RNA         | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1) | [Link](https://github.com/google-deepmind/alphagenome) |
+| 2025.06 | **SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model** | DNA             | ICML 2025              | [Link](https://arxiv.org/abs/2506.01833)                     | [Link](https://github.com/YangLab/CSI)                 |
+| 2025.05 | **BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model** | DNA             | arXiv                  | [Link](https://arxiv.org/abs/2505.23579)                     | [Link](https://github.com/bowang-lab/BioReason)        |
+| 2025.04 | **Cell2Sentence at Scale: A Framework for Scaling Foundation Models for Single-Cell Biology** | single cell RNA | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1) | [Link](https://github.com/vandijklab/cell2sentence)    |
+| 2025.02 | **Genome modeling and design across all domains of life with Evo 2** | DNA             | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1) | [Link](https://github.com/arcinstitute/evo2)           |
+| 2025.02 | **A Long-Context Generative Genomic Foundation Model (Generator)** | DNA             | arXiv                  | [Link](https://arxiv.org/abs/2502.07272)                     | [Link](https://github.com/GenerTeam/GENERator)         |
+| 2025.01 | **GENA-LM: a new DNA language model for long sequences**     | DNA             | Nucleic Acids Research | [Link](https://academic.oup.com/nar/article/53/2/gkae1310/7954523) | [Link](https://github.com/AIRI-Institute/GENA_LM)      |
+| 2024.03 | **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** | DNA             | arXiv                  | [Link](https://arxiv.org/abs/2403.03234)                     | [Link](https://caduceus-dna.github.io/)                |
+| 2024.01 | **OmniNA: A foundation model for nucleotide sequences**      | DNA/RNA         | bioRxiv                | [Link](https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1) |                                                        |
+| 2023.11 | **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution** | DNA             | NeurIPS 2023           | [Link](https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) | [Link](https://github.com/HazyResearch/hyena-dna)      |
+| 2021.07 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language** | DNA             | Bioinformatics         | [Link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | [Link](https://github.com/jerryji1993/DNABERT)         |
+|         |                                                              |                 |                        |                                                              |                                                        |
+
+# Reviews
+| Year    | Title                                                        | Domain                                      | Venue            | Paper/Source                                                 | Code                                                        |
+| ------- | ------------------------------------------------------------ | ------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| 2025.06 | **Large Language Models in Bioinformatics: A Survey**        |                                             |                  |                                                              |                                                             |
+| 2025.05 | **BioOmni: A General-Purpose AI Agent for Automated Biomedical Research** | General Biomedical Research (Multi-modal)   | bioRxiv          | [Link](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1) | [Link](https://biomni.stanford.edu/)                        |
+| 2025.01 | **InstructCell: A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following** | single cell RNA                             | arXiv            | [Link](https://arxiv.org/abs/2501.08187)                     | [Link](https://github.com/zjunlp/InstructCell)              |
+| 2024.11 | **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments** | Experimental Design (Genetic Perturbation)  | arXiv            | [Link](https://arxiv.org/abs/2405.17631)                     | [Link](https://github.com/snap-stanford/BioDiscoveryAgent/) |
+| 2024.05 | **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery** | General Scientific Research (Phenomenology) | Sakana AI (Blog) | [Link](https://sakana.ai/ai-scientist/)                      | -                                                           |
+
+##  Other Awesome Projects
 
 | Title                                | Project                                                      |
 | ------------------------------------ | ------------------------------------------------------------ |
@@ -49,7 +61,4 @@ AI separated into "Fundamental LLMs(Large language models)" for biology and "AI 
 | **Awesome-Bioinformatics**           | [Link](https://github.com/danielecook/Awesome-Bioinformatics) |
 |                                      |                                                              |
 
-
-
 # Ref
-
