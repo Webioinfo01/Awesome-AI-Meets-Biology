@@ -2,8 +2,6 @@
 
 AI separated into "Fundamental LLMs(Large language models)" for biology and "AI Agents" for biomedical/bioinformatics research.
 
-
-
 ## Fundamental LLMs
 
 | Year    | Title                                                        | Domain          | Venue                  | Paper/ Source                                                | Code/Product                                           |
@@ -27,6 +25,7 @@ AI separated into "Fundamental LLMs(Large language models)" for biology and "AI 
 | Year    | Title                                                        | Domain                                      | Venue                | Paper/Source                                                 | Code/Product                                                |
 | ------- | ------------------------------------------------------------ | ------------------------------------------- | -------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | 2025.06 | **NVIDIA Biomedical AI-Q Research Agent Developer Blueprint** | Drug Discovery (Target Identification)      | Nvidia's blog        | [Link](https://build.nvidia.com/nvidia/biomedical-aiq-research-agent) | [Link](https://github.com/NVIDIA/bionemo-framework)         |
+| 2025.06 | **scExtract: leveraging large language models for fully automated single-cell RNA-seq data annotation and prior-informed multi-dataset integration** | single cell RNA                             | Genome Biology       | [Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x) | [Link](https://github.com/yxwucq/scExtract)                 |
 | 2025.05 | **BioOmni: A General-Purpose AI Agent for Automated Biomedical Research** | General Biomedical Research (Multi-modal)   | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1) | [Link](https://biomni.stanford.edu/)                        |
 | 2025.03 | **DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis** | proteomics                                  | Nature Communication | [Link](https://www.nature.com/articles/s41467-025-57430-4)   | [Link](https://drbioright.org/)                             |
 | 2025.03 | **DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration** | Drug Discovery                              | arXiv                | [Link](https://arxiv.org/abs/2411.15692)                     | [Link](https://anonymous.4open.science/r/drugagent-5C42/)   |
@@ -35,6 +34,7 @@ AI separated into "Fundamental LLMs(Large language models)" for biology and "AI 
 | 2024.10 | **An AI Agent for Fully Automated Multi-Omic Analyses**      | Multi-omics Pipelines                       | Advanced Science     | [Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202407094) | [Link](https://github.com/JoshuaChou2018/AutoBA)            |
 | 2024.09 | **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery** | General Scientific Research (Phenomenology) | arXiv                | [Link](https://arxiv.org/abs/2408.06292)                     | [Link](https://github.com/SakanaAI/AI-Scientist)            |
 | 2024.07 | **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis** | single cell RNA                             | arXiv                | [Link](https://arxiv.org/abs/2407.09811)                     | [Link](http://cell.agent4science.cn/)                       |
+| 2024.05 | **A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights** | Multi-omics/single cell RNA                 | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2) | [Link](https://github.com/lyyang01/Bio-Copilot)             |
 
 
 
