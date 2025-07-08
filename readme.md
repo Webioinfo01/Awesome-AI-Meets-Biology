@@ -19,6 +19,7 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 
 
 ## AI Tools
+
 | Year    | Title                                                        | Domain                                 | Venue   | Paper/Source                                                 | Code/Product                                |
 | ------- | ------------------------------------------------------------ | -------------------------------------- | ------- | ------------------------------------------------------------ | ------------------------------------------- |
 | 2025.04 | **SCassist: An AI Based Workflow Assistant for Single-Cell Analysis** | Single Cell tasks(cluster, annotation) | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1) | [Link](https://github.com/NIH-NEI/SCassist) |
@@ -41,14 +42,12 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | 2021.07 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language** | DNA             | Bioinformatics         | [Link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | [Link](https://github.com/jerryji1993/DNABERT)         |
 |         |                                                              |                 |                        |                                                              |                                                        |
 
-# Reviews
-| Year    | Title                                                        | Domain                                      | Venue            | Paper/Source                                                 | Code                                                        |
-| ------- | ------------------------------------------------------------ | ------------------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
-| 2025.06 | **Large Language Models in Bioinformatics: A Survey**        |                                             |                  |                                                              |                                                             |
-| 2025.05 | **BioOmni: A General-Purpose AI Agent for Automated Biomedical Research** | General Biomedical Research (Multi-modal)   | bioRxiv          | [Link](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1) | [Link](https://biomni.stanford.edu/)                        |
-| 2025.01 | **InstructCell: A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following** | single cell RNA                             | arXiv            | [Link](https://arxiv.org/abs/2501.08187)                     | [Link](https://github.com/zjunlp/InstructCell)              |
-| 2024.11 | **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments** | Experimental Design (Genetic Perturbation)  | arXiv            | [Link](https://arxiv.org/abs/2405.17631)                     | [Link](https://github.com/snap-stanford/BioDiscoveryAgent/) |
-| 2024.05 | **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery** | General Scientific Research (Phenomenology) | Sakana AI (Blog) | [Link](https://sakana.ai/ai-scientist/)                      | -                                                           |
+## Relevant Reviews
+
+| Year    | Title                                                 | Domain | Venue | Paper/Source | Code |
+| ------- | ----------------------------------------------------- | ------ | ----- | ------------ | ---- |
+| 2025.06 | **Large Language Models in Bioinformatics: A Survey** |        |       |              |      |
+
 
 ##  Other Awesome Projects
 
