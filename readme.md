@@ -1,7 +1,9 @@
 # Awesome AI Meets Biomedicine  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub Stars](https://img.shields.io/github/stars/mugpeng/DROMA?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
+
 AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for biomedical/bioinformatics/biology research.
-[![GitHub Stars](https://img.shields.io/github/stars/mugpeng/DROMA?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
+
+
 
 ## AI Agents
 
