@@ -28,15 +28,6 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | 2024.04 | **CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments** | Experimental Design (CRISPR Genetic Editing) | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3) | [Link](https://github.com/cong-lab/crispr-gpt-pub)          |
 | 2024.01 | **ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning** | Protein design and discovery                 | arXiv                | [Link](https://arxiv.org/abs/2402.04268)                     | [Link](https://github.com/lamm-mit/ProtAgents)              |
 
-## AI Tools
-
-| Year    | Title                                                        | Domain                                 | Venue          | Paper/Source                                                 | Code/Product                                           |
-| ------- | ------------------------------------------------------------ | -------------------------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| 2025.07 | **GPTBioInsightor**                                          | Single Cell annotation                 |                |                                                              | [Link](https://github.com/huang-sh/GPTBioInsightor)    |
-| 2025.06 | **scExtract: leveraging large language models for fully automated single-cell RNA-seq data annotation and prior-informed multi-dataset integration** | scRNA downstream tasks                 | Genome Biology | [Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x) | [Link](https://github.com/yxwucq/scExtract)            |
-| 2025.04 | **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** | Single Cell annotation                 | bioRxiv        | [Link](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1) | [Link](https://github.com/cafferychen777/mLLMCelltype) |
-| 2025.04 | **SCassist: An AI Based Workflow Assistant for Single-Cell Analysis** | Single Cell tasks(cluster, annotation) | bioRxiv        | [Link](https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1) | [Link](https://github.com/NIH-NEI/SCassist)            |
-
 ## Fundamental LLMs
 
 | Year    | Title                                                        | Domain                                                       | Venue                       | Paper/ Source                                                | Code/Product                                            |
@@ -70,6 +61,15 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | 2023.05 | **Transfer learning enables predictions in network biology** | General scRNA tasks, discovery of key network regulators and candidate therapeutic targets | Nature                      | [Link](https://www.nature.com/articles/s41586-023-06139-9)   | [Link](https://huggingface.co/ctheodoris/Geneformer)    |
 | 2021.07 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language** | DNA                                                          | Bioinformatics              | [Link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | [Link](https://github.com/jerryji1993/DNABERT)          |
 |         |                                                              |                                                              |                             |                                                              |                                                         |
+
+## AI Tools
+
+| Year    | Title                                                        | Domain                                 | Venue          | Paper/Source                                                 | Code/Product                                           |
+| ------- | ------------------------------------------------------------ | -------------------------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+| 2025.07 | **GPTBioInsightor**                                          | Single Cell annotation                 |                |                                                              | [Link](https://github.com/huang-sh/GPTBioInsightor)    |
+| 2025.06 | **scExtract: leveraging large language models for fully automated single-cell RNA-seq data annotation and prior-informed multi-dataset integration** | scRNA downstream tasks                 | Genome Biology | [Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x) | [Link](https://github.com/yxwucq/scExtract)            |
+| 2025.04 | **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** | Single Cell annotation                 | bioRxiv        | [Link](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1) | [Link](https://github.com/cafferychen777/mLLMCelltype) |
+| 2025.04 | **SCassist: An AI Based Workflow Assistant for Single-Cell Analysis** | Single Cell tasks(cluster, annotation) | bioRxiv        | [Link](https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1) | [Link](https://github.com/NIH-NEI/SCassist)            |
 
 ## Reviews
 
