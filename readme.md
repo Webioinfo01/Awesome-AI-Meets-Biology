@@ -1,8 +1,7 @@
-# Awesome AI Meets Biomedicine  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for biomedical/bioinformatics/biology research.
+# Awesome AI Meets Bioinformatics&Biomedicine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/mugpeng/DROMA?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
-
+AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for biomedical/bioinformatics/biology research.
 ## AI Agents
 
 | Year    | Title                                                        | Domain                                      | Venue                | Paper/Source                                                 | Code/Product                                                |
@@ -66,7 +65,7 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | 2021.07 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language** | DNA                                                          | Bioinformatics              | [Link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | [Link](https://github.com/jerryji1993/DNABERT)          |
 |         |                                                              |                                                              |                             |                                                              |                                                         |
 
-## Relevant Reviews
+## Reviews
 
 | Year    | Title                                                 | Domain              | Venue                | Paper/Source                                                 |
 | ------- | ----------------------------------------------------- | ------------------- | -------------------- | ------------------------------------------------------------ |
@@ -87,7 +86,7 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | **Awesome-Bioinformatics**                      | [Link](https://github.com/danielecook/Awesome-Bioinformatics) |
 | **awesome**                                     | [Link](https://github.com/sindresorhus/awesome)              |
 | **Awesome LLM Agents for Scientific Discovery** | [Link](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) |
-| **awesome-cell-cell-communication**             | [Link](https://github.com/multitalk/awesome-cell-cell-communication) |
+
 
 ## Others
 
