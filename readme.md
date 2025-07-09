@@ -1,9 +1,7 @@
 # Awesome AI Meets Bioinformatics&Biomedicine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/mugpeng/DROMA?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
+[![GitHub Stars](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine) [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Bioinformatics_Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine)
 
 AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for biomedical/bioinformatics/biology research.
-
 ## AI Agents
 
 | Year    | Title                                                        | Domain                                      | Venue                | Paper/Source                                                 | Code/Product                                                |
@@ -27,7 +25,6 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | 2024.07 | **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis** | single cell RNA                             | arXiv                | [Link](https://arxiv.org/abs/2407.09811)                     | [Link](http://cell.agent4science.cn/)                       |
 | 2024.05 | **A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights** | Multi-omics/single cell RNA                 | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2) | [Link](https://github.com/lyyang01/Bio-Copilot)             |
 
-
 ## AI Tools
 
 | Year    | Title                                                        | Domain                                 | Venue          | Paper/Source                                                 | Code/Product                                |
@@ -39,12 +36,14 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 
 | Year    | Title                                                        | Domain                                                       | Venue                       | Paper/ Source                                                | Code/Product                                            |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| 2025.07 | **Spatia: Multimodal Model for Prediction and Generation of Spatial Cell Phenotypes** | spatial single cell RNA                                      | ArXiv                       | [Link](https://arxiv.org/html/2507.04704v1#S4)               |                                                         |
 | 2025.07 | **RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks** | RNA                                                          | Nature Communication        | [Link](https://www.nature.com/articles/s41467-025-60872-5)   | [Link](https://github.com/lbcb-sci/RiNALMo)             |
 | 2025.06 | **Predicting cellular responses to perturbation across diverse contexts with State** | genetic, signaling, and chemical perturbation scRNA          | bioRxiv                     | [Link](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1) | [Link](https://github.com/ArcInstitute/state)           |
 | 2025.06 | **AlphaGenome: Advancing regulatory variant effect prediction with a unified DNA sequence model** | DNA/RNA                                                      | bioRxiv                     | [Link](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1) | [Link](https://github.com/google-deepmind/alphagenome)  |
 | 2025.06 | **SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model** | DNA                                                          | ICML 2025                   | [Link](https://arxiv.org/abs/2506.01833)                     | [Link](https://github.com/YangLab/CSI)                  |
 | 2025.06 | **UniCure: A Foundation Model for Predicting Personalized Cancer Therapy Response** | drug perturbation scRNA                                      | bioRxiv                     | [Link](https://www.biorxiv.org/content/10.1101/2025.06.14.658531v1) | [Link](https://github.com/ZexiChen502/UniCure)          |
 | 2025.06 | **A multimodal conversational agent for DNA, RNA and protein tasks** | Diverse Omics include DNA/RNA/Protein                        | Nature Machine Intelligence | [Link](https://www.nature.com/articles/s42256-025-01047-1)   | [Link](https://huggingface.co/InstaDeepAI/ChatNT)       |
+| 2025.05 | **A visual–omics foundation model to bridge histopathology with spatial transcriptomics** | histopathology and spatial single cell RNA                   | Nature Methods              | [Link](https://www.nature.com/articles/s41592-025-02707-1)   | [Link](https://github.com/GuangyuWangLab2021/Loki)      |
 | 2025.05 | **GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance** | Biosafety for DNA                                            | arXiv                       | [Link](https://arxiv.org/abs/2505.23839)                     | [Link](https://github.com/zaixizhang/GeneBreaker)       |
 | 2025.05 | **BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model** | DNA                                                          | arXiv                       | [Link](https://arxiv.org/abs/2505.23579)                     | [Link](https://github.com/bowang-lab/BioReason)         |
 | 2025.05 | **CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells** | single cell RNA                                              | Nature Communications       | [Link](https://www.nature.com/articles/s41467-025-59926-5)   | [Link](https://github.com/biomed-AI/CellFM)             |
@@ -84,12 +83,11 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | **Awesome-LLMs-meet-genomes**                   | [Link](https://github.com/ychuest/Awesome-LLMs-meet-genomes) |
 | **Awesome-Virtual-Cell**                        | [Link](https://github.com/Boom5426/Awesome-Virtual-Cell)     |
 | **Awesome-LLM-Scientific-Discovery**            | [Link](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) |
+| **Awesome LLM Agents for Scientific Discovery** | [Link](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) |
+| **Awesome Papers on Agents for Science**        | [Link](https://github.com/OSU-NLP-Group/awesome-agents4science) |
 | **awesome-single-cell**                         | [Link](https://github.com/seandavi/awesome-single-cell)      |
 | **Awesome-Bioinformatics**                      | [Link](https://github.com/danielecook/Awesome-Bioinformatics) |
 | **awesome**                                     | [Link](https://github.com/sindresorhus/awesome)              |
-| **Awesome LLM Agents for Scientific Discovery** | [Link](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) |
-
-
 
 ## Others
 
