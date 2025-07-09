@@ -1,9 +1,7 @@
 # Awesome AI Meets Biomedicine  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/mugpeng/DROMA?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
-
 AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for biomedical/bioinformatics/biology research.
-
-
+[![GitHub Stars](https://img.shields.io/github/stars/mugpeng/DROMA?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine)
 
 ## AI Agents
 
@@ -11,6 +9,7 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | ------- | ------------------------------------------------------------ | ------------------------------------------- | -------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | 2025.06 | **NVIDIA Biomedical AI-Q Research Agent Developer Blueprint** | Drug Discovery (Target Identification)      | Nvidia's blog        | [Link](https://build.nvidia.com/nvidia/biomedical-aiq-research-agent) | [Link](https://github.com/NVIDIA/bionemo-framework)         |
 | 2025.06 | **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery** | single cell RNA                             | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1) | [Link](https://gentel-lab.github.io/OriGene-Homepage/)      |
+| 2025.06 | **Agent Laboratory: Using LLM Agents as Research Assistants** | General Scientific Research (Phenomenology) | arXiv                | [Link](https://arxiv.org/abs/2501.04227)                     | [Link](https://agentlaboratory.github.io/)                  |
 | 2025.06 | **CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data** | single cell RNA                             | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1) | [Link](https://github.com/zou-group/CellVoyager)            |
 | 2025.05 | **BioOmni: A General-Purpose AI Agent for Automated Biomedical Research** | General Biomedical Research (Multi-modal)   | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1) | [Link](https://biomni.stanford.edu/)                        |
 | 2025.04 | **SpatialAgent: An autonomous AI agent for spatial biology** | Spatial scRNA                               | bioRxiv              | [Link](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1) | [Link](https://github.com/Genentech/SpatialAgent)           |
@@ -18,6 +17,7 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 | 2025.03 | **DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis** | proteomics                                  | Nature Communication | [Link](https://www.nature.com/articles/s41467-025-57430-4)   | [Link](https://drbioright.org/)                             |
 | 2025.03 | **DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration** | Drug Discovery                              | arXiv                | [Link](https://arxiv.org/abs/2411.15692)                     | [Link](https://anonymous.4open.science/r/drugagent-5C42/)   |
 | 2025.02 | **LIDDIA: Language-based Intelligent Drug Discovery Agent**  | Drug Discovery                              | arXiv                | [Link](https://arxiv.org/abs/2502.13959)                     |                                                             |
+| 2025.02 | **Towards an AI co-scientist**                               | General Scientific Research (Phenomenology) | arXiv                | [Link](https://arxiv.org/pdf/2502.18864v1)                   |                                                             |
 | 2025.01 | **InstructCell: A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following** | single cell RNA                             | arXiv                | [Link](https://arxiv.org/abs/2501.08187)                     | [Link](https://github.com/zjunlp/InstructCell)              |
 | 2025.01 | **BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems** | Multi-omics Pipelines                       | arXiv                | [Link](https://arxiv.org/abs/2501.06314)                     |                                                             |
 | 2024.11 | **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments** | Experimental Design (Genetic Perturbation)  | arXiv                | [Link](https://arxiv.org/abs/2405.17631)                     | [Link](https://github.com/snap-stanford/BioDiscoveryAgent/) |
@@ -68,10 +68,12 @@ AI separated into "Fundamental LLMs(Large language models)" and "AI Agents" for 
 
 ## Relevant Reviews
 
-| Year    | Title                                                 | Domain         | Venue | Paper/Source                             |
-| ------- | ----------------------------------------------------- | -------------- | ----- | ---------------------------------------- |
-| 2025.05 | **Large Language Models in Bioinformatics: A Survey** | Bioinformatics | arXiv | [Link](https://arxiv.org/abs/2503.04490) |
-|         |                                                       |                |       |                                          |
+| Year    | Title                                                 | Domain              | Venue                | Paper/Source                                                 |
+| ------- | ----------------------------------------------------- | ------------------- | -------------------- | ------------------------------------------------------------ |
+| 2025.05 | **Large Language Models in Bioinformatics: A Survey** | Bioinformatics LLMs | arXiv                | [Link](https://arxiv.org/abs/2503.04490)                     |
+| 2024.10 | **Empowering biomedical discovery with AI agents**    | Biomedical Agents   | Cell                 | [Link](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5) |
+| 2024.07 | **Foundation models for bioinformatics**              | Bioinformatics LLMs | Quantitative Biology | [Link](https://onlinelibrary.wiley.com/doi/10.1002/qub2.69)  |
+|         |                                                       |                     |                      |                                                              |
 
 
 ##  Other Awesome Projects
