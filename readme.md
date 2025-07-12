@@ -4,8 +4,8 @@
 AI separated into "Foundation models" and "AI Agents" for biomedical/bioinformatics/biology research.
 
 ## 📋 Table of Contents
-- [🌟 AI Agents](#-AI-Agents)
-- [🎯 Foundation models](#-Foundation-models)
+- [🌟 AI Agents](#AI-Agents)
+- [🎯 Foundation models](#Foundation-models)
 
 ## AI Agents
 
