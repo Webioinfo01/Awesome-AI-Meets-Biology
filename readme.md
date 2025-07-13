@@ -1,5 +1,6 @@
 # Awesome AI Meets Biology[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine) [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Bioinformatics_Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine)
+
 AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bioinformatics research.
 
 ## 📋 Table of Contents
