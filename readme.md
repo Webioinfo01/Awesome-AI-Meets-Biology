@@ -137,7 +137,7 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 | ----------------------------------------------- | ------------------------------------------------------------ |
 | **Awesome-LLMs-meet-genomes**                   | [Link](https://github.com/ychuest/Awesome-LLMs-meet-genomes) |
 | **Awesome-Virtual-Cell**                        | [Link](https://github.com/Boom5426/Awesome-Virtual-Cell)     |
-| **Awesome-Phenotypic-Drug-Discovery**           | [Link](lhttps://github.com/Boom5426/Awesome-Phenotypic-Drug-Discovery) |
+| **Awesome-Phenotypic-Drug-Discovery**           | [Link](https://github.com/Boom5426/Awesome-Phenotypic-Drug-Discovery) |
 | **Awesome-LLM-Scientific-Discovery**            | [Link](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) |
 | **Awesome LLM Agents for Scientific Discovery** | [Link](https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery) |
 | **Awesome Papers on Agents for Science**        | [Link](https://github.com/OSU-NLP-Group/awesome-agents4science) |
