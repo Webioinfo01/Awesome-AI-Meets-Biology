@@ -4,6 +4,7 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Bioinformatics_Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine)
 
 **Visit the official website at: https://webioinfo01.github.io/Awesome-AI-Meets-Biology/**
+
 AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bioinformatics research.
 
 ## 📋 Table of Contents
