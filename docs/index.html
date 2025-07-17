@@ -456,7 +456,7 @@
         <div class="container">
             <div class="stats-grid">
                 <div class="stat-item">
-                    <div class="stat-number" id="total-count">94</div>
+                    <div class="stat-number" id="total-count">95</div>
                     <div class="stat-label">Total Projects</div>
                 </div>
                 <div class="stat-item">
@@ -464,7 +464,7 @@
                     <div class="stat-label">AI Agents</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">45</div>
+                    <div class="stat-number">46</div>
                     <div class="stat-label">Foundation Models</div>
                 </div>
                 <div class="stat-item">
@@ -515,13 +515,13 @@
     <nav class="nav-tabs">
         <div class="container">
             <a href="#all-projects" class="nav-tab active" data-section="all-projects">
-                <i class="fas fa-list"></i> All Projects (94)
+                <i class="fas fa-list"></i> All Projects (95)
             </a>
             <a href="#ai-agents" class="nav-tab" data-section="ai-agents">
                 <i class="fas fa-robot"></i> AI Agents (23)
             </a>
             <a href="#foundation-models" class="nav-tab" data-section="foundation-models">
-                <i class="fas fa-brain"></i> Foundation Models (45)
+                <i class="fas fa-brain"></i> Foundation Models (46)
             </a>
             <a href="#ai-tools" class="nav-tab" data-section="ai-tools">
                 <i class="fas fa-tools"></i> AI Tools (5)
@@ -551,7 +551,7 @@
                     <div class="section-header">
                         <i class="fas fa-list"></i>
                         <h2 class="section-title">All Projects</h2>
-                        <span class="section-count">94 projects</span>
+                        <span class="section-count">95 projects</span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -604,7 +604,7 @@
                     <div class="section-header">
                         <i class="fas fa-brain"></i>
                         <h2 class="section-title">Foundation Models</h2>
-                        <span class="section-count">45 projects</span>
+                        <span class="section-count">46 projects</span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -1032,6 +1032,16 @@
                                                 "venue": "noetik's report",
                                                 "paperUrl": "https://www.noetik.ai/octo",
                                                 "codeUrl": "",
+                                                "githubStars": ""
+                                },
+                                {
+                                                "year": "2025.06",
+                                                "title": "Generalized biological foundation model with unified nucleic acid and protein language",
+                                                "team": "Alibaba(Zhaorong Li)",
+                                                "domain": "DNA/RNA/Protein",
+                                                "venue": "Nature Machine Intelligence",
+                                                "paperUrl": "https://www.nature.com/articles/s42256-025-01044-4",
+                                                "codeUrl": "https://github.com/LucaOne/LucaOne",
                                                 "githubStars": ""
                                 },
                                 {
@@ -1864,7 +1874,7 @@
                 data: {
                     labels: ["AI Agents", "Foundation models", "AI Tools", "Databases/Simulation", "Benchmarks", "Reviews"],
                     datasets: [{
-                        data: [23, 45, 5, 9, 4, 8],
+                        data: [23, 46, 5, 9, 4, 8],
                         backgroundColor: [
                             '#667eea',
                             '#764ba2',
@@ -1894,7 +1904,7 @@
                     labels: ["2021", "2023", "2024", "2025"],
                     datasets: [{
                         label: 'Projects',
-                        data: [23, 45, 5, 9, 4, 8],
+                        data: [23, 46, 5, 9, 4, 8],
                         backgroundColor: '#667eea',
                         borderRadius: 5
                     }]
@@ -2274,6 +2284,16 @@
                                                 "venue": "noetik's report",
                                                 "paperUrl": "https://www.noetik.ai/octo",
                                                 "codeUrl": "",
+                                                "githubStars": ""
+                                },
+                                {
+                                                "year": "2025.06",
+                                                "title": "Generalized biological foundation model with unified nucleic acid and protein language",
+                                                "team": "Alibaba(Zhaorong Li)",
+                                                "domain": "DNA/RNA/Protein",
+                                                "venue": "Nature Machine Intelligence",
+                                                "paperUrl": "https://www.nature.com/articles/s42256-025-01044-4",
+                                                "codeUrl": "https://github.com/LucaOne/LucaOne",
                                                 "githubStars": ""
                                 },
                                 {
@@ -3106,7 +3126,7 @@
                 data: {
                     labels: ["AI Agents", "Foundation models", "AI Tools", "Databases/Simulation", "Benchmarks", "Reviews"],
                     datasets: [{
-                        data: [23, 45, 5, 9, 4, 8],
+                        data: [23, 46, 5, 9, 4, 8],
                         backgroundColor: [
                             '#667eea',
                             '#764ba2',
@@ -3136,7 +3156,7 @@
                     labels: ["2021", "2023", "2024", "2025"],
                     datasets: [{
                         label: 'Projects',
-                        data: [1, 4, 33, 56],
+                        data: [1, 4, 33, 57],
                         backgroundColor: '#667eea',
                         borderRadius: 5
                     }]
@@ -3166,7 +3186,7 @@
             });
             
             // Update nav tabs and section headers after charts are created
-            const stats = {"ai-agents": 23, "foundation-models": 45, "ai-tools": 5, "databases": 9, "benchmarks": 4, "reviews": 8, "all-projects": 94};
+            const stats = {"ai-agents": 23, "foundation-models": 46, "ai-tools": 5, "databases": 9, "benchmarks": 4, "reviews": 8, "all-projects": 95};
             Object.entries(stats).forEach(([key, count]) => {
                 // Update nav tabs
                 const navTab = document.querySelector(`.nav-tab[data-section='${key}']`);
