@@ -10,7 +10,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1",
             "codeUrl": "https://www.promptbio.ai/download.html",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -22,7 +23,8 @@
             "venue": "Nvidia's blog",
             "paperUrl": "https://build.nvidia.com/nvidia/biomedical-aiq-research-agent",
             "codeUrl": "https://github.com/NVIDIA/bionemo-framework",
-            "githubStars": "https://img.shields.io/github/stars/NVIDIA/bionemo-framework"
+            "githubStars": "https://img.shields.io/github/stars/NVIDIA/bionemo-framework",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -34,7 +36,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1",
             "codeUrl": "https://gentel-lab.github.io/OriGene-Homepage/",
-            "githubStars": "https://img.shields.io/github/stars/GENTEL-lab/OriGene"
+            "githubStars": "https://img.shields.io/github/stars/GENTEL-lab/OriGene",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -46,7 +49,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2501.04227",
             "codeUrl": "https://agentlaboratory.github.io/",
-            "githubStars": "https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory"
+            "githubStars": "https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -58,7 +62,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1",
             "codeUrl": "https://github.com/zou-group/CellVoyager",
-            "githubStars": "https://img.shields.io/github/stars/zou-group/CellVoyager"
+            "githubStars": "https://img.shields.io/github/stars/zou-group/CellVoyager",
+            "doi": null
         },
         {
             "year": "2025.05",
@@ -70,7 +75,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://arxiv.org/abs/2505.20286",
             "codeUrl": "https://github.com/CharlesQ9/Alita",
-            "githubStars": "https://img.shields.io/github/stars/CharlesQ9/Alita"
+            "githubStars": "https://img.shields.io/github/stars/CharlesQ9/Alita",
+            "doi": null
         },
         {
             "year": "2025.05",
@@ -82,7 +88,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1",
             "codeUrl": "https://biomni.stanford.edu/",
-            "githubStars": "https://img.shields.io/github/stars/snap-stanford/biomni"
+            "githubStars": "https://img.shields.io/github/stars/snap-stanford/biomni",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -94,7 +101,8 @@
             "venue": "ICLR 2025",
             "paperUrl": "https://arxiv.org/abs/2504.08066",
             "codeUrl": "https://github.com/SakanaAI/AI-Scientist-v2",
-            "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2"
+            "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -106,7 +114,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1",
             "codeUrl": "https://github.com/Genentech/SpatialAgent",
-            "githubStars": "https://img.shields.io/github/stars/Genentech/SpatialAgent"
+            "githubStars": "https://img.shields.io/github/stars/Genentech/SpatialAgent",
+            "doi": null
         },
         {
             "year": "2025.03",
@@ -118,7 +127,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2503.10970",
             "codeUrl": "https://github.com/mims-harvard/TxAgent",
-            "githubStars": "https://img.shields.io/github/stars/mims-harvard/TxAgent"
+            "githubStars": "https://img.shields.io/github/stars/mims-harvard/TxAgent",
+            "doi": null
         },
         {
             "year": "2025.03",
@@ -130,7 +140,8 @@
             "venue": "Nature Communication",
             "paperUrl": "https://www.nature.com/articles/s41467-025-57430-4",
             "codeUrl": "https://drbioright.org/",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.03",
@@ -142,7 +153,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2411.15692",
             "codeUrl": "https://anonymous.4open.science/r/drugagent-5C42/",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -154,7 +166,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2502.13959",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -166,7 +179,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/pdf/2502.18864v1",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -178,7 +192,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1",
             "codeUrl": "https://github.com/ai4nucleome/BioMaster",
-            "githubStars": "https://img.shields.io/github/stars/ai4nucleome/BioMaster"
+            "githubStars": "https://img.shields.io/github/stars/ai4nucleome/BioMaster",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -190,7 +205,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2501.08187",
             "codeUrl": "https://github.com/zjunlp/InstructCell",
-            "githubStars": "https://img.shields.io/github/stars/zjunlp/InstructCell"
+            "githubStars": "https://img.shields.io/github/stars/zjunlp/InstructCell",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -202,7 +218,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2501.06314",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.11",
@@ -214,7 +231,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2405.17631",
             "codeUrl": "https://github.com/snap-stanford/BioDiscoveryAgent/",
-            "githubStars": "https://img.shields.io/github/stars/snap-stanford/BioDiscoveryAgent"
+            "githubStars": "https://img.shields.io/github/stars/snap-stanford/BioDiscoveryAgent",
+            "doi": null
         },
         {
             "year": "2024.11",
@@ -226,7 +244,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1",
             "codeUrl": "https://github.com/zou-group/virtual-lab",
-            "githubStars": "https://img.shields.io/github/stars/zou-group/virtual-lab"
+            "githubStars": "https://img.shields.io/github/stars/zou-group/virtual-lab",
+            "doi": null
         },
         {
             "year": "2024.10",
@@ -238,7 +257,8 @@
             "venue": "Advanced Science",
             "paperUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202407094",
             "codeUrl": "https://github.com/JoshuaChou2018/AutoBA",
-            "githubStars": "https://img.shields.io/github/stars/JoshuaChou2018/AutoBA"
+            "githubStars": "https://img.shields.io/github/stars/JoshuaChou2018/AutoBA",
+            "doi": null
         },
         {
             "year": "2024.09",
@@ -250,7 +270,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2408.06292",
             "codeUrl": "https://github.com/SakanaAI/AI-Scientist",
-            "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist"
+            "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist",
+            "doi": null
         },
         {
             "year": "2024.07",
@@ -262,7 +283,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2407.09811",
             "codeUrl": "http://cell.agent4science.cn/",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.05",
@@ -274,7 +296,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2",
             "codeUrl": "https://github.com/lyyang01/Bio-Copilot",
-            "githubStars": "https://img.shields.io/github/stars/lyyang01/Bio-Copilot"
+            "githubStars": "https://img.shields.io/github/stars/lyyang01/Bio-Copilot",
+            "doi": null
         },
         {
             "year": "2024.04",
@@ -286,7 +309,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3",
             "codeUrl": "https://github.com/cong-lab/crispr-gpt-pub",
-            "githubStars": "https://img.shields.io/github/stars/cong-lab/crispr-gpt-pub"
+            "githubStars": "https://img.shields.io/github/stars/cong-lab/crispr-gpt-pub",
+            "doi": null
         },
         {
             "year": "2024.01",
@@ -298,7 +322,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2402.04268",
             "codeUrl": "https://github.com/lamm-mit/ProtAgents",
-            "githubStars": "https://img.shields.io/github/stars/lamm-mit/ProtAgents"
+            "githubStars": "https://img.shields.io/github/stars/lamm-mit/ProtAgents",
+            "doi": null
         }
     ],
     "foundation-models": [
@@ -312,19 +337,21 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2",
             "codeUrl": "https://github.com/microsoft/bioemu",
-            "githubStars": "https://img.shields.io/github/stars/xujing363/ODFormer"
+            "githubStars": "https://img.shields.io/github/stars/xujing363/ODFormer",
+            "doi": null
         },
         {
             "year": "2025.07",
             "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
-            "team": "Microsoft Research(Frank No\u00e9)",
+            "team": "Microsoft Research(Frank Noé)",
             "team website": "https://github.com/microsoft",
             "affiliation": "",
             "domain": "Protein",
             "venue": "Science",
             "paperUrl": "https://www.science.org/doi/10.1126/science.adv9817",
             "codeUrl": "https://github.com/microsoft/bioemu",
-            "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu"
+            "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
+            "doi": null
         },
         {
             "year": "2025.07",
@@ -336,7 +363,8 @@
             "venue": "ArXiv",
             "paperUrl": "https://arxiv.org/html/2507.04704v1#S4",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.07",
@@ -348,7 +376,8 @@
             "venue": "Nature Communication",
             "paperUrl": "https://www.nature.com/articles/s41467-025-60872-5",
             "codeUrl": "https://github.com/lbcb-sci/RiNALMo",
-            "githubStars": "https://img.shields.io/github/stars/lbcb-sci/RiNALMo"
+            "githubStars": "https://img.shields.io/github/stars/lbcb-sci/RiNALMo",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -360,7 +389,8 @@
             "venue": "noetik's report",
             "paperUrl": "https://www.noetik.ai/octo",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -372,7 +402,8 @@
             "venue": "Nature Machine Intelligence",
             "paperUrl": "https://www.nature.com/articles/s42256-025-01044-4",
             "codeUrl": "https://github.com/LucaOne/LucaOne",
-            "githubStars": "https://img.shields.io/github/stars/LucaOne/LucaOne"
+            "githubStars": "https://img.shields.io/github/stars/LucaOne/LucaOne",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -384,7 +415,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
             "codeUrl": "https://github.com/ArcInstitute/state",
-            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/state"
+            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/state",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -396,7 +428,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1",
             "codeUrl": "https://github.com/google-deepmind/alphagenome",
-            "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphagenome"
+            "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphagenome",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -408,7 +441,8 @@
             "venue": "ICML 2025",
             "paperUrl": "https://arxiv.org/abs/2506.01833",
             "codeUrl": "https://github.com/YangLab/CSI",
-            "githubStars": "https://img.shields.io/github/stars/YangLab/CSI"
+            "githubStars": "https://img.shields.io/github/stars/YangLab/CSI",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -420,7 +454,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.14.658531v1",
             "codeUrl": "https://github.com/ZexiChen502/UniCure",
-            "githubStars": "https://img.shields.io/github/stars/ZexiChen502/UniCure"
+            "githubStars": "https://img.shields.io/github/stars/ZexiChen502/UniCure",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -432,11 +467,12 @@
             "venue": "Nature Machine Intelligence",
             "paperUrl": "https://www.nature.com/articles/s42256-025-01047-1",
             "codeUrl": "https://huggingface.co/InstaDeepAI/ChatNT",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.05",
-            "title": "A visual\u2013omics foundation model to bridge histopathology with spatial transcriptomics",
+            "title": "A visual–omics foundation model to bridge histopathology with spatial transcriptomics",
             "team": "Guangyu Wang",
             "team website": "https://guangyuwanglab.github.io/web/",
             "affiliation": "",
@@ -444,7 +480,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-025-02707-1",
             "codeUrl": "https://github.com/GuangyuWangLab2021/Loki",
-            "githubStars": "https://img.shields.io/github/stars/GuangyuWangLab2021/Loki"
+            "githubStars": "https://img.shields.io/github/stars/GuangyuWangLab2021/Loki",
+            "doi": null
         },
         {
             "year": "2025.05",
@@ -456,7 +493,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2505.23839",
             "codeUrl": "https://github.com/zaixizhang/GeneBreaker",
-            "githubStars": "https://img.shields.io/github/stars/zaixizhang/GeneBreaker"
+            "githubStars": "https://img.shields.io/github/stars/zaixizhang/GeneBreaker",
+            "doi": null
         },
         {
             "year": "2025.05",
@@ -468,7 +506,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2505.23579",
             "codeUrl": "https://github.com/bowang-lab/BioReason",
-            "githubStars": "https://img.shields.io/github/stars/bowang-lab/BioReason"
+            "githubStars": "https://img.shields.io/github/stars/bowang-lab/BioReason",
+            "doi": null
         },
         {
             "year": "2025.05",
@@ -480,7 +519,8 @@
             "venue": "Nature Communications",
             "paperUrl": "https://www.nature.com/articles/s41467-025-59926-5",
             "codeUrl": "https://github.com/biomed-AI/CellFM",
-            "githubStars": "https://img.shields.io/github/stars/biomed-AI/CellFM"
+            "githubStars": "https://img.shields.io/github/stars/biomed-AI/CellFM",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -492,7 +532,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1",
             "codeUrl": "https://github.com/vandijklab/cell2sentence",
-            "githubStars": "https://img.shields.io/github/stars/vandijklab/cell2sentence"
+            "githubStars": "https://img.shields.io/github/stars/vandijklab/cell2sentence",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -504,7 +545,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1",
             "codeUrl": "https://github.com/theislab/CellFlow",
-            "githubStars": "https://img.shields.io/github/stars/theislab/CellFlow"
+            "githubStars": "https://img.shields.io/github/stars/theislab/CellFlow",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -516,7 +558,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1",
             "codeUrl": "https://github.com/arcinstitute/evo2",
-            "githubStars": "https://img.shields.io/github/stars/arcinstitute/evo2"
+            "githubStars": "https://img.shields.io/github/stars/arcinstitute/evo2",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -528,7 +571,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2502.07272",
             "codeUrl": "https://github.com/GenerTeam/GENERator",
-            "githubStars": "https://img.shields.io/github/stars/GenerTeam/GENERator"
+            "githubStars": "https://img.shields.io/github/stars/GenerTeam/GENERator",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -540,7 +584,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1",
             "codeUrl": "https://github.com/bowang-lab/scGPT-spatial",
-            "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT-spatial"
+            "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT-spatial",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -552,7 +597,8 @@
             "venue": "Nature",
             "paperUrl": "https://www.nature.com/articles/s41586-024-08391-z",
             "codeUrl": "https://github.com/GET-Foundation",
-            "githubStars": "https://img.shields.io/github/stars/GET-Foundation/get_model"
+            "githubStars": "https://img.shields.io/github/stars/GET-Foundation/get_model",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -564,7 +610,8 @@
             "venue": "Nucleic Acids Research",
             "paperUrl": "https://academic.oup.com/nar/article/53/2/gkae1310/7954523",
             "codeUrl": "https://github.com/AIRI-Institute/GENA_LM",
-            "githubStars": "https://img.shields.io/github/stars/AIRI-Institute/GENA_LM"
+            "githubStars": "https://img.shields.io/github/stars/AIRI-Institute/GENA_LM",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -576,7 +623,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2410.03634",
             "codeUrl": "https://github.com/Profluent-Internships/ProCALM",
-            "githubStars": "https://img.shields.io/github/stars/Profluent-Internships/ProCALM"
+            "githubStars": "https://img.shields.io/github/stars/Profluent-Internships/ProCALM",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -588,7 +636,8 @@
             "venue": "Science",
             "paperUrl": "https://www.science.org/doi/10.1126/science.ads0018",
             "codeUrl": "https://github.com/evolutionaryscale/esm",
-            "githubStars": "https://img.shields.io/github/stars/evolutionaryscale/esm"
+            "githubStars": "https://img.shields.io/github/stars/evolutionaryscale/esm",
+            "doi": null
         },
         {
             "year": "2025.01",
@@ -600,7 +649,8 @@
             "venue": "Nature Communications",
             "paperUrl": "https://www.nature.com/articles/s41467-024-55707-8",
             "codeUrl": "https://github.com/theislab/IMPA",
-            "githubStars": "https://img.shields.io/github/stars/theislab/IMPA"
+            "githubStars": "https://img.shields.io/github/stars/theislab/IMPA",
+            "doi": null
         },
         {
             "year": "2024.11",
@@ -612,7 +662,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-024-02523-z",
             "codeUrl": "https://github.com/instadeepai/nucleotide-transformer",
-            "githubStars": "https://img.shields.io/github/stars/instadeepai/nucleotide-transformer"
+            "githubStars": "https://img.shields.io/github/stars/instadeepai/nucleotide-transformer",
+            "doi": null
         },
         {
             "year": "2024.10",
@@ -624,7 +675,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1",
             "codeUrl": "https://github.com/bowang-lab/Orthrus",
-            "githubStars": "https://img.shields.io/github/stars/bowang-lab/Orthrus"
+            "githubStars": "https://img.shields.io/github/stars/bowang-lab/Orthrus",
+            "doi": null
         },
         {
             "year": "2024.09",
@@ -636,7 +688,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.09.27.615337v6",
             "codeUrl": "https://github.com/csh3/stFormer",
-            "githubStars": "https://img.shields.io/github/stars/csh3/stFormer"
+            "githubStars": "https://img.shields.io/github/stars/csh3/stFormer",
+            "doi": null
         },
         {
             "year": "2024.08",
@@ -648,7 +701,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2408.01107",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.07",
@@ -660,7 +714,8 @@
             "venue": "Nature Machine Intelligence",
             "paperUrl": "https://www.nature.com/articles/s42256-024-00872-0",
             "codeUrl": "https://zenodo.org/records/13374192",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.06",
@@ -672,7 +727,8 @@
             "venue": "Nature Communication",
             "paperUrl": "https://www.nature.com/articles/s41592-024-02305-7",
             "codeUrl": "https://github.com/biomap-research/scFoundation",
-            "githubStars": "https://img.shields.io/github/stars/biomap-research/scFoundation"
+            "githubStars": "https://img.shields.io/github/stars/biomap-research/scFoundation",
+            "doi": null
         },
         {
             "year": "2024.06",
@@ -684,7 +740,8 @@
             "venue": "ISMB 24",
             "paperUrl": "https://arxiv.org/abs/2401.15269",
             "codeUrl": "https://github.com/dmis-lab/self-biorag",
-            "githubStars": "https://img.shields.io/github/stars/dmis-lab/self-biorag"
+            "githubStars": "https://img.shields.io/github/stars/dmis-lab/self-biorag",
+            "doi": null
         },
         {
             "year": "2024.06",
@@ -696,7 +753,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2406.14150",
             "codeUrl": "https://huggingface.co/InstaDeepAI/isoformer",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.05",
@@ -708,7 +766,8 @@
             "venue": "Nature",
             "paperUrl": "https://www.nature.com/articles/s41586-024-07487-w",
             "codeUrl": "https://github.com/google-deepmind/alphafold3",
-            "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphafold3"
+            "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphafold3",
+            "doi": null
         },
         {
             "year": "2024.04",
@@ -720,7 +779,8 @@
             "venue": "CVPR 2024 Highlight",
             "paperUrl": "https://arxiv.org/abs/2404.10242",
             "codeUrl": "https://www.rxrx.ai/phenom",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.03",
@@ -732,7 +792,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2403.03234",
             "codeUrl": "https://caduceus-dna.github.io/",
-            "githubStars": "https://img.shields.io/github/stars/kuleshov-group/caduceus"
+            "githubStars": "https://img.shields.io/github/stars/kuleshov-group/caduceus",
+            "doi": null
         },
         {
             "year": "2024.03",
@@ -744,7 +805,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1",
             "codeUrl": "https://github.com/theislab/nicheformer",
-            "githubStars": "https://img.shields.io/github/stars/theislab/nicheformer"
+            "githubStars": "https://img.shields.io/github/stars/theislab/nicheformer",
+            "doi": null
         },
         {
             "year": "2024.02",
@@ -756,7 +818,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-024-02201-0",
             "codeUrl": "https://github.com/bowang-lab/scGPT",
-            "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT"
+            "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT",
+            "doi": null
         },
         {
             "year": "2024.01",
@@ -768,7 +831,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.01",
@@ -780,7 +844,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2401.06199",
             "codeUrl": "https://github.com/biomap-research/xTrimoPGLM",
-            "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM"
+            "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM",
+            "doi": null
         },
         {
             "year": "2024.01",
@@ -792,7 +857,8 @@
             "venue": "EMNLP 2024",
             "paperUrl": "https://openreview.net/forum?id=g1NplcWH7X",
             "codeUrl": "https://github.com/HelloWorldLTY/Geneverse",
-            "githubStars": "https://img.shields.io/github/stars/HelloWorldLTY/Geneverse"
+            "githubStars": "https://img.shields.io/github/stars/HelloWorldLTY/Geneverse",
+            "doi": null
         },
         {
             "year": "2023.11",
@@ -804,7 +870,8 @@
             "venue": "NeurIPS 2023",
             "paperUrl": "https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf",
             "codeUrl": "https://github.com/HazyResearch/hyena-dna",
-            "githubStars": "https://img.shields.io/github/stars/HazyResearch/hyena-dna"
+            "githubStars": "https://img.shields.io/github/stars/HazyResearch/hyena-dna",
+            "doi": null
         },
         {
             "year": "2023.10",
@@ -816,7 +883,8 @@
             "venue": "Cell Systems",
             "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/37909046/",
             "codeUrl": "https://github.com/salesforce/progen",
-            "githubStars": "https://img.shields.io/github/stars/salesforce/progen"
+            "githubStars": "https://img.shields.io/github/stars/salesforce/progen",
+            "doi": null
         },
         {
             "year": "2023.06",
@@ -828,7 +896,8 @@
             "venue": "ICLR 2024",
             "paperUrl": "https://arxiv.org/abs/2306.15006",
             "codeUrl": "https://github.com/MAGICS-LAB/DNABERT_2",
-            "githubStars": "https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2"
+            "githubStars": "https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2",
+            "doi": null
         },
         {
             "year": "2023.05",
@@ -840,7 +909,8 @@
             "venue": "Nature",
             "paperUrl": "https://www.nature.com/articles/s41586-023-06139-9",
             "codeUrl": "https://huggingface.co/ctheodoris/Geneformer",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2021.07",
@@ -852,7 +922,34 @@
             "venue": "Bioinformatics",
             "paperUrl": "https://academic.oup.com/bioinformatics/article/37/15/2112/6128680",
             "codeUrl": "https://github.com/jerryji1993/DNABERT",
-            "githubStars": "https://img.shields.io/github/stars/jerryji1993/DNABERT"
+            "githubStars": "https://img.shields.io/github/stars/jerryji1993/DNABERT",
+            "doi": null
+        },
+        {
+            "year": "",
+            "title": "When AI sees hotter: Overestimation bias in large language model climate assessments.",
+            "team": "Ruilin Zheng",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Climate Science",
+            "venue": "Public Understanding of Science",
+            "paperUrl": "https://www.semanticscholar.org/paper/b016d24707d23443fd3f2916dc33808f1b2963a0",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1177/09636625251351575"
+        },
+        {
+            "year": "",
+            "title": "Vision-language model for report generation and outcome prediction in CT pulmonary angiogram",
+            "team": "Harrison X. Bai",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Medical Imaging",
+            "venue": "npj Digital Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/8452c2f5cee9adc02b715fada8284367fdab100b",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1038/s41746-025-01807-8"
         }
     ],
     "ai-tools": [
@@ -866,7 +963,8 @@
             "venue": "",
             "paperUrl": "",
             "codeUrl": "https://github.com/huang-sh/GPTBioInsightor",
-            "githubStars": "https://img.shields.io/github/stars/huang-sh/GPTBioInsightor"
+            "githubStars": "https://img.shields.io/github/stars/huang-sh/GPTBioInsightor",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -878,7 +976,8 @@
             "venue": "Genome Biology",
             "paperUrl": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x",
             "codeUrl": "https://github.com/yxwucq/scExtract",
-            "githubStars": "https://img.shields.io/github/stars/yxwucq/scExtract"
+            "githubStars": "https://img.shields.io/github/stars/yxwucq/scExtract",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -890,7 +989,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1",
             "codeUrl": "https://github.com/cafferychen777/mLLMCelltype",
-            "githubStars": "https://img.shields.io/github/stars/cafferychen777/mLLMCelltype"
+            "githubStars": "https://img.shields.io/github/stars/cafferychen777/mLLMCelltype",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -902,7 +1002,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1",
             "codeUrl": "https://github.com/NIH-NEI/SCassist",
-            "githubStars": "https://img.shields.io/github/stars/NIH-NEI/SCassist"
+            "githubStars": "https://img.shields.io/github/stars/NIH-NEI/SCassist",
+            "doi": null
         },
         {
             "year": "2024.12",
@@ -914,13 +1015,40 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2",
             "codeUrl": "https://github.com/ElliotXie/CASSIA",
-            "githubStars": "https://img.shields.io/github/stars/ElliotXie/CASSIA"
+            "githubStars": "https://img.shields.io/github/stars/ElliotXie/CASSIA",
+            "doi": null
+        },
+        {
+            "year": "",
+            "title": "Design and Implementation of an End-to-End AI-Driven Colonoscopy Recall Workflow at Scale",
+            "team": "Venkat Jegadeesan",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Medical Technology",
+            "venue": "medRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/4fa0afa0548eb8a9a1fe02d8059888e6ebfc34b3",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1101/2025.07.11.25331400"
+        },
+        {
+            "year": "",
+            "title": "SCassist: An AI Based Workflow Assistant for Single-Cell Analysis.",
+            "team": "Rachel R. Caspi",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Bioinformatics",
+            "venue": "Bioinformatics",
+            "paperUrl": "https://www.semanticscholar.org/paper/18ecebe0b0fe0d241cd60933b9855e9f8cf656c7",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1093/bioinformatics/btaf402"
         }
     ],
     "databases": [
         {
             "year": "2025.08",
-            "title": "Drug Response Omics association MAp (DROMA, \u5353\u739b)",
+            "title": "Drug Response Omics association MAp (DROMA, 卓玛)",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -928,7 +1056,8 @@
             "venue": "",
             "paperUrl": "",
             "codeUrl": "https://github.com/mugpeng/DROMA",
-            "githubStars": "https://img.shields.io/github/stars/mugpeng/DROMA"
+            "githubStars": "https://img.shields.io/github/stars/mugpeng/DROMA",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -940,11 +1069,12 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.11.659105v1",
             "codeUrl": "https://doi.org/10.25452/figshare.plus.29190726",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.04",
-            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell\u2013cell interactions",
+            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -952,7 +1082,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-025-02651-0",
             "codeUrl": "https://github.com/ZhangLabGT/scMultiSim/",
-            "githubStars": "https://img.shields.io/github/stars/ZhangLabGT/scMultiSim"
+            "githubStars": "https://img.shields.io/github/stars/ZhangLabGT/scMultiSim",
+            "doi": null
         },
         {
             "year": "2025.03",
@@ -964,7 +1095,8 @@
             "venue": "ICLR 2025",
             "paperUrl": "https://arxiv.org/abs/2503.20158v2",
             "codeUrl": "https://www.rxrx.ai/datasets",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -976,7 +1108,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.27.640494v2",
             "codeUrl": "https://github.com/ArcInstitute/SRAgent",
-            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/SRAgent"
+            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/SRAgent",
+            "doi": null
         },
         {
             "year": "2025.02",
@@ -988,7 +1121,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.20.639398v3",
             "codeUrl": "https://github.com/ArcInstitute/arc-virtual-cell-atlas",
-            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/arc-virtual-cell-atlas"
+            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/arc-virtual-cell-atlas",
+            "doi": null
         },
         {
             "year": "2024.06",
@@ -1000,7 +1134,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.06.12.598655v3",
             "codeUrl": "https://tdcommons.ai/",
-            "githubStars": "https://img.shields.io/github/stars/mims-harvard/TDC"
+            "githubStars": "https://img.shields.io/github/stars/mims-harvard/TDC",
+            "doi": null
         },
         {
             "year": "2024.04",
@@ -1012,7 +1147,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-024-02241-6",
             "codeUrl": "https://github.com/broadinstitute/cellpainting-gallery/",
-            "githubStars": "https://img.shields.io/github/stars/broadinstitute/cellpainting-gallery"
+            "githubStars": "https://img.shields.io/github/stars/broadinstitute/cellpainting-gallery",
+            "doi": null
         },
         {
             "year": "2024.01",
@@ -1024,7 +1160,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-023-02144-y",
             "codeUrl": "https://github.com/sanderlab/scPerturb/",
-            "githubStars": "https://img.shields.io/github/stars/sanderlab/scPerturb"
+            "githubStars": "https://img.shields.io/github/stars/sanderlab/scPerturb",
+            "doi": null
         }
     ],
     "benchmarks": [
@@ -1038,7 +1175,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.06",
@@ -1050,7 +1188,8 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
             "codeUrl": "https://github.com/ArcInstitute/cell-eval",
-            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/cell-eval"
+            "githubStars": "https://img.shields.io/github/stars/ArcInstitute/cell-eval",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -1062,7 +1201,8 @@
             "venue": "Genome Biology",
             "paperUrl": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x",
             "codeUrl": "https://github.com/microsoft/zero-shot-scfoundation",
-            "githubStars": "https://img.shields.io/github/stars/microsoft/zero-shot-scfoundation"
+            "githubStars": "https://img.shields.io/github/stars/microsoft/zero-shot-scfoundation",
+            "doi": null
         },
         {
             "year": "2024.12",
@@ -1074,7 +1214,8 @@
             "venue": "NeurIPS 2024",
             "paperUrl": "https://neurips.cc/virtual/2024/102911",
             "codeUrl": "https://github.com/altoslabs/perturbench",
-            "githubStars": "https://img.shields.io/github/stars/altoslabs/perturbench"
+            "githubStars": "https://img.shields.io/github/stars/altoslabs/perturbench",
+            "doi": null
         }
     ],
     "reviews": [
@@ -1088,7 +1229,8 @@
             "venue": "",
             "paperUrl": "",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.05",
@@ -1100,7 +1242,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2503.04490",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -1112,7 +1255,8 @@
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2503.23278",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2025.04",
@@ -1124,7 +1268,8 @@
             "venue": "Preprints",
             "paperUrl": "https://www.preprints.org/manuscript/202504.0245/v1",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.10",
@@ -1136,7 +1281,8 @@
             "venue": "Cell",
             "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/39486399/",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.08",
@@ -1148,7 +1294,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-024-02353-z",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.08",
@@ -1160,7 +1307,8 @@
             "venue": "Nature Methods",
             "paperUrl": "https://www.nature.com/articles/s41592-024-02354-y",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
         },
         {
             "year": "2024.07",
@@ -1172,7 +1320,21 @@
             "venue": "Quantitative Biology",
             "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/qub2.69",
             "codeUrl": "",
-            "githubStars": ""
+            "githubStars": "",
+            "doi": null
+        },
+        {
+            "year": "",
+            "title": "Bibliometric analysis in sulcus vocalis research: 44 years of perspective.",
+            "team": "N. Murat",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Medical Research",
+            "venue": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+            "paperUrl": "https://www.semanticscholar.org/paper/a98606ae4d464bcb469a61cc1ba433f280f4e1f4",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1007/s00405-025-09561-z"
         }
     ]
 }
