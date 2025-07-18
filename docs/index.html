@@ -551,7 +551,7 @@
                     <div class="section-header">
                         <i class="fas fa-list"></i>
                         <h2 class="section-title">All Projects</h2>
-                        <span class="section-count">97 projects</span>
+                        <span class="section-count" id="all-projects-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -755,37 +755,26 @@
           .then(response => response.json())
           .then(data => {
             projectData = data;
-            // 动态统计各类数量
-            const stats = {
-              "ai-agents": data["ai-agents"]?.length || 0,
-              "foundation-models": data["foundation-models"]?.length || 0,
-              "ai-tools": data["ai-tools"]?.length || 0,
-              "databases": data["databases"]?.length || 0,
-              "benchmarks": data["benchmarks"]?.length || 0,
-              "reviews": data["reviews"]?.length || 0,
-              "all-projects": Object.values(data).reduce((sum, arr) => sum + (Array.isArray(arr) ? arr.length : 0), 0)
-            };
-            document.getElementById('ai-agents-count').textContent = stats["ai-agents"];
-            document.getElementById('foundation-models-count').textContent = stats["foundation-models"];
-            document.getElementById('ai-tools-count').textContent = stats["ai-tools"];
-            document.getElementById('databases-count').textContent = stats["databases"];
-            document.getElementById('benchmarks-count').textContent = stats["benchmarks"];
-            document.getElementById('reviews-count').textContent = stats["reviews"];
-            document.getElementById('total-count').textContent = stats["all-projects"];
-            // 动态更新导航栏和 section 标题数量
-            document.getElementById('all-projects-nav-count').textContent = stats["all-projects"];
-            document.getElementById('ai-agents-nav-count').textContent = stats["ai-agents"];
-            document.getElementById('foundation-models-nav-count').textContent = stats["foundation-models"];
-            document.getElementById('ai-tools-nav-count').textContent = stats["ai-tools"];
-            document.getElementById('databases-nav-count').textContent = stats["databases"];
-            document.getElementById('benchmarks-nav-count').textContent = stats["benchmarks"];
-            document.getElementById('reviews-nav-count').textContent = stats["reviews"];
-            document.getElementById('ai-agents-section-count').textContent = stats["ai-agents"] + " projects";
-            document.getElementById('foundation-models-section-count').textContent = stats["foundation-models"] + " projects";
-            document.getElementById('ai-tools-section-count').textContent = stats["ai-tools"] + " projects";
-            document.getElementById('databases-section-count').textContent = stats["databases"] + " projects";
-            document.getElementById('benchmarks-section-count').textContent = stats["benchmarks"] + " projects";
-            document.getElementById('reviews-section-count').textContent = stats["reviews"] + " projects";
+            // 动态统计所有一级 key 的数量
+            const stats = {};
+            let total = 0;
+            for (const [cat, arr] of Object.entries(data)) {
+              if (Array.isArray(arr)) {
+                stats[cat] = arr.length;
+                total += arr.length;
+              }
+            }
+            stats["all-projects"] = total;
+
+            // 动态填充页面（顶部、导航栏、section标题）
+            for (const [cat, count] of Object.entries(stats)) {
+              const el = document.getElementById(`${cat}-count`);
+              if (el) el.textContent = count;
+              const navEl = document.getElementById(`${cat}-nav-count`);
+              if (navEl) navEl.textContent = count;
+              const sectionEl = document.getElementById(`${cat}-section-count`);
+              if (sectionEl) sectionEl.textContent = count + " projects";
+            }
             init();
             initStarButton();
           })
@@ -1041,7 +1030,7 @@
             });
             
             // Update nav tabs and section headers after charts are created
-            const stats = {"ai-agents": 25, "foundation-models": 46, "ai-tools": 5, "databases": 9, "benchmarks": 4, "reviews": 8, "all-projects": 97};
+            // const stats = {"ai-agents": 25, "foundation-models": 46, "ai-tools": 5, "databases": 9, "benchmarks": 4, "reviews": 8, "all-projects": 97};
             Object.entries(stats).forEach(([key, count]) => {
                 // Update nav tabs
                 const navTab = document.querySelector(`.nav-tab[data-section='${key}']`);
