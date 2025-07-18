@@ -1,7 +1,7 @@
 from aweagent.agent import PaperAgent
 from datetime import datetime, timedelta
 import os
-from sqlalchemy import Column, Integer, String, Text
+from sqlalchemy import Column, Integer, String, Text, Date  
 from sqlalchemy.orm import declarative_base
 import json, ast
 # 通用 Database 类
@@ -55,14 +55,17 @@ pa = PaperAgent()
 rep = pa.run(
     msg=f"""
     查询论文：
-     query: AI agent|large language model|foundation model
-     publication_date: {last7d} 到 {today}
-     limit: 100
-     fields: "paperId",  "externalIds", "url", "title", "abstract", "venue", "publicationVenue", "publicationTypes", "publicationDate", "journal", "authors", "citations"
-     fields_of_study: "Medicine",  "Biology"
-    
-    pre-defined category: ["ai-agents", "ai-tools", "foundation-models", "databases", "benchmarks", "reviews"]
+    query: AI agent|large language model|foundation model
+    publication_date: {last7d} 到 {today}
+    limit: 100
+    fields: "paperId",  "externalIds", "url", "title", "abstract", "venue", "publicationVenue", "publicationTypes", "publicationDate", "journal", "authors", "citations"
+    fields_of_study: "Medicine",  "Biology"
 
+    pre-defined category: ["ai-agents", "ai-tools", "foundation-models", "databases", "benchmarks", "reviews"]
+    Note: Only keep papers which are about AI in biology or AI in medicine.
+    Note: Only keep papers which are published in high-quality journals.
+    Warning: model,  machine learning, etc.  are not AI agent|large language model|foundation model
+    it is okay to return nothing
     """
 )
 
@@ -74,7 +77,7 @@ Base = declarative_base()
 class AwePaper(Base):
     __tablename__ = 'AI_papers'
     id = Column(Integer, primary_key=True, autoincrement=True)
-    year = Column(Integer)
+    year = Column(Date)
     title = Column(String(200))
     team = Column(String(100))
     teamWebsite = Column(String(100))
@@ -97,18 +100,20 @@ papers = src_db.query_all(Paper)
 # 构建插入数据
 insert_data = []
 for paper in papers:
-    print(paper.title)
     doi = paper.doi
     # 先查目标表是否已存在该doi
     if doi:
         exists = dst_db.query_filter(AwePaper, doi=doi)
         if exists:
             continue  # 已存在，跳过
-    print(paper.authors)
+    if paper.title:
+        exists = dst_db.query_filter(AwePaper, title=paper.title)
+        if exists:
+            continue  # 已存在，跳过
     authors = ast.literal_eval(paper.authors)
     entry_data = {
         "category": paper.category,
-        "year": paper.year,
+        "year": paper.publicationDate,
         "title": paper.title,
         "team":authors['name'],
         "teamWebsite": None,
@@ -133,9 +138,9 @@ papers = dst_db.query_all(AwePaper)
 
 # 分组
 data = {}
+print(f"update papers: {len(papers)}")
 for paper in papers:
     cat = paper.category or "other"
-    print(paper.team)
     # 字段名映射，和 data.json 保持一致
     paper_dict = {
         "year": str(paper.year) if paper.year else "",
