@@ -1,0 +1,39 @@
+name: Scheduled Paper Query
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run-paper-query:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          git clone git@github.com:Webioinfo01/AweAgent.git
+          cd AweAgent
+          pip install -e .
+          cd ..
+      - name: Run paper query script
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SEMANTICSCHOLAR_API_KEY: ${{ secrets.SEMANTICSCHOLAR_API_KEY }}
+        run: |
+          python daily.py
+      - name: Commit daily report
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Webioinfo01/AweAgent.git
+          git add updator/*.db
+          git add docs/data1.json
+          git commit -m "chore: update daily for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
