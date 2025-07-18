@@ -456,31 +456,31 @@
         <div class="container">
             <div class="stats-grid">
                 <div class="stat-item">
-                    <div class="stat-number" id="total-count">97</div>
+                    <div class="stat-number" id="total-count"></div>
                     <div class="stat-label">Total Projects</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">25</div>
+                    <div class="stat-number" id="ai-agents-count"></div>
                     <div class="stat-label">AI Agents</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">46</div>
+                    <div class="stat-number" id="foundation-models-count"></div>
                     <div class="stat-label">Foundation Models</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">5</div>
+                    <div class="stat-number" id="ai-tools-count"></div>
                     <div class="stat-label">AI Tools</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">9</div>
+                    <div class="stat-number" id="databases-count"></div>
                     <div class="stat-label">Databases</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">4</div>
+                    <div class="stat-number" id="benchmarks-count"></div>
                     <div class="stat-label">Benchmarks</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">8</div>
+                    <div class="stat-number" id="reviews-count"></div>
                     <div class="stat-label">Reviews</div>
                 </div>
             </div>
@@ -755,6 +755,23 @@
           .then(response => response.json())
           .then(data => {
             projectData = data;
+            // 动态统计各类数量
+            const stats = {
+              "ai-agents": data["ai-agents"]?.length || 0,
+              "foundation-models": data["foundation-models"]?.length || 0,
+              "ai-tools": data["ai-tools"]?.length || 0,
+              "databases": data["databases"]?.length || 0,
+              "benchmarks": data["benchmarks"]?.length || 0,
+              "reviews": data["reviews"]?.length || 0,
+              "all-projects": Object.values(data).reduce((sum, arr) => sum + (Array.isArray(arr) ? arr.length : 0), 0)
+            };
+            document.getElementById('ai-agents-count').textContent = stats["ai-agents"];
+            document.getElementById('foundation-models-count').textContent = stats["foundation-models"];
+            document.getElementById('ai-tools-count').textContent = stats["ai-tools"];
+            document.getElementById('databases-count').textContent = stats["databases"];
+            document.getElementById('benchmarks-count').textContent = stats["benchmarks"];
+            document.getElementById('reviews-count').textContent = stats["reviews"];
+            document.getElementById('total-count').textContent = stats["all-projects"];
             init();
             initStarButton();
           })
