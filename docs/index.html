@@ -515,25 +515,25 @@
     <nav class="nav-tabs">
         <div class="container">
             <a href="#all-projects" class="nav-tab active" data-section="all-projects">
-                <i class="fas fa-list"></i> All Projects (97)
+                <i class="fas fa-list"></i> All Projects (<span id="all-projects-nav-count"></span>)
             </a>
             <a href="#ai-agents" class="nav-tab" data-section="ai-agents">
-                <i class="fas fa-robot"></i> AI Agents (25)
+                <i class="fas fa-robot"></i> AI Agents (<span id="ai-agents-nav-count"></span>)
             </a>
             <a href="#foundation-models" class="nav-tab" data-section="foundation-models">
-                <i class="fas fa-brain"></i> Foundation Models (46)
+                <i class="fas fa-brain"></i> Foundation Models (<span id="foundation-models-nav-count"></span>)
             </a>
             <a href="#ai-tools" class="nav-tab" data-section="ai-tools">
-                <i class="fas fa-tools"></i> AI Tools (5)
+                <i class="fas fa-tools"></i> AI Tools (<span id="ai-tools-nav-count"></span>)
             </a>
             <a href="#databases" class="nav-tab" data-section="databases">
-                <i class="fas fa-database"></i> Databases (9)
+                <i class="fas fa-database"></i> Databases (<span id="databases-nav-count"></span>)
             </a>
             <a href="#benchmarks" class="nav-tab" data-section="benchmarks">
-                <i class="fas fa-chart-bar"></i> Benchmarks (4)
+                <i class="fas fa-chart-bar"></i> Benchmarks (<span id="benchmarks-nav-count"></span>)
             </a>
             <a href="#reviews" class="nav-tab" data-section="reviews">
-                <i class="fas fa-book"></i> Reviews (8)
+                <i class="fas fa-book"></i> Reviews (<span id="reviews-nav-count"></span>)
             </a>
         </div>
     </nav>
@@ -578,7 +578,7 @@
                     <div class="section-header">
                         <i class="fas fa-robot"></i>
                         <h2 class="section-title">AI Agents</h2>
-                        <span class="section-count">25 projects</span>
+                        <span class="section-count" id="ai-agents-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -604,7 +604,7 @@
                     <div class="section-header">
                         <i class="fas fa-brain"></i>
                         <h2 class="section-title">Foundation Models</h2>
-                        <span class="section-count">46 projects</span>
+                        <span class="section-count" id="foundation-models-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -630,7 +630,7 @@
                     <div class="section-header">
                         <i class="fas fa-tools"></i>
                         <h2 class="section-title">AI Tools</h2>
-                        <span class="section-count">5 projects</span>
+                        <span class="section-count" id="ai-tools-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -655,7 +655,7 @@
                     <div class="section-header">
                         <i class="fas fa-database"></i>
                         <h2 class="section-title">Databases/Simulation</h2>
-                        <span class="section-count">9 projects</span>
+                        <span class="section-count" id="databases-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -681,7 +681,7 @@
                     <div class="section-header">
                         <i class="fas fa-chart-bar"></i>
                         <h2 class="section-title">Benchmarks</h2>
-                        <span class="section-count">4 projects</span>
+                        <span class="section-count" id="benchmarks-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -707,7 +707,7 @@
                     <div class="section-header">
                         <i class="fas fa-book"></i>
                         <h2 class="section-title">Reviews</h2>
-                        <span class="section-count">8 projects</span>
+                        <span class="section-count" id="reviews-section-count"></span>
                     </div>
                     <div class="table-container">
                         <table class="data-table">
@@ -772,6 +772,20 @@
             document.getElementById('benchmarks-count').textContent = stats["benchmarks"];
             document.getElementById('reviews-count').textContent = stats["reviews"];
             document.getElementById('total-count').textContent = stats["all-projects"];
+            // 动态更新导航栏和 section 标题数量
+            document.getElementById('all-projects-nav-count').textContent = stats["all-projects"];
+            document.getElementById('ai-agents-nav-count').textContent = stats["ai-agents"];
+            document.getElementById('foundation-models-nav-count').textContent = stats["foundation-models"];
+            document.getElementById('ai-tools-nav-count').textContent = stats["ai-tools"];
+            document.getElementById('databases-nav-count').textContent = stats["databases"];
+            document.getElementById('benchmarks-nav-count').textContent = stats["benchmarks"];
+            document.getElementById('reviews-nav-count').textContent = stats["reviews"];
+            document.getElementById('ai-agents-section-count').textContent = stats["ai-agents"] + " projects";
+            document.getElementById('foundation-models-section-count').textContent = stats["foundation-models"] + " projects";
+            document.getElementById('ai-tools-section-count').textContent = stats["ai-tools"] + " projects";
+            document.getElementById('databases-section-count').textContent = stats["databases"] + " projects";
+            document.getElementById('benchmarks-section-count').textContent = stats["benchmarks"] + " projects";
+            document.getElementById('reviews-section-count').textContent = stats["reviews"] + " projects";
             init();
             initStarButton();
           })
