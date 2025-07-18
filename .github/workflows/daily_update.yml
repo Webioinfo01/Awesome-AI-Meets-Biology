@@ -27,8 +27,8 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           SEMANTICSCHOLAR_API_KEY: ${{ secrets.SEMANTICSCHOLAR_API_KEY }}
         run: |
-          python daily.py
-      - name: Commit daily report
+          python updator/daily_update.py
+      - name: Commit daily update
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
