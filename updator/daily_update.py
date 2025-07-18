@@ -77,7 +77,7 @@ Base = declarative_base()
 class AwePaper(Base):
     __tablename__ = 'AI_papers'
     id = Column(Integer, primary_key=True, autoincrement=True)
-    year = Column(Date)
+    year = Column(String(100))
     title = Column(String(200))
     team = Column(String(100))
     teamWebsite = Column(String(100))
