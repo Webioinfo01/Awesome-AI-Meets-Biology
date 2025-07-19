@@ -11142,6 +11142,32 @@
             "codeUrl": null,
             "githubStars": "",
             "doi": "10.21203/rs.3.rs-6823810/v1"
+        },
+        {
+            "year": "2025-07-13",
+            "title": "When AI sees hotter: Overestimation bias in large language model climate assessments.",
+            "team": "Ruilin Zheng",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Climate Science",
+            "venue": "Public Understanding of Science",
+            "paperUrl": "https://www.semanticscholar.org/paper/b016d24707d23443fd3f2916dc33808f1b2963a0",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1177/09636625251351575"
+        },
+        {
+            "year": "2025-07-12",
+            "title": "Vision-language model for report generation and outcome prediction in CT pulmonary angiogram",
+            "team": "Harrison X. Bai",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Medical Imaging",
+            "venue": "npj Digital Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/8452c2f5cee9adc02b715fada8284367fdab100b",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1038/s41746-025-01807-8"
         }
     ],
     "ai-tools": [
@@ -16097,6 +16123,32 @@
             "codeUrl": null,
             "githubStars": "",
             "doi": "10.1017/jme.2025.10132"
+        },
+        {
+            "year": "2025-07-14",
+            "title": "Design and Implementation of an End-to-End AI-Driven Colonoscopy Recall Workflow at Scale",
+            "team": "Venkat Jegadeesan",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Medical Technology",
+            "venue": "medRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/4fa0afa0548eb8a9a1fe02d8059888e6ebfc34b3",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1101/2025.07.11.25331400"
+        },
+        {
+            "year": "2025-07-12",
+            "title": "SCassist: An AI Based Workflow Assistant for Single-Cell Analysis.",
+            "team": "Rachel R. Caspi",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Bioinformatics",
+            "venue": "Bioinformatics",
+            "paperUrl": "https://www.semanticscholar.org/paper/18ecebe0b0fe0d241cd60933b9855e9f8cf656c7",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1093/bioinformatics/btaf402"
         }
     ],
     "databases": [
@@ -17169,6 +17221,19 @@
             "codeUrl": null,
             "githubStars": "",
             "doi": "10.1007/s12630-025-02980-w"
+        },
+        {
+            "year": "2025-07-12",
+            "title": "Bibliometric analysis in sulcus vocalis research: 44 years of perspective.",
+            "team": "N. Murat",
+            "team website": null,
+            "affiliation": "",
+            "domain": "Medical Research",
+            "venue": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+            "paperUrl": "https://www.semanticscholar.org/paper/a98606ae4d464bcb469a61cc1ba433f280f4e1f4",
+            "codeUrl": null,
+            "githubStars": "",
+            "doi": "10.1007/s00405-025-09561-z"
         }
     ]
 }
