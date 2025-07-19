@@ -3,7 +3,8 @@ from datetime import datetime, timedelta
 import os
 from sqlalchemy import Column, Integer, String, Text, Date  
 from sqlalchemy.orm import declarative_base
-import json, ast
+import json
+import ast
 # 通用 Database 类
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -92,7 +93,7 @@ class AwePaper(Base):
 
 # 数据库初始化
 src_db = Database("sqlite:///updator/SemanticScholar_papers_filter.db", PaperBase)
-dst_db = Database("sqlite:///updator/ai_papers.db", AwePaper)
+dst_db = Database(os.getenv("AI_PAPERS_DB_URL", "sqlite:///updator/ai_papers.db"), AwePaper)
 
 # 读取所有论文
 papers = src_db.query_all(Paper)
@@ -117,7 +118,7 @@ for paper in papers:
         "title": paper.title,
         "team":authors['name'],
         "teamWebsite": None,
-        "affiliation": ",".join(authors['affiliations']),
+        "affiliation": ",".join(authors.get('affiliations', []) if isinstance(authors.get('affiliations', []), list) else []),
         "domain": paper.domain,
         "venue": paper.venue,
         "paperUrl": paper.url,
@@ -133,7 +134,6 @@ src_db.close()
 print("已从原数据库迁移数据到 awe_papers 表。")
 
 
-import ast
 papers = dst_db.query_all(AwePaper)
 
 # 分组
