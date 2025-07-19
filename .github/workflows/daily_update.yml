@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/huang-sh/Awesome-AI-Meets-Biology.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Webioinfo01/Awesome-AI-Meets-Biology.git
           git add updator/*.db
           git add docs/data.json
           git commit -m "chore: update daily for $(date +'%Y-%m-%d')" || echo "No changes to commit"
