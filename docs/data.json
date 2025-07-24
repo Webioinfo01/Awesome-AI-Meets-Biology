@@ -183,6 +183,45 @@
             "doi": ""
         },
         {
+            "year": "2025.04",
+            "title": "Knowledge Graph and Large Language Model for Metabolomics",
+            "team": "Yuxing Lu",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Knowledge Graphs and LLMs in Metabolomics",
+            "venue": "",
+            "paperUrl": "https://www.semanticscholar.org/paper/3d7a503eded6fabd6979c3847d5db68970bf9d3d",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1609/aaai.v39i28.35218"
+        },
+        {
+            "year": "2025.04",
+            "title": "Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo",
+            "team": "Jia Liu",
+            "team website": "",
+            "affiliation": "Harvard University",
+            "domain": "AI Agent for Spatial Transcriptomics Analysis",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/1c45bfa74d72bc131f7254ae28e5d7ee1abd425f",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1101/2025.04.01.646731"
+        },
+        {
+            "year": "2025.04",
+            "title": "scAgent: Universal Single-Cell Annotation via a LLM Agent",
+            "team": "Yunjun Gao",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Universal Single-Cell Annotation with LLM Agent",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/0e8d9a99ce3f609b18e039f9770ef935e114b02e",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2504.04698"
+        },
+        {
             "year": "2025.03",
             "title": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools",
             "team": "Marinka Zitnik",
@@ -653,6 +692,45 @@
             "doi": ""
         },
         {
+            "year": "2025.04",
+            "title": "Abstract 5084: Evaluation of single-cell foundation models for cancer outcome predictions",
+            "team": "Eliezer M Van Allen",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Single-cell Foundation Models for Cancer Outcome Prediction",
+            "venue": "Cancer Research",
+            "paperUrl": "https://www.semanticscholar.org/paper/e8db25fc84442d27305675bc67f101ee2cad8d49",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1158/1538-7445.am2025-5084"
+        },
+        {
+            "year": "2025.04",
+            "title": "Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling",
+            "team": "Mai Chan Lau",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Foundational vs. CNN Models for Immune Profiling in Histology",
+            "venue": "Cancer Research",
+            "paperUrl": "https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1158/1538-7445.am2025-6316"
+        },
+        {
+            "year": "2025.04",
+            "title": "Abstract 5059: Self-supervised representation learning of somatic mutational data",
+            "team": "Etai Jacob",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Self-supervised Representation Learning for Somatic Mutation Data",
+            "venue": "Cancer Research",
+            "paperUrl": "https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1158/1538-7445.am2025-5059"
+        },
+        {
             "year": "2025.02",
             "title": "Genome modeling and design across all domains of life with Evo 2",
             "team": "Arc Institute(Brian L. Hie)",
@@ -1073,15 +1151,15 @@
         {
             "year": "2025.04",
             "title": "SCassist: An AI Based Workflow Assistant for Single-Cell Analysis",
-            "team": "",
+            "team": "Rachel R Caspi",
             "team website": "",
-            "affiliation": "",
+            "affiliation": "National Institutes of Health",
             "domain": "Single Cell tasks(cluster, annotation)",
-            "venue": "bioRxiv",
+            "venue": "Bioinformatics",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1",
             "codeUrl": "https://github.com/NIH-NEI/SCassist",
             "githubStars": "https://img.shields.io/github/stars/NIH-NEI/SCassist",
-            "doi": ""
+            "doi": "10.1101/2025.04.22.650107"
         },
         {
             "year": "2024.12",
@@ -1100,7 +1178,7 @@
     "databases": [
         {
             "year": "2025.08",
-            "title": "Drug Response Omics association MAp (DROMA, 卓玛)",
+            "title": "Drug Response Omics association MAp (DROMA, \u5353\u739b)",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1162,6 +1240,19 @@
             "codeUrl": "https://github.com/ZhangLabGT/scMultiSim/",
             "githubStars": "https://img.shields.io/github/stars/ZhangLabGT/scMultiSim",
             "doi": ""
+        },
+        {
+            "year": "2025.04",
+            "title": "uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization",
+            "team": "Xuegong Zhang",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Hierarchical Framework for Cell Type Annotation and Harmonization",
+            "venue": "Bioinformatics",
+            "paperUrl": "https://www.semanticscholar.org/paper/e3ce9b990c9604648ad39e38275cd61b7711415a",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1093/bioinformatics/btaf149"
         },
         {
             "year": "2025.03",
@@ -1335,6 +1426,19 @@
             "doi": ""
         },
         {
+            "year": "2025.04",
+            "title": "OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling",
+            "team": "Fuhai Li",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Cell Text-Omic Signaling Graph Benchmark",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2504.02148"
+        },
+        {
             "year": "2024.12",
             "title": "PerturBench: Benchmarking Machine Learning Models for Cellular Perturbation Analysis",
             "team": "",
@@ -1403,6 +1507,19 @@
         },
         {
             "year": "2025.04",
+            "title": "Towards multimodal foundation models in molecular cell biology.",
+            "team": "Bo Wang",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Multimodal Foundation Models in Molecular Cell Biology",
+            "venue": "Nature",
+            "paperUrl": "https://www.semanticscholar.org/paper/7f65931fb6bbfca0496c919e83ed40e910b2dc5f",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41586-025-08710-y"
+        },
+        {
+            "year": "2025.04",
             "title": "A Survey of the Model Context Protocol (MCP): Standardizing Context to Enhance Large Language Models (LLMs)",
             "team": "",
             "team website": "",
@@ -1413,6 +1530,19 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": ""
+        },
+        {
+            "year": "2025.04",
+            "title": "Decoding cancer prognosis with deep learning: the ASD-cancer framework for tumor microenvironment analysis",
+            "team": "J. Haran",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Deep Learning for Tumor Microenvironment Prognosis",
+            "venue": "mSystems",
+            "paperUrl": "https://www.semanticscholar.org/paper/6336c71a68d9435fef00a61cc1930909ac92136f",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1128/msystems.01455-24"
         },
         {
             "year": "2024.10",
