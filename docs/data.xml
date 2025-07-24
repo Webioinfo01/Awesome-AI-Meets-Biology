@@ -1,0 +1,2430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:prism="http://purl.org/rss/1.0/modules/prism/" version="2.0">
+<channel>
+<title>Awesome-AI-Meets-Biology</title>
+<link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
+<description> </description>
+<language>en-us</language>
+<pubDate>Thu, 24 Jul 2025 12:31:05 GMT</pubDate>
+<lastBuildDate>Thu, 24 Jul 2025 12:31:05 GMT</lastBuildDate>
+<generator>Silverchair</generator>
+
+    <item>
+        <title>PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1</guid>
+    </item>
+
+    <item>
+        <title>GPTBioInsightor</title>
+        <link></link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid></guid>
+    </item>
+
+    <item>
+        <title>NVIDIA Biomedical AI-Q Research Agent Developer Blueprint</title>
+        <link>https://build.nvidia.com/nvidia/biomedical-aiq-research-agent</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://build.nvidia.com/nvidia/biomedical-aiq-research-agent</guid>
+    </item>
+
+    <item>
+        <title>OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1</guid>
+    </item>
+
+    <item>
+        <title>Agent Laboratory: Using LLM Agents as Research Assistants</title>
+        <link>https://arxiv.org/abs/2501.04227</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2501.04227</guid>
+    </item>
+
+    <item>
+        <title>scExtract: leveraging large language models for fully automated single-cell RNA-seq data annotation and prior-informed multi-dataset integration</title>
+        <link>https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x</guid>
+    </item>
+
+    <item>
+        <title>CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1</guid>
+    </item>
+
+    <item>
+        <title>Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution</title>
+        <link>https://arxiv.org/abs/2505.20286</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2505.20286</guid>
+    </item>
+
+    <item>
+        <title>BioOmni: A General-Purpose AI Agent for Automated Biomedical Research</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1</guid>
+    </item>
+
+    <item>
+        <title>CellTypeAgent: Trustworthy cell type annotation with Large Language Models</title>
+        <link>https://www.semanticscholar.org/paper/40e125e1b882b278d14d7f86617a4381084fa69a</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2505.08844</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2505.08844</guid>
+    </item>
+
+    <item>
+        <title>ChatMolData: A Multimodal Agent for Automatic Molecular Data Processing</title>
+        <link>https://www.semanticscholar.org/paper/1fd6efbd486e07872b17bf8b08ab68c5a60716c0</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1002/aisy.202401089</prism:doi>
+        <guid>http://doi.org/10.1002/aisy.202401089</guid>
+    </item>
+
+    <item>
+        <title>PlantGPT: An Arabidopsis-Based Intelligent Agent that Answers Questions about Plant Functional Genomics.</title>
+        <link>https://www.semanticscholar.org/paper/b0b726a254ede59afe4ab6635fb23c916ceacb94</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1002/advs.202503926</prism:doi>
+        <guid>http://doi.org/10.1002/advs.202503926</guid>
+    </item>
+
+    <item>
+        <title>DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery</title>
+        <link>https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2505.13940</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2505.13940</guid>
+    </item>
+
+    <item>
+        <title>Automatic biomarker discovery and enrichment with BRAD</title>
+        <link>https://www.semanticscholar.org/paper/3ac8cac9583281d5eebca6a17e00af015eb8b286</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1093/bioinformatics/btaf159</prism:doi>
+        <guid>http://doi.org/10.1093/bioinformatics/btaf159</guid>
+    </item>
+
+    <item>
+        <title>The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search</title>
+        <link>https://arxiv.org/abs/2504.08066</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2504.08066</guid>
+    </item>
+
+    <item>
+        <title>SpatialAgent: An autonomous AI agent for spatial biology</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1</guid>
+    </item>
+
+    <item>
+        <title>Knowledge Graph and Large Language Model for Metabolomics</title>
+        <link>https://www.semanticscholar.org/paper/3d7a503eded6fabd6979c3847d5db68970bf9d3d</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1609/aaai.v39i28.35218</prism:doi>
+        <guid>http://doi.org/10.1609/aaai.v39i28.35218</guid>
+    </item>
+
+    <item>
+        <title>Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo</title>
+        <link>https://www.semanticscholar.org/paper/1c45bfa74d72bc131f7254ae28e5d7ee1abd425f</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.04.01.646731</prism:doi>
+        <guid>http://doi.org/10.1101/2025.04.01.646731</guid>
+    </item>
+
+    <item>
+        <title>scAgent: Universal Single-Cell Annotation via a LLM Agent</title>
+        <link>https://www.semanticscholar.org/paper/0e8d9a99ce3f609b18e039f9770ef935e114b02e</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2504.04698</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2504.04698</guid>
+    </item>
+
+    <item>
+        <title>Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1</guid>
+    </item>
+
+    <item>
+        <title>SCassist: An AI Based Workflow Assistant for Single-Cell Analysis</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.04.22.650107</prism:doi>
+        <guid>http://doi.org/10.1101/2025.04.22.650107</guid>
+    </item>
+
+    <item>
+        <title>Fleming: An AI Agent for Antibiotic Discovery in Mycobacterium tuberculosis</title>
+        <link>https://www.semanticscholar.org/paper/d4b49553e887d04229c6cd04cc1eb6e464332e4e</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.04.01.646719</prism:doi>
+        <guid>http://doi.org/10.1101/2025.04.01.646719</guid>
+    </item>
+
+    <item>
+        <title>OLAF: An Open Life Science Analysis Framework for Conversational Bioinformatics Powered by Large Language Models</title>
+        <link>https://www.semanticscholar.org/paper/4305e3ff95f996eafc5a25dec044eed4af34aac4</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2504.03976</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2504.03976</guid>
+    </item>
+
+    <item>
+        <title>TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools</title>
+        <link>https://arxiv.org/abs/2503.10970</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2503.10970</guid>
+    </item>
+
+    <item>
+        <title>DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis</title>
+        <link>https://www.nature.com/articles/s41467-025-57430-4</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41467-025-57430-4</guid>
+    </item>
+
+    <item>
+        <title>DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration</title>
+        <link>https://arxiv.org/abs/2411.15692</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2411.15692</guid>
+    </item>
+
+    <item>
+        <title>PharmAgents: Building a Virtual Pharma with Large Language Model Agents</title>
+        <link>https://www.semanticscholar.org/paper/46e921cb6fba3423e48fa894afa9b0b47bf934d6</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.22164</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.22164</guid>
+    </item>
+
+    <item>
+        <title>AstroAgents: A Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data</title>
+        <link>https://www.semanticscholar.org/paper/a967904a87ba4c1d6359fbd7342a074d63e2fe63</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.23170</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.23170</guid>
+    </item>
+
+    <item>
+        <title>DORA AI Scientist: Multi-agent Virtual Research Team for Scientific Exploration Discovery and Automated Report Generation</title>
+        <link>https://www.semanticscholar.org/paper/b913baa47245a4a76054bb12e04d61c3c88fb532</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.03.06.641840</prism:doi>
+        <guid>http://doi.org/10.1101/2025.03.06.641840</guid>
+    </item>
+
+    <item>
+        <title>Design and Analysis of an Extreme-Scale, High-Performance, and Modular Agent-Based Simulation Platform</title>
+        <link>https://www.semanticscholar.org/paper/ab1f61ae171dfbe425e60bc942997c1bdba29c24</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.3929/ethz-b-000726143</prism:doi>
+        <guid>http://doi.org/10.3929/ethz-b-000726143</guid>
+    </item>
+
+    <item>
+        <title>Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization</title>
+        <link>https://www.semanticscholar.org/paper/391ca60f6cd9b7ccc0ff8bc5fc72c6543c770fd9</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.03503</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.03503</guid>
+    </item>
+
+    <item>
+        <title>IAN: An Intelligent System for Omics Data Analysis and Discovery</title>
+        <link>https://www.semanticscholar.org/paper/1ecbcfe40fe475b6fec3186ced39162afdb33175</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.03.06.640921</prism:doi>
+        <guid>http://doi.org/10.1101/2025.03.06.640921</guid>
+    </item>
+
+    <item>
+        <title>LIDDIA: Language-based Intelligent Drug Discovery Agent</title>
+        <link>https://arxiv.org/abs/2502.13959</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2502.13959</guid>
+    </item>
+
+    <item>
+        <title>Towards an AI co-scientist</title>
+        <link>https://arxiv.org/pdf/2502.18864v1</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/pdf/2502.18864v1</guid>
+    </item>
+
+    <item>
+        <title>Knowledge Synthesis of Photosynthesis Research Using a Large Language Model</title>
+        <link>https://www.semanticscholar.org/paper/cb217acb0ea521307477a39ec893f135b72ead45</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.01059</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.01059</guid>
+    </item>
+
+    <item>
+        <title>Spike sorting AI agent</title>
+        <link>https://www.semanticscholar.org/paper/e44999184842c94e6f976417cbe73431501eac03</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.02.11.637754</prism:doi>
+        <guid>http://doi.org/10.1101/2025.02.11.637754</guid>
+    </item>
+
+    <item>
+        <title>RAPID: Reliable and efficient Automatic generation of submission rePorting checklists with Large language moDels</title>
+        <link>https://www.semanticscholar.org/paper/8ab71d93085aaa5900ad6ec5e7b966829934d95e</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.02.13.638015</prism:doi>
+        <guid>http://doi.org/10.1101/2025.02.13.638015</guid>
+    </item>
+
+    <item>
+        <title>BioMaster: Multi-agent System for Automated Bioinformatics Analysis Workflow</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1</guid>
+    </item>
+
+    <item>
+        <title>InstructCell: A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following</title>
+        <link>https://arxiv.org/abs/2501.08187</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2501.08187</guid>
+    </item>
+
+    <item>
+        <title>BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems</title>
+        <link>https://arxiv.org/abs/2501.06314</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2501.06314</guid>
+    </item>
+
+    <item>
+        <title>Extracting Knowledge from Scientific Texts on Patient-Derived Cancer Models Using Large Language Models: Algorithm Development and Validation</title>
+        <link>https://www.semanticscholar.org/paper/4ea31174978b289183898b4cafd1432d9ddd0349</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.01.28.634527</prism:doi>
+        <guid>http://doi.org/10.1101/2025.01.28.634527</guid>
+    </item>
+
+    <item>
+        <title>CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2</guid>
+    </item>
+
+    <item>
+        <title>ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model</title>
+        <link>https://www.semanticscholar.org/paper/c89cfdd40cf24c40b09304cbbf85024933def10c</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1021/acs.jcim.4c01345</prism:doi>
+        <guid>http://doi.org/10.1021/acs.jcim.4c01345</guid>
+    </item>
+
+    <item>
+        <title>SCREADER: Prompting Large Language Models to Interpret scRNA-seq Data</title>
+        <link>https://www.semanticscholar.org/paper/aba63c2f387349a58bbc9a89d83e2018bc436819</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1109/ICDMW65004.2024.00092</prism:doi>
+        <guid>http://doi.org/10.1109/ICDMW65004.2024.00092</guid>
+    </item>
+
+    <item>
+        <title>SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning</title>
+        <link>https://www.semanticscholar.org/paper/dbbcdb281ed6aa646af0402172cf8a7cfda85d5c</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1002/adma.202413523</prism:doi>
+        <guid>http://doi.org/10.1002/adma.202413523</guid>
+    </item>
+
+    <item>
+        <title>Development and Application of an In Vitro Drug Screening Assay for Schistosoma mansoni Schistosomula Using YOLOv5</title>
+        <link>https://www.semanticscholar.org/paper/0cac159098bb2365ca8547979f6f81018165a0ca</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.3390/biomedicines12122894</prism:doi>
+        <guid>http://doi.org/10.3390/biomedicines12122894</guid>
+    </item>
+
+    <item>
+        <title>BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments</title>
+        <link>https://arxiv.org/abs/2405.17631</link>
+        <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2405.17631</guid>
+    </item>
+
+    <item>
+        <title>The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1</link>
+        <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1</guid>
+    </item>
+
+    <item>
+        <title>An AI Agent for Fully Automated Multi-Omic Analyses</title>
+        <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202407094</link>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202407094</guid>
+    </item>
+
+    <item>
+        <title>The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</title>
+        <link>https://arxiv.org/abs/2408.06292</link>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2408.06292</guid>
+    </item>
+
+    <item>
+        <title>CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis</title>
+        <link>https://arxiv.org/abs/2407.09811</link>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2407.09811</guid>
+    </item>
+
+    <item>
+        <title>A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2</link>
+        <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2</guid>
+    </item>
+
+    <item>
+        <title>CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3</link>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3</guid>
+    </item>
+
+    <item>
+        <title>ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning</title>
+        <link>https://arxiv.org/abs/2402.04268</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2402.04268</guid>
+    </item>
+
+    <item>
+        <title>ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2</guid>
+    </item>
+
+    <item>
+        <title>Scalable emulation of protein equilibrium ensembles with generative deep learning</title>
+        <link>https://www.science.org/doi/10.1126/science.adv9817</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.science.org/doi/10.1126/science.adv9817</guid>
+    </item>
+
+    <item>
+        <title>Spatia: Multimodal Model for Prediction and Generation of Spatial Cell Phenotypes</title>
+        <link>https://arxiv.org/html/2507.04704v1#S4</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/html/2507.04704v1#S4</guid>
+    </item>
+
+    <item>
+        <title>RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks</title>
+        <link>https://www.nature.com/articles/s41467-025-60872-5</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41467-025-60872-5</guid>
+    </item>
+
+    <item>
+        <title>World Models as Simulators of Patient Biology: Oncology Counterfactual Therapeutics Oracle (OCTO)</title>
+        <link>https://www.noetik.ai/octo</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.noetik.ai/octo</guid>
+    </item>
+
+    <item>
+        <title>Generalized biological foundation model with unified nucleic acid and protein language</title>
+        <link>https://www.nature.com/articles/s42256-025-01044-4</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s42256-025-01044-4</guid>
+    </item>
+
+    <item>
+        <title>Predicting cellular responses to perturbation across diverse contexts with State</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1</guid>
+    </item>
+
+    <item>
+        <title>AlphaGenome: Advancing regulatory variant effect prediction with a unified DNA sequence model</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1</guid>
+    </item>
+
+    <item>
+        <title>SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model</title>
+        <link>https://arxiv.org/abs/2506.01833</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2506.01833</guid>
+    </item>
+
+    <item>
+        <title>UniCure: A Foundation Model for Predicting Personalized Cancer Therapy Response</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.14.658531v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.14.658531v1</guid>
+    </item>
+
+    <item>
+        <title>A multimodal conversational agent for DNA, RNA and protein tasks</title>
+        <link>https://www.nature.com/articles/s42256-025-01047-1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s42256-025-01047-1</guid>
+    </item>
+
+    <item>
+        <title>A visual–omics foundation model to bridge histopathology with spatial transcriptomics</title>
+        <link>https://www.nature.com/articles/s41592-025-02707-1</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-025-02707-1</guid>
+    </item>
+
+    <item>
+        <title>GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance</title>
+        <link>https://arxiv.org/abs/2505.23839</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2505.23839</guid>
+    </item>
+
+    <item>
+        <title>BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model</title>
+        <link>https://arxiv.org/abs/2505.23579</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2505.23579</guid>
+    </item>
+
+    <item>
+        <title>CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells</title>
+        <link>https://www.nature.com/articles/s41467-025-59926-5</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41467-025-59926-5</guid>
+    </item>
+
+    <item>
+        <title>sciLaMA: A Single-Cell Representation Learning Framework to Leverage Prior Knowledge from Large Language Models</title>
+        <link>https://www.semanticscholar.org/paper/9aab32b1ffef407d9918bcf6f7b87c930d45c3f7</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.01.28.635153</prism:doi>
+        <guid>http://doi.org/10.1101/2025.01.28.635153</guid>
+    </item>
+
+    <item>
+        <title>LlamaAffinity: A Predictive Antibody–Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture</title>
+        <link>https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.05.28.653051</prism:doi>
+        <guid>http://doi.org/10.1101/2025.05.28.653051</guid>
+    </item>
+
+    <item>
+        <title>GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype</title>
+        <link>https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2505.03853</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2505.03853</guid>
+    </item>
+
+    <item>
+        <title>Scaling Large Language Models for Next-Generation Single-Cell Analysis</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1</guid>
+    </item>
+
+    <item>
+        <title>CellFlow enables generative single-cell phenotype modeling with flow matching</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1</guid>
+    </item>
+
+    <item>
+        <title>Abstract 5084: Evaluation of single-cell foundation models for cancer outcome predictions</title>
+        <link>https://www.semanticscholar.org/paper/e8db25fc84442d27305675bc67f101ee2cad8d49</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1158/1538-7445.am2025-5084</prism:doi>
+        <guid>http://doi.org/10.1158/1538-7445.am2025-5084</guid>
+    </item>
+
+    <item>
+        <title>Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling</title>
+        <link>https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1158/1538-7445.am2025-6316</prism:doi>
+        <guid>http://doi.org/10.1158/1538-7445.am2025-6316</guid>
+    </item>
+
+    <item>
+        <title>Abstract 5059: Self-supervised representation learning of somatic mutational data</title>
+        <link>https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1158/1538-7445.am2025-5059</prism:doi>
+        <guid>http://doi.org/10.1158/1538-7445.am2025-5059</guid>
+    </item>
+
+    <item>
+        <title>dGeneralized Biological Foundation Model with Unified Nucleic Acid and Protein Language</title>
+        <link>https://www.semanticscholar.org/paper/3f784482894a47708c6584f667ad38de70a3ba76</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2024.05.10.592927</prism:doi>
+        <guid>http://doi.org/10.1101/2024.05.10.592927</guid>
+    </item>
+
+    <item>
+        <title>Towards multimodal foundation models in molecular cell biology.</title>
+        <link>https://www.semanticscholar.org/paper/7f65931fb6bbfca0496c919e83ed40e910b2dc5f</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1038/s41586-025-08710-y</prism:doi>
+        <guid>http://doi.org/10.1038/s41586-025-08710-y</guid>
+    </item>
+
+    <item>
+        <title>Abstract 3762: DEL-AI: Proteome-wide in silico screening of multi-billion compound libraries using machine learning foundation models</title>
+        <link>https://www.semanticscholar.org/paper/555b53a4b3f89030f96e6a2e2d7e4ee83a1de4b5</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1158/1538-7445.am2025-3762</prism:doi>
+        <guid>http://doi.org/10.1158/1538-7445.am2025-3762</guid>
+    </item>
+
+    <item>
+        <title>Multimodal AI predicts clinical outcomes of drug combinations from preclinical data</title>
+        <link>https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.02781</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.02781</guid>
+    </item>
+
+    <item>
+        <title>Genome modeling and design across all domains of life with Evo 2</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1</guid>
+    </item>
+
+    <item>
+        <title>GENERator: A Long-Context Generative Genomic Foundation Model</title>
+        <link>https://arxiv.org/abs/2502.07272</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2502.07272</guid>
+    </item>
+
+    <item>
+        <title>scGPT-spatial: Continual Pretraining of Single-Cell Foundation Model for Spatial Transcriptomics</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1</guid>
+    </item>
+
+    <item>
+        <title>Large Cognition Model: Towards Pretrained EEG Foundation Model</title>
+        <link>https://www.semanticscholar.org/paper/92e6303157e9044ada38869c8d3c318882bbb9b6</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.17464</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.17464</guid>
+    </item>
+
+    <item>
+        <title>Omni-DNA: A Unified Genomic Foundation Model for Cross-Modal and Multi-Task Learning</title>
+        <link>https://www.semanticscholar.org/paper/7b9c7b43df7282797547f622788389d09cf5b3d2</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.03499</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.03499</guid>
+    </item>
+
+    <item>
+        <title>GENERator: A Long-Context Generative Genomic Foundation Model</title>
+        <link>https://www.semanticscholar.org/paper/4f98b1f62cfd71e2d2bf44156a5a971029cf4c16</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.07272</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.07272</guid>
+    </item>
+
+    <item>
+        <title>Top-DTI: Integrating Topological Deep Learning and Large Language Models for Drug Target Interaction Prediction</title>
+        <link>https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.02.07.637146</prism:doi>
+        <guid>http://doi.org/10.1101/2025.02.07.637146</guid>
+    </item>
+
+    <item>
+        <title>AI-enabled alkaline-resistant evolution of protein to apply in mass production</title>
+        <link>https://www.semanticscholar.org/paper/91b7e83815ad6a4da3232dd62f3799634ee43dda</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.7554/eLife.102788</prism:doi>
+        <guid>http://doi.org/10.7554/eLife.102788</guid>
+    </item>
+
+    <item>
+        <title>A foundation model of transcription across human cell types</title>
+        <link>https://www.nature.com/articles/s41586-024-08391-z</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41586-024-08391-z</guid>
+    </item>
+
+    <item>
+        <title>GENA-LM: a new DNA language model for long sequences</title>
+        <link>https://academic.oup.com/nar/article/53/2/gkae1310/7954523</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://academic.oup.com/nar/article/53/2/gkae1310/7954523</guid>
+    </item>
+
+    <item>
+        <title>Function-Guided Conditional Generation Using Protein Language Models with Adapters</title>
+        <link>https://arxiv.org/abs/2410.03634</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2410.03634</guid>
+    </item>
+
+    <item>
+        <title>Simulating 500 million years of evolution with a language model</title>
+        <link>https://www.science.org/doi/10.1126/science.ads0018</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.science.org/doi/10.1126/science.ads0018</guid>
+    </item>
+
+    <item>
+        <title>Predicting cell morphological responses to perturbations using generative modeling</title>
+        <link>https://www.nature.com/articles/s41467-024-55707-8</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41467-024-55707-8</guid>
+    </item>
+
+    <item>
+        <title>Improving functional protein generation via foundation model-derived latent space likelihood optimization</title>
+        <link>https://www.semanticscholar.org/paper/98be9134fce5ba8889ea6de518b814c9482ecd8e</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.01.07.631724</prism:doi>
+        <guid>http://doi.org/10.1101/2025.01.07.631724</guid>
+    </item>
+
+    <item>
+        <title>Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework</title>
+        <link>https://www.semanticscholar.org/paper/2fc9811c567186a15873eb8600df36b27f40c088</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.01.13.632881</prism:doi>
+        <guid>http://doi.org/10.1101/2025.01.13.632881</guid>
+    </item>
+
+    <item>
+        <title>Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training</title>
+        <link>https://www.semanticscholar.org/paper/8d6ab0e57aa1f7d20e680f3306a9e098a9b3a286</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2501.15108</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2501.15108</guid>
+    </item>
+
+    <item>
+        <title>L2G: Repurposing Language Models for Genomics Tasks</title>
+        <link>https://www.semanticscholar.org/paper/238d842ee1679545e00d212a342f271a05473eaf</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2024.12.09.627422</prism:doi>
+        <guid>http://doi.org/10.1101/2024.12.09.627422</guid>
+    </item>
+
+    <item>
+        <title>Fine-Tuned Deep Transfer Learning Models for Large Screenings of Safer Drugs Targeting Class A GPCRs</title>
+        <link>https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2024.12.07.627102</prism:doi>
+        <guid>http://doi.org/10.1101/2024.12.07.627102</guid>
+    </item>
+
+    <item>
+        <title>Porter 6: Protein Secondary Structure Prediction by Leveraging Pre-Trained Language Models (PLMs)</title>
+        <link>https://www.semanticscholar.org/paper/4eb9efc6ea3f7bf7935c374940af4c3866a5a368</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.3390/ijms26010130</prism:doi>
+        <guid>http://doi.org/10.3390/ijms26010130</guid>
+    </item>
+
+    <item>
+        <title>ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description</title>
+        <link>https://www.semanticscholar.org/paper/1fc064d589849dfefce0d28fe64b9b83600a0cb6</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2412.04069</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2412.04069</guid>
+    </item>
+
+    <item>
+        <title>Nucleotide Transformer: building and evaluating robust foundation models for human genomics</title>
+        <link>https://www.nature.com/articles/s41592-024-02523-z</link>
+        <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-024-02523-z</guid>
+    </item>
+
+    <item>
+        <title>Orthrus: Towards Evolutionary and Functional RNA Foundation Models</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1</link>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1</guid>
+    </item>
+
+    <item>
+        <title>stFormer: a foundation model for spatial transcriptomics</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.09.27.615337v6</link>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.09.27.615337v6</guid>
+    </item>
+
+    <item>
+        <title>BioRAG: A RAG-LLM Framework for Biological Question Reasoning</title>
+        <link>https://arxiv.org/abs/2408.01107</link>
+        <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2408.01107</guid>
+    </item>
+
+    <item>
+        <title>DNA language model GROVER learns sequence context in the human genome</title>
+        <link>https://www.nature.com/articles/s42256-024-00872-0</link>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s42256-024-00872-0</guid>
+    </item>
+
+    <item>
+        <title>scFoundation: Large-scale foundation model on single-cell transcriptomics</title>
+        <link>https://www.nature.com/articles/s41592-024-02305-7</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-024-02305-7</guid>
+    </item>
+
+    <item>
+        <title>Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models</title>
+        <link>https://arxiv.org/abs/2401.15269</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2401.15269</guid>
+    </item>
+
+    <item>
+        <title>Multi-modal Transfer Learning between Biological Foundation Models</title>
+        <link>https://arxiv.org/abs/2406.14150</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2406.14150</guid>
+    </item>
+
+    <item>
+        <title>Accurate structure prediction of biomolecular interactions with AlphaFold 3</title>
+        <link>https://www.nature.com/articles/s41586-024-07487-w</link>
+        <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41586-024-07487-w</guid>
+    </item>
+
+    <item>
+        <title>Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology</title>
+        <link>https://arxiv.org/abs/2404.10242</link>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2404.10242</guid>
+    </item>
+
+    <item>
+        <title>Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling</title>
+        <link>https://arxiv.org/abs/2403.03234</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2403.03234</guid>
+    </item>
+
+    <item>
+        <title>Nicheformer: a foundation model for single-cell and spatial omics</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1</guid>
+    </item>
+
+    <item>
+        <title>scGPT: toward building a foundation model for single-cell multi-omics using generative AI</title>
+        <link>https://www.nature.com/articles/s41592-024-02201-0</link>
+        <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-024-02201-0</guid>
+    </item>
+
+    <item>
+        <title>OmniNA: A foundation model for nucleotide sequences</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1</guid>
+    </item>
+
+    <item>
+        <title>xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein</title>
+        <link>https://arxiv.org/abs/2401.06199</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2401.06199</guid>
+    </item>
+
+    <item>
+        <title>Geneverse: A Collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research</title>
+        <link>https://openreview.net/forum?id=g1NplcWH7X</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://openreview.net/forum?id=g1NplcWH7X</guid>
+    </item>
+
+    <item>
+        <title>HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution</title>
+        <link>https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf</link>
+        <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf</guid>
+    </item>
+
+    <item>
+        <title>ProGen2: Exploring the boundaries of protein language models</title>
+        <link>https://pubmed.ncbi.nlm.nih.gov/37909046/</link>
+        <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://pubmed.ncbi.nlm.nih.gov/37909046/</guid>
+    </item>
+
+    <item>
+        <title>DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome</title>
+        <link>https://arxiv.org/abs/2306.15006</link>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2306.15006</guid>
+    </item>
+
+    <item>
+        <title>Transfer learning enables predictions in network biology</title>
+        <link>https://www.nature.com/articles/s41586-023-06139-9</link>
+        <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41586-023-06139-9</guid>
+    </item>
+
+    <item>
+        <title>DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language</title>
+        <link>https://academic.oup.com/bioinformatics/article/37/15/2112/6128680</link>
+        <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://academic.oup.com/bioinformatics/article/37/15/2112/6128680</guid>
+    </item>
+
+    <item>
+        <title>The generative era of medical AI</title>
+        <link>https://pubmed.ncbi.nlm.nih.gov/40645169/</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1016/j.cell.2025.05.018</prism:doi>
+        <guid>http://doi.org/10.1016/j.cell.2025.05.018</guid>
+    </item>
+
+    <item>
+        <title>Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review</title>
+        <link>https://www.semanticscholar.org/paper/c1a1785a284ae67ac3fcdfa4fc096a589762e3e2</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1002/aisy.202500154</prism:doi>
+        <guid>http://doi.org/10.1002/aisy.202500154</guid>
+    </item>
+
+    <item>
+        <title>Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions</title>
+        <link>https://arxiv.org/abs/2503.23278</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2503.23278</guid>
+    </item>
+
+    <item>
+        <title>Towards multimodal foundation models in molecular cell biology.</title>
+        <link>https://www.semanticscholar.org/paper/7f65931fb6bbfca0496c919e83ed40e910b2dc5f</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1038/s41586-025-08710-y</prism:doi>
+        <guid>http://doi.org/10.1038/s41586-025-08710-y</guid>
+    </item>
+
+    <item>
+        <title>A Survey of the Model Context Protocol (MCP): Standardizing Context to Enhance Large Language Models (LLMs)</title>
+        <link>https://www.preprints.org/manuscript/202504.0245/v1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.preprints.org/manuscript/202504.0245/v1</guid>
+    </item>
+
+    <item>
+        <title>Decoding cancer prognosis with deep learning: the ASD-cancer framework for tumor microenvironment analysis</title>
+        <link>https://www.semanticscholar.org/paper/6336c71a68d9435fef00a61cc1930909ac92136f</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1128/msystems.01455-24</prism:doi>
+        <guid>http://doi.org/10.1128/msystems.01455-24</guid>
+    </item>
+
+    <item>
+        <title>Large language model for knowledge synthesis and AI-enhanced biomanufacturing.</title>
+        <link>https://www.semanticscholar.org/paper/12610a7b39efe0ec0a1cd52c242a712ea719fb4c</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1016/j.tibtech.2025.02.008</prism:doi>
+        <guid>http://doi.org/10.1016/j.tibtech.2025.02.008</guid>
+    </item>
+
+    <item>
+        <title>Biological Sequence with Language Model Prompting: A Survey</title>
+        <link>https://www.semanticscholar.org/paper/9ad1cc1a90c204bc066861e41c7d3c4125ad6340</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.04135</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.04135</guid>
+    </item>
+
+    <item>
+        <title>AI-Empowered Genome Decoding: Applications of Large Language Models in Genomics</title>
+        <link>https://www.semanticscholar.org/paper/fb2f674c38dfd2fb692d08588fa1f99758bce28b</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1007/s44366-025-0051-1</prism:doi>
+        <guid>http://doi.org/10.1007/s44366-025-0051-1</guid>
+    </item>
+
+    <item>
+        <title>Large Language Models in Bioinformatics: A Survey</title>
+        <link>https://www.semanticscholar.org/paper/aef0d2c0359d97c688f89c13732ec21a351ead8d</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.04490</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.04490</guid>
+    </item>
+
+    <item>
+        <title>A Conceptual Framework for Human-AI Collaborative Genome Annotation</title>
+        <link>https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.23691</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.23691</guid>
+    </item>
+
+    <item>
+        <title>Triple Phase Transitions: Understanding the Learning Dynamics of Large Language Models from a Neuroscience Perspective</title>
+        <link>https://www.semanticscholar.org/paper/49d8af23298ab111494ddc9a79ae6a9d89181217</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.20779</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.20779</guid>
+    </item>
+
+    <item>
+        <title>Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents</title>
+        <link>https://www.semanticscholar.org/paper/f85004321e43370535088042ebac96b958880c5d</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.06975</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.06975</guid>
+    </item>
+
+    <item>
+        <title>Microbial Ecology to Ocean Carbon Cycling: From Genomes to Numerical Models</title>
+        <link>https://www.semanticscholar.org/paper/dc5335e5ec2bf80abda630ada4eb431a173ddec4</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1146/annurev-earth-040523-020630</prism:doi>
+        <guid>http://doi.org/10.1146/annurev-earth-040523-020630</guid>
+    </item>
+
+    <item>
+        <title>Survey and Improvement Strategies for Gene Prioritization with Large Language Models</title>
+        <link>https://www.semanticscholar.org/paper/7ca21dec02c418f010d6b95de3bde7bb6ac69c66</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2501.18794</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2501.18794</guid>
+    </item>
+
+    <item>
+        <title>Computational Protein Science in the Era of Large Language Models (LLMs)</title>
+        <link>https://www.semanticscholar.org/paper/0322d6eef1567b8b6ce3998d03f955082f9a87b6</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2501.10282</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2501.10282</guid>
+    </item>
+
+    <item>
+        <title>Foundation models in bioinformatics</title>
+        <link>https://www.semanticscholar.org/paper/3f21f2fadc60b7f627b5154a9944ec22d28c2678</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1093/nsr/nwaf028</prism:doi>
+        <guid>http://doi.org/10.1093/nsr/nwaf028</guid>
+    </item>
+
+    <item>
+        <title>AI Methods for Antimicrobial Peptides: Progress and Challenges</title>
+        <link>https://www.semanticscholar.org/paper/9c310642e1a07abeab7c6a8216ec60328feb74a2</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1111/1751-7915.70072</prism:doi>
+        <guid>http://doi.org/10.1111/1751-7915.70072</guid>
+    </item>
+
+    <item>
+        <title>Artificial intelligence driven innovations in biochemistry: A review of emerging research frontiers</title>
+        <link>https://www.semanticscholar.org/paper/fa06241dfa98d42974532dd314b87d14ad5dc33f</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.17305/bb.2024.11537</prism:doi>
+        <guid>http://doi.org/10.17305/bb.2024.11537</guid>
+    </item>
+
+    <item>
+        <title>Artificial Intelligence Tools Addressing Challenges of Cancer Progression Due to Antimicrobial Resistance in Pathogenic Biofilm Systems</title>
+        <link>https://www.semanticscholar.org/paper/a86fd4458cbbe7f1ea491d93c1b5ec31da8d272d</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.37256/aie.6120255553</prism:doi>
+        <guid>http://doi.org/10.37256/aie.6120255553</guid>
+    </item>
+
+    <item>
+        <title>Learning the language of life with AI.</title>
+        <link>https://www.semanticscholar.org/paper/864031c9cc2195153f6fc08fed9d67131ddee8c4</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1126/science.adv4414</prism:doi>
+        <guid>http://doi.org/10.1126/science.adv4414</guid>
+    </item>
+
+    <item>
+        <title>Large language models facilitating modern molecular biology and novel drug development</title>
+        <link>https://www.semanticscholar.org/paper/d7157f73a59c3a619549217e6d27884bebedf419</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.3389/fphar.2024.1458739</prism:doi>
+        <guid>http://doi.org/10.3389/fphar.2024.1458739</guid>
+    </item>
+
+    <item>
+        <title>From multi-omics to predictive biomarker: AI in tumor microenvironment</title>
+        <link>https://www.semanticscholar.org/paper/6ae86bc78b187c0ca15b977156b8a2bd41d91be9</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.3389/fimmu.2024.1514977</prism:doi>
+        <guid>http://doi.org/10.3389/fimmu.2024.1514977</guid>
+    </item>
+
+    <item>
+        <title>Advancements and Applications of Protein Structure Prediction Algorithms</title>
+        <link>https://www.semanticscholar.org/paper/6567678e2b6869ead0953704efdb926294daeebb</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.54254/2753-8818/2024.la18791</prism:doi>
+        <guid>http://doi.org/10.54254/2753-8818/2024.la18791</guid>
+    </item>
+
+    <item>
+        <title>Empowering biomedical discovery with AI agents</title>
+        <link>https://pubmed.ncbi.nlm.nih.gov/39486399/</link>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://pubmed.ncbi.nlm.nih.gov/39486399/</guid>
+    </item>
+
+    <item>
+        <title>Transformers in single-cell omics: a review and new perspectives</title>
+        <link>https://www.nature.com/articles/s41592-024-02353-z</link>
+        <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-024-02353-z</guid>
+    </item>
+
+    <item>
+        <title>Language models for biological research: a primer</title>
+        <link>https://www.nature.com/articles/s41592-024-02354-y</link>
+        <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-024-02354-y</guid>
+    </item>
+
+    <item>
+        <title>Foundation models for bioinformatics</title>
+        <link>https://onlinelibrary.wiley.com/doi/10.1002/qub2.69</link>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://onlinelibrary.wiley.com/doi/10.1002/qub2.69</guid>
+    </item>
+
+    <item>
+        <title>Drug Response Omics association MAp (DROMA, 卓玛)</title>
+        <link></link>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid></guid>
+    </item>
+
+    <item>
+        <title>X-Atlas/Orion: Genome-wide Perturb-seq Datasets via a Scalable Fix-Cryopreserve Platform for Training Dose-Dependent Biological Foundation Models</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.11.659105v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.11.659105v1</guid>
+    </item>
+
+    <item>
+        <title>scCompass: An Integrated Multi‐Species scRNA‐seq Database for AI‐Ready</title>
+        <link>https://www.semanticscholar.org/paper/f5af8e3f7acd968b7baeb788f5b33cf7d868616e</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1002/advs.202500870</prism:doi>
+        <guid>http://doi.org/10.1002/advs.202500870</guid>
+    </item>
+
+    <item>
+        <title>AlphaLasso—a web server to identify loop and lasso motifs in 3D structure of biopolymers</title>
+        <link>https://www.semanticscholar.org/paper/b2f16f79e6dc815d09b2892db7d3ca1d8a766478</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1093/nar/gkaf375</prism:doi>
+        <guid>http://doi.org/10.1093/nar/gkaf375</guid>
+    </item>
+
+    <item>
+        <title>scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions</title>
+        <link>https://www.nature.com/articles/s41592-025-02651-0</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-025-02651-0</guid>
+    </item>
+
+    <item>
+        <title>uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization</title>
+        <link>https://www.semanticscholar.org/paper/e3ce9b990c9604648ad39e38275cd61b7711415a</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1093/bioinformatics/btaf149</prism:doi>
+        <guid>http://doi.org/10.1093/bioinformatics/btaf149</guid>
+    </item>
+
+    <item>
+        <title>OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling</title>
+        <link>https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2504.02148</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2504.02148</guid>
+    </item>
+
+    <item>
+        <title>Abstract 1087: The evolving landscape of cancer transcriptomics data</title>
+        <link>https://www.semanticscholar.org/paper/fcfbebdd995f3f1fc4592e08c4ed7e08c5ae2da1</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1158/1538-7445.am2025-1087</prism:doi>
+        <guid>http://doi.org/10.1158/1538-7445.am2025-1087</guid>
+    </item>
+
+    <item>
+        <title>RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy</title>
+        <link>https://arxiv.org/abs/2503.20158v2</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://arxiv.org/abs/2503.20158v2</guid>
+    </item>
+
+    <item>
+        <title>scBaseCount: an AI agent-curated, uniformly processed, and continually expanding single cell data repository</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.02.27.640494v2</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.02.27.640494v2</guid>
+    </item>
+
+    <item>
+        <title>Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.02.20.639398v3</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.02.20.639398v3</guid>
+    </item>
+
+    <item>
+        <title>Literature-scaled immunological gene set annotation using AI-powered immune cell knowledge graph (ICKG)</title>
+        <link>https://www.semanticscholar.org/paper/b51970fcc636348932f171cf220d810b5a873ba0</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.02.19.639172</prism:doi>
+        <guid>http://doi.org/10.1101/2025.02.19.639172</guid>
+    </item>
+
+    <item>
+        <title>M3-20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery</title>
+        <link>https://www.semanticscholar.org/paper/aa3a1bbd4f6ec6934ce6a3850991747f563ab3b0</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2412.06847</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2412.06847</guid>
+    </item>
+
+    <item>
+        <title>BioMedGraphica: An All-in-One Platform for Biomedical Prior Knowledge and Omic Signaling Graph Generation</title>
+        <link>https://www.semanticscholar.org/paper/212898d49afdf60a12eeda9935bc54d748da3089</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2024.12.05.627020</prism:doi>
+        <guid>http://doi.org/10.1101/2024.12.05.627020</guid>
+    </item>
+
+    <item>
+        <title>Basic Science and Pathogenesis.</title>
+        <link>https://www.semanticscholar.org/paper/28d30ecee02ba1039bd83c77d3131c7c744dad26</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1002/alz.092685</prism:doi>
+        <guid>http://doi.org/10.1002/alz.092685</guid>
+    </item>
+
+    <item>
+        <title>Signals in the Cells: Multimodal and Contextualized Machine Learning Foundations for Therapeutics</title>
+        <link>https://www.biorxiv.org/content/10.1101/2024.06.12.598655v3</link>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2024.06.12.598655v3</guid>
+    </item>
+
+    <item>
+        <title>Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (Cell Painting Gallery)</title>
+        <link>https://www.nature.com/articles/s41592-024-02241-6</link>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-024-02241-6</guid>
+    </item>
+
+    <item>
+        <title>scPerturb: harmonized single-cell perturbation data</title>
+        <link>https://www.nature.com/articles/s41592-023-02144-y</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.nature.com/articles/s41592-023-02144-y</guid>
+    </item>
+
+    <item>
+        <title>Fundamental Limitations of Foundation Models in Single-Cell Transcriptomics</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1</guid>
+    </item>
+
+    <item>
+        <title>Cell-Eval(Predicting cellular responses to perturbation across diverse contexts with State)</title>
+        <link>https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1</link>
+        <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1</guid>
+    </item>
+
+    <item>
+        <title>The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature</title>
+        <link>https://www.semanticscholar.org/paper/8738c78f5a2c2d94dcfc34ada047ed7e51dfbe8a</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1038/s41598-025-99290-4</prism:doi>
+        <guid>http://doi.org/10.1038/s41598-025-99290-4</guid>
+    </item>
+
+    <item>
+        <title>CellVerse: Do Large Language Models Really Understand Cell Biology?</title>
+        <link>https://www.semanticscholar.org/paper/4dd1c628a26c7b13c98e975c7ae8b5c16fbc320e</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2505.07865</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2505.07865</guid>
+    </item>
+
+    <item>
+        <title>Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications</title>
+        <link>https://www.semanticscholar.org/paper/59087a91539883877289ceb562272f1cc13e9545</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.05.13.653828</prism:doi>
+        <guid>http://doi.org/10.1101/2025.05.13.653828</guid>
+    </item>
+
+    <item>
+        <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
+        <link>https://www.semanticscholar.org/paper/2dde8c82b5b59d46224f68e760ce5965a847e9c2</link>
+        <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2505.05612</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2505.05612</guid>
+    </item>
+
+    <item>
+        <title>Zero-shot evaluation reveals limitations of single-cell foundation models</title>
+        <link>https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x</guid>
+    </item>
+
+    <item>
+        <title>OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling</title>
+        <link>https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2504.02148</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2504.02148</guid>
+    </item>
+
+    <item>
+        <title>Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling</title>
+        <link>https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1158/1538-7445.am2025-6316</prism:doi>
+        <guid>http://doi.org/10.1158/1538-7445.am2025-6316</guid>
+    </item>
+
+    <item>
+        <title>Distinct social-linguistic processing between humans and large audio-language models: Evidence from model-brain alignment</title>
+        <link>https://www.semanticscholar.org/paper/47e39f3d5f62dbf4079be48a77f540baea3f689d</link>
+        <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2503.19586</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2503.19586</guid>
+    </item>
+
+    <item>
+        <title>BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning</title>
+        <link>https://www.semanticscholar.org/paper/1456f9a8717ea2987897172a3e855970302cc373</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.16660</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.16660</guid>
+    </item>
+
+    <item>
+        <title>The Skin Game: Revolutionizing Standards for AI Dermatology Model Comparison</title>
+        <link>https://www.semanticscholar.org/paper/79dd24bdeaefadf1681d1d68104a02ba78c9c91d</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2502.02500</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2502.02500</guid>
+    </item>
+
+    <item>
+        <title>Consequences of training data composition for deep learning models in single-cell biology</title>
+        <link>https://www.semanticscholar.org/paper/fa6f62ba24bfa8f771c0f01f6a0ecbd81b253088</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.02.19.639127</prism:doi>
+        <guid>http://doi.org/10.1101/2025.02.19.639127</guid>
+    </item>
+
+    <item>
+        <title>CARDBiomedBench: A Benchmark for Evaluating Large Language Model Performance in Biomedical Research</title>
+        <link>https://www.semanticscholar.org/paper/8b9312c65220e7ef9c5edfc5b3b9f8bb259e1444</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.01.15.633272</prism:doi>
+        <guid>http://doi.org/10.1101/2025.01.15.633272</guid>
+    </item>
+
+    <item>
+        <title>Large Language Models Think Too Fast To Explore Effectively</title>
+        <link>https://www.semanticscholar.org/paper/7d4202a3e3801d6304e0e2463c49d033b37da77d</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2501.18009</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2501.18009</guid>
+    </item>
+
+    <item>
+        <title>Sequence Modeling Is Not Evolutionary Reasoning</title>
+        <link>https://www.semanticscholar.org/paper/f62b34cfa37bc9066affe185da5349f4c9ef9fb0</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.1101/2025.01.17.633626</prism:doi>
+        <guid>http://doi.org/10.1101/2025.01.17.633626</guid>
+    </item>
+
+    <item>
+        <title>PerturBench: Benchmarking Machine Learning Models for Cellular Perturbation Analysis</title>
+        <link>https://neurips.cc/virtual/2024/102911</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism"></prism:doi>
+        <guid>https://neurips.cc/virtual/2024/102911</guid>
+    </item>
+
+    <item>
+        <title>Does your model understand genes? A benchmark of gene properties for biological and text models</title>
+        <link>https://www.semanticscholar.org/paper/7eb6e6bce59f3e724ae3365b1348627dfd73c409</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        <description></description>
+        <prism:volume xmlns:prism="prism"></prism:volume>
+        <prism:number xmlns:prism="prism"></prism:number>
+        <prism:startingPage xmlns:prism="prism"></prism:startingPage>
+        <prism:endingPage xmlns:prism="prism"></prism:endingPage>
+        <prism:doi xmlns:prism="prism">10.48550/arXiv.2412.04075</prism:doi>
+        <guid>http://doi.org/10.48550/arXiv.2412.04075</guid>
+    </item>
+</channel>
+</rss>
