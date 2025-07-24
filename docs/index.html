@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Awesome AI Meets Biology</title>
-    <meta name="description" content="A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research - covering foundation models, AI agents, tools, and more.">
+    <meta name="description" content="A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research - covering foundation models, AI agents and more.">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
@@ -468,10 +468,6 @@
                     <div class="stat-label">Foundation Models</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number" id="ai-tools-count"></div>
-                    <div class="stat-label">AI Tools</div>
-                </div>
-                <div class="stat-item">
                     <div class="stat-number" id="databases-count"></div>
                     <div class="stat-label">Databases</div>
                 </div>
@@ -522,9 +518,6 @@
             </a>
             <a href="#foundation-models" class="nav-tab" data-section="foundation-models">
                 <i class="fas fa-brain"></i> Foundation Models (<span id="foundation-models-nav-count"></span>)
-            </a>
-            <a href="#ai-tools" class="nav-tab" data-section="ai-tools">
-                <i class="fas fa-tools"></i> AI Tools (<span id="ai-tools-nav-count"></span>)
             </a>
             <a href="#databases" class="nav-tab" data-section="databases">
                 <i class="fas fa-database"></i> Databases (<span id="databases-nav-count"></span>)
@@ -625,31 +618,6 @@
                     </div>
                 </section>
 
-                <!-- AI Tools Section -->
-                <section class="section" id="ai-tools">
-                    <div class="section-header">
-                        <i class="fas fa-tools"></i>
-                        <h2 class="section-title">AI Tools</h2>
-                        <span class="section-count" id="ai-tools-section-count"></span>
-                    </div>
-                    <div class="table-container">
-                        <table class="data-table">
-                            <thead>
-                                <tr>
-                                    <th>Year</th>
-                                    <th>Title</th>
-                                    <th>Domain</th>
-                                    <th>Venue</th>
-                                    <th>Links</th>
-                                </tr>
-                            </thead>
-                            <tbody id="ai-tools-tbody">
-                                <!-- Data will be populated by JavaScript -->
-                            </tbody>
-                        </table>
-                    </div>
-                </section>
-
                 <!-- Databases Section -->
                 <section class="section" id="databases">
                     <div class="section-header">
@@ -715,6 +683,7 @@
                                 <tr>
                                     <th>Year</th>
                                     <th>Title</th>
+                                    <th>Team</th>
                                     <th>Domain</th>
                                     <th>Venue</th>
                                     <th>Links</th>
@@ -880,7 +849,6 @@
             const categoryNames = {
                 'ai-agents': 'AI Agents',
                 'foundation-models': 'Foundation Models',
-                'ai-tools': 'AI Tools',
                 'databases': 'Databases',
                 'benchmarks': 'Benchmarks',
                 'reviews': 'Reviews'
@@ -892,46 +860,25 @@
             const githubStarsImg = item.githubStars ? 
                 `<img src="${item.githubStars}" alt="GitHub Stars" class="github-stars">` : '';
             
-            if (sectionType === 'ai-tools' || sectionType === 'reviews') {
-                return `
-                    <tr>
-                        <td>${item.year}</td>
-                        <td>
-                            <div class="paper-title">${item.title}</div>
-                        </td>
-                        <td><span class="domain-tag">${item.domain}</span></td>
-                        <td><span class="venue-badge">${item.venue}</span></td>
-                        <td>
-                            ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
-                                <i class="fas fa-external-link-alt"></i> Paper
-                            </a>` : ''}
-                            ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
-                                <i class="fab fa-github"></i> Code
-                            </a> ${githubStarsImg}` : ''}
-                        </td>
-                    </tr>
-                `;
-            } else {
-                return `
-                    <tr>
-                        <td>${item.year}</td>
-                        <td>
-                            <div class="paper-title">${item.title}</div>
-                        </td>
-                        <td><span class="team-info">${item.team}</span></td>
-                        <td><span class="domain-tag">${item.domain}</span></td>
-                        <td><span class="venue-badge">${item.venue}</span></td>
-                        <td>
-                            ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
-                                <i class="fas fa-external-link-alt"></i> Paper
-                            </a>` : ''}
-                            ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
-                                <i class="fab fa-github"></i> Code
-                            </a> ${githubStarsImg}` : ''}
-                        </td>
-                    </tr>
-                `;
-            }
+            return `
+                <tr>
+                    <td>${item.year}</td>
+                    <td>
+                        <div class="paper-title">${item.title}</div>
+                    </td>
+                    <td><span class="team-info">${item.team || ''}</span></td>
+                    <td><span class="domain-tag">${item.domain}</span></td>
+                    <td><span class="venue-badge">${item.venue}</span></td>
+                    <td>
+                        ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
+                            <i class="fas fa-external-link-alt"></i> Paper
+                        </a>` : ''}
+                        ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
+                            <i class="fab fa-github"></i> Code
+                        </a> ${githubStarsImg}` : ''}
+                    </td>
+                </tr>
+            `;
         }
 
         function createAllProjectsTableRow(item) {
@@ -966,12 +913,11 @@
             categoryChart = new Chart(categoryCtx, {
                 type: 'doughnut',
                 data: {
-                    labels: ["AI Agents", "Foundation Models", "AI Tools", "Databases/Simulation", "Benchmarks", "Reviews"],
+                    labels: ["AI Agents", "Foundation Models", "Databases/Simulation", "Benchmarks", "Reviews"],
                     datasets: [{
                         data: [
                             stats["ai-agents"],
                             stats["foundation-models"],
-                            stats["ai-tools"],
                             stats["databases"],
                             stats["benchmarks"],
                             stats["reviews"]
@@ -979,7 +925,6 @@
                         backgroundColor: [
                             '#667eea',
                             '#764ba2',
-                            '#f093fb',
                             '#f5576c',
                             '#4facfe',
                             '#43e97b'
