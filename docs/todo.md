@@ -6,6 +6,7 @@ This document tracks the development progress, future plans, and known issues fo
 
 - [ ] layout add a button to scroll up or down
 
+- [ ] Add description tell about the files in the project.
 
 ## ✅ Completed Tasks
 

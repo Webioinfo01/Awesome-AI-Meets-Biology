@@ -410,6 +410,51 @@
             font-weight: 600;
         }
 
+        /* Scroll Buttons */
+        .scroll-button {
+            position: fixed;
+            right: 20px;
+            z-index: 999;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+            cursor: pointer;
+        }
+
+        .scroll-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            background: linear-gradient(135deg, #5a6fcf 0%, #68428d 100%);
+        }
+
+        .scroll-button .scroll-icon {
+            font-size: 16px;
+            transition: transform 0.3s ease;
+        }
+
+        .scroll-button:hover .scroll-icon {
+            transform: scale(1.2);
+        }
+
+        #scroll-to-bottom-button {
+            top: 80px;
+        }
+
+        #scroll-to-top-button {
+            top: 140px;
+        }
+
         @keyframes pulse {
             0%, 100% { opacity: 1; }
             50% { opacity: 0.7; }
@@ -426,6 +471,18 @@
                 padding: 10px 16px;
                 font-size: 13px;
             }
+            .scroll-button {
+                padding: 10px 16px;
+                font-size: 13px;
+            }
+            #scroll-to-bottom-button {
+                top: 70px;
+                right: 15px;
+            }
+            #scroll-to-top-button {
+                top: 130px;
+                right: 15px;
+            }
         }
     </style>
   </head>
@@ -438,6 +495,16 @@
         <i class="fas fa-star star-icon"></i>
         <span class="star-text">Star on GitHub</span>
     </a>
+
+    <!-- Scroll Buttons -->
+    <button id="scroll-to-bottom-button" class="scroll-button" title="Scroll to Bottom">
+        <i class="fas fa-arrow-down scroll-icon"></i>
+        <span class="scroll-text">Scroll Down</span>
+    </button>
+    <button id="scroll-to-top-button" class="scroll-button" title="Scroll to Top" style="display: none;">
+        <i class="fas fa-arrow-up scroll-icon"></i>
+        <span class="scroll-text">Scroll Up</span>
+    </button>
 
     <header class="header">
         <div class="container">
@@ -748,6 +815,7 @@
             }
             init();
             initStarButton();
+            initScrollButtons();
           })
           .catch(error => {
             console.error('load data.json failed:', error);
@@ -1058,6 +1126,45 @@
                     }, 6000);
                 }, 3000);
             }
+        }
+
+        // Add scroll-to-top and scroll-to-bottom buttons
+        function initScrollButtons() {
+            const topButton = document.getElementById('scroll-to-top-button');
+            const bottomButton = document.getElementById('scroll-to-bottom-button');
+
+            if (!topButton || !bottomButton) return;
+
+            function updateScrollButtons() {
+                const scrollY = window.scrollY;
+                const pageHeight = document.documentElement.scrollHeight;
+                const viewportHeight = document.documentElement.clientHeight;
+
+                // Show "Scroll to Top" button
+                if (scrollY > 300) {
+                    topButton.style.display = 'flex';
+                } else {
+                    topButton.style.display = 'none';
+                }
+
+                // Hide "Scroll to Bottom" button when near the bottom
+                if (scrollY + viewportHeight >= pageHeight - 100) {
+                    bottomButton.style.display = 'none';
+                } else {
+                    bottomButton.style.display = 'flex';
+                }
+            }
+
+            topButton.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+
+            bottomButton.addEventListener('click', () => {
+                window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+            });
+
+            window.addEventListener('scroll', updateScrollButtons, { passive: true });
+            updateScrollButtons(); // Set initial state on load
         }
 
         // Initialize when page loads
