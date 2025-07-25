@@ -708,8 +708,8 @@
                 <a href="https://github.com/Webioinfo01/Awesome-AI-Meets-Biology" class="footer-link">
                     <i class="fas fa-file-text"></i> README
                 </a>
-                <!-- MODIFIED: Link now has an ID and href="#" to be handled by JS -->
-                <a href="#" id="rss-link" class="footer-link">
+                <!-- MODIFIED: Link now points to the static rss.xml file -->
+                <a href="rss.xml" class="footer-link" target="_blank">
                     <i class="fas fa-rss"></i> RSS Feed
                 </a>
                 <a href="mailto:yc47680@um.edu.mo" class="footer-link">
@@ -798,10 +798,7 @@
             // Smooth scrolling for navigation
             document.querySelectorAll('a[href^="#"]').forEach(anchor => {
                 anchor.addEventListener('click', function (e) {
-                    // Prevent default for nav tabs, but allow for the RSS link
-                    if (this.id !== 'rss-link') {
-                        e.preventDefault();
-                    }
+                    e.preventDefault();
                     const target = document.querySelector(this.getAttribute('href'));
                     if (target) {
                         target.scrollIntoView({
@@ -811,89 +808,10 @@
                     }
                 });
             });
-
-            // ADDED: Event listener for the new RSS link
-            document.getElementById('rss-link').addEventListener('click', (e) => {
-                e.preventDefault();
-                generateAndShowRss();
-            });
         }
 
-        // ADDED: Function to generate and serve the RSS feed
-        function generateAndShowRss() {
-            // Check if project data is loaded
-            if (Object.keys(projectData).length === 0) {
-                console.error("Project data not loaded yet.");
-                return;
-            }
-
-            // Combine all projects into a single array and sort by year (newest first)
-            const allProjects = Object.values(projectData).flat().sort((a, b) => {
-                const yearA = parseFloat(a.year);
-                const yearB = parseFloat(b.year);
-                return yearB - yearA;
-            });
-
-            // Start building the XML string for the RSS feed
-            let rss = `<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title>Awesome AI Meets Biology</title>
-  <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
-  <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
-  <language>en-us</language>
-  <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-  <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />`;
-
-            // Helper function to escape XML special characters
-            const escapeXML = (str) => {
-                if (typeof str !== 'string') return '';
-                return str.replace(/[<>&'"]/g, c => ({
-                    '<': '&lt;',
-                    '>': '&gt;',
-                    '&': '&amp;',
-                    '"': '&quot;',
-                    "'": '&apos;'
-                }[c]));
-            };
-
-            // Add each project as an <item> in the RSS feed
-            allProjects.forEach(item => {
-                const itemLink = item.paperUrl || item.codeUrl || 'https://webioinfo01.github.io/Awesome-AI-Meets-Biology/';
-                const pubDate = new Date(String(item.year)).toUTCString();
-                
-                // Use a unique but stable GUID
-                const guid = (item.title + item.year).replace(/[^a-zA-Z0-9]/g, '');
-
-                rss += `
-  <item>
-    <title>${escapeXML(item.title)}</title>
-    <link>${escapeXML(itemLink)}</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> ${escapeXML(item.team) || 'N/A'}</p>
-        <p><b>Domain:</b> ${escapeXML(item.domain)}</p>
-        <p><b>Venue:</b> ${escapeXML(item.venue)}</p>
-        ${item.paperUrl ? `<p><a href="${escapeXML(item.paperUrl)}">Read the Paper</a></p>` : ''}
-        ${item.codeUrl ? `<p><a href="${escapeXML(item.codeUrl)}">View the Code</a></p>` : ''}
-      ]]>
-    </description>
-    <pubDate>${pubDate}</pubDate>
-    <guid isPermaLink="false">${guid}</guid>
-  </item>`;
-            });
-
-            rss += `
-</channel>
-</rss>`;
-
-            // Create a Blob from the XML string and open it in a new tab
-            const blob = new Blob([rss], { type: 'application/rss+xml' });
-            const url = URL.createObjectURL(blob);
-            window.open(url, '_blank');
-            URL.revokeObjectURL(url); // Clean up the object URL
-        }
-
+        // REMOVED: The dynamic RSS generation function is no longer needed here.
+        // It has been moved to a separate Node.js script.
 
         function populateData() {
             // Populate each section with data
