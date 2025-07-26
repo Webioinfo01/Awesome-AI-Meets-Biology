@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monthly Reports - Awesome AI Meets Biology</title>
+    <meta name="description" content="Monthly research reports on AI applications in biology, bioinformatics, and biomedical research">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highlight.js@11.7.0/lib/highlight.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.7.0/styles/github.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1.5rem 0;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-left: 280px;
+            transition: margin-left 0.3s ease;
+        }
+
+        .header.expanded {
+            margin-left: 0;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .nav-breadcrumb {
+            background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+            padding: 1rem 0;
+            border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            margin-left: 280px;
+            transition: margin-left 0.3s ease;
+        }
+
+        .nav-breadcrumb.expanded {
+            margin-left: 0;
+        }
+
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 0.95rem;
+            font-weight: 500;
+        }
+
+        .breadcrumb a {
+            color: #667eea;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .breadcrumb a:hover {
+            background: rgba(102, 126, 234, 0.1);
+            color: #5a6fcf;
+            transform: translateY(-1px);
+        }
+
+        .breadcrumb .separator {
+            color: #999;
+            font-weight: 300;
+        }
+
+        .main-content {
+            display: flex;
+            gap: 0;
+            padding: 0;
+            min-height: calc(100vh - 200px);
+        }
+
+        .sidebar {
+            width: 280px;
+            background: #2c3e50;
+            color: white;
+            height: 100vh;
+            position: fixed;
+            left: 0;
+            top: 0;
+            overflow-y: auto;
+            z-index: 1000;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .sidebar.collapsed {
+            transform: translateX(-280px);
+        }
+
+        .sidebar::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .sidebar::-webkit-scrollbar-track {
+            background: #34495e;
+        }
+
+        .sidebar::-webkit-scrollbar-thumb {
+            background: #7f8c8d;
+            border-radius: 3px;
+        }
+
+        .sidebar::-webkit-scrollbar-thumb:hover {
+            background: #95a5a6;
+        }
+
+        .sidebar h3 {
+            color: white;
+            margin: 0;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 600;
+            padding: 2rem 1.5rem 1rem 1.5rem;
+            border-bottom: 1px solid #34495e;
+            background: #34495e;
+        }
+
+        .report-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .report-item {
+            margin: 0;
+        }
+
+        .report-link {
+            display: flex;
+            flex-direction: column;
+            padding: 1rem 1.5rem;
+            color: #bdc3c7;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border-left: 3px solid transparent;
+            position: relative;
+        }
+
+        .report-link:hover {
+            background: #34495e;
+            color: white;
+            border-left-color: #3498db;
+        }
+
+        .report-link.active {
+            background: #3498db;
+            color: white;
+            border-left-color: #2980b9;
+        }
+
+        .report-date {
+            font-weight: 600;
+            font-size: 0.95rem;
+            margin-bottom: 0.25rem;
+        }
+
+        .report-title {
+            font-size: 0.8rem;
+            opacity: 0.8;
+            font-weight: 400;
+        }
+
+        .report-link.active .report-title {
+            opacity: 0.9;
+        }
+
+        .content-area {
+            flex: 1;
+            margin-left: 280px;
+            background: white;
+            padding: 2rem;
+            min-height: 100vh;
+            overflow-y: auto;
+            transition: margin-left 0.3s ease;
+        }
+
+        .content-area.expanded {
+            margin-left: 0;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #666;
+            background: linear-gradient(135deg, #f8f9ff 0%, #f0f2ff 100%);
+            border-radius: 15px;
+            border: 1px solid rgba(102, 126, 234, 0.1);
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1.5rem;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error-message {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #d32f2f;
+            background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%);
+            border-radius: 15px;
+            border: 1px solid rgba(211, 47, 47, 0.1);
+        }
+
+        .error-message i {
+            font-size: 4rem;
+            margin-bottom: 1.5rem;
+            opacity: 0.6;
+            color: #d32f2f;
+        }
+
+        .error-message h3 {
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        /* Markdown Content Styles */
+        .markdown-content {
+            line-height: 1.8;
+        }
+
+        .markdown-content h1 {
+            color: #333;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #667eea;
+        }
+
+        .markdown-content h2 {
+            color: #444;
+            font-size: 1.5rem;
+            margin: 2rem 0 1rem 0;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #eee;
+        }
+
+        .markdown-content h3 {
+            color: #555;
+            font-size: 1.2rem;
+            margin: 1.5rem 0 0.75rem 0;
+        }
+
+        .markdown-content h4 {
+            color: #666;
+            font-size: 1.1rem;
+            margin: 1.25rem 0 0.5rem 0;
+        }
+
+        .markdown-content p {
+            margin-bottom: 1rem;
+            text-align: justify;
+        }
+
+        .markdown-content ul, .markdown-content ol {
+            margin: 1rem 0;
+            padding-left: 2rem;
+        }
+
+        .markdown-content li {
+            margin-bottom: 0.5rem;
+        }
+
+        .markdown-content blockquote {
+            border-left: 4px solid #667eea;
+            padding-left: 1rem;
+            margin: 1.5rem 0;
+            font-style: italic;
+            color: #666;
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .markdown-content code {
+            background: #f1f3f4;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 0.9em;
+        }
+
+        .markdown-content pre {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 1rem 0;
+            border: 1px solid #e9ecef;
+        }
+
+        .markdown-content pre code {
+            background: none;
+            padding: 0;
+        }
+
+        .markdown-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+        }
+
+        .markdown-content th,
+        .markdown-content td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        .markdown-content th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .markdown-content tr:hover {
+            background: #f8f9fa;
+        }
+
+        .markdown-content a {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        .markdown-content a:hover {
+            text-decoration: underline;
+        }
+
+        .markdown-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 1rem 0;
+        }
+
+        .markdown-content hr {
+            border: none;
+            border-top: 1px solid #eee;
+            margin: 2rem 0;
+        }
+
+        /* Navigation buttons */
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 3rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, #f8f9ff 0%, #f0f2ff 100%);
+            border-radius: 15px;
+            border: 1px solid rgba(102, 126, 234, 0.1);
+        }
+
+        .nav-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 1rem 2rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+            border: 2px solid transparent;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .nav-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: left 0.5s;
+        }
+
+        .nav-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+            color: white;
+            text-decoration: none;
+            border-color: rgba(255,255,255,0.3);
+        }
+
+        .nav-button:hover::before {
+            left: 100%;
+        }
+
+        .nav-button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+            transform: none;
+            background: #ccc;
+        }
+
+        .nav-button:disabled:hover {
+            transform: none;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        .nav-button:disabled::before {
+            display: none;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .main-content {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                position: relative;
+                width: 100%;
+                height: auto;
+                max-height: 300px;
+                transform: none !important;
+            }
+
+            .content-area {
+                margin-left: 0 !important;
+                padding: 1rem;
+            }
+
+            .header {
+                margin-left: 0 !important;
+                padding: 1rem 0;
+            }
+
+            .nav-breadcrumb {
+                margin-left: 0 !important;
+                padding: 0.75rem 0;
+            }
+
+            .sidebar-toggle {
+                display: none;
+            }
+
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .header p {
+                font-size: 0.9rem;
+            }
+
+            .nav-buttons {
+                flex-direction: column;
+                gap: 1rem;
+                padding: 1.5rem;
+                margin-top: 2rem;
+            }
+
+            .nav-button {
+                justify-content: center;
+                padding: 0.875rem 1.5rem;
+                font-size: 0.9rem;
+            }
+
+            .breadcrumb {
+                font-size: 0.85rem;
+                gap: 0.5rem;
+            }
+
+            .breadcrumb a {
+                padding: 0.375rem 0.75rem;
+            }
+
+            .report-link {
+                padding: 0.875rem 1rem;
+            }
+
+            .report-date {
+                font-size: 0.9rem;
+            }
+
+            .report-title {
+                font-size: 0.8rem;
+            }
+        }
+
+        /* Back to top button */
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: all 0.3s;
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        .back-to-top.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .back-to-top:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            color: white;
+        }
+
+        /* GitHub Star Button */
+        .github-star-button {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: linear-gradient(135deg, #333 0%, #555 100%);
+            color: white;
+            padding: 12px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .github-star-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            background: linear-gradient(135deg, #444 0%, #666 100%);
+            color: white;
+            text-decoration: none;
+        }
+
+        .github-star-button .star-icon {
+            font-size: 16px;
+            color: #ffd700;
+            transition: transform 0.3s ease;
+        }
+
+        .github-star-button:hover .star-icon {
+            transform: scale(1.2) rotate(20deg);
+        }
+
+        /* Sidebar Toggle Button */
+        .sidebar-toggle {
+            position: fixed;
+            top: 15px;
+            left: 15px;
+            z-index: 1001;
+            background: rgba(52, 73, 94, 0.8);
+            color: #ecf0f1;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 8px 12px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .sidebar-toggle:hover {
+            background: rgba(52, 73, 94, 0.9);
+            color: white;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        .sidebar-toggle.sidebar-hidden {
+            left: 15px;
+        }
+
+        .sidebar-toggle.sidebar-visible {
+            left: 295px;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar Toggle Button -->
+    <button class="sidebar-toggle" id="sidebarToggle" title="Toggle Sidebar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <!-- GitHub Star Button -->
+    <a href="https://github.com/webioinfo01/Awesome-AI-Meets-Biology" 
+       class="github-star-button" 
+       target="_blank" 
+       title="Star this project on GitHub">
+        <i class="fas fa-star star-icon"></i>
+        <span class="star-text">Star on GitHub</span>
+    </a>
+
+    <header class="header">
+        <div class="container">
+            <h1><i class="fas fa-chart-line"></i> Monthly Reports</h1>
+            <p>Comprehensive monthly research reports on AI applications in biology, bioinformatics, and biomedical research</p>
+        </div>
+    </header>
+
+    <nav class="nav-breadcrumb">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="index.html"><i class="fas fa-home"></i> Home</a>
+                <span class="separator">/</span>
+                <span>Monthly Reports</span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="main-content">
+        <div class="container">
+            <aside class="sidebar">
+                <h3><i class="fas fa-calendar-alt"></i> Reports</h3>
+                <ul class="report-list" id="reportList">
+                    <!-- Reports will be populated by JavaScript -->
+                </ul>
+            </aside>
+
+            <div class="content-area">
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>Loading monthly report...</p>
+                </div>
+
+                <div class="error-message hidden" id="errorMessage">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <h3>Error Loading Report</h3>
+                    <p id="errorText">Unable to load the selected report. Please try again.</p>
+                </div>
+
+                <div class="markdown-content hidden" id="markdownContent">
+                    <!-- Markdown content will be rendered here -->
+                </div>
+
+                <div class="nav-buttons hidden" id="navButtons">
+                    <a href="#" class="nav-button" id="prevButton">
+                        <i class="fas fa-chevron-left"></i>
+                        Previous Report
+                    </a>
+                    <a href="#" class="nav-button" id="nextButton">
+                        Next Report
+                        <i class="fas fa-chevron-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Back to top button -->
+    <a href="#" class="back-to-top" id="backToTop" title="Back to top">
+        <i class="fas fa-arrow-up"></i>
+    </a>
+
+    <script>
+        // Configure marked.js
+        marked.setOptions({
+            highlight: function(code, lang) {
+                if (lang && hljs.getLanguage(lang)) {
+                    try {
+                        return hljs.highlight(code, { language: lang }).value;
+                    } catch (err) {}
+                }
+                return hljs.highlightAuto(code).value;
+            },
+            breaks: true,
+            gfm: true
+        });
+
+        // Reports will be loaded dynamically
+        let reports = [];
+
+        let currentReportIndex = 0;
+
+        // DOM elements
+        const reportList = document.getElementById('reportList');
+        const loading = document.getElementById('loading');
+        const errorMessage = document.getElementById('errorMessage');
+        const markdownContent = document.getElementById('markdownContent');
+        const navButtons = document.getElementById('navButtons');
+        const prevButton = document.getElementById('prevButton');
+        const nextButton = document.getElementById('nextButton');
+        const backToTop = document.getElementById('backToTop');
+        const sidebarToggle = document.getElementById('sidebarToggle');
+        const sidebar = document.querySelector('.sidebar');
+        const contentArea = document.querySelector('.content-area');
+        const header = document.querySelector('.header');
+        const navBreadcrumb = document.querySelector('.nav-breadcrumb');
+
+        // Initialize the page
+        async function init() {
+            await loadReportsList();
+            if (reports.length > 0) {
+                populateReportList();
+                loadReport(0);
+            } else {
+                showNoReportsMessage();
+            }
+            setupEventListeners();
+        }
+
+        async function loadReportsList() {
+            try {
+                // Load reports from configuration file
+                const response = await fetch('reports-config.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    reports = data.reports || [];
+                    console.log(`Loaded ${reports.length} reports from configuration`);
+                    
+                    // Log metadata if available
+                    if (data.metadata) {
+                        console.log('Configuration metadata:', data.metadata);
+                    }
+                    return;
+                }
+            } catch (error) {
+                console.error('Error loading reports-config.json:', error);
+                console.log('Falling back to directory scanning...');
+            }
+
+            // Fallback: scan directory manually
+            await scanReportsDirectory();
+        }
+
+        async function scanReportsDirectory() {
+            const monthNames = [
+                'January', 'February', 'March', 'April', 'May', 'June',
+                'July', 'August', 'September', 'October', 'November', 'December'
+            ];
+
+            const currentYear = new Date().getFullYear();
+            const startYear = 2020; // Start from 2020
+            const reportsList = [];
+
+            console.log('Scanning for reports...');
+
+            // Try to load reports from current year back to start year
+            for (let year = currentYear; year >= startYear; year--) {
+                for (let month = 12; month >= 1; month--) {
+                    const monthStr = month.toString().padStart(2, '0');
+                    const fileName = `${year}${monthStr}.md`;
+                    const filePath = `month_reports/${fileName}`;
+                    
+                    try {
+                        const response = await fetch(filePath, { method: 'HEAD' });
+                        if (response.ok) {
+                            const monthName = monthNames[month - 1];
+                            reportsList.push({
+                                id: `${year}${monthStr}`,
+                                name: `${monthName} ${year}`,
+                                file: filePath
+                            });
+                            console.log(`✓ Found report: ${fileName}`);
+                        }
+                    } catch (error) {
+                        // File doesn't exist, continue silently
+                    }
+                }
+            }
+
+            reports = reportsList;
+            console.log(`Total reports found: ${reports.length}`);
+            
+            if (reports.length === 0) {
+                console.log('No reports found. Please add markdown files with format: YYYYMM.md');
+            }
+        }
+
+        function populateReportList() {
+            reportList.innerHTML = reports.map((report, index) => `
+                <li class="report-item">
+                    <a href="#" class="report-link ${index === 0 ? 'active' : ''}" data-index="${index}">
+                        <div class="report-date">${report.name}</div>
+                        <div class="report-title">Research Report</div>
+                    </a>
+                </li>
+            `).join('');
+        }
+
+        function showNoReportsMessage() {
+            reportList.innerHTML = `
+                <li class="report-item">
+                    <div style="padding: 2rem; text-align: center; color: #bdc3c7;">
+                        <i class="fas fa-folder-open" style="font-size: 2rem; margin-bottom: 1rem;"></i>
+                        <div>No reports found</div>
+                        <div style="font-size: 0.8rem; margin-top: 0.5rem;">
+                            Please add markdown files to the month_reports folder
+                        </div>
+                    </div>
+                </li>
+            `;
+            
+            markdownContent.innerHTML = `
+                <div style="text-align: center; padding: 4rem 2rem; color: #666;">
+                    <i class="fas fa-file-alt" style="font-size: 4rem; margin-bottom: 2rem; opacity: 0.5;"></i>
+                    <h2>No Reports Available</h2>
+                    <p>No monthly reports were found in the month_reports folder.</p>
+                    <p style="font-size: 0.9rem; margin-top: 1rem;">
+                        <strong>Expected file format:</strong> YYYYMM.md (e.g., 202505.md for May 2025)
+                    </p>
+                </div>
+            `;
+            
+            loading.classList.add('hidden');
+            markdownContent.classList.remove('hidden');
+        }
+
+        function setupEventListeners() {
+            // Report list navigation
+            reportList.addEventListener('click', (e) => {
+                if (e.target.closest('.report-link')) {
+                    e.preventDefault();
+                    const link = e.target.closest('.report-link');
+                    const index = parseInt(link.dataset.index);
+                    loadReport(index);
+                }
+            });
+
+            // Navigation buttons
+            prevButton.addEventListener('click', (e) => {
+                e.preventDefault();
+                if (currentReportIndex > 0) {
+                    loadReport(currentReportIndex - 1);
+                }
+            });
+
+            nextButton.addEventListener('click', (e) => {
+                e.preventDefault();
+                if (currentReportIndex < reports.length - 1) {
+                    loadReport(currentReportIndex + 1);
+                }
+            });
+
+            // Back to top
+            backToTop.addEventListener('click', (e) => {
+                e.preventDefault();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+
+            // Sidebar toggle
+            sidebarToggle.addEventListener('click', toggleSidebar);
+
+            // Scroll event for back to top button
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 300) {
+                    backToTop.classList.add('visible');
+                } else {
+                    backToTop.classList.remove('visible');
+                }
+            });
+
+            // Keyboard navigation
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowLeft' && currentReportIndex > 0) {
+                    loadReport(currentReportIndex - 1);
+                } else if (e.key === 'ArrowRight' && currentReportIndex < reports.length - 1) {
+                    loadReport(currentReportIndex + 1);
+                } else if (e.key === 'Escape') {
+                    toggleSidebar();
+                }
+            });
+        }
+
+        async function loadReport(index) {
+            if (index < 0 || index >= reports.length) return;
+
+            currentReportIndex = index;
+            const report = reports[index];
+
+            console.log('Loading report:', report.file);
+
+            // Update active state in sidebar
+            document.querySelectorAll('.report-link').forEach((link, i) => {
+                link.classList.toggle('active', i === index);
+            });
+
+            // Show loading state
+            showLoading();
+
+            try {
+                const response = await fetch(report.file);
+                console.log('Response status:', response.status);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const markdown = await response.text();
+                console.log('Markdown loaded, length:', markdown.length);
+                
+                const html = marked.parse(markdown);
+                console.log('HTML generated, length:', html.length);
+                
+                markdownContent.innerHTML = html;
+                
+                // Update navigation buttons
+                updateNavigationButtons();
+                
+                // Show content
+                showContent();
+                
+                // Scroll to top
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+                
+            } catch (error) {
+                console.error('Error loading report:', error);
+                showError(`Failed to load ${report.name} report: ${error.message}`);
+            }
+        }
+
+        function showLoading() {
+            loading.classList.remove('hidden');
+            errorMessage.classList.add('hidden');
+            markdownContent.classList.add('hidden');
+            navButtons.classList.add('hidden');
+        }
+
+        function showContent() {
+            console.log('Showing content...');
+            loading.classList.add('hidden');
+            errorMessage.classList.add('hidden');
+            markdownContent.classList.remove('hidden');
+            navButtons.classList.remove('hidden');
+            console.log('Content should be visible now');
+        }
+
+        function showError(message) {
+            loading.classList.add('hidden');
+            errorMessage.classList.remove('hidden');
+            markdownContent.classList.add('hidden');
+            navButtons.classList.add('hidden');
+            
+            document.getElementById('errorText').textContent = message;
+        }
+
+        function updateNavigationButtons() {
+            prevButton.disabled = currentReportIndex === 0;
+            nextButton.disabled = currentReportIndex === reports.length - 1;
+            
+            if (currentReportIndex > 0) {
+                prevButton.href = '#';
+            } else {
+                prevButton.removeAttribute('href');
+            }
+            
+            if (currentReportIndex < reports.length - 1) {
+                nextButton.href = '#';
+            } else {
+                nextButton.removeAttribute('href');
+            }
+        }
+
+        function toggleSidebar() {
+            const isCollapsed = sidebar.classList.contains('collapsed');
+            
+            if (isCollapsed) {
+                // Show sidebar
+                sidebar.classList.remove('collapsed');
+                contentArea.classList.remove('expanded');
+                header.classList.remove('expanded');
+                navBreadcrumb.classList.remove('expanded');
+                sidebarToggle.classList.remove('sidebar-hidden');
+                sidebarToggle.classList.add('sidebar-visible');
+                sidebarToggle.innerHTML = '<i class="fas fa-times"></i>';
+                sidebarToggle.title = 'Hide Sidebar';
+            } else {
+                // Hide sidebar
+                sidebar.classList.add('collapsed');
+                contentArea.classList.add('expanded');
+                header.classList.add('expanded');
+                navBreadcrumb.classList.add('expanded');
+                sidebarToggle.classList.remove('sidebar-visible');
+                sidebarToggle.classList.add('sidebar-hidden');
+                sidebarToggle.innerHTML = '<i class="fas fa-bars"></i>';
+                sidebarToggle.title = 'Show Sidebar';
+            }
+        }
+
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html> 
