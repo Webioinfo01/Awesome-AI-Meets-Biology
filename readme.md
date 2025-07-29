@@ -208,6 +208,7 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 
 | Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
 | -----| ------| -----| -------------| ------------| -------| ------| --------------| -------------|
+| 2025.07 | **Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories** | Paul Macklin |  | Indiana University | Virtual cell | Cell | [Link](https://pubmed.ncbi.nlm.nih.gov/40713951/) | [Link](https://github.com/physicell-models/grammar_samples) ![GitHub Stars](https://img.shields.io/github/stars/physicell-models/grammar_samples) |
 | 2025.07 | **The generative era of medical AI** | Pranav Rajpurkar |  | Harvard Medical School | Medical AI | Cell | [Link](https://pubmed.ncbi.nlm.nih.gov/40645169/) |  |
 | 2025.05 | **Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review** | Rong Luo |  |  | Foundation models in computational microscopy | Advanced Intelligent Systems | [Link](https://www.semanticscholar.org/paper/c1a1785a284ae67ac3fcdfa4fc096a589762e3e2) |  |
 | 2025.04 | **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions** |  |  |  | MCP for agents | arXiv | [Link](https://arxiv.org/abs/2503.23278) |  |

@@ -3,9 +3,9 @@
 <channel>
   <title>Awesome AI Meets Biology</title>
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
-  <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research. \n feedId:171392110167744512+userId:171382014901463040</description>
+  <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 25 Jul 2025 02:01:14 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Jul 2025 08:30:16 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Drug Response Omics association MAp (DROMA, 卓玛)</title>
@@ -108,6 +108,21 @@
     </description>
     <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">RiNALMogeneralpurposeRNAlanguagemodelscangeneralizewellonstructurepredictiontasks202507</guid>
+  </item>
+  <item>
+    <title>Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories</title>
+    <link>https://pubmed.ncbi.nlm.nih.gov/40713951/</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Paul Macklin</p>
+        <p><b>Domain:</b> Virtual cell</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://pubmed.ncbi.nlm.nih.gov/40713951/">Read the Paper</a></p>
+        <p><a href="https://github.com/physicell-models/grammar_samples">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Humaninterpretablegrammarencodesmulticellularsystemsbiologymodelstodemocratizevirtualcelllaboratories202507</guid>
   </item>
   <item>
     <title>The generative era of medical AI</title>

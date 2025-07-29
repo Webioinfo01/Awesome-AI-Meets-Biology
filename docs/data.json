@@ -574,7 +574,7 @@
         },
         {
             "year": "2024.12",
-            "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi\u2010Agent Intelligent Graph Reasoning",
+            "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning",
             "team": "Markus J. Buehler",
             "team website": "",
             "affiliation": "",
@@ -720,7 +720,7 @@
         {
             "year": "2025.07",
             "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
-            "team": "Microsoft Research(Frank No\u00e9)",
+            "team": "Microsoft Research(Frank Noé)",
             "team website": "https://github.com/microsoft",
             "affiliation": "",
             "domain": "Protein",
@@ -849,7 +849,7 @@
         },
         {
             "year": "2025.05",
-            "title": "A visual\u2013omics foundation model to bridge histopathology with spatial transcriptomics",
+            "title": "A visual–omics foundation model to bridge histopathology with spatial transcriptomics",
             "team": "Guangyu Wang",
             "team website": "https://guangyuwanglab.github.io/web/",
             "affiliation": "",
@@ -914,11 +914,11 @@
         },
         {
             "year": "2025.05",
-            "title": "LlamaAffinity: A Predictive Antibody\u2013Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture",
+            "title": "LlamaAffinity: A Predictive Antibody–Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture",
             "team": "J. Chen",
             "team website": "",
             "affiliation": "University of Alabama at Birmingham",
-            "domain": "Antibody\u2013antigen binding affinity prediction using LLM-based models",
+            "domain": "Antibody–antigen binding affinity prediction using LLM-based models",
             "venue": "bioRxiv",
             "paperUrl": "https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6",
             "codeUrl": "",
@@ -1139,7 +1139,7 @@
             "team": "S. Bozdag",
             "team website": "",
             "affiliation": "University of North Texas",
-            "domain": "Drug\u2013target interaction prediction framework",
+            "domain": "Drug–target interaction prediction framework",
             "venue": "bioRxiv",
             "paperUrl": "https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b",
             "codeUrl": "",
@@ -1227,7 +1227,7 @@
         {
             "year": "2025.01",
             "title": "Improving functional protein generation via foundation model-derived latent space likelihood optimization",
-            "team": "C\u00e9sar de la Fuente-Nunez",
+            "team": "César de la Fuente-Nunez",
             "team website": "",
             "affiliation": "University of Pennsylvania",
             "domain": "Generative protein design via PLM latent space optimization",
@@ -1592,7 +1592,7 @@
     "databases": [
         {
             "year": "2025.08",
-            "title": "Drug Response Omics association MAp (DROMA, \u5353\u739b)",
+            "title": "Drug Response Omics association MAp (DROMA, 卓玛)",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1618,7 +1618,7 @@
         },
         {
             "year": "2025.05",
-            "title": "scCompass: An Integrated Multi\u2010Species scRNA\u2010seq Database for AI\u2010Ready",
+            "title": "scCompass: An Integrated Multi‐Species scRNA‐seq Database for AI‐Ready",
             "team": "Yuanchun Zhou",
             "team website": "",
             "affiliation": "",
@@ -1631,7 +1631,7 @@
         },
         {
             "year": "2025.05",
-            "title": "AlphaLasso\u2014a web server to identify loop and lasso motifs in 3D structure of biopolymers",
+            "title": "AlphaLasso—a web server to identify loop and lasso motifs in 3D structure of biopolymers",
             "team": "Joanna I. Sulkowska",
             "team website": "",
             "affiliation": "",
@@ -1644,7 +1644,7 @@
         },
         {
             "year": "2025.04",
-            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell\u2013cell interactions",
+            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1684,7 +1684,7 @@
         {
             "year": "2025.04",
             "title": "Abstract 1087: The evolving landscape of cancer transcriptomics data",
-            "team": "Akp\u00e9li V. Nordor",
+            "team": "Akpéli V. Nordor",
             "team website": "",
             "affiliation": "",
             "domain": "Cancer transcriptomics data mapping",
@@ -1854,7 +1854,7 @@
         },
         {
             "year": "2025.05",
-            "title": "The influence of prompt engineering on large language models for protein\u2013protein interaction identification in biomedical literature",
+            "title": "The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature",
             "team": "Yi-Hsuan Lin",
             "team website": "",
             "affiliation": "",
@@ -2062,6 +2062,18 @@
         }
     ],
     "reviews": [
+        {
+            "year": "2025.07",
+            "title": "Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories",
+            "team": "Paul Macklin",
+            "team website": "",
+            "affiliation": "Indiana University",
+            "domain": "Virtual cell",
+            "venue": "Cell",
+            "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40713951/",
+            "codeUrl": "https://github.com/physicell-models/grammar_samples",
+            "githubStars": "https://img.shields.io/github/stars/physicell-models/grammar_samples"
+        },
         {
             "year": "2025.07",
             "title": "The generative era of medical AI",
@@ -2286,7 +2298,7 @@
         {
             "year": "2025.01",
             "title": "AI Methods for Antimicrobial Peptides: Progress and Challenges",
-            "team": "C\u00e9sar de la Fuente-Nunez",
+            "team": "César de la Fuente-Nunez",
             "team website": "",
             "affiliation": "",
             "domain": "AI methods for antimicrobial peptide design",
