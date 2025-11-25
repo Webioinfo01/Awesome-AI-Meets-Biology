@@ -1,6 +1,6 @@
 month_reports/.DS_Store
 *.db
-updater*.json
+updater.json
 month_reports/config*.json
 *.bak
 docs/.DS_Store
