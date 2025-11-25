@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 29 Jul 2025 08:30:16 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 25 Nov 2025 02:00:26 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>Drug Response Omics association MAp (DROMA, 卓玛)</title>
@@ -214,6 +214,147 @@
     <guid isPermaLink="false">CellVoyagerAICompBioAgentGeneratesNewInsightsbyAutonomouslyAnalyzingBiologicalData202506</guid>
   </item>
   <item>
+    <title>Biomni: A General-Purpose Biomedical AI Agent</title>
+    <link>https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Marinka Zitnik</p>
+        <p><b>Domain:</b> Biomedical AI agent for autonomous research workflows</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1">Read the Paper</a></p>
+        <p><a href="https://biomni.stanford.edu/">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BiomniAGeneralPurposeBiomedicalAIAgent202506</guid>
+  </item>
+  <item>
+    <title>Knowledge-guided Contextual Gene Set Analysis Using Large Language Models</title>
+    <link>https://www.semanticscholar.org/paper/7cb3a28963a5ceb201e4092a4e52644c3436a7c7</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zhiyong Lu</p>
+        <p><b>Domain:</b> Context-aware gene set analysis using large language models</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/7cb3a28963a5ceb201e4092a4e52644c3436a7c7">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">KnowledgeguidedContextualGeneSetAnalysisUsingLargeLanguageModels202506</guid>
+  </item>
+  <item>
+    <title>DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models</title>
+    <link>https://www.semanticscholar.org/paper/4d6ef2e715f81de2ce053c0c48f799c93e4d9309</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> John R. Williams</p>
+        <p><b>Domain:</b> Agentic generative AI for single-cell RNA sequencing data labeling</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/4d6ef2e715f81de2ce053c0c48f799c93e4d9309">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DeepSeqHighThroughputSingleCellRNASequencingDataLabelingviaWebSearchAugmentedAgenticGenerativeAIFoundationModels202506</guid>
+  </item>
+  <item>
+    <title>Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data</title>
+    <link>https://www.semanticscholar.org/paper/f8666b034f4ddd25259d76c5c34e9fbb91dfc917</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Panagiotis Alexiou</p>
+        <p><b>Domain:</b> Autonomous ML experimentation agent for genomic and transcriptomic data</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/f8666b034f4ddd25259d76c5c34e9fbb91dfc917">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AgentomicsMLAutonomousMachineLearningExperimentationAgentforGenomicandTranscriptomicData202506</guid>
+  </item>
+  <item>
+    <title>A User-Friendly Machine Learning Pipeline for Automated Leaf Segmentation in Atriplex lentiformis</title>
+    <link>https://www.semanticscholar.org/paper/50cc21fce97d07dceb5021abb655ce9015a727f6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Aikseng Ooi</p>
+        <p><b>Domain:</b> Machine learning pipeline for automated leaf segmentation in plants</p>
+        <p><b>Venue:</b> Bioinformatics and Biology Insights</p>
+        <p><a href="https://www.semanticscholar.org/paper/50cc21fce97d07dceb5021abb655ce9015a727f6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AUserFriendlyMachineLearningPipelineforAutomatedLeafSegmentationinAtriplexlentiformis202506</guid>
+  </item>
+  <item>
+    <title>KODA: An Agentic Framework for KEGG Orthology-Driven Discovery of Antimicrobial Drug Targets in Gut Microbiome</title>
+    <link>https://www.semanticscholar.org/paper/860d4b613b31bc64e81644015c0164627c67f31e</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Mohammad R. K. Mofrad</p>
+        <p><b>Domain:</b> Agentic framework for antimicrobial drug target discovery in microbiome</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/860d4b613b31bc64e81644015c0164627c67f31e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">KODAAnAgenticFrameworkforKEGGOrthologyDrivenDiscoveryofAntimicrobialDrugTargetsinGutMicrobiome202506</guid>
+  </item>
+  <item>
+    <title>AI Agent Behavioral Science</title>
+    <link>https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yong Li</p>
+        <p><b>Domain:</b> Behavioral science of AI agents</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIAgentBehavioralScience202506</guid>
+  </item>
+  <item>
+    <title>Probably Approximately Correct Labels</title>
+    <link>https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tijana Zrnic</p>
+        <p><b>Domain:</b> Method for dataset curation via probably approximately correct labels</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ProbablyApproximatelyCorrectLabels202506</guid>
+  </item>
+  <item>
+    <title>Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning</title>
+    <link>https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zhiyong Lu</p>
+        <p><b>Domain:</b> Training LLMs for batch-level single-cell RNA annotation via RL</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Cello1TrainingLLMstoSolveSingleCellReasoningPuzzleswithReinforcementLearning202506</guid>
+  </item>
+  <item>
+    <title>Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning</title>
+    <link>https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zhiyong Lu</p>
+        <p><b>Domain:</b> Training LLMs for batch-level single-cell RNA annotation via RL</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Cello1TrainingLLMstoSolveSingleCellReasoningPuzzleswithReinforcementLearning202506</guid>
+  </item>
+  <item>
     <title>World Models as Simulators of Patient Biology: Oncology Counterfactual Therapeutics Oracle (OCTO)</title>
     <link>https://www.noetik.ai/octo</link>
     <description>
@@ -318,6 +459,34 @@
     <guid isPermaLink="false">AmultimodalconversationalagentforDNARNAandproteintasks202506</guid>
   </item>
   <item>
+    <title>PixCell: A generative foundation model for digital histopathology images</title>
+    <link>https://www.semanticscholar.org/paper/a4ac7f99debb0c757ba3f0f8291b24a4255d1d03</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Dimitris Samaras</p>
+        <p><b>Domain:</b> Generative foundation model for digital histopathology images</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/a4ac7f99debb0c757ba3f0f8291b24a4255d1d03">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PixCellAgenerativefoundationmodelfordigitalhistopathologyimages202506</guid>
+  </item>
+  <item>
+    <title>Probably Approximately Correct Labels</title>
+    <link>https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tijana Zrnic</p>
+        <p><b>Domain:</b> Method for dataset curation via probably approximately correct labels</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ProbablyApproximatelyCorrectLabels202506</guid>
+  </item>
+  <item>
     <title>X-Atlas/Orion: Genome-wide Perturb-seq Datasets via a Scalable Fix-Cryopreserve Platform for Training Dose-Dependent Biological Foundation Models</title>
     <link>https://www.biorxiv.org/content/10.1101/2025.06.11.659105v1</link>
     <description>
@@ -362,6 +531,104 @@
     <guid isPermaLink="false">CellEvalPredictingcellularresponsestoperturbationacrossdiversecontextswithState202506</guid>
   </item>
   <item>
+    <title>Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications</title>
+    <link>https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Enyan Dai</p>
+        <p><b>Domain:</b> Benchmarking protein modeling architectures and pretraining strategies</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ProtapABenchmarkforProteinModelingonRealisticDownstreamApplications202506</guid>
+  </item>
+  <item>
+    <title>AI Agent Behavioral Science</title>
+    <link>https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yong Li</p>
+        <p><b>Domain:</b> Behavioral science of AI agents</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIAgentBehavioralScience202506</guid>
+  </item>
+  <item>
+    <title>Contemporary AI foundation models increase biological weapons risk</title>
+    <link>https://www.semanticscholar.org/paper/e4854e4c12a3dc1964775c7368b3ee3adb02982e</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> T. G. McKelvey</p>
+        <p><b>Domain:</b> Biosecurity risks posed by AI foundation models</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e4854e4c12a3dc1964775c7368b3ee3adb02982e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ContemporaryAIfoundationmodelsincreasebiologicalweaponsrisk202506</guid>
+  </item>
+  <item>
+    <title>Foundation models in plant molecular biology: advances, challenges, and future directions</title>
+    <link>https://www.semanticscholar.org/paper/98b561595f5bf7d47456b83d5f52af31ebf0e9ae</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jun Yan</p>
+        <p><b>Domain:</b> Foundation models in plant molecular biology</p>
+        <p><b>Venue:</b> Frontiers in Plant Science</p>
+        <p><a href="https://www.semanticscholar.org/paper/98b561595f5bf7d47456b83d5f52af31ebf0e9ae">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Foundationmodelsinplantmolecularbiologyadvanceschallengesandfuturedirections202506</guid>
+  </item>
+  <item>
+    <title>Artificial Intelligence-Assisted Breeding for Plant Disease Resistance</title>
+    <link>https://www.semanticscholar.org/paper/74d45591664632d4150df72d6b5adb2b7b65e267</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yanyong Cao</p>
+        <p><b>Domain:</b> AI-assisted breeding for plant disease resistance</p>
+        <p><b>Venue:</b> International Journal of Molecular Sciences</p>
+        <p><a href="https://www.semanticscholar.org/paper/74d45591664632d4150df72d6b5adb2b7b65e267">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ArtificialIntelligenceAssistedBreedingforPlantDiseaseResistance202506</guid>
+  </item>
+  <item>
+    <title>Scale-Invariance Drives Convergence in AI and Brain Representations</title>
+    <link>https://www.semanticscholar.org/paper/3a01165637266c9da59be95a4a0a78f37af2b6dc</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Quanying Liu</p>
+        <p><b>Domain:</b> Scale-invariance in AI and brain representations</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/3a01165637266c9da59be95a4a0a78f37af2b6dc">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ScaleInvarianceDrivesConvergenceinAIandBrainRepresentations202506</guid>
+  </item>
+  <item>
+    <title>Why Traditional Statistical Methods Need to Evolve in the Age of Artificial Intelligence: A Biostatistical Perspective</title>
+    <link>https://www.semanticscholar.org/paper/0ee50fdccfabf9204c91cf4238e08f3035794adf</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Deepak Raj Joshi</p>
+        <p><b>Domain:</b> Integration of AI and traditional biostatistics</p>
+        <p><b>Venue:</b> Nepal Journal of Public Health</p>
+        <p><a href="https://www.semanticscholar.org/paper/0ee50fdccfabf9204c91cf4238e08f3035794adf">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">WhyTraditionalStatisticalMethodsNeedtoEvolveintheAgeofArtificialIntelligenceABiostatisticalPerspective202506</guid>
+  </item>
+  <item>
     <title>Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution</title>
     <link>https://arxiv.org/abs/2505.20286</link>
     <description>
@@ -375,21 +642,6 @@
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AlitaGeneralistAgentEnablingScalableAgenticReasoningwithMinimalPredefinitionandMaximalSelfEvolution202505</guid>
-  </item>
-  <item>
-    <title>BioOmni: A General-Purpose AI Agent for Automated Biomedical Research</title>
-    <link>https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Marinka Zitnik</p>
-        <p><b>Domain:</b> General Biomedical Research (Multi-modal)</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1">Read the Paper</a></p>
-        <p><a href="https://biomni.stanford.edu/">View the Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">BioOmniAGeneralPurposeAIAgentforAutomatedBiomedicalResearch202505</guid>
   </item>
   <item>
     <title>CellTypeAgent: Trustworthy cell type annotation with Large Language Models</title>

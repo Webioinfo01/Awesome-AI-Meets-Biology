@@ -92,6 +92,123 @@
             "doi": ""
         },
         {
+            "year": "2025.06",
+            "title": "Biomni: A General-Purpose Biomedical AI Agent",
+            "team": "Marinka Zitnik",
+            "team website": "https://zitniklab.hms.harvard.edu/",
+            "affiliation": "Stanford University",
+            "domain": "Biomedical AI agent for autonomous research workflows",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1",
+            "codeUrl": "https://biomni.stanford.edu/",
+            "githubStars": "https://img.shields.io/github/stars/snap-stanford/biomni",
+            "doi": "10.1101/2025.05.30.656746"
+        },
+        {
+            "year": "2025.06",
+            "title": "Knowledge-guided Contextual Gene Set Analysis Using Large Language Models",
+            "team": "Zhiyong Lu",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Context-aware gene set analysis using large language models",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/7cb3a28963a5ceb201e4092a4e52644c3436a7c7",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.04303"
+        },
+        {
+            "year": "2025.06",
+            "title": "DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models",
+            "team": "John R. Williams",
+            "team website": "",
+            "affiliation": "Department of Civil and Environmental Engineering (CEE), Massachusetts Institute of Technology (MIT), 77 Massachusetts Avenue, Cambridge, MA 02139, United State",
+            "domain": "Agentic generative AI for single-cell RNA sequencing data labeling",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/4d6ef2e715f81de2ce053c0c48f799c93e4d9309",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1101/2025.06.17.660107"
+        },
+        {
+            "year": "2025.06",
+            "title": "Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data",
+            "team": "Panagiotis Alexiou",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Autonomous ML experimentation agent for genomic and transcriptomic data",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/f8666b034f4ddd25259d76c5c34e9fbb91dfc917",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.05542"
+        },
+        {
+            "year": "2025.06",
+            "title": "A User-Friendly Machine Learning Pipeline for Automated Leaf Segmentation in Atriplex lentiformis",
+            "team": "Aikseng Ooi",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Machine learning pipeline for automated leaf segmentation in plants",
+            "venue": "Bioinformatics and Biology Insights",
+            "paperUrl": "https://www.semanticscholar.org/paper/50cc21fce97d07dceb5021abb655ce9015a727f6",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1177/11779322251344033"
+        },
+        {
+            "year": "2025.06",
+            "title": "KODA: An Agentic Framework for KEGG Orthology-Driven Discovery of Antimicrobial Drug Targets in Gut Microbiome",
+            "team": "Mohammad R. K. Mofrad",
+            "team website": "",
+            "affiliation": "University of California Berkeley",
+            "domain": "Agentic framework for antimicrobial drug target discovery in microbiome",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/860d4b613b31bc64e81644015c0164627c67f31e",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1101/2025.05.27.656480"
+        },
+        {
+            "year": "2025.06",
+            "title": "AI Agent Behavioral Science",
+            "team": "Yong Li",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Behavioral science of AI agents",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.06366"
+        },
+        {
+            "year": "2025.06",
+            "title": "Probably Approximately Correct Labels",
+            "team": "Tijana Zrnic",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Method for dataset curation via probably approximately correct labels",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.10908"
+        },
+        {
+            "year": "2025.06",
+            "title": "Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning",
+            "team": "Zhiyong Lu",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Training LLMs for batch-level single-cell RNA annotation via RL",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.02911"
+        },
+        {
             "year": "2025.05",
             "title": "Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution",
             "team": "Mengdi Wang",
@@ -102,19 +219,6 @@
             "paperUrl": "https://arxiv.org/abs/2505.20286",
             "codeUrl": "https://github.com/CharlesQ9/Alita",
             "githubStars": "https://img.shields.io/github/stars/CharlesQ9/Alita",
-            "doi": ""
-        },
-        {
-            "year": "2025.05",
-            "title": "BioOmni: A General-Purpose AI Agent for Automated Biomedical Research",
-            "team": "Marinka Zitnik",
-            "team website": "https://zitniklab.hms.harvard.edu/",
-            "affiliation": "",
-            "domain": "General Biomedical Research (Multi-modal)",
-            "venue": "bioRxiv",
-            "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1",
-            "codeUrl": "https://biomni.stanford.edu/",
-            "githubStars": "https://img.shields.io/github/stars/snap-stanford/biomni",
             "doi": ""
         },
         {
@@ -574,7 +678,7 @@
         },
         {
             "year": "2024.12",
-            "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning",
+            "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi\u2010Agent Intelligent Graph Reasoning",
             "team": "Markus J. Buehler",
             "team website": "",
             "affiliation": "",
@@ -720,7 +824,7 @@
         {
             "year": "2025.07",
             "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
-            "team": "Microsoft Research(Frank Noé)",
+            "team": "Microsoft Research(Frank No\u00e9)",
             "team website": "https://github.com/microsoft",
             "affiliation": "",
             "domain": "Protein",
@@ -755,6 +859,19 @@
             "codeUrl": "https://github.com/lbcb-sci/RiNALMo",
             "githubStars": "https://img.shields.io/github/stars/lbcb-sci/RiNALMo",
             "doi": ""
+        },
+        {
+            "year": "2025.06",
+            "title": "Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning",
+            "team": "Zhiyong Lu",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Training LLMs for batch-level single-cell RNA annotation via RL",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.02911"
         },
         {
             "year": "2025.06",
@@ -848,8 +965,21 @@
             "doi": ""
         },
         {
+            "year": "2025.06",
+            "title": "PixCell: A generative foundation model for digital histopathology images",
+            "team": "Dimitris Samaras",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Generative foundation model for digital histopathology images",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/a4ac7f99debb0c757ba3f0f8291b24a4255d1d03",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.05127"
+        },
+        {
             "year": "2025.05",
-            "title": "A visual–omics foundation model to bridge histopathology with spatial transcriptomics",
+            "title": "A visual\u2013omics foundation model to bridge histopathology with spatial transcriptomics",
             "team": "Guangyu Wang",
             "team website": "https://guangyuwanglab.github.io/web/",
             "affiliation": "",
@@ -914,11 +1044,11 @@
         },
         {
             "year": "2025.05",
-            "title": "LlamaAffinity: A Predictive Antibody–Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture",
+            "title": "LlamaAffinity: A Predictive Antibody\u2013Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture",
             "team": "J. Chen",
             "team website": "",
             "affiliation": "University of Alabama at Birmingham",
-            "domain": "Antibody–antigen binding affinity prediction using LLM-based models",
+            "domain": "Antibody\u2013antigen binding affinity prediction using LLM-based models",
             "venue": "bioRxiv",
             "paperUrl": "https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6",
             "codeUrl": "",
@@ -1139,7 +1269,7 @@
             "team": "S. Bozdag",
             "team website": "",
             "affiliation": "University of North Texas",
-            "domain": "Drug–target interaction prediction framework",
+            "domain": "Drug\u2013target interaction prediction framework",
             "venue": "bioRxiv",
             "paperUrl": "https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b",
             "codeUrl": "",
@@ -1227,7 +1357,7 @@
         {
             "year": "2025.01",
             "title": "Improving functional protein generation via foundation model-derived latent space likelihood optimization",
-            "team": "César de la Fuente-Nunez",
+            "team": "C\u00e9sar de la Fuente-Nunez",
             "team website": "",
             "affiliation": "University of Pennsylvania",
             "domain": "Generative protein design via PLM latent space optimization",
@@ -1592,7 +1722,7 @@
     "databases": [
         {
             "year": "2025.08",
-            "title": "Drug Response Omics association MAp (DROMA, 卓玛)",
+            "title": "Drug Response Omics association MAp (DROMA, \u5353\u739b)",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1602,6 +1732,19 @@
             "codeUrl": "https://github.com/mugpeng/DROMA",
             "githubStars": "https://img.shields.io/github/stars/mugpeng/DROMA",
             "doi": ""
+        },
+        {
+            "year": "2025.06",
+            "title": "Probably Approximately Correct Labels",
+            "team": "Tijana Zrnic",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Method for dataset curation via probably approximately correct labels",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.10908"
         },
         {
             "year": "2025.06",
@@ -1618,7 +1761,7 @@
         },
         {
             "year": "2025.05",
-            "title": "scCompass: An Integrated Multi‐Species scRNA‐seq Database for AI‐Ready",
+            "title": "scCompass: An Integrated Multi\u2010Species scRNA\u2010seq Database for AI\u2010Ready",
             "team": "Yuanchun Zhou",
             "team website": "",
             "affiliation": "",
@@ -1631,7 +1774,7 @@
         },
         {
             "year": "2025.05",
-            "title": "AlphaLasso—a web server to identify loop and lasso motifs in 3D structure of biopolymers",
+            "title": "AlphaLasso\u2014a web server to identify loop and lasso motifs in 3D structure of biopolymers",
             "team": "Joanna I. Sulkowska",
             "team website": "",
             "affiliation": "",
@@ -1644,7 +1787,7 @@
         },
         {
             "year": "2025.04",
-            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions",
+            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell\u2013cell interactions",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1684,7 +1827,7 @@
         {
             "year": "2025.04",
             "title": "Abstract 1087: The evolving landscape of cancer transcriptomics data",
-            "team": "Akpéli V. Nordor",
+            "team": "Akp\u00e9li V. Nordor",
             "team website": "",
             "affiliation": "",
             "domain": "Cancer transcriptomics data mapping",
@@ -1853,8 +1996,21 @@
             "doi": ""
         },
         {
+            "year": "2025.06",
+            "title": "Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications",
+            "team": "Enyan Dai",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Benchmarking protein modeling architectures and pretraining strategies",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.02052"
+        },
+        {
             "year": "2025.05",
-            "title": "The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature",
+            "title": "The influence of prompt engineering on large language models for protein\u2013protein interaction identification in biomedical literature",
             "team": "Yi-Hsuan Lin",
             "team website": "",
             "affiliation": "",
@@ -2088,6 +2244,84 @@
             "doi": "10.1016/j.cell.2025.05.018"
         },
         {
+            "year": "2025.06",
+            "title": "AI Agent Behavioral Science",
+            "team": "Yong Li",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Behavioral science of AI agents",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.06366"
+        },
+        {
+            "year": "2025.06",
+            "title": "Contemporary AI foundation models increase biological weapons risk",
+            "team": "T. G. McKelvey",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Biosecurity risks posed by AI foundation models",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/e4854e4c12a3dc1964775c7368b3ee3adb02982e",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.13798"
+        },
+        {
+            "year": "2025.06",
+            "title": "Foundation models in plant molecular biology: advances, challenges, and future directions",
+            "team": "Jun Yan",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Foundation models in plant molecular biology",
+            "venue": "Frontiers in Plant Science",
+            "paperUrl": "https://www.semanticscholar.org/paper/98b561595f5bf7d47456b83d5f52af31ebf0e9ae",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.3389/fpls.2025.1611992"
+        },
+        {
+            "year": "2025.06",
+            "title": "Artificial Intelligence-Assisted Breeding for Plant Disease Resistance",
+            "team": "Yanyong Cao",
+            "team website": "",
+            "affiliation": "",
+            "domain": "AI-assisted breeding for plant disease resistance",
+            "venue": "International Journal of Molecular Sciences",
+            "paperUrl": "https://www.semanticscholar.org/paper/74d45591664632d4150df72d6b5adb2b7b65e267",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.3390/ijms26115324"
+        },
+        {
+            "year": "2025.06",
+            "title": "Scale-Invariance Drives Convergence in AI and Brain Representations",
+            "team": "Quanying Liu",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Scale-invariance in AI and brain representations",
+            "venue": "ArXiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/3a01165637266c9da59be95a4a0a78f37af2b6dc",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2506.12117"
+        },
+        {
+            "year": "2025.06",
+            "title": "Why Traditional Statistical Methods Need to Evolve in the Age of Artificial Intelligence: A Biostatistical Perspective",
+            "team": "Deepak Raj Joshi",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Integration of AI and traditional biostatistics",
+            "venue": "Nepal Journal of Public Health",
+            "paperUrl": "https://www.semanticscholar.org/paper/0ee50fdccfabf9204c91cf4238e08f3035794adf",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.70280/njph(2025)v2i1.31"
+        },
+        {
             "year": "2025.05",
             "title": "Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review",
             "team": "Rong Luo",
@@ -2298,7 +2532,7 @@
         {
             "year": "2025.01",
             "title": "AI Methods for Antimicrobial Peptides: Progress and Challenges",
-            "team": "César de la Fuente-Nunez",
+            "team": "C\u00e9sar de la Fuente-Nunez",
             "team website": "",
             "affiliation": "",
             "domain": "AI methods for antimicrobial peptide design",
