@@ -216,22 +216,6 @@
             "doi": "10.1039/d5nr03027g",
             "reason_for_inclusion": "High quality: Published in Nanoscale, a reputable Q1 journal."
         }
-    ],
-    "databases": [
-        {
-            "year": "2025.10",
-            "title": "AI-Powered Workflow for Constructing Organic Materials Databases from the Literature: Integrating Large Language Models",
-            "team": "Yue Huang",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Automated materials science database construction via LLMs",
-            "abstract": "We developed an end-to-end workflow to automate the construction of materials science databases from published literature, addressing a traditionally manual, time-intensive, and labor-intensive process. The work systematically evaluates and compares different machine learning (ML) methods to optimize each task. For identifying relevant publications, we tested various ML techniques and concluded that a combination of large language model (LLM)-based embeddings, clustering, and direct LLM queries is most effective. In the subsequent data extraction phase, we employed OpenAI\u2019s GPT-4 to extract materials and their properties, achieving accuracy comparable to manually curated data sets. Additionally, we integrated AI/ML methods to automatically generate SMILES from chemical structure images, expanding the workflow\u2019s applicability to organic materials. To validate the workflow, we applied it to studying organic donor materials in organic photovoltaic devices and benchmarked its performance against a manually curated data set derived from 503 papers. The results demonstrate the workflow\u2019s efficiency and accuracy. Finally, based on our findings, we provide recommendations for selecting the best ML methods for each task and propose further improvements for the future tool development. This workflow represents a major advancement in accelerating the development of materials science databases and enables data science applications in a broader range of research topics that were historically infeasible due to the lack of available data sets.",
-            "venue": "ACS Omega",
-            "paperUrl": "https://www.semanticscholar.org/paper/4f2dc57404b117f11dae7e704c9a360440a02d27",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1021/acsomega.5c03612",
-            "reason_for_inclusion": "High quality: Published in ACS Omega, a reputable Q1 journal."
-        }
+    ]
     ]
 }
