@@ -1799,6 +1799,32 @@
             "doi": "10.1002/imo2.70064"
         },
         {
+            "year": "2025.10",
+            "title": "Protein restriction reprograms the multi-organ proteomic landscape of mouse aging",
+            "team": "Tiannan Guo",
+            "team website": "https://github.com/guomics-lab",
+            "affiliation": "Westlake University",
+            "domain": "Protein restriction reprograms the multi-organ proteomic landscape of mouse aging",
+            "venue": "Cell",
+            "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/41138729/",
+            "codeUrl": "https://github.com/guomics-lab/Aging_PR",
+            "githubStars": "https://img.shields.io/github/stars/guomics-lab/Aging_PR",
+            "doi": "10.1016/j.cell.2025.10.004"
+        },
+        {
+            "year": "2025.10",
+            "title": "Efficient and accurate search in petabase-scale sequence repositories",
+            "team": "André Kahles",
+            "team website": "",
+            "affiliation": "ETH Zurich",
+            "domain": "Efficient and accurate search in petabase-scale sequence repositories",
+            "venue": "Nature",
+            "paperUrl": "https://www.nature.com/articles/s41586-025-09603-w",
+            "codeUrl": "https://github.com/ratschlab/metagraph",
+            "githubStars": "https://img.shields.io/github/stars/ratschlab/metagraph",
+            "doi": "10.1038/s41586-025-09603-w"
+        },
+        {
             "year": "2025.08",
             "title": "Drug Response Omics association MAp (DROMA, 卓玛)",
             "team": "",

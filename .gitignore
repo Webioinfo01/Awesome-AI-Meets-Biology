@@ -5,4 +5,4 @@ month_reports/config*.json
 *.bak
 docs/.DS_Store
 /archive
-docs/todo.md
+.DS_Store
