@@ -74,21 +74,6 @@
             "githubStars": "",
             "doi": "10.1021/acs.analchem.4c05039",
             "reason_for_inclusion": "High quality: Published in Analytical Chemistry, a top-tier journal."
-        },
-        {
-            "year": "2025.09",
-            "title": "Accelerating Drug Discovery: How Agentic AI and Multi-Agent Collaboration Transform BioPharma R&D",
-            "team": "Amandeep Singh Saini",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Agentic AI in drug discovery",
-            "abstract": "The pharmaceutical sector is undergoing unprecedented change with the incorporation of agentic artificial intelligence and multi-agent collaborative platforms into drug development and discovery procedures. Traditional pharmaceutical improvement is grappling with large setbacks, which include prolonged timelines, soaring costs, and high failures that create a need for groundbreaking technological interventions. Agentic AI systems illustrate independent choice-making ability throughout the continuum of drug discovery, from goal identity to clinical trial optimization, primarily based on thorough datasets including genomics, proteomics, chemical libraries, and scientific repositories. Multi-agent collaboration structures permit specialist AI sellers to act as synchronized virtual teams, each bringing domain-specific information while ensuring effortless workflow synchronization. These systems are best suited to high-throughput virtual screening uses, handling enormous chemical libraries while also assessing molecular properties, toxicities, and pharmacokinetic characteristics. Clinical trial optimization is greatly aided by artificial intelligence-based adaptive trial designs that permit real-time protocol adjustment, better patient stratification, and more efficient recruitment tactics. The move towards personalized medicine is a paradigm shift where individual genomic profiles of patients, biomarker data, and life habits influence therapeutic intervention. Sophisticated predictive modeling techniques decrease drug side effects while enhancing therapeutic effectiveness in various patient populations, making agentic AI a revolutionary driving force for pharmaceutical development and healthcare delivery systems globally.",
-            "venue": "Journal of Information Systems Engineering and Management",
-            "paperUrl": "https://www.semanticscholar.org/paper/f3e39e1591865352c99d55fa30798d6fe89859da",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.52783/jisem.v10i59s.12898",
-            "reason_for_inclusion": "High relevance: Directly matches user's research interests."
         }
     ],
     "reviews": [
@@ -168,21 +153,6 @@
             "githubStars": "",
             "doi": "10.1007/s00432-025-06304-9",
             "reason_for_inclusion": "High quality: Published in Journal of Cancer Research and Clinical Oncology, a reputable Q1 journal."
-        },
-        {
-            "year": "2025.09",
-            "title": "Modeling teacher education students\u2019 adoption of large language models through an extended technology acceptance framework",
-            "team": "Jiaxin Lin",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Technology adoption in education",
-            "abstract": "With the deepening integration of artificial intelligence (AI) technologies in the education sector, large language models (LLMs) have become essential tools for supporting writing tasks. As the future backbone of the teaching profession, the acceptance of these technologies by teacher education students not only influences their professional development but also plays a critical role in the digital transformation of future educational practices. However, existing research has yet to fully uncover the underlying mechanisms and influencing factors driving technology adoption behaviors within this group. This study extends the Technology Acceptance Model (TAM) by incorporating key variables such as learning motivation, perceived risks, self-efficacy, and usage experience. Using structural equation modeling (SEM), we analyzed survey data from 552 fourth-year teacher education students in China to test the proposed hypotheses. The empirical findings reveal that subjective norms are the strongest predictor of behavioral intention, while perceived ease of use significantly and positively influences attitudes toward using LLMs. Among the risk dimensions, perceived time risk exerts a significant negative effect on perceived usefulness, whereas perceived privacy risk negatively impacts perceived ease of use. Additionally, usage experience fosters technology adoption behaviors by enhancing learning motivation. These findings not only extend the application boundaries of the TAM within the field of educational technology but also provide empirical evidence for educational institutions to design technology training programs and for model developers to optimize user experiences. Furthermore, they offer a theoretical framework for building digital literacy training systems for teacher education students.",
-            "venue": "Scientific Reports",
-            "paperUrl": "https://www.semanticscholar.org/paper/7e108e82231a4581d61b466119c8f68c008355a1",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41598-025-03298-9",
-            "reason_for_inclusion": "High quality: Published in Scientific Reports, a reputable open-access journal by Nature."
         },
         {
             "year": "2025.09",
