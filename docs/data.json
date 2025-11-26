@@ -1,6 +1,58 @@
 {
     "ai-agents": [
         {
+            "year": "2025.11",
+            "title": "AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution",
+            "team": "Tiago R D Costa",
+            "team website": "",
+            "affiliation": "Imperial College London",
+            "domain": "General Scientific Research(AI co-scientist)",
+            "venue": "Cell",
+            "paperUrl": "https://arxiv.org/pdf/2502.18864v1",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1016/j.cell.2025.08.018"
+        },
+        {
+            "year": "2025.11",
+            "title": "Multimodal learning enables chat-based exploration of single-cell data",
+            "team": "Christoph Bock",
+            "team website": "",
+            "affiliation": "Medical University of Vienna",
+            "domain": "Single-cell data exploration",
+            "venue": "nature biotechnology",
+            "paperUrl": "https://www.nature.com/articles/s41587-025-02857-9",
+            "codeUrl": "https://github.com/epigen/cellwhisperer",
+            "githubStars": "https://img.shields.io/github/stars/epigen/cellwhisperer",
+            "doi": "10.1038/s41587-025-02857-9"
+        },
+        {
+            "year": "2025.10",
+            "title": "LabOS: The AI-XR Co-Scientist That Sees and Works With Humans",
+            "team": "Mengdi Wang, Le Cong",
+            "team website": "https://mwang.princeton.edu/",
+            "affiliation": "Princeton University",
+            "domain": "AI-XR Co-Scientist, AI with physical experimentation abilities",
+            "venue": "arXiv",
+            "paperUrl": "https://arxiv.org/abs/2510.14861",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2510.14861"
+        },
+        {
+            "year": "2025.08",
+            "title": "BioScientist Agent: Designing LLM-Biomedical Agents with KG-Augmented RL Reasoning Modules for Drug Repurposing and Mechanistic of Action Elucidation",
+            "team": "",
+            "team website": "",
+            "affiliation": "XtalPi",
+            "domain": "LLM-Biomedical Agents",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.08.08.669291v2",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1101/2025.08.08.669291"
+        },
+        {
             "year": "2025.07",
             "title": "PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis",
             "team": "PromptBio(Xiao Yang)",
@@ -213,7 +265,7 @@
             "title": "Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution",
             "team": "Mengdi Wang",
             "team website": "https://mwang.princeton.edu/",
-            "affiliation": "",
+            "affiliation": "Princeton University",
             "domain": "General Scientific Research(self-evolution and create MCP)",
             "venue": "bioRxiv",
             "paperUrl": "https://arxiv.org/abs/2505.20286",
@@ -269,8 +321,8 @@
             "domain": "LLM-based agent for parameterized reasoning in drug discovery",
             "venue": "ArXiv",
             "paperUrl": "https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d",
-            "codeUrl": "",
-            "githubStars": "",
+            "codeUrl": "https://github.com/wzn99/DrugPilot",
+            "githubStars": "https://img.shields.io/github/stars/wzn99/DrugPilot",
             "doi": "10.48550/arXiv.2505.13940"
         },
         {
@@ -535,19 +587,6 @@
         },
         {
             "year": "2025.02",
-            "title": "Towards an AI co-scientist",
-            "team": "",
-            "team website": "",
-            "affiliation": "",
-            "domain": "General Scientific Research",
-            "venue": "arXiv",
-            "paperUrl": "https://arxiv.org/pdf/2502.18864v1",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": ""
-        },
-        {
-            "year": "2025.02",
             "title": "Knowledge Synthesis of Photosynthesis Research Using a Large Language Model",
             "team": "Tae In Ahn",
             "team website": "",
@@ -678,7 +717,7 @@
         },
         {
             "year": "2024.12",
-            "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi\u2010Agent Intelligent Graph Reasoning",
+            "title": "SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning",
             "team": "Markus J. Buehler",
             "team website": "",
             "affiliation": "",
@@ -785,7 +824,7 @@
             "title": "CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments",
             "team": "Mengdi Wang, Le Cong",
             "team website": "https://mwang.princeton.edu/",
-            "affiliation": "",
+            "affiliation": "Princeton University",
             "domain": "Experimental Design (CRISPR Genetic Editing)",
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3",
@@ -809,6 +848,32 @@
     ],
     "foundation-models": [
         {
+            "year": "2025.09",
+            "title": "Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology",
+            "team": "Katalin Susztak",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Single-cell RNA, virtual kidney",
+            "venue": "ArXiv",
+            "paperUrl": "https://arxiv.org/abs/2509.26223",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.48550/arXiv.2509.26223"
+        },
+        {
+            "year": "2025.09",
+            "title": "GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks",
+            "team": "Fatemeh Vafaee",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Bulk RNA embedding",
+            "venue": "Genome Biology",
+            "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40983974/",
+            "codeUrl": "https://github.com/suzheng/GeneRAIN",
+            "githubStars": "https://img.shields.io/github/stars/suzheng/GeneRAIN",
+            "doi": "10.1186/s13059-025-03749-6"
+        },
+        {
             "year": "2025.07",
             "title": "ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer",
             "team": "",
@@ -824,7 +889,7 @@
         {
             "year": "2025.07",
             "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
-            "team": "Microsoft Research(Frank No\u00e9)",
+            "team": "Microsoft Research(Frank Noé)",
             "team website": "https://github.com/microsoft",
             "affiliation": "",
             "domain": "Protein",
@@ -979,7 +1044,7 @@
         },
         {
             "year": "2025.05",
-            "title": "A visual\u2013omics foundation model to bridge histopathology with spatial transcriptomics",
+            "title": "A visual–omics foundation model to bridge histopathology with spatial transcriptomics",
             "team": "Guangyu Wang",
             "team website": "https://guangyuwanglab.github.io/web/",
             "affiliation": "",
@@ -995,7 +1060,7 @@
             "title": "GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance",
             "team": "Mengdi Wang",
             "team website": "https://mwang.princeton.edu/",
-            "affiliation": "",
+            "affiliation": "Princeton University",
             "domain": "Biosafety for DNA",
             "venue": "arXiv",
             "paperUrl": "https://arxiv.org/abs/2505.23839",
@@ -1044,11 +1109,11 @@
         },
         {
             "year": "2025.05",
-            "title": "LlamaAffinity: A Predictive Antibody\u2013Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture",
+            "title": "LlamaAffinity: A Predictive Antibody–Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture",
             "team": "J. Chen",
             "team website": "",
             "affiliation": "University of Alabama at Birmingham",
-            "domain": "Antibody\u2013antigen binding affinity prediction using LLM-based models",
+            "domain": "Antibody–antigen binding affinity prediction using LLM-based models",
             "venue": "bioRxiv",
             "paperUrl": "https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6",
             "codeUrl": "",
@@ -1269,7 +1334,7 @@
             "team": "S. Bozdag",
             "team website": "",
             "affiliation": "University of North Texas",
-            "domain": "Drug\u2013target interaction prediction framework",
+            "domain": "Drug–target interaction prediction framework",
             "venue": "bioRxiv",
             "paperUrl": "https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b",
             "codeUrl": "",
@@ -1357,7 +1422,7 @@
         {
             "year": "2025.01",
             "title": "Improving functional protein generation via foundation model-derived latent space likelihood optimization",
-            "team": "C\u00e9sar de la Fuente-Nunez",
+            "team": "César de la Fuente-Nunez",
             "team website": "",
             "affiliation": "University of Pennsylvania",
             "domain": "Generative protein design via PLM latent space optimization",
@@ -1721,8 +1786,21 @@
     ],
     "databases": [
         {
+            "year": "2025.11",
+            "title": "CellOntologyMapper: Consensus mapping of cell type annotation",
+            "team": "",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Consensus mapping of cell type annotation",
+            "venue": "iMetaOmics",
+            "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064",
+            "codeUrl": "https://github.com/Starlitnightly/CellOntologyMapper",
+            "githubStars": "https://img.shields.io/github/stars/Starlitnightly/CellOntologyMapper",
+            "doi": "10.1002/imo2.70064"
+        },
+        {
             "year": "2025.08",
-            "title": "Drug Response Omics association MAp (DROMA, \u5353\u739b)",
+            "title": "Drug Response Omics association MAp (DROMA, 卓玛)",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1755,13 +1833,13 @@
             "domain": "Genome-wide Perturb-seq Datasets",
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.11.659105v1",
-            "codeUrl": "https://doi.org/10.25452/figshare.plus.29190726",
+            "codeUrl": "10.25452/figshare.plus.29190726",
             "githubStars": "",
             "doi": ""
         },
         {
             "year": "2025.05",
-            "title": "scCompass: An Integrated Multi\u2010Species scRNA\u2010seq Database for AI\u2010Ready",
+            "title": "scCompass: An Integrated Multi‐Species scRNA‐seq Database for AI‐Ready",
             "team": "Yuanchun Zhou",
             "team website": "",
             "affiliation": "",
@@ -1774,7 +1852,7 @@
         },
         {
             "year": "2025.05",
-            "title": "AlphaLasso\u2014a web server to identify loop and lasso motifs in 3D structure of biopolymers",
+            "title": "AlphaLasso—a web server to identify loop and lasso motifs in 3D structure of biopolymers",
             "team": "Joanna I. Sulkowska",
             "team website": "",
             "affiliation": "",
@@ -1787,7 +1865,7 @@
         },
         {
             "year": "2025.04",
-            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell\u2013cell interactions",
+            "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions",
             "team": "",
             "team website": "",
             "affiliation": "",
@@ -1827,7 +1905,7 @@
         {
             "year": "2025.04",
             "title": "Abstract 1087: The evolving landscape of cancer transcriptomics data",
-            "team": "Akp\u00e9li V. Nordor",
+            "team": "Akpéli V. Nordor",
             "team website": "",
             "affiliation": "",
             "domain": "Cancer transcriptomics data mapping",
@@ -2007,19 +2085,6 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": "10.48550/arXiv.2506.02052"
-        },
-        {
-            "year": "2025.05",
-            "title": "The influence of prompt engineering on large language models for protein\u2013protein interaction identification in biomedical literature",
-            "team": "Yi-Hsuan Lin",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Prompt engineering of LLMs for protein-protein interaction extraction",
-            "venue": "Scientific Reports",
-            "paperUrl": "https://www.semanticscholar.org/paper/8738c78f5a2c2d94dcfc34ada047ed7e51dfbe8a",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41598-025-99290-4"
         },
         {
             "year": "2025.05",
@@ -2521,7 +2586,7 @@
             "title": "Foundation models in bioinformatics",
             "team": "Jianxin Wang",
             "team website": "",
-            "affiliation": "",
+            "affiliation": "Central South University",
             "domain": "Bioinformatics foundation models overview",
             "venue": "National Science Review",
             "paperUrl": "https://www.semanticscholar.org/paper/3f21f2fadc60b7f627b5154a9944ec22d28c2678",
@@ -2532,7 +2597,7 @@
         {
             "year": "2025.01",
             "title": "AI Methods for Antimicrobial Peptides: Progress and Challenges",
-            "team": "C\u00e9sar de la Fuente-Nunez",
+            "team": "César de la Fuente-Nunez",
             "team website": "",
             "affiliation": "",
             "domain": "AI methods for antimicrobial peptide design",

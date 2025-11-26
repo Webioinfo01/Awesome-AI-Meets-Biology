@@ -1,16 +1,17 @@
 #  Awesome AI Meets Biology[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Website](https://img.shields.io/website?url=https%3A//droma01.github.io/DROMA)](https://webioinfo01.github.io/Awesome-AI-Meets-Biology/)
+[![Website](https://img.shields.io/website?url=http%3A//awesomebio.webioinfo.top/)](http://awesomebio.webioinfo.top/)
 [![GitHub Stars](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine?style=social)](https://github.com/Webioinfo01/Awesome-AI-Meets-Biomedicine) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Webioinfo01.Awesome-AI-Meets-Bioinformatics_Biomedicine)](https://github.com/Webioinfo01/Awesome-AI-Meets-Bioinformatics_Biomedicine)
 
-**Visit the official website at: https://webioinfo01.github.io/Awesome-AI-Meets-Biology/**
+**Visit the official website at: http://awesomebio.webioinfo.top/**
 
-AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bioinformatics research.
+This project is collaboratively maintained by our self-developed AI agent (aweagent) and human experts in a human-in-the-loop workflow, combining automated discovery with expert curation to provide a comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.
+
+This repository organizes AI applications in biology/biomedical/bioinformatics research into five main categories: "AI Agents", "Foundation models", "Databases/Simulation", "Benchmarks", and "Reviews".
 
 ## 📋 Table of Contents
 - [🌟 AI Agents](#AI-Agents)
 - [🎯 Foundation models](#Foundation-models)
-- [🛠️ AI Tools](#AI-Tools)
 - [💾 Databases/Simulation](#DatabasesSimulation)
 - [📊 Benchmarks](#Benchmarks)
 - [📚 Reviews](#Reviews)
@@ -40,7 +41,7 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 | 2025.05 | **CellTypeAgent: Trustworthy cell type annotation with Large Language Models** | Yunjian Li |  |  | LLM agent for cell type annotation in single-cell data | ArXiv | [Link](https://www.semanticscholar.org/paper/40e125e1b882b278d14d7f86617a4381084fa69a) |  |
 | 2025.05 | **ChatMolData: A Multimodal Agent for Automatic Molecular Data Processing** | Xiaohui Yu |  |  | Multimodal LLM-agent for automatic molecular data processing | Advanced Intelligent Systems | [Link](https://www.semanticscholar.org/paper/1fd6efbd486e07872b17bf8b08ab68c5a60716c0) |  |
 | 2025.05 | **PlantGPT: An Arabidopsis-Based Intelligent Agent that Answers Questions about Plant Functional Genomics.** | Qinlong Zhu |  |  | PlantGPT: LLM agent for plant functional genomics question answering | Advanced science | [Link](https://www.semanticscholar.org/paper/b0b726a254ede59afe4ab6635fb23c916ceacb94) |  |
-| 2025.05 | **DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery** | Wenbin Hu |  |  | LLM-based agent for parameterized reasoning in drug discovery | ArXiv | [Link](https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d) |  |
+| 2025.05 | **DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery** | Wenbin Hu |  |  | LLM-based agent for parameterized reasoning in drug discovery | ArXiv | [Link](https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d) | [Link](https://github.com/wzn99/DrugPilot) ![GitHub Stars](https://img.shields.io/github/stars/wzn99/DrugPilot) |
 | 2025.05 | **Automatic biomarker discovery and enrichment with BRAD** | I. Rajapakse |  |  | LLM agent for automatic biomarker discovery and enrichment (BRAD) | Bioinformatics | [Link](https://www.semanticscholar.org/paper/3ac8cac9583281d5eebca6a17e00af015eb8b286) |  |
 | 2025.04 | **The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search** | Sakana AI(David Ha) | [Link](https://github.com/SakanaAI) |  | General Scientific Research | ICLR 2025 | [Link](https://arxiv.org/abs/2504.08066) | [Link](https://github.com/SakanaAI/AI-Scientist-v2) ![GitHub Stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2) |
 | 2025.04 | **SpatialAgent: An autonomous AI agent for spatial biology** | Genentech(Aviv Regev) | [Link](https://github.com/Genentech) |  | Spatial scRNA | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1) | [Link](https://github.com/Genentech/SpatialAgent) ![GitHub Stars](https://img.shields.io/github/stars/Genentech/SpatialAgent) |
@@ -87,6 +88,7 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 
 | Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
 | -----| ------| -----| -------------| ------------| -------| ------| --------------| -------------|
+| 2025.09 | **GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks** | Fatemeh Vafaee |  |  | Bulk RNA embedding | Genome Biology | [Link](https://pubmed.ncbi.nlm.nih.gov/40983974/) | [Link](https://github.com/suzheng/GeneRAIN) ![GitHub Stars](https://img.shields.io/github/stars/suzheng/GeneRAIN) |
 | 2025.07 | **ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer** |  |  |  | Organoid drug response prediction | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2) | [Link](https://github.com/microsoft/bioemu) ![GitHub Stars](https://img.shields.io/github/stars/xujing363/ODFormer) |
 | 2025.07 | **Scalable emulation of protein equilibrium ensembles with generative deep learning** | Microsoft Research(Frank Noé) | [Link](https://github.com/microsoft) |  | Protein | Science | [Link](https://www.science.org/doi/10.1126/science.adv9817) | [Link](https://github.com/microsoft/bioemu) ![GitHub Stars](https://img.shields.io/github/stars/microsoft/bioemu) |
 | 2025.07 | **Spatia: Multimodal Model for Prediction and Generation of Spatial Cell Phenotypes** | Marinka Zitnik | [Link](https://zitniklab.hms.harvard.edu/) |  | spatial single cell RNA | ArXiv | [Link](https://arxiv.org/html/2507.04704v1#S4) |  |
@@ -158,16 +160,6 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 | 2023.05 | **Transfer learning enables predictions in network biology** |  |  |  | General scRNA tasks, discovery of key network regulators and candidate therapeutic targets | Nature | [Link](https://www.nature.com/articles/s41586-023-06139-9) | [Link](https://huggingface.co/ctheodoris/Geneformer) |
 | 2021.07 | **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers for DNA-language** |  |  |  | DNA | Bioinformatics | [Link](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680) | [Link](https://github.com/jerryji1993/DNABERT) ![GitHub Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT) |
 
-## AI Tools
-
-| Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
-| -----| ------| -----| -------------| ------------| -------| ------| --------------| -------------|
-| 2025.07 | **GPTBioInsightor** |  |  |  | Single Cell annotation |  |  | [Link](https://github.com/huang-sh/GPTBioInsightor) ![GitHub Stars](https://img.shields.io/github/stars/huang-sh/GPTBioInsightor) |
-| 2025.06 | **scExtract: leveraging large language models for fully automated single-cell RNA-seq data annotation and prior-informed multi-dataset integration** |  |  |  | scRNA downstream tasks | Genome Biology | [Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x) | [Link](https://github.com/yxwucq/scExtract) ![GitHub Stars](https://img.shields.io/github/stars/yxwucq/scExtract) |
-| 2025.04 | **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** |  |  |  | Single Cell annotation | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1) | [Link](https://github.com/cafferychen777/mLLMCelltype) ![GitHub Stars](https://img.shields.io/github/stars/cafferychen777/mLLMCelltype) |
-| 2025.04 | **SCassist: An AI Based Workflow Assistant for Single-Cell Analysis** |  |  |  | Single Cell tasks(cluster, annotation) | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1) | [Link](https://github.com/NIH-NEI/SCassist) ![GitHub Stars](https://img.shields.io/github/stars/NIH-NEI/SCassist) |
-| 2024.12 | **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** |  |  |  | Single Cell annotation | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2) | [Link](https://github.com/ElliotXie/CASSIA) ![GitHub Stars](https://img.shields.io/github/stars/ElliotXie/CASSIA) |
-
 ## Databases/Simulation
 
 | Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
@@ -199,7 +191,6 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 | 2025.06 | **Fundamental Limitations of Foundation Models in Single-Cell Transcriptomics** |  |  |  | evaluate cell-type classification | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1) |  |
 | 2025.06 | **Cell-Eval(Predicting cellular responses to perturbation across diverse contexts with State)** | Arc Institute(Yusuf H. Roohani) | [Link](https://github.com/ArcInstitute) |  | Perturbation scRNA | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1) | [Link](https://github.com/ArcInstitute/cell-eval) ![GitHub Stars](https://img.shields.io/github/stars/ArcInstitute/cell-eval) |
 | 2025.06 | **Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications** | Enyan Dai |  |  | Benchmarking protein modeling architectures and pretraining strategies | ArXiv | [Link](https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8) |  |
-| 2025.05 | **The influence of prompt engineering on large language models for protein–protein interaction identification in biomedical literature** | Yi-Hsuan Lin |  |  | Prompt engineering of LLMs for protein-protein interaction extraction | Scientific Reports | [Link](https://www.semanticscholar.org/paper/8738c78f5a2c2d94dcfc34ada047ed7e51dfbe8a) |  |
 | 2025.05 | **CellVerse: Do Large Language Models Really Understand Cell Biology?** | P. Heng |  |  | LLMs for language-driven single-cell multi-omics analysis (CellVerse) | ArXiv | [Link](https://www.semanticscholar.org/paper/4dd1c628a26c7b13c98e975c7ae8b5c16fbc320e) |  |
 | 2025.05 | **Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications** | Jessica A Turner |  | Ohio State University Wexner Medical Center, Columbus, OH, USA | LLM extraction and annotation of neuroimaging metadata | bioRxiv | [Link](https://www.semanticscholar.org/paper/59087a91539883877289ceb562272f1cc13e9545) |  |
 | 2025.05 | **scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction** | Qianqian Song |  |  | Benchmarking foundation models for single-cell drug response prediction | ArXiv | [Link](https://www.semanticscholar.org/paper/2dde8c82b5b59d46224f68e760ce5965a847e9c2) |  |
@@ -243,7 +234,7 @@ AI separated into "Foundation models" and "AI Agents" for biology/biomedical/bio
 | 2025.02 | **Microbial Ecology to Ocean Carbon Cycling: From Genomes to Numerical Models** | E. Zakem |  |  | Integration of microbial ecology and numerical models for ocean carbon cycling | Annual Review of Earth and Planetary Sciences | [Link](https://www.semanticscholar.org/paper/dc5335e5ec2bf80abda630ada4eb431a173ddec4) |  |
 | 2025.01 | **Survey and Improvement Strategies for Gene Prioritization with Large Language Models** | Xia Hu |  |  | LLM-based gene prioritization | ArXiv | [Link](https://www.semanticscholar.org/paper/7ca21dec02c418f010d6b95de3bde7bb6ac69c66) |  |
 | 2025.01 | **Computational Protein Science in the Era of Large Language Models (LLMs)** | Qing Li |  |  | Computational protein science with LLMs | ArXiv | [Link](https://www.semanticscholar.org/paper/0322d6eef1567b8b6ce3998d03f955082f9a87b6) |  |
-| 2025.01 | **Foundation models in bioinformatics** | Jianxin Wang |  |  | Bioinformatics foundation models overview | National Science Review | [Link](https://www.semanticscholar.org/paper/3f21f2fadc60b7f627b5154a9944ec22d28c2678) |  |
+| 2025.01 | **Foundation models in bioinformatics** | Jianxin Wang |  | Central South University | Bioinformatics foundation models overview | National Science Review | [Link](https://www.semanticscholar.org/paper/3f21f2fadc60b7f627b5154a9944ec22d28c2678) |  |
 | 2025.01 | **AI Methods for Antimicrobial Peptides: Progress and Challenges** | César de la Fuente-Nunez |  |  | AI methods for antimicrobial peptide design | Microbial Biotechnology | [Link](https://www.semanticscholar.org/paper/9c310642e1a07abeab7c6a8216ec60328feb74a2) |  |
 | 2025.01 | **Artificial intelligence driven innovations in biochemistry: A review of emerging research frontiers** | M. A. Lateef Junaid |  |  | AI innovations in biochemistry | Biomolecules and Biomedicine | [Link](https://www.semanticscholar.org/paper/fa06241dfa98d42974532dd314b87d14ad5dc33f) |  |
 | 2025.01 | **Artificial Intelligence Tools Addressing Challenges of Cancer Progression Due to Antimicrobial Resistance in Pathogenic Biofilm Systems** | Abhijit G. Banerjee |  |  | AI tools for antimicrobial resistance in cancer biofilms | Artificial Intelligence Evolution | [Link](https://www.semanticscholar.org/paper/a86fd4458cbbe7f1ea491d93c1b5ec31da8d272d) |  |
