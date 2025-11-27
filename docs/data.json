@@ -1277,19 +1277,6 @@
             "doi": "https://doi.org/10.1038/s41551-025-01528-z"
         },
         {
-            "year": "2025.11",
-            "title": "A multimodal whole-slide foundation model for pathology",
-            "team": "Faisal Mahmood",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Multimodal pathology foundation model",
-            "venue": "Nature Medicine",
-            "paperUrl": "https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41591-025-03982-3"
-        },
-        {
             "year": "2025.10",
             "title": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
             "team": "Fabian J. Theis",
@@ -1327,19 +1314,6 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": "10.3389/fmicb.2025.1687021"
-        },
-        {
-            "year": "2025.10",
-            "title": "Scaling Large Language Models for Next-Generation Single-Cell Analysis",
-            "team": "David van Dijk",
-            "team website": "",
-            "affiliation": "Yale University",
-            "domain": "Scaled LLM pretraining for next-generation single-cell analysis",
-            "venue": "bioRxiv",
-            "paperUrl": "https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1101/2025.04.14.648850"
         },
         {
             "year": "2025.10",
@@ -1789,12 +1763,12 @@
             "team": "David van Dijk",
             "team website": "https://github.com/vandijklab",
             "affiliation": "",
-            "domain": "single cell RNA",
+            "domain": "Scaled LLM pretraining for next-generation single-cell analysis",
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1",
             "codeUrl": "https://github.com/vandijklab/cell2sentence",
             "githubStars": "https://img.shields.io/github/stars/vandijklab/cell2sentence",
-            "doi": ""
+            "doi": "10.1101/2025.04.14.648850"
         },
         {
             "year": "2025.04",
