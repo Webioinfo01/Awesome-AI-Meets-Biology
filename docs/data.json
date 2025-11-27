@@ -1239,6 +1239,19 @@
         },
         {
             "year": "2025.11",
+            "title": "Scalable and universal prediction of cellular phenotypes",
+            "team": "Fabian J. Theis",
+            "team website": "https://github.com/theislab",
+            "affiliation": "Technical University of Munich",
+            "domain": "a transformer-based computational model for cellular phenotype prediction",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.08.12.607533v3",
+            "codeUrl": "https://github.com/theislab/prophet",
+            "githubStars": "https://img.shields.io/github/stars/theislab/prophet",
+            "doi": "10.1101/2024.08.12.607533v3"
+        },
+        {
+            "year": "2025.11",
             "title": "A multimodal whole-slide foundation model for pathology",
             "team": "Faisal Mahmood",
             "team website": "",
