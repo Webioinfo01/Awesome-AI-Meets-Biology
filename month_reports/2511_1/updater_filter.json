@@ -2,21 +2,6 @@
     "foundation-models": [
         {
             "year": "2025.11",
-            "title": "A large language model for delirium prediction in the intensive care unit using structured electronic health records",
-            "team": "Parisa Rashidi",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Delirium prediction in ICU via LLM",
-            "abstract": "Delirium is an acute syndrome characterized by fluctuating attention, cognitive impairment, and severe disorganization of behavior, which has been shown to affect up to 31% of patients in the intensive care unit (ICU). Early detection can enable timely interventions and improved health outcomes. While artificial intelligence (AI) models have shown great potential for ICU delirium prediction using structured electronic health records (EHR), most studies have either not leveraged state-of-the-art AI models, been limited to single-center cohorts, or relied on small datasets for development and validation. In this study, we introduce DeLLiriuM, a novel LLM-based delirium prediction model that utilizes EHR data from the first 24 hours of ICU admission to estimate a patient\u2019s risk of developing delirium for the remainder of their ICU stay. We developed and validated DeLLiriuM using ICU admissions from 104,303 patients across 195 hospitals in three large databases: the eICU Collaborative Research Database, the Medical Information Mart for Intensive Care (MIMIC)-IV, and the University of Florida\u2019s Integrated Data Repository. Our DeLLiriuM model achieved superior performance compared to all baseline models on the external validation set, measured by the area under the receiver operating characteristic curve (AUROC) and the area under the precision-recall curve (AUPRC) metric. DeLLiriuM attained AUROC 82.4 (95% confidence interval 81.8\u201383.0) and AUPRC 11.8 (95% confidence interval 11.3\u201312.4) across 77,543 patients spanning 194 hospitals. Our approach of transforming structured EHR data into an unstructured text format, the primary data modality for LLMs, enables our DeLLiriuM model to capture clinical contextual information, resulting in improved predictive performance. To the best of our knowledge, DeLLiriuM is the first LLM-based delirium prediction tool for the ICU that utilizes structured EHR data with LLMs rather than clinical notes with LLMs or traditional structured feature representations used in AI models.",
-            "venue": "Scientific Reports",
-            "paperUrl": "https://www.semanticscholar.org/paper/51695af35e27cdbe56a2abefe56294c60e19e38a",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41598-025-22634-7",
-            "reason_for_inclusion": "High quality: Published in Scientific Reports, a Q1 journal."
-        },
-        {
-            "year": "2025.11",
             "title": "Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.",
             "team": "Leila C Kahwati",
             "team website": "",
@@ -44,21 +29,6 @@
             "githubStars": "",
             "doi": "10.1038/s41591-025-03982-3",
             "reason_for_inclusion": "High quality: Published in Nature Medicine, a top-tier journal."
-        },
-        {
-            "year": "2025.11",
-            "title": "Integration of machine learning and large language models for screening and identifying key risk factors of acute kidney injury after cardiac surgery",
-            "team": "Tao Liu",
-            "team website": "",
-            "affiliation": "",
-            "domain": "AKI risk factor identification via ML & LLM",
-            "abstract": "Objectives This study aimed to identify critical risk factors for acute kidney injury (AKI) following cardiac surgery. By integrating patient data from the MIMIC-IV database with large language models (LLMs) and machine learning algorithms, we ensured the clinical relevance of the selected risk factors, providing robust insights for the early identification and intervention of postoperative AKI. Methods Intensive care unit (ICU) data of patients from the MIMIC-IV database undergoing cardiac surgery were analyzed. Lasso regression and random forest algorithms were used to select significant predictive features from high-dimensional data. Model evaluation involved 10-fold cross-validation and metrics including accuracy, sensitivity, specificity, and the area under the curve. To enhance clinical relevance, LLMs-simulated expert judgment in cardiology and nephrology, which was further validated through discussions with clinical experts. Results In the cohort consisting of 4,565 patients, a total of 113 important and shared risk factors for AKI were identified, including variables such as anion gap, arterial partial pressure of oxygen (PaO2), and fraction of inspired oxygen (FiO2). Among these, 18 key variables were identified as postoperative AKI predictors via machine learning and LLMs-simulated expert validation. These included anchor age, Creatinine (serum), BUN (Blood Urea Nitrogen), Potassium (serum), Sodium (serum), Lactic Acid, Troponin-T, Furosemide (Lasix), Vancomycin (Random), Gentamicin (Trough), Albumin 5%, ART BP Mean, Cardiac Output (thermodilution), Brain Natriuretic Peptide (BNP), Absolute Count - Lymphs, Absolute Count - Monos, and Absolute Count - Neuts. The integration of LLMs with machine learning algorithms proved effective in accurately identifying clinically relevant risk factors. Conclusion The proposed risk prediction approach for postoperative AKI following cardiac surgery, based on the collaborative analysis of machine learning and large language models (LLMs), effectively identified and validated key clinical risk factors. By simulating expert clinical reasoning, the LLMs significantly enhanced the medical relevance of feature selection and improved the clinical interpretability of the model. This approach provides a solid theoretical and practical foundation for the precise early identification and clinical intervention of postoperative AKI in cardiac surgery patients.",
-            "venue": "Frontiers in Medicine",
-            "paperUrl": "https://www.semanticscholar.org/paper/950c512ad8fdd7345407c7c8ca0a6e0baa15e1e9",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.3389/fmed.2025.1618222",
-            "reason_for_inclusion": "Included to meet target filter limit."
         }
     ],
     "ai-agents": [
@@ -91,21 +61,6 @@
             "githubStars": "",
             "doi": "10.21203/rs.3.rs-7811754/v1",
             "reason_for_inclusion": "Included to meet target filter limit."
-        },
-        {
-            "year": "2025.11",
-            "title": "BioAgents: Bridging the gap in bioinformatics analysis with multi-agent systems",
-            "team": "V. Malladi",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Multi-agent bioinformatics workflow system",
-            "abstract": "Developing end-to-end bioinformatics workflows is challenging, demanding deep expertise in both genomics and computational techniques. While large language models (LLMs) provide some assistance, they often lack the nuanced guidance required for complex bioinformatics tasks, and are resource-intensive. We thus propose a multi-agent system built on small language models, fine-tuned on bioinformatics data, and enhanced with retrieval augmented generation (RAG). Our system, BioAgents, enables local operation and personalization using proprietary data. We observe performance comparable to human experts on conceptual genomics tasks, and discuss future work to enhance code generation capabilities.",
-            "venue": "Scientific Reports",
-            "paperUrl": "https://www.semanticscholar.org/paper/3def2209d0bbd2ca5acbbb484d24ab5311fd7659",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41598-025-25919-z",
-            "reason_for_inclusion": "High quality: Published in Scientific Reports, a Q1 journal."
         }
     ],
     "benchmarks": [
