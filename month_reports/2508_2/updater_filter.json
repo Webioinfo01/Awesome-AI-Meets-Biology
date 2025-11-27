@@ -17,21 +17,6 @@
         },
         {
             "year": "2025.08",
-            "title": "Proof of concept for voice based MRI scanner control using large language models in real time guided interventions",
-            "team": "M. Gutberlet",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Voice-based MRI control with multi-agent LLM",
-            "abstract": "In clinical MRI-guided interventions, the lack of high-quality peripheral equipment and specialized interventional MRI systems often necessitates delegating real-time control of MRI scanners to an assistant. We proposed a voice-based interaction system powered by large language models that enabled hands-free natural language control of MRI scanners. The system leveraged multi-agent collaboration driven by large language models to execute scanner functionalities, including sequence execution, parameter adjustment, and scanner table positioning. In 90 hands-free tests for 18 predefined tasks performed within a real MRI scanning room, the system achieved an overall task completion rate of 93.3% (95% CI 86.2\u201396.9%). On a consumer laptop without GPU support, the response time for control commands was approximately 5\u201310.5 s. Our study demonstrates the feasibility of using large language models for voice-based interaction with MRI scanners during interventions, eliminating the need for additional assistants and allowing human-like communication.",
-            "venue": "Scientific Reports",
-            "paperUrl": "https://www.semanticscholar.org/paper/3ee22eef0bf4442fcb0422d5754cec0d2b8d0209",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41598-025-11290-6",
-            "reason_for_inclusion": "High quality: Published in Scientific Reports, a top-tier journal."
-        },
-        {
-            "year": "2025.08",
             "title": "Development and evaluation of a clinical note summarization system using large language models",
             "team": "Rodrigo F. Nogueira",
             "team website": "",
@@ -44,21 +29,6 @@
             "githubStars": "",
             "doi": "10.1038/s43856-025-01091-3",
             "reason_for_inclusion": "High quality: Published in Communications Medicine, a top-tier journal."
-        },
-        {
-            "year": "2025.08",
-            "title": "Improving intelligent perception and decision optimization of pedestrian crossing scenarios in autonomous driving environments through large visual language models",
-            "team": "Wankai Li",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Pedestrian crossing perception in autonomous driving with VLM",
-            "abstract": "This study leverages large Visual Language Models (VLM) to develop an intelligent pedestrian crossing scenario system within autonomous driving environments. By establishing standardized checklists and prompts, the system minimizes the risks of misjudgment and omission through multimodal data processing. It offers data-driven decision-making support, presenting an innovative approach to integrating autonomous driving technology with intelligent transportation systems. The study begins by classifying pedestrian crossing scenarios based on international autonomous driving standards, distinguishing between pedestrian crossings and autonomous vehicle crossings, as well as dynamic and static entities. Next, standardized prompts derived from these standards are fed into the VLM, generating structured scenario checklists of dynamic and static entities, outputted in JSON format. This systematic identification and processing of entities\u2014such as pedestrians, vehicles, and traffic facilities\u2014enables the construction of structured data representations for complex traffic scenarios. Building on this foundation, the VLM analyzes scenario data to predict collision risks by modeling the behaviors of both pedestrians and vehicles, supporting real-time decision-making for autonomous vehicles and road users. Furthermore, the VLM processes scene data to anticipate potential conflicts and provide actionable safety recommendations, enhancing the overall security of all traffic participants. The system achieved a perception accuracy of 93.05%, with risk prediction consistency and decision-making rule consistency rates of 85.91% and 87.72% respectively. By constructing a VLM-based intelligent pedestrian crossing perception system, this study offers a novel technical framework for improving perception, prediction, and decision-making in autonomous driving. Unlike traditional rule-based and deep learning approaches, which struggle with complex pedestrian behaviors and dynamic environments, our method integrates visual perception with reasoning capabilities, enabling structured, standardized, and explainable decision-making in pedestrian crossing scenarios.",
-            "venue": "Scientific Reports",
-            "paperUrl": "https://www.semanticscholar.org/paper/a3c793693929fe1b7830a4e63d8eab8b6e8bc30e",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1038/s41598-025-14827-x",
-            "reason_for_inclusion": "High quality: Published in Scientific Reports, a top-tier journal."
         },
         {
             "year": "2025.08",
@@ -217,21 +187,4 @@
             "reason_for_inclusion": "High quality: Published in Nature Reviews Gastroenterology & Hepatology, a top-tier journal."
         }
     ],
-    "databases": [
-        {
-            "year": "2025.08",
-            "title": "Microllm: a structured information extraction tool using large language models and named entity recognition in microbiology",
-            "team": "Lianyi Han",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Microbial information extraction with LLM and NER",
-            "abstract": "Abstract Understanding the characteristics of individual microorganisms is crucial for deciphering microbial community structures and enabling effective system manipulation. Large-scale analysis in microbial bioinformatics is hindered by the scarcity of high-quality annotated datasets, the labor-intensive, and time-consuming process of manual review, and the limitations of current natural language processing (NLP) technologies in effectively capturing comprehensive information. To tackle these challenges, we developed a new tool MicroLLM, which integrates fine-tuned large language models (LLMs) and bidirectional encoder representations from Transformers (BERT) to enhance the extraction of microbial phenotypic information. MicroLLM converts unstructured text into structured JSON objects, making the data more accessible and organized. By leveraging the strengths of LLMs and named entity recognition (NER), it efficiently extracts complex, multirelational, and multi-entity information. This method establishes a strong foundation for constructing large-scale structured knowledge bases, streamlining the creation of scientific knowledge, and advancing our understanding of microbial ecosystems and their impacts on health.",
-            "venue": "Briefings in Bioinformatics",
-            "paperUrl": "https://www.semanticscholar.org/paper/116963587ce2c4b76918c5820d4d4d068fe80fbc",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.1093/bib/bbaf534",
-            "reason_for_inclusion": "High quality: Published in Briefings in Bioinformatics, a Q1 journal."
-        }
-    ]
 }
