@@ -1264,6 +1264,45 @@
             "doi": "10.1038/s41591-025-03982-3"
         },
         {
+            "year": "2025.11",
+            "title": "A pre-trained large generative model for translating single-cell transcriptomes to proteomes",
+            "team": "Jianhua Yao",
+            "team website": "",
+            "affiliation": "Tencent",
+            "domain": "a pre-trained large generative model for translating single-cell transcriptomes to proteomes",
+            "venue": "Nature Biomedical Engineering",
+            "paperUrl": "https://www.nature.com/articles/s41551-025-01528-z",
+            "codeUrl": "https://github.com/TencentAILabHealthcare/scTranslator",
+            "githubStars": "https://img.shields.io/github/stars/TencentAILabHealthcare/scTranslator",
+            "doi": "https://doi.org/10.1038/s41551-025-01528-z"
+        },
+        {
+            "year": "2025.11",
+            "title": "A multimodal whole-slide foundation model for pathology",
+            "team": "Faisal Mahmood",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Multimodal pathology foundation model",
+            "venue": "Nature Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41591-025-03982-3"
+        },
+        {
+            "year": "2025.10",
+            "title": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
+            "team": "Fabian J. Theis",
+            "team website": "https://github.com/theislab",
+            "affiliation": "Technical University of Munich",
+            "domain": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
+            "venue": "Science",
+            "paperUrl": "https://www.science.org/doi/10.1126/science.adi8577",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1126/science.adi8577"
+        },
+        {
             "year": "2025.10",
             "title": "#3218 Predicting fluid overload hospitalizations in hemodialysis patients using a foundational model and large language model techniques",
             "team": "F. Bellocchio",
