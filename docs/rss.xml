@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 26 Nov 2025 02:34:13 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 27 Nov 2025 01:05:51 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution</title>
@@ -37,6 +37,62 @@
     <guid isPermaLink="false">Multimodallearningenableschatbasedexplorationofsinglecelldata202511</guid>
   </item>
   <item>
+    <title>Multi Agent Large Language Models for Biomedical Hypothesis Generation in Drug Combination Discovery</title>
+    <link>https://www.semanticscholar.org/paper/bc2a9fef179f39c7ede24789d91d01b291167fb6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yejin Kim</p>
+        <p><b>Domain:</b> Multi-agent LLM for drug combination hypothesis</p>
+        <p><b>Venue:</b> iScience</p>
+        <p><a href="https://www.semanticscholar.org/paper/bc2a9fef179f39c7ede24789d91d01b291167fb6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MultiAgentLargeLanguageModelsforBiomedicalHypothesisGenerationinDrugCombinationDiscovery202511</guid>
+  </item>
+  <item>
+    <title>Bridging the Computational-Experimental Gap: Leveraging Large Language Model to Prioritize Alzheimer’s Therapeutics Based on Comparison of Learning Models</title>
+    <link>https://www.semanticscholar.org/paper/684a9cd95428486f5796feb5ec659182cc57e847</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Cui Tao</p>
+        <p><b>Domain:</b> Alzheimer’s therapeutics prioritization with LLM</p>
+        <p><b>Venue:</b> Research Square</p>
+        <p><a href="https://www.semanticscholar.org/paper/684a9cd95428486f5796feb5ec659182cc57e847">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BridgingtheComputationalExperimentalGapLeveragingLargeLanguageModeltoPrioritizeAlzheimersTherapeuticsBasedonComparisonofLearningModels202511</guid>
+  </item>
+  <item>
+    <title>Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.</title>
+    <link>https://www.semanticscholar.org/paper/dc21f74eef0a822e4822d8530f7b31577018aca3</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Leila C Kahwati</p>
+        <p><b>Domain:</b> AI-assisted data extraction for systematic reviews</p>
+        <p><b>Venue:</b> Annals of internal medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/dc21f74eef0a822e4822d8530f7b31577018aca3">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ArtificialIntelligenceAssistedDataExtractionWithaLargeLanguageModelAStudyWithinReviews202511</guid>
+  </item>
+  <item>
+    <title>A multimodal whole-slide foundation model for pathology</title>
+    <link>https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Faisal Mahmood</p>
+        <p><b>Domain:</b> Multimodal pathology foundation model</p>
+        <p><b>Venue:</b> Nature Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Amultimodalwholeslidefoundationmodelforpathology202511</guid>
+  </item>
+  <item>
     <title>CellOntologyMapper: Consensus mapping of cell type annotation</title>
     <link>https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064</link>
     <description>
@@ -52,6 +108,118 @@
     <guid isPermaLink="false">CellOntologyMapperConsensusmappingofcelltypeannotation202511</guid>
   </item>
   <item>
+    <title>Evaluating clinical AI summaries with large language models as judges</title>
+    <link>https://www.semanticscholar.org/paper/78c758993828ae1ee5f0584d813152f2ce4af84f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Majid Afshar</p>
+        <p><b>Domain:</b> LLM-as-judge for clinical summary evaluation</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/78c758993828ae1ee5f0584d813152f2ce4af84f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">EvaluatingclinicalAIsummarieswithlargelanguagemodelsasjudges202511</guid>
+  </item>
+  <item>
+    <title>Putting AI Chatbots to the Test: A Comparative Analysis of Large Language Models' Performance in the Context of Basal Cell Carcinoma.</title>
+    <link>https://www.semanticscholar.org/paper/451e3c40a041f86528800d0334d2883e427d9083</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Merete Hædersdal</p>
+        <p><b>Domain:</b> Dermato-oncology LLM performance benchmark</p>
+        <p><b>Venue:</b> Experimental dermatology</p>
+        <p><a href="https://www.semanticscholar.org/paper/451e3c40a041f86528800d0334d2883e427d9083">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PuttingAIChatbotstotheTestAComparativeAnalysisofLargeLanguageModelsPerformanceintheContextofBasalCellCarcinoma202511</guid>
+  </item>
+  <item>
+    <title>Benchmarking ChatGPT and Other Large Language Models for Personalized Stage-Specific Dietary Recommendations in Chronic Kidney Disease</title>
+    <link>https://www.semanticscholar.org/paper/f96a2b7f2a4866633d0ce8b267f7ddb2b978ac50</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> M. Chan</p>
+        <p><b>Domain:</b> CKD dietary recommendation LLM benchmark</p>
+        <p><b>Venue:</b> Journal of Clinical Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/f96a2b7f2a4866633d0ce8b267f7ddb2b978ac50">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BenchmarkingChatGPTandOtherLargeLanguageModelsforPersonalizedStageSpecificDietaryRecommendationsinChronicKidneyDisease202511</guid>
+  </item>
+  <item>
+    <title>Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance</title>
+    <link>https://www.semanticscholar.org/paper/def7e6e5f4214315563aea3a913cc3580431af90</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Lorin Crawford</p>
+        <p><b>Domain:</b> Single-cell foundation model pretraining evaluation</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/def7e6e5f4214315563aea3a913cc3580431af90">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Evaluatingtheroleofpretrainingdatasetsizeanddiversityonsinglecellfoundationmodelperformance202511</guid>
+  </item>
+  <item>
+    <title>The rise and potential opportunities of large language model agents in bioinformatics and biomedicine</title>
+    <link>https://www.semanticscholar.org/paper/5ed2d020b02049452d6d37f46ea2f8cb67340cda</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jiajie Peng</p>
+        <p><b>Domain:</b> Review of LLM agents in bioinformatics</p>
+        <p><b>Venue:</b> Briefings in Bioinformatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/5ed2d020b02049452d6d37f46ea2f8cb67340cda">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Theriseandpotentialopportunitiesoflargelanguagemodelagentsinbioinformaticsandbiomedicine202511</guid>
+  </item>
+  <item>
+    <title>A survey on large language models in biology and chemistry.</title>
+    <link>https://www.semanticscholar.org/paper/57ce49793ed83b65abbba9910417216e7cab21ca</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Juyong Lee</p>
+        <p><b>Domain:</b> Survey on LLMs in biology and chemistry</p>
+        <p><b>Venue:</b> Experimental &amp; molecular medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/57ce49793ed83b65abbba9910417216e7cab21ca">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Asurveyonlargelanguagemodelsinbiologyandchemistry202511</guid>
+  </item>
+  <item>
+    <title>Survey on Efficient Large Language Models: Principles, Algorithms, Applications, and Open Issues.</title>
+    <link>https://www.semanticscholar.org/paper/98c5653f348bd14a92a875bacea1459d7325b8cd</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Lianbo Ma</p>
+        <p><b>Domain:</b> Survey on efficient LLM inference optimization</p>
+        <p><b>Venue:</b> IEEE transactions on neural networks and learning systems</p>
+        <p><a href="https://www.semanticscholar.org/paper/98c5653f348bd14a92a875bacea1459d7325b8cd">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SurveyonEfficientLargeLanguageModelsPrinciplesAlgorithmsApplicationsandOpenIssues202511</guid>
+  </item>
+  <item>
+    <title>Generative AI and Foundation Models in Radiology: Applications, Opportunities, and Potential Challenges.</title>
+    <link>https://www.semanticscholar.org/paper/54fc0d09d25af18d5c24f1cb0cd6c20660ba4ae3</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Rahsepar</p>
+        <p><b>Domain:</b> Review of foundation models in radiology</p>
+        <p><b>Venue:</b> Radiology</p>
+        <p><a href="https://www.semanticscholar.org/paper/54fc0d09d25af18d5c24f1cb0cd6c20660ba4ae3">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GenerativeAIandFoundationModelsinRadiologyApplicationsOpportunitiesandPotentialChallenges202511</guid>
+  </item>
+  <item>
     <title>LabOS: The AI-XR Co-Scientist That Sees and Works With Humans</title>
     <link>https://arxiv.org/abs/2510.14861</link>
     <description>
@@ -64,6 +232,202 @@
     </description>
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">LabOSTheAIXRCoScientistThatSeesandWorksWithHumans202510</guid>
+  </item>
+  <item>
+    <title>Feasibility and Acceptability of a Large Language Model-Based Motivational Interviewing Agent in the Emergency Department.</title>
+    <link>https://www.semanticscholar.org/paper/949ace206622c4aa82bdb95d722f4fe365bda11d</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Vanessa Pitre</p>
+        <p><b>Domain:</b> Motivational interviewing LLM agent in emergency care</p>
+        <p><b>Venue:</b> Annals of emergency medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/949ace206622c4aa82bdb95d722f4fe365bda11d">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FeasibilityandAcceptabilityofaLargeLanguageModelBasedMotivationalInterviewingAgentintheEmergencyDepartment202510</guid>
+  </item>
+  <item>
+    <title>Human knowledge-enhanced large language model agent for prediction of intestinal disease progression in patients with Crohn’s disease: A multicenter retrospective study</title>
+    <link>https://www.semanticscholar.org/paper/6b3ade2ee392a3da6a6071177044201128b35b9c</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Xuehua Li</p>
+        <p><b>Domain:</b> Crohn’s disease progression prediction with LLM agent</p>
+        <p><b>Venue:</b> Meta-Radiology</p>
+        <p><a href="https://www.semanticscholar.org/paper/6b3ade2ee392a3da6a6071177044201128b35b9c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HumanknowledgeenhancedlargelanguagemodelagentforpredictionofintestinaldiseaseprogressioninpatientswithCrohnsdiseaseAmulticenterretrospectivestudy202510</guid>
+  </item>
+  <item>
+    <title>Large language model enhanced framework for systematic reviews and meta-analyses</title>
+    <link>https://www.semanticscholar.org/paper/7543c4368d844cf0a9320e43630cd26b502b6ad1</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jinge Wu</p>
+        <p><b>Domain:</b> LLM-enhanced framework for systematic reviews and meta-analyses</p>
+        <p><b>Venue:</b> BMJ Digital Health &amp;amp; AI</p>
+        <p><a href="https://www.semanticscholar.org/paper/7543c4368d844cf0a9320e43630cd26b502b6ad1">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelenhancedframeworkforsystematicreviewsandmetaanalyses202510</guid>
+  </item>
+  <item>
+    <title>Large Language Model Agent for Managing Patients With Suspected Hypertension.</title>
+    <link>https://www.semanticscholar.org/paper/52f1b628bd6246106058a359604bcfebad30ecc6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jun Wang</p>
+        <p><b>Domain:</b> Hypertension management LLM agent</p>
+        <p><b>Venue:</b> Hypertension</p>
+        <p><a href="https://www.semanticscholar.org/paper/52f1b628bd6246106058a359604bcfebad30ecc6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LargeLanguageModelAgentforManagingPatientsWithSuspectedHypertension202510</guid>
+  </item>
+  <item>
+    <title>Dialogues with large language models reduce conspiracy beliefs even when the AI is perceived as human</title>
+    <link>https://www.semanticscholar.org/paper/7d909a8b3c49ecf6962b80d686d790b5dbe257b4</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Gordon Pennycook</p>
+        <p><b>Domain:</b> LLM dialogues for reducing conspiracy beliefs</p>
+        <p><b>Venue:</b> PNAS Nexus</p>
+        <p><a href="https://www.semanticscholar.org/paper/7d909a8b3c49ecf6962b80d686d790b5dbe257b4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DialogueswithlargelanguagemodelsreduceconspiracybeliefsevenwhentheAIisperceivedashuman202510</guid>
+  </item>
+  <item>
+    <title>Photoresponsive HOF-Based Platforms for Large Language Model-Assisted Multimodal Diagnosis of Metabolic Diseases.</title>
+    <link>https://www.semanticscholar.org/paper/d17aa5bf14869c5fec4b3563af21910c197c0aeb</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> B. Yan</p>
+        <p><b>Domain:</b> Photoresponsive sensor integrated with multimodal LLM for metabolic disease diagnosis</p>
+        <p><b>Venue:</b> Analytical chemistry</p>
+        <p><a href="https://www.semanticscholar.org/paper/d17aa5bf14869c5fec4b3563af21910c197c0aeb">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PhotoresponsiveHOFBasedPlatformsforLargeLanguageModelAssistedMultimodalDiagnosisofMetabolicDiseases202510</guid>
+  </item>
+  <item>
+    <title>Validation of Synthesa AI, a Large Language Model-Based Screening Tool for Systematic Reviews: Results from Nine Pharmacologic Studies</title>
+    <link>https://www.semanticscholar.org/paper/2a75b97593d1b841466707f8a8582932eecfc0fe</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Kyiakos Polymenakos</p>
+        <p><b>Domain:</b> LLM-based abstract screening for pharmacologic systematic reviews</p>
+        <p><b>Venue:</b> Journal of Cardiovascular Pharmacology</p>
+        <p><a href="https://www.semanticscholar.org/paper/2a75b97593d1b841466707f8a8582932eecfc0fe">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ValidationofSynthesaAIaLargeLanguageModelBasedScreeningToolforSystematicReviewsResultsfromNinePharmacologicStudies202510</guid>
+  </item>
+  <item>
+    <title>Mining Solid-State Electrolytes from Metal-Organic Framework Databases through Large Language Models and Representation Clustering.</title>
+    <link>https://www.semanticscholar.org/paper/a9ce5fb4b09b869e475f27ea4f89cc47a23e3e2b</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Chunpeng Yang</p>
+        <p><b>Domain:</b> LLM and clustering approach for mining MOF solid-state electrolytes</p>
+        <p><b>Venue:</b> Journal of the American Chemical Society</p>
+        <p><a href="https://www.semanticscholar.org/paper/a9ce5fb4b09b869e475f27ea4f89cc47a23e3e2b">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MiningSolidStateElectrolytesfromMetalOrganicFrameworkDatabasesthroughLargeLanguageModelsandRepresentationClustering202510</guid>
+  </item>
+  <item>
+    <title>QSP‐Copilot: An AI‐Augmented Platform for Accelerating Quantitative Systems Pharmacology Model Development</title>
+    <link>https://www.semanticscholar.org/paper/c65e1ee2971a29babd541a601d3777b20dca25ac</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Farnoud</p>
+        <p><b>Domain:</b> QSP‐Copilot: AI-augmented platform for QSP model development</p>
+        <p><b>Venue:</b> CPT: Pharmacometrics &amp; Systems Pharmacology</p>
+        <p><a href="https://www.semanticscholar.org/paper/c65e1ee2971a29babd541a601d3777b20dca25ac">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">QSPCopilotAnAIAugmentedPlatformforAcceleratingQuantitativeSystemsPharmacologyModelDevelopment202510</guid>
+  </item>
+  <item>
+    <title>Construction of an artificial-intelligence agent for the discovery of next-generation white-LED phosphors.</title>
+    <link>https://www.semanticscholar.org/paper/05f3a7aa54c4fc44a92d2d00927a5efd524e5ece</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yi‐Yang Sun</p>
+        <p><b>Domain:</b> AI agent with retrieval-augmented knowledge base for phosphor materials discovery</p>
+        <p><b>Venue:</b> Physical chemistry chemical physics : PCCP</p>
+        <p><a href="https://www.semanticscholar.org/paper/05f3a7aa54c4fc44a92d2d00927a5efd524e5ece">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ConstructionofanartificialintelligenceagentforthediscoveryofnextgenerationwhiteLEDphosphors202510</guid>
+  </item>
+  <item>
+    <title>#3218 Predicting fluid overload hospitalizations in hemodialysis patients using a foundational model and large language model techniques</title>
+    <link>https://www.semanticscholar.org/paper/1162518e157df984005781befad5137fe322e387</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> F. Bellocchio</p>
+        <p><b>Domain:</b> Fluid overload hospitalization prediction in hemodialysis with foundational LLM</p>
+        <p><b>Venue:</b> Nephrology Dialysis Transplantation</p>
+        <p><a href="https://www.semanticscholar.org/paper/1162518e157df984005781befad5137fe322e387">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">3218Predictingfluidoverloadhospitalizationsinhemodialysispatientsusingafoundationalmodelandlargelanguagemodeltechniques202510</guid>
+  </item>
+  <item>
+    <title>AI-powered three-category Helicobacter pylori diagnosis via magnetic controlled capsule endoscopy: a multicenter validation of a vision-language model</title>
+    <link>https://www.semanticscholar.org/paper/d33e009f7804910b78436dbf1ef9c33b0b4735a0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hongmei Jiao</p>
+        <p><b>Domain:</b> Vision-language model for H. pylori diagnosis via capsule endoscopy</p>
+        <p><b>Venue:</b> Frontiers in Microbiology</p>
+        <p><a href="https://www.semanticscholar.org/paper/d33e009f7804910b78436dbf1ef9c33b0b4735a0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIpoweredthreecategoryHelicobacterpyloridiagnosisviamagneticcontrolledcapsuleendoscopyamulticentervalidationofavisionlanguagemodel202510</guid>
+  </item>
+  <item>
+    <title>Scaling Large Language Models for Next-Generation Single-Cell Analysis</title>
+    <link>https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> David van Dijk</p>
+        <p><b>Domain:</b> Scaled LLM pretraining for next-generation single-cell analysis</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ScalingLargeLanguageModelsforNextGenerationSingleCellAnalysis202510</guid>
+  </item>
+  <item>
+    <title>A visual language model enabling intelligent nanomaterial scanning electron micrograph annotation.</title>
+    <link>https://www.semanticscholar.org/paper/60ff987179dd2874300a3180bc8a37995b20035a</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hong Wang</p>
+        <p><b>Domain:</b> Domain-adapted vision-language model for nanomaterial SEM annotation</p>
+        <p><b>Venue:</b> Nanoscale</p>
+        <p><a href="https://www.semanticscholar.org/paper/60ff987179dd2874300a3180bc8a37995b20035a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Avisuallanguagemodelenablingintelligentnanomaterialscanningelectronmicrographannotation202510</guid>
   </item>
   <item>
     <title>Protein restriction reprograms the multi-organ proteomic landscape of mouse aging</title>
@@ -96,6 +460,328 @@
     <guid isPermaLink="false">Efficientandaccuratesearchinpetabasescalesequencerepositories202510</guid>
   </item>
   <item>
+    <title>Towards Community-Based Evaluation of AI in Neurology: Development of a Headache Diagnosis Dataset for Large Language Models.</title>
+    <link>https://www.semanticscholar.org/paper/16e555468e627ef481d4d175fd23ccf75b2267c6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Dorian Zwanzig</p>
+        <p><b>Domain:</b> Headache diagnosis dataset for community-based LLM evaluation in neurology</p>
+        <p><b>Venue:</b> Studies in health technology and informatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/16e555468e627ef481d4d175fd23ccf75b2267c6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TowardsCommunityBasedEvaluationofAIinNeurologyDevelopmentofaHeadacheDiagnosisDatasetforLargeLanguageModels202510</guid>
+  </item>
+  <item>
+    <title>Development of a large-scale grounded vision language dataset for chest CT analysis</title>
+    <link>https://www.semanticscholar.org/paper/3912db2f306b51446460ca728fc328fdf05e41f5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yanfeng Wang</p>
+        <p><b>Domain:</b> RadGenome-Chest CT: large-scale grounded vision-language dataset for chest CT</p>
+        <p><b>Venue:</b> Scientific Data</p>
+        <p><a href="https://www.semanticscholar.org/paper/3912db2f306b51446460ca728fc328fdf05e41f5">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DevelopmentofalargescalegroundedvisionlanguagedatasetforchestCTanalysis202510</guid>
+  </item>
+  <item>
+    <title>AI-Powered Workflow for Constructing Organic Materials Databases from the Literature: Integrating Large Language Models</title>
+    <link>https://www.semanticscholar.org/paper/4f2dc57404b117f11dae7e704c9a360440a02d27</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yue Huang</p>
+        <p><b>Domain:</b> Automated materials science database construction via LLMs</p>
+        <p><b>Venue:</b> ACS Omega</p>
+        <p><a href="https://www.semanticscholar.org/paper/4f2dc57404b117f11dae7e704c9a360440a02d27">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIPoweredWorkflowforConstructingOrganicMaterialsDatabasesfromtheLiteratureIntegratingLargeLanguageModels202510</guid>
+  </item>
+  <item>
+    <title>There are significant differences among artificial intelligence large language models when answering scientific questions</title>
+    <link>https://www.semanticscholar.org/paper/fb8c61c3c19c42a2ea24c9d24d8fe154a1c2ad5c</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> E. Barrajón-Catalán</p>
+        <p><b>Domain:</b> Comparative evaluation of LLMs on scientific question answering</p>
+        <p><b>Venue:</b> Frontiers in Artificial Intelligence</p>
+        <p><a href="https://www.semanticscholar.org/paper/fb8c61c3c19c42a2ea24c9d24d8fe154a1c2ad5c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Therearesignificantdifferencesamongartificialintelligencelargelanguagemodelswhenansweringscientificquestions202510</guid>
+  </item>
+  <item>
+    <title>Variation in Large Language Model Recommendations in Challenging Inpatient Management Scenarios.</title>
+    <link>https://www.semanticscholar.org/paper/8111d51e12be7239b1bdceb41a8a7d49364ce36f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Eric Bressman</p>
+        <p><b>Domain:</b> Variability of LLM clinical recommendations in inpatient scenarios</p>
+        <p><b>Venue:</b> Journal of general internal medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/8111d51e12be7239b1bdceb41a8a7d49364ce36f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">VariationinLargeLanguageModelRecommendationsinChallengingInpatientManagementScenarios202510</guid>
+  </item>
+  <item>
+    <title>How does AI compare to the experts in a Delphi setting: simulating medical consensus with large language models.</title>
+    <link>https://www.semanticscholar.org/paper/78f0fe0f64e3c240cb970a1a09aa3246dcf7b17d</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Han</p>
+        <p><b>Domain:</b> Simulating Delphi consensus with LLMs in medical decision-making</p>
+        <p><b>Venue:</b> International journal of surgery</p>
+        <p><a href="https://www.semanticscholar.org/paper/78f0fe0f64e3c240cb970a1a09aa3246dcf7b17d">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HowdoesAIcomparetotheexpertsinaDelphisettingsimulatingmedicalconsensuswithlargelanguagemodels202510</guid>
+  </item>
+  <item>
+    <title>Comparative evaluation of large language model–based chatbots in a septic arthritis scenario: ChatGPT, Claude, and Perplexity</title>
+    <link>https://www.semanticscholar.org/paper/9b089d091cbba4c292c025d4903001a08ab326c0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Özlem Bayrak</p>
+        <p><b>Domain:</b> Comparative evaluation of LLM chatbots in septic arthritis scenarios</p>
+        <p><b>Venue:</b> Acta Orthopaedica et Traumatologica Turcica</p>
+        <p><a href="https://www.semanticscholar.org/paper/9b089d091cbba4c292c025d4903001a08ab326c0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ComparativeevaluationoflargelanguagemodelbasedchatbotsinasepticarthritisscenarioChatGPTClaudeandPerplexity202510</guid>
+  </item>
+  <item>
+    <title>Evolution of AI in anatomy education study based on comparison of current large language models against historical ChatGPT performance</title>
+    <link>https://www.semanticscholar.org/paper/c7971a60f6f5d72b3ddc29767eb9905d0a01dbe5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Volodymyr Mavrych</p>
+        <p><b>Domain:</b> Comparative performance of current versus historical LLMs in anatomy education</p>
+        <p><b>Venue:</b> Scientific Reports</p>
+        <p><a href="https://www.semanticscholar.org/paper/c7971a60f6f5d72b3ddc29767eb9905d0a01dbe5">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">EvolutionofAIinanatomyeducationstudybasedoncomparisonofcurrentlargelanguagemodelsagainsthistoricalChatGPTperformance202510</guid>
+  </item>
+  <item>
+    <title>Compliance and factuality of large language models for clinical research document generation.</title>
+    <link>https://www.semanticscholar.org/paper/a4c43e72d1311ea886405e9bdc942f49d5357046</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jimeng Sun</p>
+        <p><b>Domain:</b> Evaluation of compliance and factuality in clinical research document generation by LLMs</p>
+        <p><b>Venue:</b> Journal of the American Medical Informatics Association : JAMIA</p>
+        <p><a href="https://www.semanticscholar.org/paper/a4c43e72d1311ea886405e9bdc942f49d5357046">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Complianceandfactualityoflargelanguagemodelsforclinicalresearchdocumentgeneration202510</guid>
+  </item>
+  <item>
+    <title>Benchmarking large language models for personalized, biomarker-based health intervention recommendations</title>
+    <link>https://www.semanticscholar.org/paper/56739c6a235efbc01afbb0fb198538219fefb181</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Georg Fuellen</p>
+        <p><b>Domain:</b> Benchmarking LLMs for personalized biomarker-based health recommendations</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/56739c6a235efbc01afbb0fb198538219fefb181">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Benchmarkinglargelanguagemodelsforpersonalizedbiomarkerbasedhealthinterventionrecommendations202510</guid>
+  </item>
+  <item>
+    <title>Prompt-dependent performance of multimodal AI model in oral diagnosis: a comprehensive analysis of accuracy, narrative quality, calibration, and latency versus human experts</title>
+    <link>https://www.semanticscholar.org/paper/3ee4da3d68df74aaef3fc69df14dea76d32223a8</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Asmaa Abou-Bakr</p>
+        <p><b>Domain:</b> Prompt strategy effects on multimodal AI oral diagnosis performance</p>
+        <p><b>Venue:</b> Scientific Reports</p>
+        <p><a href="https://www.semanticscholar.org/paper/3ee4da3d68df74aaef3fc69df14dea76d32223a8">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PromptdependentperformanceofmultimodalAImodelinoraldiagnosisacomprehensiveanalysisofaccuracynarrativequalitycalibrationandlatencyversushumanexperts202510</guid>
+  </item>
+  <item>
+    <title>Large Language Model Agents for Biomedicine: A Comprehensive Review of Methods, Evaluations, Challenges, and Future Directions</title>
+    <link>https://www.semanticscholar.org/paper/aa3da305318799a02ab371318bd01678187ef080</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ravi Sankar</p>
+        <p><b>Domain:</b> Comprehensive review of biomedical LLM agents</p>
+        <p><b>Venue:</b> Information</p>
+        <p><a href="https://www.semanticscholar.org/paper/aa3da305318799a02ab371318bd01678187ef080">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LargeLanguageModelAgentsforBiomedicineAComprehensiveReviewofMethodsEvaluationsChallengesandFutureDirections202510</guid>
+  </item>
+  <item>
+    <title>Large language models to reduce antimicrobial resistance: ChatGPT, Claude and Gemini comparison</title>
+    <link>https://www.semanticscholar.org/paper/014a5845cf9a0c2cc2ed6d0c800a67a540094b80</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> L. Villani</p>
+        <p><b>Domain:</b> Survey of user trust in healthcare LLMs in Saudi Arabia</p>
+        <p><b>Venue:</b> The European Journal of Public Health</p>
+        <p><a href="https://www.semanticscholar.org/paper/014a5845cf9a0c2cc2ed6d0c800a67a540094b80">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LargelanguagemodelstoreduceantimicrobialresistanceChatGPTClaudeandGeminicomparison202510</guid>
+  </item>
+  <item>
+    <title>LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology</title>
+    <link>https://www.semanticscholar.org/paper/fb2c169f42adb99f8f3c37e24e2eba98df65e952</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Liqing Zhang</p>
+        <p><b>Domain:</b> Survey of LLM and agentic models for single-cell biology</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/fb2c169f42adb99f8f3c37e24e2eba98df65e952">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LLM4CellASurveyofLargeLanguageandAgenticModelsforSingleCellBiology202510</guid>
+  </item>
+  <item>
+    <title>Large language model chatbots for patient education in kidney stones: a scoping review</title>
+    <link>https://www.semanticscholar.org/paper/b6078700f6315eff5ce13121caa8e06d3d2e0f88</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> N. Bhojani</p>
+        <p><b>Domain:</b> Scoping review of LLM chatbots for patient education in kidney stones</p>
+        <p><b>Venue:</b> World Journal of Urology</p>
+        <p><a href="https://www.semanticscholar.org/paper/b6078700f6315eff5ce13121caa8e06d3d2e0f88">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelchatbotsforpatienteducationinkidneystonesascopingreview202510</guid>
+  </item>
+  <item>
+    <title>Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review</title>
+    <link>https://www.semanticscholar.org/paper/7215c7382de7800c038787235fa4305e2e6af4ad</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ying Wu</p>
+        <p><b>Domain:</b> Scoping review of retrieval-augmented generation in medical and nursing domains</p>
+        <p><b>Venue:</b> Journal of Medical Internet Research</p>
+        <p><a href="https://www.semanticscholar.org/paper/7215c7382de7800c038787235fa4305e2e6af4ad">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ImprovingLargeLanguageModelApplicationsintheMedicalandNursingDomainsWithRetrievalAugmentedGenerationScopingReview202510</guid>
+  </item>
+  <item>
+    <title>ARGTUMOUR: INTEGRATING LARGE LANGUAGE MODELS AND COMPUTATIONAL ARGUMENTATION TO DISCUSS TREATMENT OPTIONS FOR HIGH-GRADE GLIOMA</title>
+    <link>https://www.semanticscholar.org/paper/b6df41a78e7327265ab7c85c2df1979704d9f51e</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Matt Williams</p>
+        <p><b>Domain:</b> Glioblastoma treatment argumentation</p>
+        <p><b>Venue:</b> Neuro-Oncology</p>
+        <p><a href="https://www.semanticscholar.org/paper/b6df41a78e7327265ab7c85c2df1979704d9f51e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ARGTUMOURINTEGRATINGLARGELANGUAGEMODELSANDCOMPUTATIONALARGUMENTATIONTODISCUSSTREATMENTOPTIONSFORHIGHGRADEGLIOMA202509</guid>
+  </item>
+  <item>
+    <title>Healthcare agent: eliciting the power of large language models for medical consultation</title>
+    <link>https://www.semanticscholar.org/paper/97412aeab5443a278258ef4269ed7224e08c9a3a</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> D. Tao</p>
+        <p><b>Domain:</b> Medical consultation AI agent</p>
+        <p><b>Venue:</b> npj Artificial Intelligence</p>
+        <p><a href="https://www.semanticscholar.org/paper/97412aeab5443a278258ef4269ed7224e08c9a3a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Healthcareagentelicitingthepoweroflargelanguagemodelsformedicalconsultation202509</guid>
+  </item>
+  <item>
+    <title>P03-04 Leveraging Large Language Models and Multi-Agent Systems to Extract Discontinuation Rationales in Drug Development</title>
+    <link>https://www.semanticscholar.org/paper/417e2443ea0f32703e6f8df54f7f990e09b51c96</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> T. Doktorova</p>
+        <p><b>Domain:</b> Drug development discontinuation rationales</p>
+        <p><b>Venue:</b> Toxicology Letters</p>
+        <p><a href="https://www.semanticscholar.org/paper/417e2443ea0f32703e6f8df54f7f990e09b51c96">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">P0304LeveragingLargeLanguageModelsandMultiAgentSystemstoExtractDiscontinuationRationalesinDrugDevelopment202509</guid>
+  </item>
+  <item>
+    <title>HypoGeneAgent: A Hypothesis Language Agent for Gene-Set Cluster Resolution Selection Using Perturb-seq Datasets</title>
+    <link>https://www.semanticscholar.org/paper/2c36c003302fef3f77cef4b96a723f880ac2d65b</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Vladimir Ermakov</p>
+        <p><b>Domain:</b> Gene-set cluster annotation agent</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/2c36c003302fef3f77cef4b96a723f880ac2d65b">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HypoGeneAgentAHypothesisLanguageAgentforGeneSetClusterResolutionSelectionUsingPerturbseqDatasets202509</guid>
+  </item>
+  <item>
+    <title>CLAW-MRM: Comprehensive Lipidomics Automation Workflow for Multiple Reaction Monitoring Using Large Language Models.</title>
+    <link>https://www.semanticscholar.org/paper/a375b66187f36ef48b373433c2416185ee70dd41</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Gaurav Chopra</p>
+        <p><b>Domain:</b> Automated lipidomics workflow</p>
+        <p><b>Venue:</b> Analytical chemistry</p>
+        <p><a href="https://www.semanticscholar.org/paper/a375b66187f36ef48b373433c2416185ee70dd41">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CLAWMRMComprehensiveLipidomicsAutomationWorkflowforMultipleReactionMonitoringUsingLargeLanguageModels202509</guid>
+  </item>
+  <item>
+    <title>An AI Agent for cell-type specific brain computer interfaces</title>
+    <link>https://www.semanticscholar.org/paper/d90383ebe5de7fe2ea516b899a1656d13656b2fc</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jia Liu</p>
+        <p><b>Domain:</b> BCI AI agent for cell-type classification</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/d90383ebe5de7fe2ea516b899a1656d13656b2fc">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AnAIAgentforcelltypespecificbraincomputerinterfaces202509</guid>
+  </item>
+  <item>
+    <title>Nano Bio-Agents (NBA): Small Language Model Agents for Genomics</title>
+    <link>https://www.semanticscholar.org/paper/b3dc8722e83573c7a6143e2b590b5791a4cf475e</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Daniel Trejo-Baños</p>
+        <p><b>Domain:</b> Small language model agents for genomics (NBA)</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/b3dc8722e83573c7a6143e2b590b5791a4cf475e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">NanoBioAgentsNBASmallLanguageModelAgentsforGenomics202509</guid>
+  </item>
+  <item>
     <title>Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology</title>
     <link>https://arxiv.org/abs/2509.26223</link>
     <description>
@@ -125,6 +811,272 @@
     <guid isPermaLink="false">GeneRAINmultifacetedrepresentationofgenesviadeeplearningofgeneexpressionnetworks202509</guid>
   </item>
   <item>
+    <title>202eP Generalizable pan-cancer immunotherapy response prediction using the CURE AI large clinicogenomic foundation model</title>
+    <link>https://www.semanticscholar.org/paper/05c6b1020a1d8018530f3a56702a00703d7170a0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> N.B. Pfister</p>
+        <p><b>Domain:</b> Pan-cancer immunotherapy response prediction</p>
+        <p><b>Venue:</b> Annals of Oncology</p>
+        <p><a href="https://www.semanticscholar.org/paper/05c6b1020a1d8018530f3a56702a00703d7170a0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">202ePGeneralizablepancancerimmunotherapyresponsepredictionusingtheCUREAIlargeclinicogenomicfoundationmodel202509</guid>
+  </item>
+  <item>
+    <title>PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms</title>
+    <link>https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> E. Buckler</p>
+        <p><b>Domain:</b> Plant genomics DNA language model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PlantCAD2ALongContextDNALanguageModelforCrossSpeciesFunctionalAnnotationinAngiosperms202509</guid>
+  </item>
+  <item>
+    <title>A foundation model for human-AI collaboration in medical literature mining</title>
+    <link>https://www.semanticscholar.org/paper/369f76d5f2e4cd2028863acec5b4f15fecdc9f63</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jimeng Sun</p>
+        <p><b>Domain:</b> Foundation model for literature mining (LEADS)</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/369f76d5f2e4cd2028863acec5b4f15fecdc9f63">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AfoundationmodelforhumanAIcollaborationinmedicalliteraturemining202509</guid>
+  </item>
+  <item>
+    <title>UA-VLFM: An Uncertainty-aware Vision-Language Foundation Model for Auxiliary Diagnosis of Vitreoretinal Iymphoma.</title>
+    <link>https://www.semanticscholar.org/paper/832128fa44868362e97bb29386c5c1425f428e78</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yuanyuan Peng</p>
+        <p><b>Domain:</b> Uncertainty‐aware vision‐language model for VRL</p>
+        <p><b>Venue:</b> IEEE journal of biomedical and health informatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/832128fa44868362e97bb29386c5c1425f428e78">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">UAVLFMAnUncertaintyawareVisionLanguageFoundationModelforAuxiliaryDiagnosisofVitreoretinalIymphoma202509</guid>
+  </item>
+  <item>
+    <title>Demonstration of transformer-based ALBERT model on a 14nm analog AI inference chip</title>
+    <link>https://www.semanticscholar.org/paper/2fd36ab5d27c28324c14047f0ee852e475af152f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Geoffrey W. Burr</p>
+        <p><b>Domain:</b> Analog AI inference of transformer model</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/2fd36ab5d27c28324c14047f0ee852e475af152f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DemonstrationoftransformerbasedALBERTmodelona14nmanalogAIinferencechip202509</guid>
+  </item>
+  <item>
+    <title>LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology</title>
+    <link>https://www.semanticscholar.org/paper/04ee89fee63089a928a24f26caddc7b27c2bd22f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Qingyu Chen</p>
+        <p><b>Domain:</b> Ophthalmology multimodal dataset LMOD+</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/04ee89fee63089a928a24f26caddc7b27c2bd22f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LMODAComprehensiveMultimodalDatasetandBenchmarkforDevelopingandEvaluatingMultimodalLargeLanguageModelsinOphthalmology202509</guid>
+  </item>
+  <item>
+    <title>The imitation game: large language models versus multidisciplinary tumor boards: benchmarking AI against 21 sarcoma centers from the ring trial</title>
+    <link>https://www.semanticscholar.org/paper/d9cb979f15f584f231076a9c36e898c9599244b5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Cui Yang</p>
+        <p><b>Domain:</b> Sarcoma treatment recommendation comparison</p>
+        <p><b>Venue:</b> Journal of Cancer Research and Clinical Oncology</p>
+        <p><a href="https://www.semanticscholar.org/paper/d9cb979f15f584f231076a9c36e898c9599244b5">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TheimitationgamelargelanguagemodelsversusmultidisciplinarytumorboardsbenchmarkingAIagainst21sarcomacentersfromtheringtrial202509</guid>
+  </item>
+  <item>
+    <title>From algorithms to operating room: can large language models master China's attending anesthesiology exam? a cross-sectional evaluation.</title>
+    <link>https://www.semanticscholar.org/paper/97de7f17b404aa7b484062f252576902358fe0aa</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jiuhong Yuan</p>
+        <p><b>Domain:</b> Anesthesiology board exam performance</p>
+        <p><b>Venue:</b> International journal of surgery</p>
+        <p><a href="https://www.semanticscholar.org/paper/97de7f17b404aa7b484062f252576902358fe0aa">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FromalgorithmstooperatingroomcanlargelanguagemodelsmasterChinasattendinganesthesiologyexamacrosssectionalevaluation202509</guid>
+  </item>
+  <item>
+    <title>Comparative Diagnostic Performance of a Multimodal Large Language Model Versus a Dedicated Electrocardiogram AI in Detecting Myocardial Infarction From Electrocardiogram Images: Comparative Study</title>
+    <link>https://www.semanticscholar.org/paper/9e8ad3169a37fe49b3bbf6bd6319aa6c47e6665f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Keehyuck Lee</p>
+        <p><b>Domain:</b> ECG image–based MI diagnosis comparison</p>
+        <p><b>Venue:</b> JMIR AI</p>
+        <p><a href="https://www.semanticscholar.org/paper/9e8ad3169a37fe49b3bbf6bd6319aa6c47e6665f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ComparativeDiagnosticPerformanceofaMultimodalLargeLanguageModelVersusaDedicatedElectrocardiogramAIinDetectingMyocardialInfarctionFromElectrocardiogramImagesComparativeStudy202509</guid>
+  </item>
+  <item>
+    <title>Using Large Language Models to Assess the Consistency of Randomized Controlled Trials on AI Interventions With CONSORT-AI: Cross-Sectional Survey</title>
+    <link>https://www.semanticscholar.org/paper/fa0d96aa69d0f420172727ffe5402530f1f57d33</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zhaoxiang Bian</p>
+        <p><b>Domain:</b> LLM consistency assessment of AI RCTs</p>
+        <p><b>Venue:</b> Journal of Medical Internet Research</p>
+        <p><a href="https://www.semanticscholar.org/paper/fa0d96aa69d0f420172727ffe5402530f1f57d33">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">UsingLargeLanguageModelstoAssesstheConsistencyofRandomizedControlledTrialsonAIInterventionsWithCONSORTAICrossSectionalSurvey202509</guid>
+  </item>
+  <item>
+    <title>Fine-Tuning Methods for Large Language Models in Clinical Medicine by Supervised Fine-Tuning and Direct Preference Optimization: Comparative Evaluation</title>
+    <link>https://www.semanticscholar.org/paper/8ba1a7337bd576ea0473c5aa0cb39fbf19310a0f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jonathan H. Chen</p>
+        <p><b>Domain:</b> SFT vs DPO fine-tuning in clinical LLMs</p>
+        <p><b>Venue:</b> Journal of Medical Internet Research</p>
+        <p><a href="https://www.semanticscholar.org/paper/8ba1a7337bd576ea0473c5aa0cb39fbf19310a0f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FineTuningMethodsforLargeLanguageModelsinClinicalMedicinebySupervisedFineTuningandDirectPreferenceOptimizationComparativeEvaluation202509</guid>
+  </item>
+  <item>
+    <title>Can large language models follow guidelines? A comparative study of ChatGPT-4o and DeepSeek AI in clavicle fracture management based on AAOS recommendations</title>
+    <link>https://www.semanticscholar.org/paper/77ac819d1287c6bb41c1d988f5528a09e40ccce7</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Bekir Karagöz</p>
+        <p><b>Domain:</b> CPG adherence by ChatGPT-4o vs DeepSeek AI</p>
+        <p><b>Venue:</b> BMC Medical Informatics and Decision Making</p>
+        <p><a href="https://www.semanticscholar.org/paper/77ac819d1287c6bb41c1d988f5528a09e40ccce7">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CanlargelanguagemodelsfollowguidelinesAcomparativestudyofChatGPT4oandDeepSeekAIinclaviclefracturemanagementbasedonAAOSrecommendations202509</guid>
+  </item>
+  <item>
+    <title>Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation</title>
+    <link>https://www.semanticscholar.org/paper/8cdb6320735984619991bab8b1f54502ecc96aca</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Essam A. Rashed</p>
+        <p><b>Domain:</b> Multi-agent framework for radiology report gen</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/8cdb6320735984619991bab8b1f54502ecc96aca">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MedicalAIConsensusAMultiAgentFrameworkforRadiologyReportGenerationandEvaluation202509</guid>
+  </item>
+  <item>
+    <title>Charting the evolution of artificial intelligence mental health chatbots from rule‐based systems to large language models: a systematic review</title>
+    <link>https://www.semanticscholar.org/paper/8b6e4d0874844057237a5fd53e2e03a3c2c52e20</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> J. Torous</p>
+        <p><b>Domain:</b> Mental health chatbot architectures</p>
+        <p><b>Venue:</b> World Psychiatry</p>
+        <p><a href="https://www.semanticscholar.org/paper/8b6e4d0874844057237a5fd53e2e03a3c2c52e20">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Chartingtheevolutionofartificialintelligencementalhealthchatbotsfromrulebasedsystemstolargelanguagemodelsasystematicreview202509</guid>
+  </item>
+  <item>
+    <title>Best Practices for the Safe Use of Large Language Models and Other Generative AI in Radiology.</title>
+    <link>https://www.semanticscholar.org/paper/2dc8ce06575136b64ac13b32567e200653dbb8b0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Vishwa S. Parekh</p>
+        <p><b>Domain:</b> Generative AI best practices in radiology</p>
+        <p><b>Venue:</b> Radiology</p>
+        <p><a href="https://www.semanticscholar.org/paper/2dc8ce06575136b64ac13b32567e200653dbb8b0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BestPracticesfortheSafeUseofLargeLanguageModelsandOtherGenerativeAIinRadiology202509</guid>
+  </item>
+  <item>
+    <title>Mitigating Ethical Issues for Large Language Models in Oncology: A Systematic Review.</title>
+    <link>https://www.semanticscholar.org/paper/008014c0fe9c31dfa58c4329d4f9d5307fd80016</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Rui Zhang</p>
+        <p><b>Domain:</b> Ethical issues of LLMs in oncology</p>
+        <p><b>Venue:</b> JCO clinical cancer informatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/008014c0fe9c31dfa58c4329d4f9d5307fd80016">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MitigatingEthicalIssuesforLargeLanguageModelsinOncologyASystematicReview202509</guid>
+  </item>
+  <item>
+    <title>A systematic mapping review on the capability of large language models in drug-drug interaction analysis</title>
+    <link>https://www.semanticscholar.org/paper/2a3c4c175bcb3842a4a52dda33a3a4f9e5a970d1</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> S. Biri</p>
+        <p><b>Domain:</b> LLMs for drug-drug interaction analysis</p>
+        <p><b>Venue:</b> Expert Review of Clinical Pharmacology</p>
+        <p><a href="https://www.semanticscholar.org/paper/2a3c4c175bcb3842a4a52dda33a3a4f9e5a970d1">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Asystematicmappingreviewonthecapabilityoflargelanguagemodelsindrugdruginteractionanalysis202509</guid>
+  </item>
+  <item>
+    <title>Sustainability in large language model supply chains-insights and recommendations using analysis of utility for affecting factors</title>
+    <link>https://www.semanticscholar.org/paper/0d300f8d40b41d929137aef09e2eed654cb018cc</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ashutosh Kumar Singh</p>
+        <p><b>Domain:</b> Sustainability in LLM supply chains</p>
+        <p><b>Venue:</b> Scientific Reports</p>
+        <p><a href="https://www.semanticscholar.org/paper/0d300f8d40b41d929137aef09e2eed654cb018cc">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Sustainabilityinlargelanguagemodelsupplychainsinsightsandrecommendationsusinganalysisofutilityforaffectingfactors202509</guid>
+  </item>
+  <item>
+    <title>Generative AI costs in large healthcare systems, an example in revenue cycle</title>
+    <link>https://www.semanticscholar.org/paper/301702a963ee3c7cd1614d38fe432a4e7c1c5c8d</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jody Platt</p>
+        <p><b>Domain:</b> Generative AI costs in healthcare systems</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/301702a963ee3c7cd1614d38fe432a4e7c1c5c8d">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GenerativeAIcostsinlargehealthcaresystemsanexampleinrevenuecycle202509</guid>
+  </item>
+  <item>
     <title>BioScientist Agent: Designing LLM-Biomedical Agents with KG-Augmented RL Reasoning Modules for Drug Repurposing and Mechanistic of Action Elucidation</title>
     <link>https://www.biorxiv.org/content/10.1101/2025.08.08.669291v2</link>
     <description>
@@ -139,6 +1091,230 @@
     <guid isPermaLink="false">BioScientistAgentDesigningLLMBiomedicalAgentswithKGAugmentedRLReasoningModulesforDrugRepurposingandMechanisticofActionElucidation202508</guid>
   </item>
   <item>
+    <title>Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model</title>
+    <link>https://www.semanticscholar.org/paper/d67afa3cb98b6e5a15966ce06f1aff61cf2ad270</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Xueqi Cheng</p>
+        <p><b>Domain:</b> LLM-driven full-process clinical diagnosis</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/d67afa3cb98b6e5a15966ce06f1aff61cf2ad270">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ReversePhysicianAIRelationshipFullprocessClinicalDiagnosisDrivenbyaLargeLanguageModel202508</guid>
+  </item>
+  <item>
+    <title>ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-institution and Multi-system Data.</title>
+    <link>https://www.semanticscholar.org/paper/ecab6c8b4052a09127340a7fcfcc0b1550435b63</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tuo Zhang</p>
+        <p><b>Domain:</b> LLM for radiology impression generation</p>
+        <p><b>Venue:</b> IEEE transactions on bio-medical engineering</p>
+        <p><a href="https://www.semanticscholar.org/paper/ecab6c8b4052a09127340a7fcfcc0b1550435b63">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ChatRadioValuerAChatLargeLanguageModelforGeneralizableRadiologyImpressionGenerationonMultiinstitutionandMultisystemData202508</guid>
+  </item>
+  <item>
+    <title>A large language model digital patient system enhances ophthalmology history taking skills</title>
+    <link>https://www.semanticscholar.org/paper/0688a4ed8971d339ae2f294a299ce0e9b836fb62</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Haotian Lin</p>
+        <p><b>Domain:</b> LLM-based digital patient for ophthalmology training</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/0688a4ed8971d339ae2f294a299ce0e9b836fb62">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Alargelanguagemodeldigitalpatientsystemenhancesophthalmologyhistorytakingskills202508</guid>
+  </item>
+  <item>
+    <title>Evaluating the Capability of Large Language Model Chatbots for Generating Plain Language Summaries in Radiology</title>
+    <link>https://www.semanticscholar.org/paper/d1cb625c241b63052cea1da4fbd6b25d5f798790</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Swaha Panda</p>
+        <p><b>Domain:</b> LLM-generated plain language summaries in radiology</p>
+        <p><b>Venue:</b> iRADIOLOGY</p>
+        <p><a href="https://www.semanticscholar.org/paper/d1cb625c241b63052cea1da4fbd6b25d5f798790">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">EvaluatingtheCapabilityofLargeLanguageModelChatbotsforGeneratingPlainLanguageSummariesinRadiology202508</guid>
+  </item>
+  <item>
+    <title>Integrating clinical reasoning into large language model-based diagnosis through etiology-aware attention steering</title>
+    <link>https://www.semanticscholar.org/paper/fb69b0591a8acf0d3f36b47d3df36b1ef481a394</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jingsong Li</p>
+        <p><b>Domain:</b> Etiology-aware attention steering in LLM diagnosis</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/fb69b0591a8acf0d3f36b47d3df36b1ef481a394">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Integratingclinicalreasoningintolargelanguagemodelbaseddiagnosisthroughetiologyawareattentionsteering202508</guid>
+  </item>
+  <item>
+    <title>Impact of an Evidence-Based Large Language Model (LLM) Diagnostic Decision Support System: A Randomised Controlled Trial.</title>
+    <link>https://www.semanticscholar.org/paper/b1f35310cb1190f264ffdb07c7ec2fee0335cce4</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Junsang Yoo</p>
+        <p><b>Domain:</b> Evidence-based LLM diagnostic decision support</p>
+        <p><b>Venue:</b> Studies in health technology and informatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/b1f35310cb1190f264ffdb07c7ec2fee0335cce4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ImpactofanEvidenceBasedLargeLanguageModelLLMDiagnosticDecisionSupportSystemARandomisedControlledTrial202508</guid>
+  </item>
+  <item>
+    <title>Leveraging large language models for the deidentification and temporal normalization of sensitive health information in electronic health records</title>
+    <link>https://www.semanticscholar.org/paper/5bd7da9ef638f309da5490cc7a2a4dac8fa9c07c</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jitendra Jonnagaddala</p>
+        <p><b>Domain:</b> LLM-based deidentification and temporal normalization in EHR</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/5bd7da9ef638f309da5490cc7a2a4dac8fa9c07c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Leveraginglargelanguagemodelsforthedeidentificationandtemporalnormalizationofsensitivehealthinformationinelectronichealthrecords202508</guid>
+  </item>
+  <item>
+    <title>CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes</title>
+    <link>https://www.semanticscholar.org/paper/ded9da3e1cbf8f8c142383ed4650d626445b6d18</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hong Yu</p>
+        <p><b>Domain:</b> Clinical prediction using multi-agent LLM</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/ded9da3e1cbf8f8c142383ed4650d626445b6d18">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CAREADamultiagentlargelanguagemodelframeworkforAlzheimersdiseasepredictionusinglongitudinalclinicalnotes202508</guid>
+  </item>
+  <item>
+    <title>Development and evaluation of a clinical note summarization system using large language models</title>
+    <link>https://www.semanticscholar.org/paper/13ce985163af039fe40e1f4bab9fa4880339202c</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Rodrigo F. Nogueira</p>
+        <p><b>Domain:</b> LLM system for clinical note summarization</p>
+        <p><b>Venue:</b> Communications Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/13ce985163af039fe40e1f4bab9fa4880339202c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Developmentandevaluationofaclinicalnotesummarizationsystemusinglargelanguagemodels202508</guid>
+  </item>
+  <item>
+    <title>From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development</title>
+    <link>https://www.semanticscholar.org/paper/add5d50f1309b5064453b48eae56d626e291f154</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Annika Kreuchwig</p>
+        <p><b>Domain:</b> Preclinical drug development multi-agent knowledge engine</p>
+        <p><b>Venue:</b> Frontiers in Artificial Intelligence</p>
+        <p><a href="https://www.semanticscholar.org/paper/add5d50f1309b5064453b48eae56d626e291f154">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FromdatasilostoinsightsthePRINCEmultiagentknowledgeengineforpreclinicaldrugdevelopment202508</guid>
+  </item>
+  <item>
+    <title>Vision-language foundation model for 3D medical imaging</title>
+    <link>https://www.semanticscholar.org/paper/669f6dcb66625d549e88f697fdf9a38cd3bcce3f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Harrison X. Bai</p>
+        <p><b>Domain:</b> Vision-language foundation model for 3D medical imaging</p>
+        <p><b>Venue:</b> npj Artificial Intelligence</p>
+        <p><a href="https://www.semanticscholar.org/paper/669f6dcb66625d549e88f697fdf9a38cd3bcce3f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Visionlanguagefoundationmodelfor3Dmedicalimaging202508</guid>
+  </item>
+  <item>
+    <title>Transforming Cardio-Oncology Care Through AI-Driven Large Language Model Systems</title>
+    <link>https://www.semanticscholar.org/paper/47a6ff604cb8beee19e44353346c6cc404e968bc</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Avirup Guha</p>
+        <p><b>Domain:</b> Cardio-oncology decision support with LLM systems</p>
+        <p><b>Venue:</b> JACC: Advances</p>
+        <p><a href="https://www.semanticscholar.org/paper/47a6ff604cb8beee19e44353346c6cc404e968bc">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TransformingCardioOncologyCareThroughAIDrivenLargeLanguageModelSystems202508</guid>
+  </item>
+  <item>
+    <title>Discovery of CRISPR-Cas12a clades using a large language model</title>
+    <link>https://www.semanticscholar.org/paper/f3b2b073deb1bb49f4ba089a4cafa6c578aececd</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Peixiang Ma</p>
+        <p><b>Domain:</b> CRISPR-Cas protein discovery via evolutionary LLM</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/f3b2b073deb1bb49f4ba089a4cafa6c578aececd">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DiscoveryofCRISPRCas12acladesusingalargelanguagemodel202508</guid>
+  </item>
+  <item>
+    <title>Incorporating large language models as clinical decision support in oncology: the Woollie model</title>
+    <link>https://www.semanticscholar.org/paper/30bf408ed7ceb1a7aee914ebe6ccf125ace58cc4</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Joseph C. Kvedar</p>
+        <p><b>Domain:</b> Oncology clinical decision support LLM</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/30bf408ed7ceb1a7aee914ebe6ccf125ace58cc4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">IncorporatinglargelanguagemodelsasclinicaldecisionsupportinoncologytheWoolliemodel202508</guid>
+  </item>
+  <item>
+    <title>DrugReasoner: Interpretable Drug Approval Prediction with a Reasoning-augmented Language Model</title>
+    <link>https://www.semanticscholar.org/paper/d77d18b9f67a0891cf665e22c26d22b59ba58b14</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Y. Gheisari</p>
+        <p><b>Domain:</b> LLM for small-molecule drug approval prediction</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/d77d18b9f67a0891cf665e22c26d22b59ba58b14">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DrugReasonerInterpretableDrugApprovalPredictionwithaReasoningaugmentedLanguageModel202508</guid>
+  </item>
+  <item>
+    <title>scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis</title>
+    <link>https://www.semanticscholar.org/paper/a9f7761b740c85444b86f581801a471340007a0d</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hongyu Zhao</p>
+        <p><b>Domain:</b> LLM embeddings for single-cell data analysis</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/a9f7761b740c85444b86f581801a471340007a0d">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">scELMoEmbeddingsfromLanguageModelsareGoodLearnersforSinglecellDataAnalysis202508</guid>
+  </item>
+  <item>
     <title>Drug Response Omics association MAp (DROMA, 卓玛)</title>
     <link>https://github.com/mugpeng/DROMA</link>
     <description>
@@ -151,6 +1327,160 @@
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">DrugResponseOmicsassociationMApDROMA202508</guid>
+  </item>
+  <item>
+    <title>Large language model powered knowledge graph construction for mental health exploration</title>
+    <link>https://www.semanticscholar.org/paper/cf72cf90a34bbb8715ca2626d4ac6e901afb3457</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hongtu Zhu</p>
+        <p><b>Domain:</b> Knowledge graph construction for mental health</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/cf72cf90a34bbb8715ca2626d4ac6e901afb3457">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelpoweredknowledgegraphconstructionformentalhealthexploration202508</guid>
+  </item>
+  <item>
+    <title>Finding the dark matter: Large language model‐based enzyme kinetic data extractor and its validation</title>
+    <link>https://www.semanticscholar.org/paper/839511d2d7a43d41be05e10fe8448b0ca37112a2</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zhongyue J. Yang</p>
+        <p><b>Domain:</b> LLM-based enzyme kinetic data extraction</p>
+        <p><b>Venue:</b> Protein Science : A Publication of the Protein Society</p>
+        <p><a href="https://www.semanticscholar.org/paper/839511d2d7a43d41be05e10fe8448b0ca37112a2">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FindingthedarkmatterLargelanguagemodelbasedenzymekineticdataextractoranditsvalidation202508</guid>
+  </item>
+  <item>
+    <title>miRKatAI: An Integrated Database and Multi-agent AI system for microRNA Research</title>
+    <link>https://www.semanticscholar.org/paper/eecf17eee7339225389f95c092fbf8fbda0f9779</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Katarzyna Goljanek-Whysall</p>
+        <p><b>Domain:</b> Database and AI system for microRNA research</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/eecf17eee7339225389f95c092fbf8fbda0f9779">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">miRKatAIAnIntegratedDatabaseandMultiagentAIsystemformicroRNAResearch202508</guid>
+  </item>
+  <item>
+    <title>Leveraging image-based AI for dietary assessment: evaluating a large language model with real-world meal photos from the ZOE PREDICT cohorts</title>
+    <link>https://www.semanticscholar.org/paper/45ca1748e55b6a73096c33cce5d18d9c3781241a</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> S. Berry</p>
+        <p><b>Domain:</b> AI-powered dietary assessment from meal images</p>
+        <p><b>Venue:</b> Proceedings of the Nutrition Society</p>
+        <p><a href="https://www.semanticscholar.org/paper/45ca1748e55b6a73096c33cce5d18d9c3781241a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LeveragingimagebasedAIfordietaryassessmentevaluatingalargelanguagemodelwithrealworldmealphotosfromtheZOEPREDICTcohorts202508</guid>
+  </item>
+  <item>
+    <title>Can a Large Language Model Judge a Child's Statement?: A Comparative Analysis of ChatGPT and Human Experts in Credibility Assessment.</title>
+    <link>https://www.semanticscholar.org/paper/3deaeaf3edefbe465c46927eccb65af9f8193937</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zeki Karataş</p>
+        <p><b>Domain:</b> LLM reliability in credibility assessment of child statements</p>
+        <p><b>Venue:</b> Journal of evidence-based social work</p>
+        <p><a href="https://www.semanticscholar.org/paper/3deaeaf3edefbe465c46927eccb65af9f8193937">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CanaLargeLanguageModelJudgeaChildsStatementAComparativeAnalysisofChatGPTandHumanExpertsinCredibilityAssessment202508</guid>
+  </item>
+  <item>
+    <title>Human Expertise and Large Language Model Embeddings in the Content Validity Assessment of Personality Tests.</title>
+    <link>https://www.semanticscholar.org/paper/820a8fbfdc7dae76f13041ce27e2070342d0b10f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Davide Marocco</p>
+        <p><b>Domain:</b> LLM embeddings for psychometric content validity</p>
+        <p><b>Venue:</b> Educational and psychological measurement</p>
+        <p><a href="https://www.semanticscholar.org/paper/820a8fbfdc7dae76f13041ce27e2070342d0b10f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HumanExpertiseandLargeLanguageModelEmbeddingsintheContentValidityAssessmentofPersonalityTests202508</guid>
+  </item>
+  <item>
+    <title>High-level visual representations in the human brain are aligned with large language models</title>
+    <link>https://www.semanticscholar.org/paper/bc5d6c636c36f5ddc9af61da414511d43373b8e0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ian Charest</p>
+        <p><b>Domain:</b> Alignment of brain visual representations with LLM embeddings</p>
+        <p><b>Venue:</b> Nature Machine Intelligence</p>
+        <p><a href="https://www.semanticscholar.org/paper/bc5d6c636c36f5ddc9af61da414511d43373b8e0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Highlevelvisualrepresentationsinthehumanbrainarealignedwithlargelanguagemodels202508</guid>
+  </item>
+  <item>
+    <title>Evaluating the o1 reasoning large language model for cognitive bias: a vignette study</title>
+    <link>https://www.semanticscholar.org/paper/dfbb9645b5580d4b08e4a1d5e3a21b2998c08531</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Sharon Einav</p>
+        <p><b>Domain:</b> Evaluation of cognitive bias in medical decision LLMs</p>
+        <p><b>Venue:</b> Critical Care</p>
+        <p><a href="https://www.semanticscholar.org/paper/dfbb9645b5580d4b08e4a1d5e3a21b2998c08531">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Evaluatingtheo1reasoninglargelanguagemodelforcognitivebiasavignettestudy202508</guid>
+  </item>
+  <item>
+    <title>Out-of-the-box bioinformatics capabilities of large language models (LLMs)</title>
+    <link>https://www.semanticscholar.org/paper/6fa80e4e9537bc8ec43df53f9d57373d79144dbb</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Geoffrey H. Siwo</p>
+        <p><b>Domain:</b> Benchmarking LLMs on bioinformatics educational tasks</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/6fa80e4e9537bc8ec43df53f9d57373d79144dbb">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">OutoftheboxbioinformaticscapabilitiesoflargelanguagemodelsLLMs202508</guid>
+  </item>
+  <item>
+    <title>Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent</title>
+    <link>https://www.semanticscholar.org/paper/14c622901f2e893ae54ceb2f98178b14b1623c3f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Girish N. Nadkarni</p>
+        <p><b>Domain:</b> LLM agent orchestration under clinical workloads</p>
+        <p><b>Venue:</b> medRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/14c622901f2e893ae54ceb2f98178b14b1623c3f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Orchestratedmultiagentssustainaccuracyunderclinicalscaleworkloadscomparedtoasingleagent202508</guid>
+  </item>
+  <item>
+    <title>Large language models for clinical decision support in gastroenterology and hepatology</title>
+    <link>https://www.semanticscholar.org/paper/5b813012fba35e20e1892f6b01f1dd323a1e1c3d</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> J. Kather</p>
+        <p><b>Domain:</b> Gastroenterology decision support with LLM</p>
+        <p><b>Venue:</b> Nature Reviews Gastroenterology &amp; Hepatology</p>
+        <p><a href="https://www.semanticscholar.org/paper/5b813012fba35e20e1892f6b01f1dd323a1e1c3d">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelsforclinicaldecisionsupportingastroenterologyandhepatology202508</guid>
   </item>
   <item>
     <title>PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis</title>
