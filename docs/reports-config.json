@@ -1,0 +1,47 @@
+{
+  "reports": [
+    {
+      "id": "202505",
+      "name": "May 2025",
+      "file": "month_reports/202505.md",
+      "description": "Research Report for May 2025"
+    },
+    {
+      "id": "202504",
+      "name": "April 2025",
+      "file": "month_reports/202504.md",
+      "description": "Research Report for April 2025"
+    },
+    {
+      "id": "202503",
+      "name": "March 2025",
+      "file": "month_reports/202503.md",
+      "description": "Research Report for March 2025"
+    },
+    {
+      "id": "202502",
+      "name": "February 2025",
+      "file": "month_reports/202502.md",
+      "description": "Research Report for February 2025"
+    },
+    {
+      "id": "202501",
+      "name": "January 2025",
+      "file": "month_reports/202501.md",
+      "description": "Research Report for January 2025"
+    },
+    {
+      "id": "202412",
+      "name": "December 2024",
+      "file": "month_reports/202412.md",
+      "description": "Research Report for December 2024"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-01-15",
+    "totalReports": 6,
+    "description": "Monthly research reports on AI applications in biology",
+    "fileNamingConvention": "YYYYMM.md",
+    "directory": "month_reports"
+  }
+} 
