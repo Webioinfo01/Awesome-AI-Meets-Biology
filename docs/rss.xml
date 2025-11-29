@@ -5,11 +5,11 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 27 Nov 2025 01:05:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 29 Nov 2025 12:16:52 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution</title>
-    <link>https://arxiv.org/pdf/2502.18864v1</link>
+    <link>https://doi.org/10.1016/j.cell.2025.08.018</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Tiago R D Costa</p>
@@ -23,7 +23,7 @@
   </item>
   <item>
     <title>Multimodal learning enables chat-based exploration of single-cell data</title>
-    <link>https://www.nature.com/articles/s41587-025-02857-9</link>
+    <link>https://doi.org/10.1038/s41587-025-02857-9</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Christoph Bock</p>
@@ -38,7 +38,7 @@
   </item>
   <item>
     <title>Multi Agent Large Language Models for Biomedical Hypothesis Generation in Drug Combination Discovery</title>
-    <link>https://www.semanticscholar.org/paper/bc2a9fef179f39c7ede24789d91d01b291167fb6</link>
+    <link>https://doi.org/10.1016/j.isci.2025.113984</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yejin Kim</p>
@@ -52,7 +52,7 @@
   </item>
   <item>
     <title>Bridging the Computational-Experimental Gap: Leveraging Large Language Model to Prioritize Alzheimer’s Therapeutics Based on Comparison of Learning Models</title>
-    <link>https://www.semanticscholar.org/paper/684a9cd95428486f5796feb5ec659182cc57e847</link>
+    <link>https://doi.org/10.21203/rs.3.rs-7811754/v1</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Cui Tao</p>
@@ -66,7 +66,7 @@
   </item>
   <item>
     <title>Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.</title>
-    <link>https://www.semanticscholar.org/paper/dc21f74eef0a822e4822d8530f7b31577018aca3</link>
+    <link>https://doi.org/10.7326/ANNALS-25-00739</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Leila C Kahwati</p>
@@ -79,8 +79,23 @@
     <guid isPermaLink="false">ArtificialIntelligenceAssistedDataExtractionWithaLargeLanguageModelAStudyWithinReviews202511</guid>
   </item>
   <item>
+    <title>Scalable and universal prediction of cellular phenotypes</title>
+    <link>https://doi.org/10.1101/2024.08.12.607533v3</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis</p>
+        <p><b>Domain:</b> a transformer-based computational model for cellular phenotype prediction</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.biorxiv.org/content/10.1101/2024.08.12.607533v3">Read the Paper</a></p>
+        <p><a href="https://github.com/theislab/prophet">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Scalableanduniversalpredictionofcellularphenotypes202511</guid>
+  </item>
+  <item>
     <title>A multimodal whole-slide foundation model for pathology</title>
-    <link>https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f</link>
+    <link>https://doi.org/10.1038/s41591-025-03982-3</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Faisal Mahmood</p>
@@ -93,8 +108,23 @@
     <guid isPermaLink="false">Amultimodalwholeslidefoundationmodelforpathology202511</guid>
   </item>
   <item>
+    <title>A pre-trained large generative model for translating single-cell transcriptomes to proteomes</title>
+    <link>https://doi.org/https://doi.org/10.1038/s41551-025-01528-z</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jianhua Yao</p>
+        <p><b>Domain:</b> a pre-trained large generative model for translating single-cell transcriptomes to proteomes</p>
+        <p><b>Venue:</b> Nature Biomedical Engineering</p>
+        <p><a href="https://www.nature.com/articles/s41551-025-01528-z">Read the Paper</a></p>
+        <p><a href="https://github.com/TencentAILabHealthcare/scTranslator">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Apretrainedlargegenerativemodelfortranslatingsinglecelltranscriptomestoproteomes202511</guid>
+  </item>
+  <item>
     <title>CellOntologyMapper: Consensus mapping of cell type annotation</title>
-    <link>https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064</link>
+    <link>https://doi.org/10.1002/imo2.70064</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> </p>
@@ -109,7 +139,7 @@
   </item>
   <item>
     <title>Evaluating clinical AI summaries with large language models as judges</title>
-    <link>https://www.semanticscholar.org/paper/78c758993828ae1ee5f0584d813152f2ce4af84f</link>
+    <link>https://doi.org/10.1038/s41746-025-02005-2</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Majid Afshar</p>
@@ -123,7 +153,7 @@
   </item>
   <item>
     <title>Putting AI Chatbots to the Test: A Comparative Analysis of Large Language Models' Performance in the Context of Basal Cell Carcinoma.</title>
-    <link>https://www.semanticscholar.org/paper/451e3c40a041f86528800d0334d2883e427d9083</link>
+    <link>https://doi.org/10.1111/exd.70175</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Merete Hædersdal</p>
@@ -137,7 +167,7 @@
   </item>
   <item>
     <title>Benchmarking ChatGPT and Other Large Language Models for Personalized Stage-Specific Dietary Recommendations in Chronic Kidney Disease</title>
-    <link>https://www.semanticscholar.org/paper/f96a2b7f2a4866633d0ce8b267f7ddb2b978ac50</link>
+    <link>https://doi.org/10.3390/jcm14228033</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> M. Chan</p>
@@ -151,7 +181,7 @@
   </item>
   <item>
     <title>Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance</title>
-    <link>https://www.semanticscholar.org/paper/def7e6e5f4214315563aea3a913cc3580431af90</link>
+    <link>https://doi.org/10.1101/2024.12.13.628448</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Lorin Crawford</p>
@@ -165,7 +195,7 @@
   </item>
   <item>
     <title>The rise and potential opportunities of large language model agents in bioinformatics and biomedicine</title>
-    <link>https://www.semanticscholar.org/paper/5ed2d020b02049452d6d37f46ea2f8cb67340cda</link>
+    <link>https://doi.org/10.1093/bib/bbaf601</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jiajie Peng</p>
@@ -179,7 +209,7 @@
   </item>
   <item>
     <title>A survey on large language models in biology and chemistry.</title>
-    <link>https://www.semanticscholar.org/paper/57ce49793ed83b65abbba9910417216e7cab21ca</link>
+    <link>https://doi.org/10.1038/s12276-025-01583-1</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Juyong Lee</p>
@@ -193,7 +223,7 @@
   </item>
   <item>
     <title>Survey on Efficient Large Language Models: Principles, Algorithms, Applications, and Open Issues.</title>
-    <link>https://www.semanticscholar.org/paper/98c5653f348bd14a92a875bacea1459d7325b8cd</link>
+    <link>https://doi.org/10.1109/TNNLS.2025.3628671</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Lianbo Ma</p>
@@ -207,7 +237,7 @@
   </item>
   <item>
     <title>Generative AI and Foundation Models in Radiology: Applications, Opportunities, and Potential Challenges.</title>
-    <link>https://www.semanticscholar.org/paper/54fc0d09d25af18d5c24f1cb0cd6c20660ba4ae3</link>
+    <link>https://doi.org/10.1148/radiol.242961</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> A. Rahsepar</p>
@@ -221,7 +251,7 @@
   </item>
   <item>
     <title>LabOS: The AI-XR Co-Scientist That Sees and Works With Humans</title>
-    <link>https://arxiv.org/abs/2510.14861</link>
+    <link>https://doi.org/10.48550/arXiv.2510.14861</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Mengdi Wang, Le Cong</p>
@@ -235,7 +265,7 @@
   </item>
   <item>
     <title>Feasibility and Acceptability of a Large Language Model-Based Motivational Interviewing Agent in the Emergency Department.</title>
-    <link>https://www.semanticscholar.org/paper/949ace206622c4aa82bdb95d722f4fe365bda11d</link>
+    <link>https://doi.org/10.1016/j.annemergmed.2025.08.021</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Vanessa Pitre</p>
@@ -249,7 +279,7 @@
   </item>
   <item>
     <title>Human knowledge-enhanced large language model agent for prediction of intestinal disease progression in patients with Crohn’s disease: A multicenter retrospective study</title>
-    <link>https://www.semanticscholar.org/paper/6b3ade2ee392a3da6a6071177044201128b35b9c</link>
+    <link>https://doi.org/10.1016/j.metrad.2025.100186</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Xuehua Li</p>
@@ -263,7 +293,7 @@
   </item>
   <item>
     <title>Large language model enhanced framework for systematic reviews and meta-analyses</title>
-    <link>https://www.semanticscholar.org/paper/7543c4368d844cf0a9320e43630cd26b502b6ad1</link>
+    <link>https://doi.org/10.1136/bmjdhai-2025-000017</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jinge Wu</p>
@@ -277,7 +307,7 @@
   </item>
   <item>
     <title>Large Language Model Agent for Managing Patients With Suspected Hypertension.</title>
-    <link>https://www.semanticscholar.org/paper/52f1b628bd6246106058a359604bcfebad30ecc6</link>
+    <link>https://doi.org/10.1161/HYPERTENSIONAHA.125.25305</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jun Wang</p>
@@ -291,7 +321,7 @@
   </item>
   <item>
     <title>Dialogues with large language models reduce conspiracy beliefs even when the AI is perceived as human</title>
-    <link>https://www.semanticscholar.org/paper/7d909a8b3c49ecf6962b80d686d790b5dbe257b4</link>
+    <link>https://doi.org/10.1093/pnasnexus/pgaf325</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Gordon Pennycook</p>
@@ -305,7 +335,7 @@
   </item>
   <item>
     <title>Photoresponsive HOF-Based Platforms for Large Language Model-Assisted Multimodal Diagnosis of Metabolic Diseases.</title>
-    <link>https://www.semanticscholar.org/paper/d17aa5bf14869c5fec4b3563af21910c197c0aeb</link>
+    <link>https://doi.org/10.1021/acs.analchem.5c04807</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> B. Yan</p>
@@ -319,7 +349,7 @@
   </item>
   <item>
     <title>Validation of Synthesa AI, a Large Language Model-Based Screening Tool for Systematic Reviews: Results from Nine Pharmacologic Studies</title>
-    <link>https://www.semanticscholar.org/paper/2a75b97593d1b841466707f8a8582932eecfc0fe</link>
+    <link>https://doi.org/10.1097/fjc.0000000000001768</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Kyiakos Polymenakos</p>
@@ -333,7 +363,7 @@
   </item>
   <item>
     <title>Mining Solid-State Electrolytes from Metal-Organic Framework Databases through Large Language Models and Representation Clustering.</title>
-    <link>https://www.semanticscholar.org/paper/a9ce5fb4b09b869e475f27ea4f89cc47a23e3e2b</link>
+    <link>https://doi.org/10.1021/jacs.5c12212</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Chunpeng Yang</p>
@@ -347,7 +377,7 @@
   </item>
   <item>
     <title>QSP‐Copilot: An AI‐Augmented Platform for Accelerating Quantitative Systems Pharmacology Model Development</title>
-    <link>https://www.semanticscholar.org/paper/c65e1ee2971a29babd541a601d3777b20dca25ac</link>
+    <link>https://doi.org/10.1002/psp4.70127</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> A. Farnoud</p>
@@ -361,7 +391,7 @@
   </item>
   <item>
     <title>Construction of an artificial-intelligence agent for the discovery of next-generation white-LED phosphors.</title>
-    <link>https://www.semanticscholar.org/paper/05f3a7aa54c4fc44a92d2d00927a5efd524e5ece</link>
+    <link>https://doi.org/10.1039/d5cp03582a</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yi‐Yang Sun</p>
@@ -374,8 +404,22 @@
     <guid isPermaLink="false">ConstructionofanartificialintelligenceagentforthediscoveryofnextgenerationwhiteLEDphosphors202510</guid>
   </item>
   <item>
+    <title>Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</title>
+    <link>https://doi.org/10.1126/science.adi8577</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis</p>
+        <p><b>Domain:</b> Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</p>
+        <p><b>Venue:</b> Science</p>
+        <p><a href="https://www.science.org/doi/10.1126/science.adi8577">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Activelearningframeworkleveragingtranscriptomicsidentifiesmodulatorsofdiseasephenotypes202510</guid>
+  </item>
+  <item>
     <title>#3218 Predicting fluid overload hospitalizations in hemodialysis patients using a foundational model and large language model techniques</title>
-    <link>https://www.semanticscholar.org/paper/1162518e157df984005781befad5137fe322e387</link>
+    <link>https://doi.org/10.1093/ndt/gfaf116.0786</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> F. Bellocchio</p>
@@ -389,7 +433,7 @@
   </item>
   <item>
     <title>AI-powered three-category Helicobacter pylori diagnosis via magnetic controlled capsule endoscopy: a multicenter validation of a vision-language model</title>
-    <link>https://www.semanticscholar.org/paper/d33e009f7804910b78436dbf1ef9c33b0b4735a0</link>
+    <link>https://doi.org/10.3389/fmicb.2025.1687021</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Hongmei Jiao</p>
@@ -402,22 +446,8 @@
     <guid isPermaLink="false">AIpoweredthreecategoryHelicobacterpyloridiagnosisviamagneticcontrolledcapsuleendoscopyamulticentervalidationofavisionlanguagemodel202510</guid>
   </item>
   <item>
-    <title>Scaling Large Language Models for Next-Generation Single-Cell Analysis</title>
-    <link>https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> David van Dijk</p>
-        <p><b>Domain:</b> Scaled LLM pretraining for next-generation single-cell analysis</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ScalingLargeLanguageModelsforNextGenerationSingleCellAnalysis202510</guid>
-  </item>
-  <item>
     <title>A visual language model enabling intelligent nanomaterial scanning electron micrograph annotation.</title>
-    <link>https://www.semanticscholar.org/paper/60ff987179dd2874300a3180bc8a37995b20035a</link>
+    <link>https://doi.org/10.1039/d5nr03027g</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Hong Wang</p>
@@ -431,7 +461,7 @@
   </item>
   <item>
     <title>Protein restriction reprograms the multi-organ proteomic landscape of mouse aging</title>
-    <link>https://pubmed.ncbi.nlm.nih.gov/41138729/</link>
+    <link>https://doi.org/10.1016/j.cell.2025.10.004</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Tiannan Guo</p>
@@ -446,7 +476,7 @@
   </item>
   <item>
     <title>Efficient and accurate search in petabase-scale sequence repositories</title>
-    <link>https://www.nature.com/articles/s41586-025-09603-w</link>
+    <link>https://doi.org/10.1038/s41586-025-09603-w</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> André Kahles</p>
@@ -461,7 +491,7 @@
   </item>
   <item>
     <title>Towards Community-Based Evaluation of AI in Neurology: Development of a Headache Diagnosis Dataset for Large Language Models.</title>
-    <link>https://www.semanticscholar.org/paper/16e555468e627ef481d4d175fd23ccf75b2267c6</link>
+    <link>https://doi.org/10.3233/SHTI251535</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Dorian Zwanzig</p>
@@ -475,7 +505,7 @@
   </item>
   <item>
     <title>Development of a large-scale grounded vision language dataset for chest CT analysis</title>
-    <link>https://www.semanticscholar.org/paper/3912db2f306b51446460ca728fc328fdf05e41f5</link>
+    <link>https://doi.org/10.1038/s41597-025-05922-9</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yanfeng Wang</p>
@@ -489,7 +519,7 @@
   </item>
   <item>
     <title>AI-Powered Workflow for Constructing Organic Materials Databases from the Literature: Integrating Large Language Models</title>
-    <link>https://www.semanticscholar.org/paper/4f2dc57404b117f11dae7e704c9a360440a02d27</link>
+    <link>https://doi.org/10.1021/acsomega.5c03612</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yue Huang</p>
@@ -503,7 +533,7 @@
   </item>
   <item>
     <title>There are significant differences among artificial intelligence large language models when answering scientific questions</title>
-    <link>https://www.semanticscholar.org/paper/fb8c61c3c19c42a2ea24c9d24d8fe154a1c2ad5c</link>
+    <link>https://doi.org/10.3389/frai.2025.1664303</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> E. Barrajón-Catalán</p>
@@ -517,7 +547,7 @@
   </item>
   <item>
     <title>Variation in Large Language Model Recommendations in Challenging Inpatient Management Scenarios.</title>
-    <link>https://www.semanticscholar.org/paper/8111d51e12be7239b1bdceb41a8a7d49364ce36f</link>
+    <link>https://doi.org/10.1007/s11606-025-09888-7</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Eric Bressman</p>
@@ -531,7 +561,7 @@
   </item>
   <item>
     <title>How does AI compare to the experts in a Delphi setting: simulating medical consensus with large language models.</title>
-    <link>https://www.semanticscholar.org/paper/78f0fe0f64e3c240cb970a1a09aa3246dcf7b17d</link>
+    <link>https://doi.org/10.1097/JS9.0000000000003631</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> A. Han</p>
@@ -545,7 +575,7 @@
   </item>
   <item>
     <title>Comparative evaluation of large language model–based chatbots in a septic arthritis scenario: ChatGPT, Claude, and Perplexity</title>
-    <link>https://www.semanticscholar.org/paper/9b089d091cbba4c292c025d4903001a08ab326c0</link>
+    <link>https://doi.org/10.5152/j.aott.2025.25428</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Özlem Bayrak</p>
@@ -559,7 +589,7 @@
   </item>
   <item>
     <title>Evolution of AI in anatomy education study based on comparison of current large language models against historical ChatGPT performance</title>
-    <link>https://www.semanticscholar.org/paper/c7971a60f6f5d72b3ddc29767eb9905d0a01dbe5</link>
+    <link>https://doi.org/10.1038/s41598-025-22437-w</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Volodymyr Mavrych</p>
@@ -573,7 +603,7 @@
   </item>
   <item>
     <title>Compliance and factuality of large language models for clinical research document generation.</title>
-    <link>https://www.semanticscholar.org/paper/a4c43e72d1311ea886405e9bdc942f49d5357046</link>
+    <link>https://doi.org/10.1093/jamia/ocaf174</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jimeng Sun</p>
@@ -587,7 +617,7 @@
   </item>
   <item>
     <title>Benchmarking large language models for personalized, biomarker-based health intervention recommendations</title>
-    <link>https://www.semanticscholar.org/paper/56739c6a235efbc01afbb0fb198538219fefb181</link>
+    <link>https://doi.org/10.1038/s41746-025-01996-2</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Georg Fuellen</p>
@@ -601,7 +631,7 @@
   </item>
   <item>
     <title>Prompt-dependent performance of multimodal AI model in oral diagnosis: a comprehensive analysis of accuracy, narrative quality, calibration, and latency versus human experts</title>
-    <link>https://www.semanticscholar.org/paper/3ee4da3d68df74aaef3fc69df14dea76d32223a8</link>
+    <link>https://doi.org/10.1038/s41598-025-22979-z</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Asmaa Abou-Bakr</p>
@@ -615,7 +645,7 @@
   </item>
   <item>
     <title>Large Language Model Agents for Biomedicine: A Comprehensive Review of Methods, Evaluations, Challenges, and Future Directions</title>
-    <link>https://www.semanticscholar.org/paper/aa3da305318799a02ab371318bd01678187ef080</link>
+    <link>https://doi.org/10.3390/info16100894</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ravi Sankar</p>
@@ -629,7 +659,7 @@
   </item>
   <item>
     <title>Large language models to reduce antimicrobial resistance: ChatGPT, Claude and Gemini comparison</title>
-    <link>https://www.semanticscholar.org/paper/014a5845cf9a0c2cc2ed6d0c800a67a540094b80</link>
+    <link>https://doi.org/10.1093/eurpub/ckaf161.316</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> L. Villani</p>
@@ -643,7 +673,7 @@
   </item>
   <item>
     <title>LLM4Cell: A Survey of Large Language and Agentic Models for Single-Cell Biology</title>
-    <link>https://www.semanticscholar.org/paper/fb2c169f42adb99f8f3c37e24e2eba98df65e952</link>
+    <link>https://doi.org/10.48550/arXiv.2510.07793</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Liqing Zhang</p>
@@ -657,7 +687,7 @@
   </item>
   <item>
     <title>Large language model chatbots for patient education in kidney stones: a scoping review</title>
-    <link>https://www.semanticscholar.org/paper/b6078700f6315eff5ce13121caa8e06d3d2e0f88</link>
+    <link>https://doi.org/10.1007/s00345-025-06019-z</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> N. Bhojani</p>
@@ -671,7 +701,7 @@
   </item>
   <item>
     <title>Improving Large Language Model Applications in the Medical and Nursing Domains With Retrieval-Augmented Generation: Scoping Review</title>
-    <link>https://www.semanticscholar.org/paper/7215c7382de7800c038787235fa4305e2e6af4ad</link>
+    <link>https://doi.org/10.2196/80557</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ying Wu</p>
@@ -685,7 +715,7 @@
   </item>
   <item>
     <title>ARGTUMOUR: INTEGRATING LARGE LANGUAGE MODELS AND COMPUTATIONAL ARGUMENTATION TO DISCUSS TREATMENT OPTIONS FOR HIGH-GRADE GLIOMA</title>
-    <link>https://www.semanticscholar.org/paper/b6df41a78e7327265ab7c85c2df1979704d9f51e</link>
+    <link>https://doi.org/10.1093/neuonc/noaf185.104</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Matt Williams</p>
@@ -699,7 +729,7 @@
   </item>
   <item>
     <title>Healthcare agent: eliciting the power of large language models for medical consultation</title>
-    <link>https://www.semanticscholar.org/paper/97412aeab5443a278258ef4269ed7224e08c9a3a</link>
+    <link>https://doi.org/10.1038/s44387-025-00021-x</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> D. Tao</p>
@@ -713,7 +743,7 @@
   </item>
   <item>
     <title>P03-04 Leveraging Large Language Models and Multi-Agent Systems to Extract Discontinuation Rationales in Drug Development</title>
-    <link>https://www.semanticscholar.org/paper/417e2443ea0f32703e6f8df54f7f990e09b51c96</link>
+    <link>https://doi.org/10.1016/j.toxlet.2025.07.199</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> T. Doktorova</p>
@@ -727,7 +757,7 @@
   </item>
   <item>
     <title>HypoGeneAgent: A Hypothesis Language Agent for Gene-Set Cluster Resolution Selection Using Perturb-seq Datasets</title>
-    <link>https://www.semanticscholar.org/paper/2c36c003302fef3f77cef4b96a723f880ac2d65b</link>
+    <link>https://doi.org/10.48550/arXiv.2509.09740</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Vladimir Ermakov</p>
@@ -741,7 +771,7 @@
   </item>
   <item>
     <title>CLAW-MRM: Comprehensive Lipidomics Automation Workflow for Multiple Reaction Monitoring Using Large Language Models.</title>
-    <link>https://www.semanticscholar.org/paper/a375b66187f36ef48b373433c2416185ee70dd41</link>
+    <link>https://doi.org/10.1021/acs.analchem.4c05039</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Gaurav Chopra</p>
@@ -755,7 +785,7 @@
   </item>
   <item>
     <title>An AI Agent for cell-type specific brain computer interfaces</title>
-    <link>https://www.semanticscholar.org/paper/d90383ebe5de7fe2ea516b899a1656d13656b2fc</link>
+    <link>https://doi.org/10.1101/2025.09.11.675660</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jia Liu</p>
@@ -769,7 +799,7 @@
   </item>
   <item>
     <title>Nano Bio-Agents (NBA): Small Language Model Agents for Genomics</title>
-    <link>https://www.semanticscholar.org/paper/b3dc8722e83573c7a6143e2b590b5791a4cf475e</link>
+    <link>https://doi.org/10.48550/arXiv.2509.19566</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Daniel Trejo-Baños</p>
@@ -783,7 +813,7 @@
   </item>
   <item>
     <title>Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology</title>
-    <link>https://arxiv.org/abs/2509.26223</link>
+    <link>https://doi.org/10.48550/arXiv.2509.26223</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Katalin Susztak</p>
@@ -797,7 +827,7 @@
   </item>
   <item>
     <title>GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks</title>
-    <link>https://pubmed.ncbi.nlm.nih.gov/40983974/</link>
+    <link>https://doi.org/10.1186/s13059-025-03749-6</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Fatemeh Vafaee</p>
@@ -812,7 +842,7 @@
   </item>
   <item>
     <title>202eP Generalizable pan-cancer immunotherapy response prediction using the CURE AI large clinicogenomic foundation model</title>
-    <link>https://www.semanticscholar.org/paper/05c6b1020a1d8018530f3a56702a00703d7170a0</link>
+    <link>https://doi.org/10.1016/j.annonc.2025.08.635</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> N.B. Pfister</p>
@@ -826,7 +856,7 @@
   </item>
   <item>
     <title>PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms</title>
-    <link>https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38</link>
+    <link>https://doi.org/10.1101/2025.08.27.672609</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> E. Buckler</p>
@@ -840,7 +870,7 @@
   </item>
   <item>
     <title>A foundation model for human-AI collaboration in medical literature mining</title>
-    <link>https://www.semanticscholar.org/paper/369f76d5f2e4cd2028863acec5b4f15fecdc9f63</link>
+    <link>https://doi.org/10.1038/s41467-025-62058-5</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jimeng Sun</p>
@@ -854,7 +884,7 @@
   </item>
   <item>
     <title>UA-VLFM: An Uncertainty-aware Vision-Language Foundation Model for Auxiliary Diagnosis of Vitreoretinal Iymphoma.</title>
-    <link>https://www.semanticscholar.org/paper/832128fa44868362e97bb29386c5c1425f428e78</link>
+    <link>https://doi.org/10.1109/JBHI.2025.3611985</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yuanyuan Peng</p>
@@ -868,7 +898,7 @@
   </item>
   <item>
     <title>Demonstration of transformer-based ALBERT model on a 14nm analog AI inference chip</title>
-    <link>https://www.semanticscholar.org/paper/2fd36ab5d27c28324c14047f0ee852e475af152f</link>
+    <link>https://doi.org/10.1038/s41467-025-63794-4</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Geoffrey W. Burr</p>
@@ -882,7 +912,7 @@
   </item>
   <item>
     <title>LMOD+: A Comprehensive Multimodal Dataset and Benchmark for Developing and Evaluating Multimodal Large Language Models in Ophthalmology</title>
-    <link>https://www.semanticscholar.org/paper/04ee89fee63089a928a24f26caddc7b27c2bd22f</link>
+    <link>https://doi.org/10.48550/arXiv.2509.25620</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Qingyu Chen</p>
@@ -896,7 +926,7 @@
   </item>
   <item>
     <title>The imitation game: large language models versus multidisciplinary tumor boards: benchmarking AI against 21 sarcoma centers from the ring trial</title>
-    <link>https://www.semanticscholar.org/paper/d9cb979f15f584f231076a9c36e898c9599244b5</link>
+    <link>https://doi.org/10.1007/s00432-025-06304-9</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Cui Yang</p>
@@ -910,7 +940,7 @@
   </item>
   <item>
     <title>From algorithms to operating room: can large language models master China's attending anesthesiology exam? a cross-sectional evaluation.</title>
-    <link>https://www.semanticscholar.org/paper/97de7f17b404aa7b484062f252576902358fe0aa</link>
+    <link>https://doi.org/10.1097/JS9.0000000000003406</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jiuhong Yuan</p>
@@ -924,7 +954,7 @@
   </item>
   <item>
     <title>Comparative Diagnostic Performance of a Multimodal Large Language Model Versus a Dedicated Electrocardiogram AI in Detecting Myocardial Infarction From Electrocardiogram Images: Comparative Study</title>
-    <link>https://www.semanticscholar.org/paper/9e8ad3169a37fe49b3bbf6bd6319aa6c47e6665f</link>
+    <link>https://doi.org/10.2196/75910</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Keehyuck Lee</p>
@@ -938,7 +968,7 @@
   </item>
   <item>
     <title>Using Large Language Models to Assess the Consistency of Randomized Controlled Trials on AI Interventions With CONSORT-AI: Cross-Sectional Survey</title>
-    <link>https://www.semanticscholar.org/paper/fa0d96aa69d0f420172727ffe5402530f1f57d33</link>
+    <link>https://doi.org/10.2196/72412</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhaoxiang Bian</p>
@@ -952,7 +982,7 @@
   </item>
   <item>
     <title>Fine-Tuning Methods for Large Language Models in Clinical Medicine by Supervised Fine-Tuning and Direct Preference Optimization: Comparative Evaluation</title>
-    <link>https://www.semanticscholar.org/paper/8ba1a7337bd576ea0473c5aa0cb39fbf19310a0f</link>
+    <link>https://doi.org/10.2196/76048</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jonathan H. Chen</p>
@@ -966,7 +996,7 @@
   </item>
   <item>
     <title>Can large language models follow guidelines? A comparative study of ChatGPT-4o and DeepSeek AI in clavicle fracture management based on AAOS recommendations</title>
-    <link>https://www.semanticscholar.org/paper/77ac819d1287c6bb41c1d988f5528a09e40ccce7</link>
+    <link>https://doi.org/10.1186/s12911-025-03202-5</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Bekir Karagöz</p>
@@ -980,7 +1010,7 @@
   </item>
   <item>
     <title>Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation</title>
-    <link>https://www.semanticscholar.org/paper/8cdb6320735984619991bab8b1f54502ecc96aca</link>
+    <link>https://doi.org/10.48550/arXiv.2509.17353</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Essam A. Rashed</p>
@@ -994,7 +1024,7 @@
   </item>
   <item>
     <title>Charting the evolution of artificial intelligence mental health chatbots from rule‐based systems to large language models: a systematic review</title>
-    <link>https://www.semanticscholar.org/paper/8b6e4d0874844057237a5fd53e2e03a3c2c52e20</link>
+    <link>https://doi.org/10.1002/wps.21352</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> J. Torous</p>
@@ -1008,7 +1038,7 @@
   </item>
   <item>
     <title>Best Practices for the Safe Use of Large Language Models and Other Generative AI in Radiology.</title>
-    <link>https://www.semanticscholar.org/paper/2dc8ce06575136b64ac13b32567e200653dbb8b0</link>
+    <link>https://doi.org/10.1148/radiol.241516</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Vishwa S. Parekh</p>
@@ -1022,7 +1052,7 @@
   </item>
   <item>
     <title>Mitigating Ethical Issues for Large Language Models in Oncology: A Systematic Review.</title>
-    <link>https://www.semanticscholar.org/paper/008014c0fe9c31dfa58c4329d4f9d5307fd80016</link>
+    <link>https://doi.org/10.1200/CCI-25-00076</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rui Zhang</p>
@@ -1036,7 +1066,7 @@
   </item>
   <item>
     <title>A systematic mapping review on the capability of large language models in drug-drug interaction analysis</title>
-    <link>https://www.semanticscholar.org/paper/2a3c4c175bcb3842a4a52dda33a3a4f9e5a970d1</link>
+    <link>https://doi.org/10.1080/17512433.2025.2568090</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> S. Biri</p>
@@ -1050,7 +1080,7 @@
   </item>
   <item>
     <title>Sustainability in large language model supply chains-insights and recommendations using analysis of utility for affecting factors</title>
-    <link>https://www.semanticscholar.org/paper/0d300f8d40b41d929137aef09e2eed654cb018cc</link>
+    <link>https://doi.org/10.1038/s41598-025-17937-8</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ashutosh Kumar Singh</p>
@@ -1064,7 +1094,7 @@
   </item>
   <item>
     <title>Generative AI costs in large healthcare systems, an example in revenue cycle</title>
-    <link>https://www.semanticscholar.org/paper/301702a963ee3c7cd1614d38fe432a4e7c1c5c8d</link>
+    <link>https://doi.org/10.1038/s41746-025-01971-x</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jody Platt</p>
@@ -1078,7 +1108,7 @@
   </item>
   <item>
     <title>BioScientist Agent: Designing LLM-Biomedical Agents with KG-Augmented RL Reasoning Modules for Drug Repurposing and Mechanistic of Action Elucidation</title>
-    <link>https://www.biorxiv.org/content/10.1101/2025.08.08.669291v2</link>
+    <link>https://doi.org/10.1101/2025.08.08.669291</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> </p>
@@ -1092,7 +1122,7 @@
   </item>
   <item>
     <title>Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model</title>
-    <link>https://www.semanticscholar.org/paper/d67afa3cb98b6e5a15966ce06f1aff61cf2ad270</link>
+    <link>https://doi.org/10.48550/arXiv.2508.10492</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Xueqi Cheng</p>
@@ -1106,7 +1136,7 @@
   </item>
   <item>
     <title>ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-institution and Multi-system Data.</title>
-    <link>https://www.semanticscholar.org/paper/ecab6c8b4052a09127340a7fcfcc0b1550435b63</link>
+    <link>https://doi.org/10.1109/TBME.2025.3597325</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Tuo Zhang</p>
@@ -1120,7 +1150,7 @@
   </item>
   <item>
     <title>A large language model digital patient system enhances ophthalmology history taking skills</title>
-    <link>https://www.semanticscholar.org/paper/0688a4ed8971d339ae2f294a299ce0e9b836fb62</link>
+    <link>https://doi.org/10.1038/s41746-025-01841-6</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Haotian Lin</p>
@@ -1134,7 +1164,7 @@
   </item>
   <item>
     <title>Evaluating the Capability of Large Language Model Chatbots for Generating Plain Language Summaries in Radiology</title>
-    <link>https://www.semanticscholar.org/paper/d1cb625c241b63052cea1da4fbd6b25d5f798790</link>
+    <link>https://doi.org/10.1002/ird3.70030</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Swaha Panda</p>
@@ -1148,7 +1178,7 @@
   </item>
   <item>
     <title>Integrating clinical reasoning into large language model-based diagnosis through etiology-aware attention steering</title>
-    <link>https://www.semanticscholar.org/paper/fb69b0591a8acf0d3f36b47d3df36b1ef481a394</link>
+    <link>https://doi.org/10.48550/arXiv.2508.00285</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jingsong Li</p>
@@ -1162,7 +1192,7 @@
   </item>
   <item>
     <title>Impact of an Evidence-Based Large Language Model (LLM) Diagnostic Decision Support System: A Randomised Controlled Trial.</title>
-    <link>https://www.semanticscholar.org/paper/b1f35310cb1190f264ffdb07c7ec2fee0335cce4</link>
+    <link>https://doi.org/10.3233/SHTI250844</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Junsang Yoo</p>
@@ -1176,7 +1206,7 @@
   </item>
   <item>
     <title>Leveraging large language models for the deidentification and temporal normalization of sensitive health information in electronic health records</title>
-    <link>https://www.semanticscholar.org/paper/5bd7da9ef638f309da5490cc7a2a4dac8fa9c07c</link>
+    <link>https://doi.org/10.1038/s41746-025-01921-7</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jitendra Jonnagaddala</p>
@@ -1190,7 +1220,7 @@
   </item>
   <item>
     <title>CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes</title>
-    <link>https://www.semanticscholar.org/paper/ded9da3e1cbf8f8c142383ed4650d626445b6d18</link>
+    <link>https://doi.org/10.1038/s41746-025-01940-4</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Hong Yu</p>
@@ -1204,7 +1234,7 @@
   </item>
   <item>
     <title>Development and evaluation of a clinical note summarization system using large language models</title>
-    <link>https://www.semanticscholar.org/paper/13ce985163af039fe40e1f4bab9fa4880339202c</link>
+    <link>https://doi.org/10.1038/s43856-025-01091-3</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rodrigo F. Nogueira</p>
@@ -1218,7 +1248,7 @@
   </item>
   <item>
     <title>From data silos to insights: the PRINCE multi-agent knowledge engine for preclinical drug development</title>
-    <link>https://www.semanticscholar.org/paper/add5d50f1309b5064453b48eae56d626e291f154</link>
+    <link>https://doi.org/10.3389/frai.2025.1636809</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Annika Kreuchwig</p>
@@ -1232,7 +1262,7 @@
   </item>
   <item>
     <title>Vision-language foundation model for 3D medical imaging</title>
-    <link>https://www.semanticscholar.org/paper/669f6dcb66625d549e88f697fdf9a38cd3bcce3f</link>
+    <link>https://doi.org/10.1038/s44387-025-00015-9</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Harrison X. Bai</p>
@@ -1246,7 +1276,7 @@
   </item>
   <item>
     <title>Transforming Cardio-Oncology Care Through AI-Driven Large Language Model Systems</title>
-    <link>https://www.semanticscholar.org/paper/47a6ff604cb8beee19e44353346c6cc404e968bc</link>
+    <link>https://doi.org/10.1016/j.jacadv.2025.102117</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Avirup Guha</p>
@@ -1260,7 +1290,7 @@
   </item>
   <item>
     <title>Discovery of CRISPR-Cas12a clades using a large language model</title>
-    <link>https://www.semanticscholar.org/paper/f3b2b073deb1bb49f4ba089a4cafa6c578aececd</link>
+    <link>https://doi.org/10.1038/s41467-025-63160-4</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Peixiang Ma</p>
@@ -1274,7 +1304,7 @@
   </item>
   <item>
     <title>Incorporating large language models as clinical decision support in oncology: the Woollie model</title>
-    <link>https://www.semanticscholar.org/paper/30bf408ed7ceb1a7aee914ebe6ccf125ace58cc4</link>
+    <link>https://doi.org/10.1038/s41746-025-01941-3</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Joseph C. Kvedar</p>
@@ -1288,7 +1318,7 @@
   </item>
   <item>
     <title>DrugReasoner: Interpretable Drug Approval Prediction with a Reasoning-augmented Language Model</title>
-    <link>https://www.semanticscholar.org/paper/d77d18b9f67a0891cf665e22c26d22b59ba58b14</link>
+    <link>https://doi.org/10.48550/arXiv.2508.18579</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Y. Gheisari</p>
@@ -1302,7 +1332,7 @@
   </item>
   <item>
     <title>scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis</title>
-    <link>https://www.semanticscholar.org/paper/a9f7761b740c85444b86f581801a471340007a0d</link>
+    <link>https://doi.org/10.1101/2023.12.07.569910</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Hongyu Zhao</p>
@@ -1330,7 +1360,7 @@
   </item>
   <item>
     <title>Large language model powered knowledge graph construction for mental health exploration</title>
-    <link>https://www.semanticscholar.org/paper/cf72cf90a34bbb8715ca2626d4ac6e901afb3457</link>
+    <link>https://doi.org/10.1038/s41467-025-62781-z</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Hongtu Zhu</p>
@@ -1344,7 +1374,7 @@
   </item>
   <item>
     <title>Finding the dark matter: Large language model‐based enzyme kinetic data extractor and its validation</title>
-    <link>https://www.semanticscholar.org/paper/839511d2d7a43d41be05e10fe8448b0ca37112a2</link>
+    <link>https://doi.org/10.1002/pro.70251</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhongyue J. Yang</p>
@@ -1358,7 +1388,7 @@
   </item>
   <item>
     <title>miRKatAI: An Integrated Database and Multi-agent AI system for microRNA Research</title>
-    <link>https://www.semanticscholar.org/paper/eecf17eee7339225389f95c092fbf8fbda0f9779</link>
+    <link>https://doi.org/10.48550/arXiv.2508.08331</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Katarzyna Goljanek-Whysall</p>
@@ -1372,7 +1402,7 @@
   </item>
   <item>
     <title>Leveraging image-based AI for dietary assessment: evaluating a large language model with real-world meal photos from the ZOE PREDICT cohorts</title>
-    <link>https://www.semanticscholar.org/paper/45ca1748e55b6a73096c33cce5d18d9c3781241a</link>
+    <link>https://doi.org/10.1017/S0029665125101572</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> S. Berry</p>
@@ -1386,7 +1416,7 @@
   </item>
   <item>
     <title>Can a Large Language Model Judge a Child's Statement?: A Comparative Analysis of ChatGPT and Human Experts in Credibility Assessment.</title>
-    <link>https://www.semanticscholar.org/paper/3deaeaf3edefbe465c46927eccb65af9f8193937</link>
+    <link>https://doi.org/10.1080/26408066.2025.2547211</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zeki Karataş</p>
@@ -1400,7 +1430,7 @@
   </item>
   <item>
     <title>Human Expertise and Large Language Model Embeddings in the Content Validity Assessment of Personality Tests.</title>
-    <link>https://www.semanticscholar.org/paper/820a8fbfdc7dae76f13041ce27e2070342d0b10f</link>
+    <link>https://doi.org/10.1177/00131644251355485</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Davide Marocco</p>
@@ -1414,7 +1444,7 @@
   </item>
   <item>
     <title>High-level visual representations in the human brain are aligned with large language models</title>
-    <link>https://www.semanticscholar.org/paper/bc5d6c636c36f5ddc9af61da414511d43373b8e0</link>
+    <link>https://doi.org/10.1038/s42256-025-01072-0</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ian Charest</p>
@@ -1428,7 +1458,7 @@
   </item>
   <item>
     <title>Evaluating the o1 reasoning large language model for cognitive bias: a vignette study</title>
-    <link>https://www.semanticscholar.org/paper/dfbb9645b5580d4b08e4a1d5e3a21b2998c08531</link>
+    <link>https://doi.org/10.1186/s13054-025-05591-5</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Sharon Einav</p>
@@ -1442,7 +1472,7 @@
   </item>
   <item>
     <title>Out-of-the-box bioinformatics capabilities of large language models (LLMs)</title>
-    <link>https://www.semanticscholar.org/paper/6fa80e4e9537bc8ec43df53f9d57373d79144dbb</link>
+    <link>https://doi.org/10.1101/2025.08.22.671610</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Geoffrey H. Siwo</p>
@@ -1456,7 +1486,7 @@
   </item>
   <item>
     <title>Orchestrated multi agents sustain accuracy under clinical-scale workloads compared to a single agent</title>
-    <link>https://www.semanticscholar.org/paper/14c622901f2e893ae54ceb2f98178b14b1623c3f</link>
+    <link>https://doi.org/10.1101/2025.08.22.25334049</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Girish N. Nadkarni</p>
@@ -1470,7 +1500,7 @@
   </item>
   <item>
     <title>Large language models for clinical decision support in gastroenterology and hepatology</title>
-    <link>https://www.semanticscholar.org/paper/5b813012fba35e20e1892f6b01f1dd323a1e1c3d</link>
+    <link>https://doi.org/10.1038/s41575-025-01108-1</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> J. Kather</p>
@@ -1587,7 +1617,7 @@
   </item>
   <item>
     <title>The generative era of medical AI</title>
-    <link>https://pubmed.ncbi.nlm.nih.gov/40645169/</link>
+    <link>https://doi.org/10.1016/j.cell.2025.05.018</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Pranav Rajpurkar</p>
@@ -1676,7 +1706,7 @@
   </item>
   <item>
     <title>Biomni: A General-Purpose Biomedical AI Agent</title>
-    <link>https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1</link>
+    <link>https://doi.org/10.1101/2025.05.30.656746</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Marinka Zitnik</p>
@@ -1691,7 +1721,7 @@
   </item>
   <item>
     <title>Knowledge-guided Contextual Gene Set Analysis Using Large Language Models</title>
-    <link>https://www.semanticscholar.org/paper/7cb3a28963a5ceb201e4092a4e52644c3436a7c7</link>
+    <link>https://doi.org/10.48550/arXiv.2506.04303</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhiyong Lu</p>
@@ -1705,7 +1735,7 @@
   </item>
   <item>
     <title>DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models</title>
-    <link>https://www.semanticscholar.org/paper/4d6ef2e715f81de2ce053c0c48f799c93e4d9309</link>
+    <link>https://doi.org/10.1101/2025.06.17.660107</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> John R. Williams</p>
@@ -1719,7 +1749,7 @@
   </item>
   <item>
     <title>Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data</title>
-    <link>https://www.semanticscholar.org/paper/f8666b034f4ddd25259d76c5c34e9fbb91dfc917</link>
+    <link>https://doi.org/10.48550/arXiv.2506.05542</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Panagiotis Alexiou</p>
@@ -1733,7 +1763,7 @@
   </item>
   <item>
     <title>A User-Friendly Machine Learning Pipeline for Automated Leaf Segmentation in Atriplex lentiformis</title>
-    <link>https://www.semanticscholar.org/paper/50cc21fce97d07dceb5021abb655ce9015a727f6</link>
+    <link>https://doi.org/10.1177/11779322251344033</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Aikseng Ooi</p>
@@ -1747,7 +1777,7 @@
   </item>
   <item>
     <title>KODA: An Agentic Framework for KEGG Orthology-Driven Discovery of Antimicrobial Drug Targets in Gut Microbiome</title>
-    <link>https://www.semanticscholar.org/paper/860d4b613b31bc64e81644015c0164627c67f31e</link>
+    <link>https://doi.org/10.1101/2025.05.27.656480</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Mohammad R. K. Mofrad</p>
@@ -1761,7 +1791,7 @@
   </item>
   <item>
     <title>AI Agent Behavioral Science</title>
-    <link>https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e</link>
+    <link>https://doi.org/10.48550/arXiv.2506.06366</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yong Li</p>
@@ -1775,7 +1805,7 @@
   </item>
   <item>
     <title>Probably Approximately Correct Labels</title>
-    <link>https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6</link>
+    <link>https://doi.org/10.48550/arXiv.2506.10908</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Tijana Zrnic</p>
@@ -1789,7 +1819,7 @@
   </item>
   <item>
     <title>Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning</title>
-    <link>https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64</link>
+    <link>https://doi.org/10.48550/arXiv.2506.02911</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhiyong Lu</p>
@@ -1803,7 +1833,7 @@
   </item>
   <item>
     <title>Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning</title>
-    <link>https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64</link>
+    <link>https://doi.org/10.48550/arXiv.2506.02911</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhiyong Lu</p>
@@ -1921,7 +1951,7 @@
   </item>
   <item>
     <title>PixCell: A generative foundation model for digital histopathology images</title>
-    <link>https://www.semanticscholar.org/paper/a4ac7f99debb0c757ba3f0f8291b24a4255d1d03</link>
+    <link>https://doi.org/10.48550/arXiv.2506.05127</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Dimitris Samaras</p>
@@ -1935,7 +1965,7 @@
   </item>
   <item>
     <title>Probably Approximately Correct Labels</title>
-    <link>https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6</link>
+    <link>https://doi.org/10.48550/arXiv.2506.10908</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Tijana Zrnic</p>
@@ -1993,7 +2023,7 @@
   </item>
   <item>
     <title>Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications</title>
-    <link>https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8</link>
+    <link>https://doi.org/10.48550/arXiv.2506.02052</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Enyan Dai</p>
@@ -2007,7 +2037,7 @@
   </item>
   <item>
     <title>AI Agent Behavioral Science</title>
-    <link>https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e</link>
+    <link>https://doi.org/10.48550/arXiv.2506.06366</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yong Li</p>
@@ -2021,7 +2051,7 @@
   </item>
   <item>
     <title>Contemporary AI foundation models increase biological weapons risk</title>
-    <link>https://www.semanticscholar.org/paper/e4854e4c12a3dc1964775c7368b3ee3adb02982e</link>
+    <link>https://doi.org/10.48550/arXiv.2506.13798</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> T. G. McKelvey</p>
@@ -2035,7 +2065,7 @@
   </item>
   <item>
     <title>Foundation models in plant molecular biology: advances, challenges, and future directions</title>
-    <link>https://www.semanticscholar.org/paper/98b561595f5bf7d47456b83d5f52af31ebf0e9ae</link>
+    <link>https://doi.org/10.3389/fpls.2025.1611992</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jun Yan</p>
@@ -2049,7 +2079,7 @@
   </item>
   <item>
     <title>Artificial Intelligence-Assisted Breeding for Plant Disease Resistance</title>
-    <link>https://www.semanticscholar.org/paper/74d45591664632d4150df72d6b5adb2b7b65e267</link>
+    <link>https://doi.org/10.3390/ijms26115324</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yanyong Cao</p>
@@ -2063,7 +2093,7 @@
   </item>
   <item>
     <title>Scale-Invariance Drives Convergence in AI and Brain Representations</title>
-    <link>https://www.semanticscholar.org/paper/3a01165637266c9da59be95a4a0a78f37af2b6dc</link>
+    <link>https://doi.org/10.48550/arXiv.2506.12117</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Quanying Liu</p>
@@ -2077,7 +2107,7 @@
   </item>
   <item>
     <title>Why Traditional Statistical Methods Need to Evolve in the Age of Artificial Intelligence: A Biostatistical Perspective</title>
-    <link>https://www.semanticscholar.org/paper/0ee50fdccfabf9204c91cf4238e08f3035794adf</link>
+    <link>https://doi.org/10.70280/njph(2025)v2i1.31</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Deepak Raj Joshi</p>
@@ -2106,7 +2136,7 @@
   </item>
   <item>
     <title>CellTypeAgent: Trustworthy cell type annotation with Large Language Models</title>
-    <link>https://www.semanticscholar.org/paper/40e125e1b882b278d14d7f86617a4381084fa69a</link>
+    <link>https://doi.org/10.48550/arXiv.2505.08844</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yunjian Li</p>
@@ -2120,7 +2150,7 @@
   </item>
   <item>
     <title>ChatMolData: A Multimodal Agent for Automatic Molecular Data Processing</title>
-    <link>https://www.semanticscholar.org/paper/1fd6efbd486e07872b17bf8b08ab68c5a60716c0</link>
+    <link>https://doi.org/10.1002/aisy.202401089</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Xiaohui Yu</p>
@@ -2134,7 +2164,7 @@
   </item>
   <item>
     <title>PlantGPT: An Arabidopsis-Based Intelligent Agent that Answers Questions about Plant Functional Genomics.</title>
-    <link>https://www.semanticscholar.org/paper/b0b726a254ede59afe4ab6635fb23c916ceacb94</link>
+    <link>https://doi.org/10.1002/advs.202503926</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Qinlong Zhu</p>
@@ -2148,7 +2178,7 @@
   </item>
   <item>
     <title>DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery</title>
-    <link>https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d</link>
+    <link>https://doi.org/10.48550/arXiv.2505.13940</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Wenbin Hu</p>
@@ -2163,7 +2193,7 @@
   </item>
   <item>
     <title>Automatic biomarker discovery and enrichment with BRAD</title>
-    <link>https://www.semanticscholar.org/paper/3ac8cac9583281d5eebca6a17e00af015eb8b286</link>
+    <link>https://doi.org/10.1093/bioinformatics/btaf159</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> I. Rajapakse</p>
@@ -2237,7 +2267,7 @@
   </item>
   <item>
     <title>sciLaMA: A Single-Cell Representation Learning Framework to Leverage Prior Knowledge from Large Language Models</title>
-    <link>https://www.semanticscholar.org/paper/9aab32b1ffef407d9918bcf6f7b87c930d45c3f7</link>
+    <link>https://doi.org/10.1101/2025.01.28.635153</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> G. Quon</p>
@@ -2251,7 +2281,7 @@
   </item>
   <item>
     <title>LlamaAffinity: A Predictive Antibody–Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture</title>
-    <link>https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6</link>
+    <link>https://doi.org/10.1101/2025.05.28.653051</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> J. Chen</p>
@@ -2265,7 +2295,7 @@
   </item>
   <item>
     <title>GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype</title>
-    <link>https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239</link>
+    <link>https://doi.org/10.48550/arXiv.2505.03853</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Stan Z. Li</p>
@@ -2279,7 +2309,7 @@
   </item>
   <item>
     <title>scCompass: An Integrated Multi‐Species scRNA‐seq Database for AI‐Ready</title>
-    <link>https://www.semanticscholar.org/paper/f5af8e3f7acd968b7baeb788f5b33cf7d868616e</link>
+    <link>https://doi.org/10.1002/advs.202500870</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yuanchun Zhou</p>
@@ -2293,7 +2323,7 @@
   </item>
   <item>
     <title>AlphaLasso—a web server to identify loop and lasso motifs in 3D structure of biopolymers</title>
-    <link>https://www.semanticscholar.org/paper/b2f16f79e6dc815d09b2892db7d3ca1d8a766478</link>
+    <link>https://doi.org/10.1093/nar/gkaf375</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Joanna I. Sulkowska</p>
@@ -2307,7 +2337,7 @@
   </item>
   <item>
     <title>CellVerse: Do Large Language Models Really Understand Cell Biology?</title>
-    <link>https://www.semanticscholar.org/paper/4dd1c628a26c7b13c98e975c7ae8b5c16fbc320e</link>
+    <link>https://doi.org/10.48550/arXiv.2505.07865</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> P. Heng</p>
@@ -2321,7 +2351,7 @@
   </item>
   <item>
     <title>Large Language Models Can Extract Metadata for Annotation of Human Neuroimaging Publications</title>
-    <link>https://www.semanticscholar.org/paper/59087a91539883877289ceb562272f1cc13e9545</link>
+    <link>https://doi.org/10.1101/2025.05.13.653828</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jessica A Turner</p>
@@ -2335,7 +2365,7 @@
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
-    <link>https://www.semanticscholar.org/paper/2dde8c82b5b59d46224f68e760ce5965a847e9c2</link>
+    <link>https://doi.org/10.48550/arXiv.2505.05612</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Qianqian Song</p>
@@ -2349,7 +2379,7 @@
   </item>
   <item>
     <title>Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review</title>
-    <link>https://www.semanticscholar.org/paper/c1a1785a284ae67ac3fcdfa4fc096a589762e3e2</link>
+    <link>https://doi.org/10.1002/aisy.202500154</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rong Luo</p>
@@ -2393,7 +2423,7 @@
   </item>
   <item>
     <title>Knowledge Graph and Large Language Model for Metabolomics</title>
-    <link>https://www.semanticscholar.org/paper/3d7a503eded6fabd6979c3847d5db68970bf9d3d</link>
+    <link>https://doi.org/10.1609/aaai.v39i28.35218</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yuxing Lu</p>
@@ -2407,7 +2437,7 @@
   </item>
   <item>
     <title>Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo</title>
-    <link>https://www.semanticscholar.org/paper/1c45bfa74d72bc131f7254ae28e5d7ee1abd425f</link>
+    <link>https://doi.org/10.1101/2025.04.01.646731</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jia Liu</p>
@@ -2421,7 +2451,7 @@
   </item>
   <item>
     <title>scAgent: Universal Single-Cell Annotation via a LLM Agent</title>
-    <link>https://www.semanticscholar.org/paper/0e8d9a99ce3f609b18e039f9770ef935e114b02e</link>
+    <link>https://doi.org/10.48550/arXiv.2504.04698</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yunjun Gao</p>
@@ -2450,7 +2480,7 @@
   </item>
   <item>
     <title>SCassist: An AI Based Workflow Assistant for Single-Cell Analysis</title>
-    <link>https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1</link>
+    <link>https://doi.org/10.1101/2025.04.22.650107</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rachel R Caspi</p>
@@ -2465,7 +2495,7 @@
   </item>
   <item>
     <title>Fleming: An AI Agent for Antibiotic Discovery in Mycobacterium tuberculosis</title>
-    <link>https://www.semanticscholar.org/paper/d4b49553e887d04229c6cd04cc1eb6e464332e4e</link>
+    <link>https://doi.org/10.1101/2025.04.01.646719</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> M. Farhat</p>
@@ -2479,7 +2509,7 @@
   </item>
   <item>
     <title>OLAF: An Open Life Science Analysis Framework for Conversational Bioinformatics Powered by Large Language Models</title>
-    <link>https://www.semanticscholar.org/paper/4305e3ff95f996eafc5a25dec044eed4af34aac4</link>
+    <link>https://doi.org/10.48550/arXiv.2504.03976</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Diego Gonzalez Lopez</p>
@@ -2493,11 +2523,11 @@
   </item>
   <item>
     <title>Scaling Large Language Models for Next-Generation Single-Cell Analysis</title>
-    <link>https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1</link>
+    <link>https://doi.org/10.1101/2025.04.14.648850</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> David van Dijk</p>
-        <p><b>Domain:</b> single cell RNA</p>
+        <p><b>Domain:</b> Scaled LLM pretraining for next-generation single-cell analysis</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1">Read the Paper</a></p>
         <p><a href="https://github.com/vandijklab/cell2sentence">View the Code</a></p>
@@ -2523,7 +2553,7 @@
   </item>
   <item>
     <title>Abstract 5084: Evaluation of single-cell foundation models for cancer outcome predictions</title>
-    <link>https://www.semanticscholar.org/paper/e8db25fc84442d27305675bc67f101ee2cad8d49</link>
+    <link>https://doi.org/10.1158/1538-7445.am2025-5084</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Eliezer M Van Allen</p>
@@ -2537,7 +2567,7 @@
   </item>
   <item>
     <title>Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling</title>
-    <link>https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950</link>
+    <link>https://doi.org/10.1158/1538-7445.am2025-6316</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Mai Chan Lau</p>
@@ -2551,7 +2581,7 @@
   </item>
   <item>
     <title>Abstract 5059: Self-supervised representation learning of somatic mutational data</title>
-    <link>https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180</link>
+    <link>https://doi.org/10.1158/1538-7445.am2025-5059</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Etai Jacob</p>
@@ -2565,7 +2595,7 @@
   </item>
   <item>
     <title>dGeneralized Biological Foundation Model with Unified Nucleic Acid and Protein Language</title>
-    <link>https://www.semanticscholar.org/paper/3f784482894a47708c6584f667ad38de70a3ba76</link>
+    <link>https://doi.org/10.1101/2024.05.10.592927</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhaorong Li</p>
@@ -2579,7 +2609,7 @@
   </item>
   <item>
     <title>Towards multimodal foundation models in molecular cell biology.</title>
-    <link>https://www.semanticscholar.org/paper/7f65931fb6bbfca0496c919e83ed40e910b2dc5f</link>
+    <link>https://doi.org/10.1038/s41586-025-08710-y</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Bo Wang</p>
@@ -2593,7 +2623,7 @@
   </item>
   <item>
     <title>Abstract 3762: DEL-AI: Proteome-wide in silico screening of multi-billion compound libraries using machine learning foundation models</title>
-    <link>https://www.semanticscholar.org/paper/555b53a4b3f89030f96e6a2e2d7e4ee83a1de4b5</link>
+    <link>https://doi.org/10.1158/1538-7445.am2025-3762</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Paul Novick</p>
@@ -2622,7 +2652,7 @@
   </item>
   <item>
     <title>uHAF: a unified hierarchical annotation framework for cell type standardization and harmonization</title>
-    <link>https://www.semanticscholar.org/paper/e3ce9b990c9604648ad39e38275cd61b7711415a</link>
+    <link>https://doi.org/10.1093/bioinformatics/btaf149</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Xuegong Zhang</p>
@@ -2636,7 +2666,7 @@
   </item>
   <item>
     <title>OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling</title>
-    <link>https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7</link>
+    <link>https://doi.org/10.48550/arXiv.2504.02148</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Fuhai Li</p>
@@ -2650,7 +2680,7 @@
   </item>
   <item>
     <title>Abstract 1087: The evolving landscape of cancer transcriptomics data</title>
-    <link>https://www.semanticscholar.org/paper/fcfbebdd995f3f1fc4592e08c4ed7e08c5ae2da1</link>
+    <link>https://doi.org/10.1158/1538-7445.am2025-1087</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Akpéli V. Nordor</p>
@@ -2679,7 +2709,7 @@
   </item>
   <item>
     <title>OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling</title>
-    <link>https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7</link>
+    <link>https://doi.org/10.48550/arXiv.2504.02148</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Fuhai Li</p>
@@ -2693,7 +2723,7 @@
   </item>
   <item>
     <title>Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling</title>
-    <link>https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950</link>
+    <link>https://doi.org/10.1158/1538-7445.am2025-6316</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Mai Chan Lau</p>
@@ -2721,7 +2751,7 @@
   </item>
   <item>
     <title>Towards multimodal foundation models in molecular cell biology.</title>
-    <link>https://www.semanticscholar.org/paper/7f65931fb6bbfca0496c919e83ed40e910b2dc5f</link>
+    <link>https://doi.org/10.1038/s41586-025-08710-y</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Bo Wang</p>
@@ -2749,7 +2779,7 @@
   </item>
   <item>
     <title>Decoding cancer prognosis with deep learning: the ASD-cancer framework for tumor microenvironment analysis</title>
-    <link>https://www.semanticscholar.org/paper/6336c71a68d9435fef00a61cc1930909ac92136f</link>
+    <link>https://doi.org/10.1128/msystems.01455-24</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> J. Haran</p>
@@ -2808,7 +2838,7 @@
   </item>
   <item>
     <title>PharmAgents: Building a Virtual Pharma with Large Language Model Agents</title>
-    <link>https://www.semanticscholar.org/paper/46e921cb6fba3423e48fa894afa9b0b47bf934d6</link>
+    <link>https://doi.org/10.48550/arXiv.2503.22164</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yanyan Lan</p>
@@ -2822,7 +2852,7 @@
   </item>
   <item>
     <title>AstroAgents: A Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data</title>
-    <link>https://www.semanticscholar.org/paper/a967904a87ba4c1d6359fbd7342a074d63e2fe63</link>
+    <link>https://doi.org/10.48550/arXiv.2503.23170</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Amirali Aghazadeh</p>
@@ -2836,7 +2866,7 @@
   </item>
   <item>
     <title>DORA AI Scientist: Multi-agent Virtual Research Team for Scientific Exploration Discovery and Automated Report Generation</title>
-    <link>https://www.semanticscholar.org/paper/b913baa47245a4a76054bb12e04d61c3c88fb532</link>
+    <link>https://doi.org/10.1101/2025.03.06.641840</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Alex Zhavoronkov</p>
@@ -2850,7 +2880,7 @@
   </item>
   <item>
     <title>Design and Analysis of an Extreme-Scale, High-Performance, and Modular Agent-Based Simulation Platform</title>
-    <link>https://www.semanticscholar.org/paper/ab1f61ae171dfbe425e60bc942997c1bdba29c24</link>
+    <link>https://doi.org/10.3929/ethz-b-000726143</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Lukas Breitwieser</p>
@@ -2864,7 +2894,7 @@
   </item>
   <item>
     <title>Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization</title>
-    <link>https://www.semanticscholar.org/paper/391ca60f6cd9b7ccc0ff8bc5fc72c6543c770fd9</link>
+    <link>https://doi.org/10.48550/arXiv.2503.03503</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Haishuai Wang</p>
@@ -2878,7 +2908,7 @@
   </item>
   <item>
     <title>IAN: An Intelligent System for Omics Data Analysis and Discovery</title>
-    <link>https://www.semanticscholar.org/paper/1ecbcfe40fe475b6fec3186ced39162afdb33175</link>
+    <link>https://doi.org/10.1101/2025.03.06.640921</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rachel R. Caspi</p>
@@ -2893,7 +2923,7 @@
   </item>
   <item>
     <title>Multimodal AI predicts clinical outcomes of drug combinations from preclinical data</title>
-    <link>https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7</link>
+    <link>https://doi.org/10.48550/arXiv.2503.02781</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Marinka Zitnik</p>
@@ -2922,7 +2952,7 @@
   </item>
   <item>
     <title>Distinct social-linguistic processing between humans and large audio-language models: Evidence from model-brain alignment</title>
-    <link>https://www.semanticscholar.org/paper/47e39f3d5f62dbf4079be48a77f540baea3f689d</link>
+    <link>https://doi.org/10.48550/arXiv.2503.19586</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhenguang G. Cai</p>
@@ -2936,7 +2966,7 @@
   </item>
   <item>
     <title>Large language model for knowledge synthesis and AI-enhanced biomanufacturing.</title>
-    <link>https://www.semanticscholar.org/paper/12610a7b39efe0ec0a1cd52c242a712ea719fb4c</link>
+    <link>https://doi.org/10.1016/j.tibtech.2025.02.008</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yinjie J. Tang</p>
@@ -2950,7 +2980,7 @@
   </item>
   <item>
     <title>Biological Sequence with Language Model Prompting: A Survey</title>
-    <link>https://www.semanticscholar.org/paper/9ad1cc1a90c204bc066861e41c7d3c4125ad6340</link>
+    <link>https://doi.org/10.48550/arXiv.2503.04135</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yu Li</p>
@@ -2964,7 +2994,7 @@
   </item>
   <item>
     <title>AI-Empowered Genome Decoding: Applications of Large Language Models in Genomics</title>
-    <link>https://www.semanticscholar.org/paper/fb2f674c38dfd2fb692d08588fa1f99758bce28b</link>
+    <link>https://doi.org/10.1007/s44366-025-0051-1</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yu Zhou</p>
@@ -2978,7 +3008,7 @@
   </item>
   <item>
     <title>Large Language Models in Bioinformatics: A Survey</title>
-    <link>https://www.semanticscholar.org/paper/aef0d2c0359d97c688f89c13732ec21a351ead8d</link>
+    <link>https://doi.org/10.48550/arXiv.2503.04490</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yu Li</p>
@@ -2992,7 +3022,7 @@
   </item>
   <item>
     <title>A Conceptual Framework for Human-AI Collaborative Genome Annotation</title>
-    <link>https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78</link>
+    <link>https://doi.org/10.48550/arXiv.2503.23691</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Radoslaw Suchecki</p>
@@ -3020,7 +3050,7 @@
   </item>
   <item>
     <title>Knowledge Synthesis of Photosynthesis Research Using a Large Language Model</title>
-    <link>https://www.semanticscholar.org/paper/cb217acb0ea521307477a39ec893f135b72ead45</link>
+    <link>https://doi.org/10.48550/arXiv.2502.01059</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Tae In Ahn</p>
@@ -3034,7 +3064,7 @@
   </item>
   <item>
     <title>Spike sorting AI agent</title>
-    <link>https://www.semanticscholar.org/paper/e44999184842c94e6f976417cbe73431501eac03</link>
+    <link>https://doi.org/10.1101/2025.02.11.637754</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jia Liu</p>
@@ -3048,7 +3078,7 @@
   </item>
   <item>
     <title>RAPID: Reliable and efficient Automatic generation of submission rePorting checklists with Large language moDels</title>
-    <link>https://www.semanticscholar.org/paper/8ab71d93085aaa5900ad6ec5e7b966829934d95e</link>
+    <link>https://doi.org/10.1101/2025.02.13.638015</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Lu Zhang</p>
@@ -3107,7 +3137,7 @@
   </item>
   <item>
     <title>Large Cognition Model: Towards Pretrained EEG Foundation Model</title>
-    <link>https://www.semanticscholar.org/paper/92e6303157e9044ada38869c8d3c318882bbb9b6</link>
+    <link>https://doi.org/10.48550/arXiv.2502.17464</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Aidan Hung-Wen Tsai</p>
@@ -3121,7 +3151,7 @@
   </item>
   <item>
     <title>Omni-DNA: A Unified Genomic Foundation Model for Cross-Modal and Multi-Task Learning</title>
-    <link>https://www.semanticscholar.org/paper/7b9c7b43df7282797547f622788389d09cf5b3d2</link>
+    <link>https://doi.org/10.48550/arXiv.2502.03499</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Caihua Shan</p>
@@ -3135,7 +3165,7 @@
   </item>
   <item>
     <title>GENERator: A Long-Context Generative Genomic Foundation Model</title>
-    <link>https://www.semanticscholar.org/paper/4f98b1f62cfd71e2d2bf44156a5a971029cf4c16</link>
+    <link>https://doi.org/10.48550/arXiv.2502.07272</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zheng Wang</p>
@@ -3149,7 +3179,7 @@
   </item>
   <item>
     <title>Top-DTI: Integrating Topological Deep Learning and Large Language Models for Drug Target Interaction Prediction</title>
-    <link>https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b</link>
+    <link>https://doi.org/10.1101/2025.02.07.637146</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> S. Bozdag</p>
@@ -3163,7 +3193,7 @@
   </item>
   <item>
     <title>AI-enabled alkaline-resistant evolution of protein to apply in mass production</title>
-    <link>https://www.semanticscholar.org/paper/91b7e83815ad6a4da3232dd62f3799634ee43dda</link>
+    <link>https://doi.org/10.7554/eLife.102788</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Liang Hong</p>
@@ -3207,7 +3237,7 @@
   </item>
   <item>
     <title>Literature-scaled immunological gene set annotation using AI-powered immune cell knowledge graph (ICKG)</title>
-    <link>https://www.semanticscholar.org/paper/b51970fcc636348932f171cf220d810b5a873ba0</link>
+    <link>https://doi.org/10.1101/2025.02.19.639172</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ken Chen</p>
@@ -3221,7 +3251,7 @@
   </item>
   <item>
     <title>BioMaze: Benchmarking and Enhancing Large Language Models for Biological Pathway Reasoning</title>
-    <link>https://www.semanticscholar.org/paper/1456f9a8717ea2987897172a3e855970302cc373</link>
+    <link>https://doi.org/10.48550/arXiv.2502.16660</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhi-Hong Deng</p>
@@ -3235,7 +3265,7 @@
   </item>
   <item>
     <title>The Skin Game: Revolutionizing Standards for AI Dermatology Model Comparison</title>
-    <link>https://www.semanticscholar.org/paper/79dd24bdeaefadf1681d1d68104a02ba78c9c91d</link>
+    <link>https://doi.org/10.48550/arXiv.2502.02500</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Dariusz Jemielniak</p>
@@ -3249,7 +3279,7 @@
   </item>
   <item>
     <title>Consequences of training data composition for deep learning models in single-cell biology</title>
-    <link>https://www.semanticscholar.org/paper/fa6f62ba24bfa8f771c0f01f6a0ecbd81b253088</link>
+    <link>https://doi.org/10.1101/2025.02.19.639127</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Lorin Crawford</p>
@@ -3263,7 +3293,7 @@
   </item>
   <item>
     <title>Triple Phase Transitions: Understanding the Learning Dynamics of Large Language Models from a Neuroscience Perspective</title>
-    <link>https://www.semanticscholar.org/paper/49d8af23298ab111494ddc9a79ae6a9d89181217</link>
+    <link>https://doi.org/10.48550/arXiv.2502.20779</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yu Takagi</p>
@@ -3277,7 +3307,7 @@
   </item>
   <item>
     <title>Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents</title>
-    <link>https://www.semanticscholar.org/paper/f85004321e43370535088042ebac96b958880c5d</link>
+    <link>https://doi.org/10.48550/arXiv.2502.06975</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Mariya Toneva</p>
@@ -3291,7 +3321,7 @@
   </item>
   <item>
     <title>Microbial Ecology to Ocean Carbon Cycling: From Genomes to Numerical Models</title>
-    <link>https://www.semanticscholar.org/paper/dc5335e5ec2bf80abda630ada4eb431a173ddec4</link>
+    <link>https://doi.org/10.1146/annurev-earth-040523-020630</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> E. Zakem</p>
@@ -3349,7 +3379,7 @@
   </item>
   <item>
     <title>Extracting Knowledge from Scientific Texts on Patient-Derived Cancer Models Using Large Language Models: Algorithm Development and Validation</title>
-    <link>https://www.semanticscholar.org/paper/4ea31174978b289183898b4cafd1432d9ddd0349</link>
+    <link>https://doi.org/10.1101/2025.01.28.634527</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> G. Savova</p>
@@ -3438,7 +3468,7 @@
   </item>
   <item>
     <title>Improving functional protein generation via foundation model-derived latent space likelihood optimization</title>
-    <link>https://www.semanticscholar.org/paper/98be9134fce5ba8889ea6de518b814c9482ecd8e</link>
+    <link>https://doi.org/10.1101/2025.01.07.631724</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> César de la Fuente-Nunez</p>
@@ -3452,7 +3482,7 @@
   </item>
   <item>
     <title>Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework</title>
-    <link>https://www.semanticscholar.org/paper/2fc9811c567186a15873eb8600df36b27f40c088</link>
+    <link>https://doi.org/10.1101/2025.01.13.632881</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jinfang Zheng</p>
@@ -3466,7 +3496,7 @@
   </item>
   <item>
     <title>Knowledge Hierarchy Guided Biological-Medical Dataset Distillation for Domain LLM Training</title>
-    <link>https://www.semanticscholar.org/paper/8d6ab0e57aa1f7d20e680f3306a9e098a9b3a286</link>
+    <link>https://doi.org/10.48550/arXiv.2501.15108</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Meng Xiao</p>
@@ -3480,7 +3510,7 @@
   </item>
   <item>
     <title>CARDBiomedBench: A Benchmark for Evaluating Large Language Model Performance in Biomedical Research</title>
-    <link>https://www.semanticscholar.org/paper/8b9312c65220e7ef9c5edfc5b3b9f8bb259e1444</link>
+    <link>https://doi.org/10.1101/2025.01.15.633272</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> F. Faghri</p>
@@ -3494,7 +3524,7 @@
   </item>
   <item>
     <title>Large Language Models Think Too Fast To Explore Effectively</title>
-    <link>https://www.semanticscholar.org/paper/7d4202a3e3801d6304e0e2463c49d033b37da77d</link>
+    <link>https://doi.org/10.48550/arXiv.2501.18009</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Robert C. Wilson</p>
@@ -3508,7 +3538,7 @@
   </item>
   <item>
     <title>Sequence Modeling Is Not Evolutionary Reasoning</title>
-    <link>https://www.semanticscholar.org/paper/f62b34cfa37bc9066affe185da5349f4c9ef9fb0</link>
+    <link>https://doi.org/10.1101/2025.01.17.633626</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> M. Zitnik</p>
@@ -3522,7 +3552,7 @@
   </item>
   <item>
     <title>Survey and Improvement Strategies for Gene Prioritization with Large Language Models</title>
-    <link>https://www.semanticscholar.org/paper/7ca21dec02c418f010d6b95de3bde7bb6ac69c66</link>
+    <link>https://doi.org/10.48550/arXiv.2501.18794</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Xia Hu</p>
@@ -3536,7 +3566,7 @@
   </item>
   <item>
     <title>Computational Protein Science in the Era of Large Language Models (LLMs)</title>
-    <link>https://www.semanticscholar.org/paper/0322d6eef1567b8b6ce3998d03f955082f9a87b6</link>
+    <link>https://doi.org/10.48550/arXiv.2501.10282</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Qing Li</p>
@@ -3550,7 +3580,7 @@
   </item>
   <item>
     <title>Foundation models in bioinformatics</title>
-    <link>https://www.semanticscholar.org/paper/3f21f2fadc60b7f627b5154a9944ec22d28c2678</link>
+    <link>https://doi.org/10.1093/nsr/nwaf028</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jianxin Wang</p>
@@ -3564,7 +3594,7 @@
   </item>
   <item>
     <title>AI Methods for Antimicrobial Peptides: Progress and Challenges</title>
-    <link>https://www.semanticscholar.org/paper/9c310642e1a07abeab7c6a8216ec60328feb74a2</link>
+    <link>https://doi.org/10.1111/1751-7915.70072</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> César de la Fuente-Nunez</p>
@@ -3578,7 +3608,7 @@
   </item>
   <item>
     <title>Artificial intelligence driven innovations in biochemistry: A review of emerging research frontiers</title>
-    <link>https://www.semanticscholar.org/paper/fa06241dfa98d42974532dd314b87d14ad5dc33f</link>
+    <link>https://doi.org/10.17305/bb.2024.11537</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> M. A. Lateef Junaid</p>
@@ -3592,7 +3622,7 @@
   </item>
   <item>
     <title>Artificial Intelligence Tools Addressing Challenges of Cancer Progression Due to Antimicrobial Resistance in Pathogenic Biofilm Systems</title>
-    <link>https://www.semanticscholar.org/paper/a86fd4458cbbe7f1ea491d93c1b5ec31da8d272d</link>
+    <link>https://doi.org/10.37256/aie.6120255553</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Abhijit G. Banerjee</p>
@@ -3606,7 +3636,7 @@
   </item>
   <item>
     <title>Learning the language of life with AI.</title>
-    <link>https://www.semanticscholar.org/paper/864031c9cc2195153f6fc08fed9d67131ddee8c4</link>
+    <link>https://doi.org/10.1126/science.adv4414</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> E. Topol</p>
@@ -3635,7 +3665,7 @@
   </item>
   <item>
     <title>ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model</title>
-    <link>https://www.semanticscholar.org/paper/c89cfdd40cf24c40b09304cbbf85024933def10c</link>
+    <link>https://doi.org/10.1021/acs.jcim.4c01345</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yunpeng Cai</p>
@@ -3649,7 +3679,7 @@
   </item>
   <item>
     <title>SCREADER: Prompting Large Language Models to Interpret scRNA-seq Data</title>
-    <link>https://www.semanticscholar.org/paper/aba63c2f387349a58bbc9a89d83e2018bc436819</link>
+    <link>https://doi.org/10.1109/ICDMW65004.2024.00092</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Meng Xiao</p>
@@ -3663,7 +3693,7 @@
   </item>
   <item>
     <title>SciAgents: Automating Scientific Discovery Through Bioinspired Multi‐Agent Intelligent Graph Reasoning</title>
-    <link>https://www.semanticscholar.org/paper/dbbcdb281ed6aa646af0402172cf8a7cfda85d5c</link>
+    <link>https://doi.org/10.1002/adma.202413523</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Markus J. Buehler</p>
@@ -3677,7 +3707,7 @@
   </item>
   <item>
     <title>Development and Application of an In Vitro Drug Screening Assay for Schistosoma mansoni Schistosomula Using YOLOv5</title>
-    <link>https://www.semanticscholar.org/paper/0cac159098bb2365ca8547979f6f81018165a0ca</link>
+    <link>https://doi.org/10.3390/biomedicines12122894</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Antonio Muro</p>
@@ -3691,7 +3721,7 @@
   </item>
   <item>
     <title>L2G: Repurposing Language Models for Genomics Tasks</title>
-    <link>https://www.semanticscholar.org/paper/238d842ee1679545e00d212a342f271a05473eaf</link>
+    <link>https://doi.org/10.1101/2024.12.09.627422</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ameet Talwalkar</p>
@@ -3705,7 +3735,7 @@
   </item>
   <item>
     <title>Fine-Tuned Deep Transfer Learning Models for Large Screenings of Safer Drugs Targeting Class A GPCRs</title>
-    <link>https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966</link>
+    <link>https://doi.org/10.1101/2024.12.07.627102</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> M. Filizola</p>
@@ -3719,7 +3749,7 @@
   </item>
   <item>
     <title>Porter 6: Protein Secondary Structure Prediction by Leveraging Pre-Trained Language Models (PLMs)</title>
-    <link>https://www.semanticscholar.org/paper/4eb9efc6ea3f7bf7935c374940af4c3866a5a368</link>
+    <link>https://doi.org/10.3390/ijms26010130</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> G. Pollastri</p>
@@ -3733,7 +3763,7 @@
   </item>
   <item>
     <title>ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description</title>
-    <link>https://www.semanticscholar.org/paper/1fc064d589849dfefce0d28fe64b9b83600a0cb6</link>
+    <link>https://doi.org/10.48550/arXiv.2412.04069</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Hong-Bin Shen</p>
@@ -3747,7 +3777,7 @@
   </item>
   <item>
     <title>M3-20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Design and Discovery</title>
-    <link>https://www.semanticscholar.org/paper/aa3a1bbd4f6ec6934ce6a3850991747f563ab3b0</link>
+    <link>https://doi.org/10.48550/arXiv.2412.06847</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Shuigeng Zhou</p>
@@ -3761,7 +3791,7 @@
   </item>
   <item>
     <title>BioMedGraphica: An All-in-One Platform for Biomedical Prior Knowledge and Omic Signaling Graph Generation</title>
-    <link>https://www.semanticscholar.org/paper/212898d49afdf60a12eeda9935bc54d748da3089</link>
+    <link>https://doi.org/10.1101/2024.12.05.627020</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Fuhai Li</p>
@@ -3775,7 +3805,7 @@
   </item>
   <item>
     <title>Basic Science and Pathogenesis.</title>
-    <link>https://www.semanticscholar.org/paper/28d30ecee02ba1039bd83c77d3131c7c744dad26</link>
+    <link>https://doi.org/10.1002/alz.092685</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Li-San Wang</p>
@@ -3804,7 +3834,7 @@
   </item>
   <item>
     <title>Does your model understand genes? A benchmark of gene properties for biological and text models</title>
-    <link>https://www.semanticscholar.org/paper/7eb6e6bce59f3e724ae3365b1348627dfd73c409</link>
+    <link>https://doi.org/10.48550/arXiv.2412.04075</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Y. Shimoni</p>
@@ -3818,7 +3848,7 @@
   </item>
   <item>
     <title>Large language models facilitating modern molecular biology and novel drug development</title>
-    <link>https://www.semanticscholar.org/paper/d7157f73a59c3a619549217e6d27884bebedf419</link>
+    <link>https://doi.org/10.3389/fphar.2024.1458739</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Fei Liu</p>
@@ -3832,7 +3862,7 @@
   </item>
   <item>
     <title>From multi-omics to predictive biomarker: AI in tumor microenvironment</title>
-    <link>https://www.semanticscholar.org/paper/6ae86bc78b187c0ca15b977156b8a2bd41d91be9</link>
+    <link>https://doi.org/10.3389/fimmu.2024.1514977</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Yingli Sun</p>
@@ -3846,7 +3876,7 @@
   </item>
   <item>
     <title>Advancements and Applications of Protein Structure Prediction Algorithms</title>
-    <link>https://www.semanticscholar.org/paper/6567678e2b6869ead0953704efdb926294daeebb</link>
+    <link>https://doi.org/10.54254/2753-8818/2024.la18791</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Ye Chen</p>
