@@ -19,3 +19,21 @@ To properly view and test the `index.html` file and its data dependencies locall
 4.  **Access in your browser:** Open your web browser and navigate to `http://localhost:8000`. Then, click on `index.html` to view the page.
 
 To stop the server, press `Ctrl + C` in your terminal. 
+
+# Updater
+Here are some examples of how to use the `updater` command:
+
+-   **Generate RSS Feed:** 
+    ```bash
+    updater --mode rss --archive-file docs/data.json --rss-path docs/rss.xml
+    ```
+
+-   **Update README from Archive:** 
+    ```bash
+    updater --mode readme --archive-file docs/data.json --readme-path README.md --no-backup
+    ```
+
+-   **Interactively Add a Record:** 
+    ```bash
+    updater --mode new_interactive --archive-file docs/data.json
+    ``` 
