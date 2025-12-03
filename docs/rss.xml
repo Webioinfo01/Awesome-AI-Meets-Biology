@@ -5,8 +5,22 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 27 Nov 2025 01:05:51 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 03 Dec 2025 03:58:30 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>VCWorld: A Biological World Model for Virtual Cell Simulation</title>
+    <link>https://arxiv.org/abs/2512.00306</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Shuangjia Zheng</p>
+        <p><b>Domain:</b> a cell-level white-box simulator</p>
+        <p><b>Venue:</b> arXiv</p>
+        <p><a href="https://arxiv.org/abs/2512.00306">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">VCWorldABiologicalWorldModelforVirtualCellSimulation202511</guid>
+  </item>
   <item>
     <title>AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution</title>
     <link>https://arxiv.org/pdf/2502.18864v1</link>
@@ -79,6 +93,21 @@
     <guid isPermaLink="false">ArtificialIntelligenceAssistedDataExtractionWithaLargeLanguageModelAStudyWithinReviews202511</guid>
   </item>
   <item>
+    <title>Scalable and universal prediction of cellular phenotypes</title>
+    <link>https://www.biorxiv.org/content/10.1101/2024.08.12.607533v3</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis</p>
+        <p><b>Domain:</b> a transformer-based computational model for cellular phenotype prediction</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.biorxiv.org/content/10.1101/2024.08.12.607533v3">Read the Paper</a></p>
+        <p><a href="https://github.com/theislab/prophet">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Scalableanduniversalpredictionofcellularphenotypes202511</guid>
+  </item>
+  <item>
     <title>A multimodal whole-slide foundation model for pathology</title>
     <link>https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f</link>
     <description>
@@ -91,6 +120,21 @@
     </description>
     <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Amultimodalwholeslidefoundationmodelforpathology202511</guid>
+  </item>
+  <item>
+    <title>A pre-trained large generative model for translating single-cell transcriptomes to proteomes</title>
+    <link>https://www.nature.com/articles/s41551-025-01528-z</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jianhua Yao</p>
+        <p><b>Domain:</b> a pre-trained large generative model for translating single-cell transcriptomes to proteomes</p>
+        <p><b>Venue:</b> Nature Biomedical Engineering</p>
+        <p><a href="https://www.nature.com/articles/s41551-025-01528-z">Read the Paper</a></p>
+        <p><a href="https://github.com/TencentAILabHealthcare/scTranslator">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Apretrainedlargegenerativemodelfortranslatingsinglecelltranscriptomestoproteomes202511</guid>
   </item>
   <item>
     <title>CellOntologyMapper: Consensus mapping of cell type annotation</title>
@@ -374,6 +418,20 @@
     <guid isPermaLink="false">ConstructionofanartificialintelligenceagentforthediscoveryofnextgenerationwhiteLEDphosphors202510</guid>
   </item>
   <item>
+    <title>Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</title>
+    <link>https://www.science.org/doi/10.1126/science.adi8577</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis</p>
+        <p><b>Domain:</b> Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</p>
+        <p><b>Venue:</b> Science</p>
+        <p><a href="https://www.science.org/doi/10.1126/science.adi8577">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Activelearningframeworkleveragingtranscriptomicsidentifiesmodulatorsofdiseasephenotypes202510</guid>
+  </item>
+  <item>
     <title>#3218 Predicting fluid overload hospitalizations in hemodialysis patients using a foundational model and large language model techniques</title>
     <link>https://www.semanticscholar.org/paper/1162518e157df984005781befad5137fe322e387</link>
     <description>
@@ -400,20 +458,6 @@
     </description>
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AIpoweredthreecategoryHelicobacterpyloridiagnosisviamagneticcontrolledcapsuleendoscopyamulticentervalidationofavisionlanguagemodel202510</guid>
-  </item>
-  <item>
-    <title>Scaling Large Language Models for Next-Generation Single-Cell Analysis</title>
-    <link>https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> David van Dijk</p>
-        <p><b>Domain:</b> Scaled LLM pretraining for next-generation single-cell analysis</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/fdb0acc2938c6d058d1bce9414dad649c869c25a">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ScalingLargeLanguageModelsforNextGenerationSingleCellAnalysis202510</guid>
   </item>
   <item>
     <title>A visual language model enabling intelligent nanomaterial scanning electron micrograph annotation.</title>
@@ -2497,7 +2541,7 @@
     <description>
       <![CDATA[
         <p><b>Team:</b> David van Dijk</p>
-        <p><b>Domain:</b> single cell RNA</p>
+        <p><b>Domain:</b> Scaled LLM pretraining for next-generation single-cell analysis</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1">Read the Paper</a></p>
         <p><a href="https://github.com/vandijklab/cell2sentence">View the Code</a></p>
