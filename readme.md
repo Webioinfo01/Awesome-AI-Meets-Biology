@@ -21,6 +21,7 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 | Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
 | -----| ------| -----| -------------| ------------| -------| ------| --------------| -------------|
+| 2025.12 | **AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development** | Jacek Nikliński |  |  | AI-driven drug–target identification pipeline | Methods and Protocols | [Link](https://www.semanticscholar.org/paper/9df305ffbc93536e0e92b625a642fe9d066a3cd8) |  |
 | 2025.11 | **VCWorld: A Biological World Model for Virtual Cell Simulation** | Shuangjia Zheng | [Link](https://github.com/GENTEL-lab) | Shanghai Jiao Tong University | a cell-level white-box simulator | arXiv | [Link](https://arxiv.org/abs/2512.00306) |  |
 | 2025.11 | **AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution** | Tiago R D Costa |  | Imperial College London | General Scientific Research(AI co-scientist) | Cell | [Link](https://arxiv.org/pdf/2502.18864v1) |  |
 | 2025.11 | **Multimodal learning enables chat-based exploration of single-cell data** | Christoph Bock |  | Medical University of Vienna | Single-cell data exploration | nature biotechnology | [Link](https://www.nature.com/articles/s41587-025-02857-9) | [Link](https://github.com/epigen/cellwhisperer) ![GitHub Stars](https://img.shields.io/github/stars/epigen/cellwhisperer) |
@@ -123,6 +124,7 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 | Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
 | -----| ------| -----| -------------| ------------| -------| ------| --------------| -------------|
+| 2025.12 | **A lung CT vision foundation model facilitating disease diagnosis and medical imaging.** | Qionghai Dai |  |  | CT imaging foundation model | Nature communications | [Link](https://www.semanticscholar.org/paper/37e1003be2e2cc4c1f09352c17363597d47f6740) |  |
 | 2025.11 | **Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.** | Leila C Kahwati |  |  | AI-assisted data extraction for systematic reviews | Annals of internal medicine | [Link](https://www.semanticscholar.org/paper/dc21f74eef0a822e4822d8530f7b31577018aca3) |  |
 | 2025.11 | **Scalable and universal prediction of cellular phenotypes** | Fabian J. Theis | [Link](https://github.com/theislab) | Technical University of Munich | a transformer-based computational model for cellular phenotype prediction | bioRxiv | [Link](https://www.biorxiv.org/content/10.1101/2024.08.12.607533v3) | [Link](https://github.com/theislab/prophet) ![GitHub Stars](https://img.shields.io/github/stars/theislab/prophet) |
 | 2025.11 | **A multimodal whole-slide foundation model for pathology** | Faisal Mahmood |  |  | Multimodal pathology foundation model | Nature Medicine | [Link](https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f) |  |
@@ -306,6 +308,7 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 | Year | Title | Team | Team Website | Affiliation | Domain | Venue | Paper/ Source | Code/Product |
 | -----| ------| -----| -------------| ------------| -------| ------| --------------| -------------|
+| 2025.12 | **Multimodal foundation transformer models for multiscale genomics.** | Jesper N. Tegnér |  |  | Multimodal transformer for genomics | Nature methods | [Link](https://www.semanticscholar.org/paper/336d539daa17f126463a3373d00df732a0f04c83) |  |
 | 2025.11 | **The rise and potential opportunities of large language model agents in bioinformatics and biomedicine** | Jiajie Peng |  |  | Review of LLM agents in bioinformatics | Briefings in Bioinformatics | [Link](https://www.semanticscholar.org/paper/5ed2d020b02049452d6d37f46ea2f8cb67340cda) |  |
 | 2025.11 | **A survey on large language models in biology and chemistry.** | Juyong Lee |  |  | Survey on LLMs in biology and chemistry | Experimental & molecular medicine | [Link](https://www.semanticscholar.org/paper/57ce49793ed83b65abbba9910417216e7cab21ca) |  |
 | 2025.11 | **Survey on Efficient Large Language Models: Principles, Algorithms, Applications, and Open Issues.** | Lianbo Ma |  |  | Survey on efficient LLM inference optimization | IEEE transactions on neural networks and learning systems | [Link](https://www.semanticscholar.org/paper/98c5653f348bd14a92a875bacea1459d7325b8cd) |  |

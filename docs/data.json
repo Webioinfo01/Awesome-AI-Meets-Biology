@@ -1,6 +1,20 @@
 {
     "ai-agents": [
         {
+            "year": "2025.12",
+            "title": "AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development",
+            "team": "Jacek Nikli\u0144ski",
+            "team website": "",
+            "affiliation": "",
+            "domain": "AI-driven drug\u2013target identification pipeline",
+            "abstract": "Drug discovery remains a time-consuming and costly process, necessitating innovative computational approaches to accelerate early stage target identification and compound development. We introduce AgentMol, a modular multimodel AI system that integrates large language models, chemical language modeling, and deep learning\u2013based affinity prediction to automate the discovery pipeline. AgentMol begins with disease-related queries processed through a Retrieval-Augmented Generation system using the Large Language Model to identify protein targets. Protein sequences are then used to condition a GPT-2\u2013based chemical language model, which generates corresponding small-molecule candidates in SMILES format. Finally, a regression convolutional neural network (RCNN) predicts the drug-target interaction by estimating binding affinities (pKi). Models were trained and validated on 470,560 ligand\u2013protein pairs from the BindingDB database. The chemical language model achieved high validity (1.00), uniqueness (0.96), and diversity (0.89), whereas the RCNN model demonstrated robust predictive performance with R2 > 0.6 and Pearson\u2019s R > 0.8. By leveraging LangGraph for orchestration, AgentMol delivers a scalable, interpretable pipeline, effectively enabling the end-to-end generation and evaluation of drug candidates conditioned on protein targets. This system represents a significant step toward practical AI-driven molecular discovery with accessible computational demands.",
+            "venue": "Methods and Protocols",
+            "paperUrl": "https://www.semanticscholar.org/paper/9df305ffbc93536e0e92b625a642fe9d066a3cd8",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.3390/mps8060143"
+        },
+        {
             "year": "2025.11",
             "title": "VCWorld: A Biological World Model for Virtual Cell Simulation",
             "team": "Shuangjia Zheng",
@@ -1263,6 +1277,20 @@
         }
     ],
     "foundation-models": [
+        {
+            "year": "2025.12",
+            "title": "A lung CT vision foundation model facilitating disease diagnosis and medical imaging.",
+            "team": "Qionghai Dai",
+            "team website": "",
+            "affiliation": "",
+            "domain": "CT imaging foundation model",
+            "abstract": "",
+            "venue": "Nature communications",
+            "paperUrl": "https://www.semanticscholar.org/paper/37e1003be2e2cc4c1f09352c17363597d47f6740",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41467-025-66620-z"
+        },
         {
             "year": "2025.11",
             "title": "Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.",
@@ -3453,6 +3481,20 @@
         }
     ],
     "reviews": [
+        {
+            "year": "2025.12",
+            "title": "Multimodal foundation transformer models for multiscale genomics.",
+            "team": "Jesper N. Tegn\u00e9r",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Multimodal transformer for genomics",
+            "abstract": "",
+            "venue": "Nature methods",
+            "paperUrl": "https://www.semanticscholar.org/paper/336d539daa17f126463a3373d00df732a0f04c83",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41592-025-02918-6"
+        },
         {
             "year": "2025.11",
             "title": "The rise and potential opportunities of large language model agents in bioinformatics and biomedicine",

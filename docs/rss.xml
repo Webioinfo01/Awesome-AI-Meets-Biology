@@ -5,8 +5,50 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 05 Dec 2025 04:08:31 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 05 Dec 2025 15:15:51 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development</title>
+    <link>https://doi.org/10.3390/mps8060143</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jacek Nikliński</p>
+        <p><b>Domain:</b> AI-driven drug–target identification pipeline</p>
+        <p><b>Venue:</b> Methods and Protocols</p>
+        <p><a href="https://www.semanticscholar.org/paper/9df305ffbc93536e0e92b625a642fe9d066a3cd8">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AgentMolMultiModelAISystemforAutomaticDrugTargetIdentificationandMoleculeDevelopment202512</guid>
+  </item>
+  <item>
+    <title>A lung CT vision foundation model facilitating disease diagnosis and medical imaging.</title>
+    <link>https://doi.org/10.1038/s41467-025-66620-z</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Qionghai Dai</p>
+        <p><b>Domain:</b> CT imaging foundation model</p>
+        <p><b>Venue:</b> Nature communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/37e1003be2e2cc4c1f09352c17363597d47f6740">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AlungCTvisionfoundationmodelfacilitatingdiseasediagnosisandmedicalimaging202512</guid>
+  </item>
+  <item>
+    <title>Multimodal foundation transformer models for multiscale genomics.</title>
+    <link>https://doi.org/10.1038/s41592-025-02918-6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jesper N. Tegnér</p>
+        <p><b>Domain:</b> Multimodal transformer for genomics</p>
+        <p><b>Venue:</b> Nature methods</p>
+        <p><a href="https://www.semanticscholar.org/paper/336d539daa17f126463a3373d00df732a0f04c83">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Multimodalfoundationtransformermodelsformultiscalegenomics202512</guid>
+  </item>
   <item>
     <title>VCWorld: A Biological World Model for Virtual Cell Simulation</title>
     <link>https://doi.org/10.48550/arXiv.2512.00306</link>
