@@ -20,20 +20,20 @@ To properly view and test the `index.html` file and its data dependencies locall
 
 To stop the server, press `Ctrl + C` in your terminal. 
 
-# Updater
-Here are some examples of how to use the `updater` command:
+# AweAgent Updater
+Here are some examples of how to use the `aweagent updater` command:
 
 -   **Generate RSS Feed:** 
     ```bash
-    updater --mode rss --archive-file docs/data.json --rss-path docs/rss.xml
+    aweagent updater --mode rss --archive-file docs/data.json --rss-path docs/rss.xml
     ```
 
 -   **Update README from Archive:** 
     ```bash
-    updater --mode readme --archive-file docs/data.json --readme-path README.md --no-backup
+    aweagent updater --mode readme --archive-file docs/data.json --readme-path README.md --no-backup
     ```
 
 -   **Interactively Add a Record:** 
     ```bash
-    updater --mode new_interactive --archive-file docs/data.json
+    aweagent updater --mode new_interactive --archive-file docs/data.json
     ``` 

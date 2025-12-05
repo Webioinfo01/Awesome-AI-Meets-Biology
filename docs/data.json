@@ -66,6 +66,32 @@
             "doi": "10.21203/rs.3.rs-7811754/v1"
         },
         {
+            "year": "2025.11",
+            "title": "MetaBeeAI: an AI pipeline for full-text systematic reviews in biology",
+            "team": "Stephen Roberts",
+            "team website": "",
+            "affiliation": "University of Oxford; Queen Mary University of London",
+            "domain": "Automated Systematic Reviews in Biology",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/ea57ddb13f4b20dd70ff9af3a0e021a33316c39a",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1101/2025.11.24.690154"
+        },
+        {
+            "year": "2025.11",
+            "title": "Neuro-symbolic AI for auditable cognitive information extraction from medical reports",
+            "team": "A. Afshar-Oromieh",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Neuro\u2010Symbolic Clinical Text Extraction",
+            "venue": "Communications Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/166aa151726fda4f8b95dd79df1d8e56276bca77",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s43856-025-01194-x"
+        },
+        {
             "year": "2025.10",
             "title": "LabOS: The AI-XR Co-Scientist That Sees and Works With Humans",
             "team": "Mengdi Wang, Le Cong",
@@ -1290,6 +1316,45 @@
             "doi": "https://doi.org/10.1038/s41551-025-01528-z"
         },
         {
+            "year": "2025.11",
+            "title": "Large language models driven neural architecture search for universal and lightweight disease diagnosis on histopathology slide images",
+            "team": "Chang Xu",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Histopathology Slide Diagnosis Automation",
+            "venue": "NPJ Digital Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/e8ff2fc61bdbb4dafc4a47c3a9b0db33519f7e3c",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41746-025-02042-x"
+        },
+        {
+            "year": "2025.11",
+            "title": "Evaluating cell AI foundation models in kidney pathology with human-in-the-loop enrichment",
+            "team": "Yuankai Huo",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Kidney Pathology Cell Segmentation",
+            "venue": "Communications Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/4c6905c93cba6bed8e11b29dcb446b11c996c49a",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s43856-025-01205-x"
+        },
+        {
+            "year": "2025.11",
+            "title": "mRNABERT: advancing mRNA sequence design with a universal language model and comprehensive dataset",
+            "team": "Tingjun Hou",
+            "team website": "",
+            "affiliation": "",
+            "domain": "mRNA Sequence Design with Language Models",
+            "venue": "Nature Communications",
+            "paperUrl": "https://www.semanticscholar.org/paper/c9cd1f5b57f86be3a656f17a0dc0ed32a4e82825",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41467-025-65340-8"
+        },
+        {
             "year": "2025.10",
             "title": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
             "team": "Fabian J. Theis",
@@ -2436,6 +2501,19 @@
             "doi": "10.1002/imo2.70064"
         },
         {
+            "year": "2025.11",
+            "title": "BV-BRC: a unified bacterial and viral bioinformatics resource with expanded functionality and AI integration.",
+            "team": "Rick L. Stevens",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Bacterial and Viral Bioinformatics Resource",
+            "venue": "Nucleic acids research",
+            "paperUrl": "https://www.semanticscholar.org/paper/693c203c962996b3a53f115787aa2ad849ba4f16",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1093/nar/gkaf1254"
+        },
+        {
             "year": "2025.10",
             "title": "Protein restriction reprograms the multi-organ proteomic landscape of mouse aging",
             "team": "Tiannan Guo",
@@ -3426,6 +3504,32 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": "10.1148/radiol.242961"
+        },
+        {
+            "year": "2025.11",
+            "title": "The potential existential threat of large language models to online survey research",
+            "team": "S. Westwood",
+            "team website": "",
+            "affiliation": "",
+            "domain": "Survey Methodology and AI Risk",
+            "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+            "paperUrl": "https://www.semanticscholar.org/paper/9fc7f21ff6d8a51d50b6361287f5751cd1a89c79",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1073/pnas.2518075122"
+        },
+        {
+            "year": "2025.11",
+            "title": "AI and innovation in clinical trials",
+            "team": "Alireza Mansouri",
+            "team website": "",
+            "affiliation": "",
+            "domain": "AI Innovations in Clinical Trials Design",
+            "venue": "NPJ Digital Medicine",
+            "paperUrl": "https://www.semanticscholar.org/paper/c7c877cb0570876573dd7116ea75cd480cc87383",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41746-025-02048-5"
         },
         {
             "year": "2025.10",

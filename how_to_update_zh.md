@@ -8,7 +8,7 @@
 
 1. 安装 AweAgent：`pip install aweagent` 或从 [GitHub](https://github.com/Webioinfo01/AweAgent) 克隆
 2. 配置 `config.json`
-3. 运行：`aweagent --mode config --config config.json`
+3. 运行：`aweagent run --mode config --config config.json`
 
 ### 方法二：直接编辑
 
@@ -33,7 +33,7 @@
 ### 方法三：交互模式
 
 ```bash
-updater --mode new_interactive --archive-file docs/data.json
+aweagent updater --mode new_interactive --archive-file docs/data.json
 ```
 
 > ✅ **更新数据后即可提交 Pull Request！**
@@ -46,13 +46,13 @@ updater --mode new_interactive --archive-file docs/data.json
 
 ```bash
 # 步骤1：将新数据转换为归档格式
-updater --mode new2old_json --new-data month_reports/2506_1/updater_filter.json --archive-file docs/data.json
+aweagent updater --mode new2old_json --new-data month_reports/2506_1/updater_filter.json --archive-file docs/data.json
 
 # 步骤2：更新 readme.md
-updater --mode readme --readme-path readme.md --archive-file docs/data.json --no-backup
+aweagent updater --mode readme --readme-path readme.md --archive-file docs/data.json --no-backup
 
 # 步骤3：生成 RSS 订阅
-updater --mode rss --rss-path docs/rss.xml --archive-file docs/data.json
+aweagent updater --mode rss --rss-path docs/rss.xml --archive-file docs/data.json
 ```
 
 不使用 AweAgent 时，仅需执行步骤 2 和 3。

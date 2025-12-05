@@ -8,7 +8,7 @@ Choose **one** of the following methods:
 
 1. Install AweAgent: `pip install aweagent` or clone from [GitHub](https://github.com/Webioinfo01/AweAgent)
 2. Configure `config.json`
-3. Run: `aweagent --mode config --config config.json`
+3. Run: `aweagent run --mode config --config config.json`
 
 ### Method 2: Direct Edit
 
@@ -33,7 +33,7 @@ Add entries to `docs/data.json` following this format:
 ### Method 3: Interactive Mode
 
 ```bash
-updater --mode new_interactive --archive-file docs/data.json
+aweagent updater --mode new_interactive --archive-file docs/data.json
 ```
 
 > ✅ **After updating data, you can submit a Pull Request!**
@@ -46,13 +46,13 @@ Before executing data conversion, manually verify that the content in "updater_f
 
 ```bash
 # Step 1: Convert new data to archive format
-updater --mode new2old_json --new-data month_reports/2506_1/updater_filter.json --archive-file docs/data.json
+aweagent updater --mode new2old_json --new-data month_reports/2506_1/updater_filter.json --archive-file docs/data.json
 
 # Step 2: Update readme.md
-updater --mode readme --readme-path readme.md --archive-file docs/data.json --no-backup
+aweagent updater --mode readme --readme-path readme.md --archive-file docs/data.json --no-backup
 
 # Step 3: Generate RSS feed
-updater --mode rss --rss-path docs/rss.xml --archive-file docs/data.json
+aweagent updater --mode rss --rss-path docs/rss.xml --archive-file docs/data.json
 ```
 
 Without AweAgent, only Steps 2 & 3 are needed.
