@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 05 Dec 2025 15:15:51 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 14 Dec 2025 08:53:11 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development</title>
@@ -147,6 +147,21 @@
     </description>
     <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">NeurosymbolicAIforauditablecognitiveinformationextractionfrommedicalreports202511</guid>
+  </item>
+  <item>
+    <title>PULSAR: a Foundation Model for Multi-scale and Multicellular Biology</title>
+    <link>https://doi.org/10.1101/2025.11.24.685470</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jure Leskovec</p>
+        <p><b>Domain:</b> Multi-scale and Multicellular Biology</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1">Read the Paper</a></p>
+        <p><a href="https://github.com/snap-stanford/PULSAR/">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PULSARaFoundationModelforMultiscaleandMulticellularBiology202511</guid>
   </item>
   <item>
     <title>Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.</title>
@@ -584,6 +599,21 @@
     </description>
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Activelearningframeworkleveragingtranscriptomicsidentifiesmodulatorsofdiseasephenotypes202510</guid>
+  </item>
+  <item>
+    <title>In silico biological discovery with large perturbation models</title>
+    <link>doi.org/10.1038/s43588-025-00870-1</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Patrick Schwab</p>
+        <p><b>Domain:</b> Use large perturbation models by representing perturbation, readout and context as disentangled dimensions</p>
+        <p><b>Venue:</b> Nature Computational Science</p>
+        <p><a href="https://www.nature.com/articles/s43588-025-00870-1">Read the Paper</a></p>
+        <p><a href="https://github.com/perturblib/perturblib">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Insilicobiologicaldiscoverywithlargeperturbationmodels202510</guid>
   </item>
   <item>
     <title>#3218 Predicting fluid overload hospitalizations in hemodialysis patients using a foundational model and large language model techniques</title>
@@ -1877,7 +1907,7 @@
     <link>https://doi.org/10.1101/2025.05.30.656746</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> Marinka Zitnik</p>
+        <p><b>Team:</b> Jure Leskovec</p>
         <p><b>Domain:</b> Biomedical AI agent for autonomous research workflows</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1">Read the Paper</a></p>

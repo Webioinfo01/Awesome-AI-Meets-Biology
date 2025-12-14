@@ -576,8 +576,8 @@
         {
             "year": "2025.06",
             "title": "Biomni: A General-Purpose Biomedical AI Agent",
-            "team": "Marinka Zitnik",
-            "team website": "https://zitniklab.hms.harvard.edu/",
+            "team": "Jure Leskovec",
+            "team website": "https://github.com/snap-stanford",
             "affiliation": "Stanford University",
             "domain": "Biomedical AI agent for autonomous research workflows",
             "venue": "bioRxiv",
@@ -1293,6 +1293,19 @@
         },
         {
             "year": "2025.11",
+            "title": "PULSAR: a Foundation Model for Multi-scale and Multicellular Biology",
+            "team": "Jure Leskovec",
+            "team website": "https://github.com/snap-stanford",
+            "affiliation": "Stanford University",
+            "domain": "Multi-scale and Multicellular Biology",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1",
+            "codeUrl": "https://github.com/snap-stanford/PULSAR/",
+            "githubStars": "https://img.shields.io/github/stars/snap-stanford/PULSAR/",
+            "doi": "10.1101/2025.11.24.685470"
+        },
+        {
+            "year": "2025.11",
             "title": "Artificial Intelligence-Assisted Data Extraction With a Large Language Model: A Study Within Reviews.",
             "team": "Leila C Kahwati",
             "team website": "",
@@ -1394,6 +1407,19 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": "10.1126/science.adi8577"
+        },
+        {
+            "year": "2025.10",
+            "title": "In silico biological discovery with large perturbation models",
+            "team": "Patrick Schwab",
+            "team website": "",
+            "affiliation": "GSK plc",
+            "domain": "Use large perturbation models by representing perturbation, readout and context as disentangled dimensions",
+            "venue": "Nature Computational Science",
+            "paperUrl": "https://www.nature.com/articles/s43588-025-00870-1",
+            "codeUrl": "https://github.com/perturblib/perturblib",
+            "githubStars": "https://img.shields.io/github/stars/perturblib/perturblib",
+            "doi": "doi.org/10.1038/s43588-025-00870-1"
         },
         {
             "year": "2025.10",
