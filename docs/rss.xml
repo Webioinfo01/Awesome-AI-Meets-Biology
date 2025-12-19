@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 14 Dec 2025 08:53:11 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 19 Dec 2025 06:57:53 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development</title>
@@ -22,6 +22,34 @@
     <guid isPermaLink="false">AgentMolMultiModelAISystemforAutomaticDrugTargetIdentificationandMoleculeDevelopment202512</guid>
   </item>
   <item>
+    <title>CASSIA: a multi-agent large language model for automated and interpretable cell annotation.</title>
+    <link>https://doi.org/10.1038/s41467-025-67084-x</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> C. Kendziorski</p>
+        <p><b>Domain:</b> automated single-cell annotation via multi-agent LLMs</p>
+        <p><b>Venue:</b> Nature communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/7de5beff1eb163c66310e4291928c6f2d7bb34ac">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CASSIAamultiagentlargelanguagemodelforautomatedandinterpretablecellannotation202512</guid>
+  </item>
+  <item>
+    <title>Explainable AI-driven precision clinical trial enrichment: demonstration of the NetraAI platform with a phase II depression trial</title>
+    <link>https://doi.org/10.1038/s41746-025-02143-7</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Luca Pani</p>
+        <p><b>Domain:</b> explainable AI for clinical trial cohort enrichment</p>
+        <p><b>Venue:</b> NPJ Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/75f60ee9808353347e8dc5f20994b7d714fa559d">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ExplainableAIdrivenprecisionclinicaltrialenrichmentdemonstrationoftheNetraAIplatformwithaphaseIIdepressiontrial202512</guid>
+  </item>
+  <item>
     <title>A lung CT vision foundation model facilitating disease diagnosis and medical imaging.</title>
     <link>https://doi.org/10.1038/s41467-025-66620-z</link>
     <description>
@@ -36,6 +64,91 @@
     <guid isPermaLink="false">AlungCTvisionfoundationmodelfacilitatingdiseasediagnosisandmedicalimaging202512</guid>
   </item>
   <item>
+    <title>Scouter predicts transcriptional responses to genetic perturbations with large language model embeddings.</title>
+    <link>https://doi.org/10.1038/s43588-025-00912-8</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jun Li</p>
+        <p><b>Domain:</b> LLM embeddings to predict transcriptional responses</p>
+        <p><b>Venue:</b> Nature computational science</p>
+        <p><a href="https://www.semanticscholar.org/paper/ef1e5451d11c0684b4867e410682daf776ab91c8">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Scouterpredictstranscriptionalresponsestogeneticperturbationswithlargelanguagemodelembeddings202512</guid>
+  </item>
+  <item>
+    <title>A Generative Foundation Model for Scalable Cytology Image Synthesis in AI-Powered Diagnostics.</title>
+    <link>https://doi.org/10.1158/1078-0432.CCR-25-2445</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Mu-yan Cai</p>
+        <p><b>Domain:</b> generative foundation model for cytology image synthesis</p>
+        <p><b>Venue:</b> Clinical cancer research : an official journal of the American Association for Cancer Research</p>
+        <p><a href="https://www.semanticscholar.org/paper/2698cc4940fd54cdbc458272b3abc41e7bad6679">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AGenerativeFoundationModelforScalableCytologyImageSynthesisinAIPoweredDiagnostics202512</guid>
+  </item>
+  <item>
+    <title>Large DNA and protein language models enhance discovery of deleterious mutations in maize</title>
+    <link>https://doi.org/10.1186/s13059-025-03890-2</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jun Zheng</p>
+        <p><b>Domain:</b> large DNA and protein language models for maize mutation discovery</p>
+        <p><b>Venue:</b> Genome Biology</p>
+        <p><a href="https://www.semanticscholar.org/paper/c21fa11a2873e22feaeef7ffaa395d377f6b9cad">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LargeDNAandproteinlanguagemodelsenhancediscoveryofdeleteriousmutationsinmaize202512</guid>
+  </item>
+  <item>
+    <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
+    <link>https://doi.org/10.1038/s41467-025-67481-2</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Qianqian Song</p>
+        <p><b>Domain:</b> Benchmarking foundation models for single-cell drug response prediction</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.nature.com/articles/s41467-025-67481-2">Read the Paper</a></p>
+        <p><a href="https://github.com/QSong-github/scDrugMap">View the Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">scDrugMapBenchmarkingLargeFoundationModelsforDrugResponsePrediction202512</guid>
+  </item>
+  <item>
+    <title>Comparative analysis of AI on human nutrition knowledge: Evaluating large language model-based conversational agents against dietetics students and the general population</title>
+    <link>https://doi.org/10.1371/journal.pone.0336577</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Rosi</p>
+        <p><b>Domain:</b> benchmarking LLMs on nutrition knowledge evaluation</p>
+        <p><b>Venue:</b> PLOS One</p>
+        <p><a href="https://www.semanticscholar.org/paper/68ab12015fe819fecd876b4dd8cb81facd8c647e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ComparativeanalysisofAIonhumannutritionknowledgeEvaluatinglargelanguagemodelbasedconversationalagentsagainstdieteticsstudentsandthegeneralpopulation202512</guid>
+  </item>
+  <item>
+    <title>Assessing AI's cognitive abilities for scientific discovery in the field of systems vaccinology.</title>
+    <link>https://doi.org/10.1126/sciimmunol.adx1794</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Bali Pulendran</p>
+        <p><b>Domain:</b> evaluating LLMs’ creative abilities in systems vaccinology</p>
+        <p><b>Venue:</b> Science immunology</p>
+        <p><a href="https://www.semanticscholar.org/paper/bbfeb4fad4854bf8299b90dc72e5be97ce3233cb">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AssessingAIscognitiveabilitiesforscientificdiscoveryinthefieldofsystemsvaccinology202512</guid>
+  </item>
+  <item>
     <title>Multimodal foundation transformer models for multiscale genomics.</title>
     <link>https://doi.org/10.1038/s41592-025-02918-6</link>
     <description>
@@ -48,6 +161,62 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Multimodalfoundationtransformermodelsformultiscalegenomics202512</guid>
+  </item>
+  <item>
+    <title>All That Shines Is Not Gold: Maintaining Scientific Rigor When Evaluating, Interpreting, and Reviewing Studies Using Large Language Models.</title>
+    <link>https://doi.org/10.1097/ALN.0000000000005795</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Julien Cobert</p>
+        <p><b>Domain:</b> maintaining scientific rigor in LLM research practices</p>
+        <p><b>Venue:</b> Anesthesiology</p>
+        <p><a href="https://www.semanticscholar.org/paper/ff44718f4c2c4365182484ae0d404d42a7d7ac37">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AllThatShinesIsNotGoldMaintainingScientificRigorWhenEvaluatingInterpretingandReviewingStudiesUsingLargeLanguageModels202512</guid>
+  </item>
+  <item>
+    <title>AI immunologists are here: Are they ready for prime time?</title>
+    <link>https://doi.org/10.1126/sciimmunol.aea8735</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> J. Tsang</p>
+        <p><b>Domain:</b> perspectives on LLM use in immunology research</p>
+        <p><b>Venue:</b> Science immunology</p>
+        <p><a href="https://www.semanticscholar.org/paper/a4f0449c55a13ccd2cfee205f69017adf70148a1">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIimmunologistsarehereAretheyreadyforprimetime202512</guid>
+  </item>
+  <item>
+    <title>A typology of physician input approaches to using AI chatbots for clinical decision-making.</title>
+    <link>https://doi.org/10.1038/s41746-025-02184-y</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Laura M Holdsworth</p>
+        <p><b>Domain:</b> typology of physician-LLM chatbot interaction approaches</p>
+        <p><b>Venue:</b> NPJ digital medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/af0f183cdd0609f7d14fa9d85dceae6020838294">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AtypologyofphysicianinputapproachestousingAIchatbotsforclinicaldecisionmaking202512</guid>
+  </item>
+  <item>
+    <title>Toward AI-Powered Neurovascular Intervention: From Imaging to XR-Robotic Convergence.</title>
+    <link>https://doi.org/10.1161/STROKEAHA.125.053121</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> D. Songsaeng</p>
+        <p><b>Domain:</b> AI-augmented imaging and XR-robotics in neurovascular intervention</p>
+        <p><b>Venue:</b> Stroke</p>
+        <p><a href="https://www.semanticscholar.org/paper/fef4bb297900bf697f92e6c70150009169d5c802">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TowardAIPoweredNeurovascularInterventionFromImagingtoXRRoboticConvergence202512</guid>
   </item>
   <item>
     <title>VCWorld: A Biological World Model for Virtual Cell Simulation</title>
@@ -2560,20 +2729,6 @@
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">LargeLanguageModelsCanExtractMetadataforAnnotationofHumanNeuroimagingPublications202505</guid>
-  </item>
-  <item>
-    <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
-    <link>https://doi.org/10.48550/arXiv.2505.05612</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Qianqian Song</p>
-        <p><b>Domain:</b> Benchmarking foundation models for single-cell drug response prediction</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/2dde8c82b5b59d46224f68e760ce5965a847e9c2">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">scDrugMapBenchmarkingLargeFoundationModelsforDrugResponsePrediction202505</guid>
   </item>
   <item>
     <title>Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review</title>

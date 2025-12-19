@@ -56,7 +56,7 @@ Before executing data conversion, manually verify that the content in "updater_f
 
 ```bash
 # Step 1: Convert new data to archive format
-aweagent updater --mode new2old_json --new-data month_reports/2506_1/updater_filter.json --archive-file docs/data.json
+aweagent updater --mode new2old_json --new-data month_reports/2512_1/updater_filter.json --archive-file docs/data.json
 
 # Step 2: Update readme.md
 aweagent updater --mode readme --readme-path readme.md --archive-file docs/data.json --no-backup
