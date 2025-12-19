@@ -8,7 +8,7 @@
 
 1. 安装 AweAgent：`pip install aweagent` 或从 [GitHub](https://github.com/Webioinfo01/AweAgent) 克隆
 2. 配置 `config.json`
-3. 运行：`aweagent run --mode config --config config.json`
+3. 运行：`aweagent crawler --mode config --config config.json`
 
 ### 方法二：直接编辑
 
@@ -34,6 +34,16 @@
 
 ```bash
 aweagent updater --mode new_interactive --archive-file docs/data.json
+```
+
+### 方法四：从 Semantic Scholar 搜索
+
+```bash
+# 通过标题搜索（默认）
+aweagent updater --mode new_search --json-file papers.json --search-by title
+
+# 通过 DOI 搜索
+aweagent updater --mode new_search --json-file papers.json --search-by doi
 ```
 
 > ✅ **更新数据后即可提交 Pull Request！**

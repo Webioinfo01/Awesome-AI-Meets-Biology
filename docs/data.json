@@ -2934,6 +2934,19 @@
     ],
     "benchmarks": [
         {
+            "year": "2025.12",
+            "title": "scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction",
+            "team": "Qianqian Song",
+            "team website": "",
+            "affiliation": "University of Florida",
+            "domain": "Benchmarking foundation models for single-cell drug response prediction",
+            "venue": "Nature Communications",
+            "paperUrl": "https://www.nature.com/articles/s41467-025-67481-2",
+            "codeUrl": "https://github.com/QSong-github/scDrugMap",
+            "githubStars": "https://img.shields.io/github/stars/QSong-github/scDrugMap",
+            "doi": "10.1038/s41467-025-67481-2"
+        },
+        {
             "year": "2025.11",
             "title": "Evaluating clinical AI summaries with large language models as judges",
             "team": "Majid Afshar",
@@ -3335,19 +3348,6 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": "10.1101/2025.05.13.653828"
-        },
-        {
-            "year": "2025.05",
-            "title": "scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction",
-            "team": "Qianqian Song",
-            "team website": "",
-            "affiliation": "",
-            "domain": "Benchmarking foundation models for single-cell drug response prediction",
-            "venue": "ArXiv",
-            "paperUrl": "https://www.semanticscholar.org/paper/2dde8c82b5b59d46224f68e760ce5965a847e9c2",
-            "codeUrl": "",
-            "githubStars": "",
-            "doi": "10.48550/arXiv.2505.05612"
         },
         {
             "year": "2025.04",

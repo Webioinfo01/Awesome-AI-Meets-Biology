@@ -8,7 +8,7 @@ Choose **one** of the following methods:
 
 1. Install AweAgent: `pip install aweagent` or clone from [GitHub](https://github.com/Webioinfo01/AweAgent)
 2. Configure `config.json`
-3. Run: `aweagent run --mode config --config config.json`
+3. Run: `aweagent crawler --mode config --config config.json`
 
 ### Method 2: Direct Edit
 
@@ -34,6 +34,16 @@ Add entries to `docs/data.json` following this format:
 
 ```bash
 aweagent updater --mode new_interactive --archive-file docs/data.json
+```
+
+### Method 4: Search from Semantic Scholar
+
+```bash
+# Search by title (default)
+aweagent updater --mode new_search --json-file papers.json --search-by title
+
+# Search by DOI
+aweagent updater --mode new_search --json-file papers.json --search-by doi
 ```
 
 > ✅ **After updating data, you can submit a Pull Request!**
