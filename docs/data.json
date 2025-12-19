@@ -1371,7 +1371,7 @@
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1",
             "codeUrl": "https://github.com/snap-stanford/PULSAR/",
-            "githubStars": "https://img.shields.io/github/stars/snap-stanford/PULSAR/",
+            "githubStars": "https://img.shields.io/github/stars/snap-stanford/PULSAR",
             "doi": "10.1101/2025.11.24.685470"
         },
         {
