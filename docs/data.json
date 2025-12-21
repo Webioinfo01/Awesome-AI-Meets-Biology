@@ -512,6 +512,19 @@
         },
         {
             "year": "2025.07",
+            "title": "The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation",
+            "team": "James Zou",
+            "team website": "https://github.com/zou-group",
+            "affiliation": "Stanford University",
+            "domain": "General Scientific Research",
+            "venue": "Nature",
+            "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1",
+            "codeUrl": "https://github.com/zou-group/virtual-lab",
+            "githubStars": "https://img.shields.io/github/stars/zou-group/virtual-lab",
+            "doi": "10.1038/s41586-025-09442-9"
+        },
+        {
+            "year": "2025.07",
             "title": "PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis",
             "team": "PromptBio(Xiao Yang)",
             "team website": "https://www.promptbio.ai/",
@@ -593,7 +606,7 @@
             "title": "CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data",
             "team": "James Zou",
             "team website": "https://github.com/zou-group",
-            "affiliation": "",
+            "affiliation": "Stanford University",
             "domain": "single cell RNA",
             "venue": "bioRxiv",
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1",
@@ -1213,19 +1226,6 @@
             "doi": ""
         },
         {
-            "year": "2024.11",
-            "title": "The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation",
-            "team": "James Zou",
-            "team website": "https://github.com/zou-group",
-            "affiliation": "",
-            "domain": "General Scientific Research",
-            "venue": "bioRxiv",
-            "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1",
-            "codeUrl": "https://github.com/zou-group/virtual-lab",
-            "githubStars": "https://img.shields.io/github/stars/zou-group/virtual-lab",
-            "doi": ""
-        },
-        {
             "year": "2024.10",
             "title": "An AI Agent for Fully Automated Multi-Omic Analyses",
             "team": "",
@@ -1305,6 +1305,19 @@
         }
     ],
     "foundation-models": [
+        {
+            "year": "2025.12",
+            "title": "SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics",
+            "team": "James Zou",
+            "team website": "https://github.com/zou-group",
+            "affiliation": "Stanford University",
+            "domain": "Spatial scRNA perturbation modeling",
+            "venue": "bioRxiv",
+            "paperUrl": "https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383",
+            "codeUrl": "https://github.com/abuendia/spatial-prop",
+            "githubStars": "https://img.shields.io/github/stars/abuendia/spatial-prop",
+            "doi": "10.64898/2025.11.30.691355"
+        },
         {
             "year": "2025.12",
             "title": "A lung CT vision foundation model facilitating disease diagnosis and medical imaging.",
@@ -2051,6 +2064,19 @@
             "doi": "10.1158/1538-7445.am2025-3762"
         },
         {
+            "year": "2025.04",
+            "title": "xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein",
+            "team": "Le Song",
+            "team website": "https://github.com/biomap-research",
+            "affiliation": "Biomap research",
+            "domain": "Protein",
+            "venue": "Nature Methods",
+            "paperUrl": "https://arxiv.org/abs/2401.06199",
+            "codeUrl": "https://github.com/biomap-research/xTrimoPGLM",
+            "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM",
+            "doi": ""
+        },
+        {
             "year": "2025.03",
             "title": "Multimodal AI predicts clinical outcomes of drug combinations from preclinical data",
             "team": "Marinka Zitnik",
@@ -2503,19 +2529,6 @@
             "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1",
             "codeUrl": "",
             "githubStars": "",
-            "doi": ""
-        },
-        {
-            "year": "2024.01",
-            "title": "xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein",
-            "team": "Biomap research(Le Song)",
-            "team website": "https://github.com/biomap-research",
-            "affiliation": "",
-            "domain": "Protein",
-            "venue": "arXiv",
-            "paperUrl": "https://arxiv.org/abs/2401.06199",
-            "codeUrl": "https://github.com/biomap-research/xTrimoPGLM",
-            "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM",
             "doi": ""
         },
         {
