@@ -394,4 +394,15 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 | **Awesome-Bioinformatics**                      | [Link](https://github.com/danielecook/Awesome-Bioinformatics) ![GitHub Stars](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics)                               |
 | **awesome**                                     | [Link](https://github.com/sindresorhus/awesome) ![GitHub Stars](https://img.shields.io/github/stars/sindresorhus/awesome)                                                           |
 
+## Contributing
+
+Contributions are welcome! Please see [how_to_update.md](how_to_update.md) for instructions on how to add new entries.
+
+## License
+
+This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+
 # Ref
