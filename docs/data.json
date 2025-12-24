@@ -1320,6 +1320,19 @@
         },
         {
             "year": "2025.12",
+            "title": "Multimodal AI generates virtual population for tumor microenvironment modeling.",
+            "team": "H. Poon",
+            "team website": "",
+            "affiliation": "",
+            "domain": "",
+            "venue": "Cell",
+            "paperUrl": "https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1016/j.cell.2025.11.016"
+        },
+        {
+            "year": "2025.12",
             "title": "A lung CT vision foundation model facilitating disease diagnosis and medical imaging.",
             "team": "Qionghai Dai",
             "team website": "",
@@ -2469,9 +2482,9 @@
         {
             "year": "2024.04",
             "title": "Masked Autoencoders for Microscopy are Scalable Learners of Cellular Biology",
-            "team": "Recursion(Berton Earnshaw)",
+            "team": "Berton Earnshaw",
             "team website": "https://www.rxrx.ai/",
-            "affiliation": "",
+            "affiliation": "Recursion",
             "domain": "microscopy data",
             "venue": "CVPR 2024 Highlight",
             "paperUrl": "https://arxiv.org/abs/2404.10242",
@@ -2874,9 +2887,9 @@
         {
             "year": "2025.03",
             "title": "RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy",
-            "team": "Recursion(Imran S. Haque)",
+            "team": "Imran S. Haque",
             "team website": "https://www.rxrx.ai/",
-            "affiliation": "",
+            "affiliation": "Recursion",
             "domain": "microscopy perturbation data",
             "venue": "ICLR 2025",
             "paperUrl": "https://arxiv.org/abs/2503.20158v2",

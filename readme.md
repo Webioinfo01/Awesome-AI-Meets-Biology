@@ -382,6 +382,7 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 | Title                                           | Project                                                                                                                                                                             |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Awesome-AI-Virtual-Tumor**                    | [Link](https://github.com/Webioinfo01/Awesome-AI-Virtual-Tumor) ![GitHub Stars](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Virtual-Tumor)                           |          
 | **Awesome-LLMs-meet-genomes**                   | [Link](https://github.com/ychuest/Awesome-LLMs-meet-genomes) ![GitHub Stars](https://img.shields.io/github/stars/ychuest/Awesome-LLMs-meet-genomes)                                 |
 | **Awesome-Virtual-Cell**                        | [Link](https://github.com/Boom5426/Awesome-Virtual-Cell) ![GitHub Stars](https://img.shields.io/github/stars/Boom5426/Awesome-Virtual-Cell)                                         |
 | **Awesome-Phenotypic-Drug-Discovery**           | [Link](https://github.com/Boom5426/Awesome-Phenotypic-Drug-Discovery) ![GitHub Stars](https://img.shields.io/github/stars/Boom5426/Awesome-Phenotypic-Drug-Discovery)               |
