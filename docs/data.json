@@ -1307,6 +1307,19 @@
     "foundation-models": [
         {
             "year": "2025.12",
+            "title": "Novae: a graph-based foundation model for spatial transcriptomics data",
+            "team": "P. Cournède",
+            "team website": "",
+            "affiliation": "",
+            "domain": "",
+            "venue": "Nature Methods",
+            "paperUrl": "https://www.semanticscholar.org/paper/96635eda1f59bf68a0b2dca799155c37ea90e441",
+            "codeUrl": "",
+            "githubStars": "",
+            "doi": "10.1038/s41592-025-02899-6"
+        },
+        {
+            "year": "2025.12",
             "title": "SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics",
             "team": "James Zou",
             "team website": "https://github.com/zou-group",
@@ -1490,6 +1503,19 @@
             "codeUrl": "",
             "githubStars": "",
             "doi": "10.1038/s41467-025-65340-8"
+        },
+        {
+            "year": "2025.10",
+            "title": "Genos: A Human-Centric Genomic Foundation Model.",
+            "team": "Zilin Wang",
+            "team website": "",
+            "affiliation": "BGI",
+            "domain": "Genomic Foundation Model",
+            "venue": "GigaScience",
+            "paperUrl": "https://www.semanticscholar.org/paper/4488463e7f0cd84dd17f5f26ee952e900c0d1be3",
+            "codeUrl": "https://github.com/BGI-HangzhouAI/Genos",
+            "githubStars": "https://img.shields.io/github/stars/BGI-shenzhen/Genos",
+            "doi": "10.1093/gigascience/giaf132"
         },
         {
             "year": "2025.10",
@@ -2624,6 +2650,19 @@
         }
     ],
     "databases": [
+        {
+            "year": "2025.12",
+            "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+            "team": "Alexander Marson",
+            "team website": "",
+            "affiliation": "Biohub",
+            "domain": "Genome-wide Perturb-seq",
+            "venue": "arXiv",
+            "paperUrl": "https://www.biorxiv.org/content/10.64898/2025.12.23.696273v1",
+            "codeUrl": "https://github.com/emdann/GWT_perturbseq_analysis_2025",
+            "githubStars": "https://img.shields.io/github/stars/emdann/GWT_perturbseq_analysis_2025",
+            "doi": "10.64898/2025.12.23.696273"
+        },
         {
             "year": "2025.11",
             "title": "CellOntologyMapper: Consensus mapping of cell type annotation",
