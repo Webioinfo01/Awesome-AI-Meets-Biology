@@ -8,6 +8,21 @@
   <lastBuildDate>Fri, 19 Dec 2025 06:57:53 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
+    <title>From foundation models to autonomous agents in biology.</title>
+    <link>https://doi.org/10.48130/gcomm-0026-0005</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Shuang Huang</p>
+        <p><b>Domain:</b> Review of foundation models and autonomous agents in biology</p>
+        <p><b>Venue:</b> Genomics Communications</p>
+        <p><a href="https://doi.org/10.48130/gcomm-0026-0005">Read the Paper</a></p>
+        <p><a href="https://github.com/Webioinfo01/Awesome-AI-Meets-Biology">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Fromfoundationmodels toautonomousagentsinbiology202603</guid>
+  </item>
+  <item>
     <title>AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development</title>
     <link>https://doi.org/10.3390/mps8060143</link>
     <description>
