@@ -1,0 +1,210 @@
+{
+  "AI Agents": [
+    {
+      "doi": "10.1038/s41598-026-43365-3",
+      "title": "A framework of large language model commander agent for spatial reasoning in combat simulation",
+      "abstract": "Large language models (LLMs) demonstrate strong reasoning and planning capabilities in static textual contexts, yet they struggle significantly with dynamic decision-making tasks involving spatial elements, such as point selection in military simulations. These limitations arise from their reduced capacity to integrate real-time geographic data and adapt to spatial conditions, which can lead to crucial errors in positioning decisions. Such deficiencies may result in missed opportunities for tactical advantages, increased vulnerability, and diminished overall effectiveness in combat scenarios. To mitigate these issues, this paper presents the Geo-Commander framework, an innovative multi-task agent to combat simulations by integrate the ReAct reasoning mechanism and spatial encoding. The Geo-Choice module of this framework employs hexagonal grid encoding for preliminary location screening, enabling the agent to establish spatial constraints early in the decision-making process. The ReAct chain of this framework incorporates detailed geographic insights into the reasoning loop, yielding interpretable decisions for point selection. We validate the framework through experiments that reveal substantial performance improvements in both static point selections and real-time dynamic command tasks within a tank detachment combat simulation environment. Results indicate that Geo-Commander consistently surpasses control groups across various metrics, including selection quality, win rate, and overall combat effectiveness. These performance metrics highlight the framework’s potential to meet the demands of dynamic combat environments, ultimately confirming the feasibility of integrating spatial reasoning within LLM frameworks and opening avenues for advancements in multi-agent geospatial intelligence systems and battlefield decision-making support.",
+      "venue": "Scientific Reports",
+      "domain": "AI Agents for spatial reasoning",
+      "category": "AI Agents",
+      "reason_for_inclusion": "High quality: Published in Scientific Reports, a Nature Portfolio journal."
+    },
+    {
+      "doi": "10.64898/2026.03.04.26347506",
+      "title": "Evaluating a Locally Deployed 20-Billion Parameter Large Language Model for Automated Abstract Screening in Systematic Reviews",
+      "abstract": null,
+      "venue": "medRxiv",
+      "domain": "Systematic review automation",
+      "category": "AI Agents",
+      "reason_for_inclusion": "High relevance: Directly matches user's research interests in AI agents for scientific workflows."
+    },
+    {
+      "doi": "10.1038/s41433-026-04325-3",
+      "title": "Large language model-based scribing tools for ophthalmology: performance and safety evaluation using simulated clinical encounters.",
+      "abstract": null,
+      "venue": "Eye",
+      "domain": "Clinical documentation",
+      "category": "AI Agents",
+      "reason_for_inclusion": "High quality: Published in Eye, a reputable Q1 journal in ophthalmology."
+    },
+    {
+      "doi": "10.1038/s41591-026-04278-w",
+      "title": "A cognitive layer architecture to support large-language model performance in psychotherapy interactions.",
+      "abstract": null,
+      "venue": "Nature Medicine",
+      "domain": "Psychotherapy support",
+      "category": "AI Agents",
+      "reason_for_inclusion": "High quality: Published in Nature Medicine, a premier Q1 journal."
+    },
+    {
+      "doi": "10.64898/2026.03.02.709055",
+      "title": "LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design",
+      "abstract": null,
+      "venue": "bioRxiv",
+      "domain": "Drug design",
+      "category": "AI Agents",
+      "reason_for_inclusion": "High relevance: Directly matches user's research interests in AI agents and drug design."
+    },
+    {
+      "doi": "10.1038/s41598-026-41439-w",
+      "title": "UltraReporter for transforming spoken diagnostic cues into structured ultrasound reports with large language models",
+      "abstract": "Ultrasound reporting remains a manual, time-consuming process prone to errors and variability. We present UltraReporter, a compact 8B-parameter LLM pipeline that converts real-time spoken cues into structured ultrasound reports. To overcome data scarcity, we developed a multi-agent framework for synthesizing high-quality Chinese cue-report pairs from unpaired narratives. The model was further refined through template-augmented fine-tuning and defect-oriented preference optimization to ensure institutional consistency and minimize hallucinations. Evaluated on 1,311 gold-standard cases, UltraReporter outperformed nine state-of-the-art LLMs, achieving superior clinical scores (e.g. accuracy: 4.82) and NLG metrics (BLEU-4: 89.42). In a blinded reader study, its reports surpassed chief physicians in quality across normal, common, and rare cases, and 72% of prospective reports were deemed equivalent to original ones. UltraReporter integrates seamlessly into clinical workflows, generating ready-to-use reports in 1 second, significantly reducing documentation burden and demonstrating strong potential for clinical integration.",
+      "venue": "Scientific Reports",
+      "domain": "Clinical documentation",
+      "category": "AI Agents",
+      "reason_for_inclusion": "High quality: Published in Scientific Reports, a Nature Portfolio journal."
+    }
+  ],
+  "Benchmarks": [
+    {
+      "doi": "10.1016/j.bas.2026.105997",
+      "title": "AI at the Sella Turcica: Multi-Model Large Language Model Evaluation in Pituitary Adenomas",
+      "abstract": "Introduction Large language models (LLMs) are explored as clinical decision-support tools in complex medical fields. However, their reliability and clinical usefulness in multidisciplinary management of pituitary adenomas remain insufficiently evaluated using validated, clinician-based frameworks. Research question Do LLMs differ in informational quality, clinical reasoning, and expert satisfaction when applied to pituitary adenoma–related clinical scenarios? Materials and methods A prospective comparative study evaluated three LLMs: ChatGPT-5.0, Claude Opus 4.1, and Gemini 2.5 Flash. A standardized prompt set covering general knowledge, surgical decision-making, endocrine evaluation, patient education, and MRI-based scenarios was submitted to each model identically. Outputs were anonymized and independently assessed by 10 board-certified doctors using three validated instruments: the Quality Assessment of Medical Artificial Intelligence (QAMAI), the Artificial Intelligence Performance Instrument (AIPI), and the Artificial Intelligence Satisfaction and Performance Evaluation Questionnaire (AISPE-Q). Results Claude Opus 4.1 achieved the highest performance across all major domains. Aggregate QAMAI scores were highest for Claude Opus 4.1 (4.39 ± 0.66), compared with ChatGPT-5.0 (4.12 ± 0.74) and Gemini 2.5 Flash (4.07 ± 0.76; p = 0.018). Clinical reasoning assessed by AIPI was superior for Claude Opus 4.1 versus Gemini 2.5 Flash and ChatGPT-5.0. Strong correlations were observed between informational quality, reasoning performance, and satisfaction. Discussion and conclusion LLMs exhibit significant variability in performance when managing pituitary adenomas. Claude Opus 4.1 demonstrated the highest levels of informational quality, reasoning depth, and expert trust. While LLMs may serve as supportive adjuncts in multidisciplinary pituitary care, structured evaluation and expert oversight remain essential before clinical integration. Level of evidence 2 – Prospective comparative diagnostic accuracy study.",
+      "venue": "Brain and Spine",
+      "domain": "Clinical decision support",
+      "category": "Benchmarks",
+      "reason_for_inclusion": "Included to meet target filter limit."
+    },
+    {
+      "doi": "10.1186/s12873-025-01468-6",
+      "title": "AI-powered surveillance of bronchiolitis in the Nirsevimab era: comparative performance of machine learning, deep learning, and large language models on free-text ED records",
+      "abstract": "Background Bronchiolitis remains a frequent reason for hospitalization in infants during the winter season. Epidemiologic surveillance remains crucial in the era of widespread immunoprophylaxis for the leading viral agent causing bronchiolitis. We investigated the performance of classical machine learning (ML) models, Deep Learning (DL), and a pre-trained large language model (LLM) in classifying bronchiolitis diagnosis from the free-text-diagnosis field of the emergency department electronic health records (EHRs). As a secondary aim, we evaluated the diagnostic accuracy of the actual official administrative ICD-9 encoding for Bronchiolitis diagnosis. Methods 28,557 records of infants < 1 year with complete discharge diagnoses fields were retrieved between the years 2007–2018 and manually classified by an expert pediatrician to create the gold standard diagnosis set for training the algorithm. After data pre-processing, classical ML models (Random Forest, Decision Tree, Gradient Boosting Machine, Linear Discriminant Analysis, Support Vector Machine), a Deep Learning (DL) tool, and a pre-trained LLM (GPT-5) were evaluated using balanced accuracy, sensitivity, and F1 scores. The official administrative ICD-9 encoding classification accuracy was compared to the gold standard. Results Overall, 1,903 of 28,557 records (6.7%) were classified as bronchiolitis by the gold standard approach. The DL model and GPT-5 outperformed traditional ML models, achieving higher sensitivities (0.97, 95%CI 0.96-1.00, and 0.98, 95% CI 0.98–0.99, respectively), F1 scores (0.96, 95% CI 0.95–0.99, and 0.99, 95% CI 0.98–0.99, respectively), and balanced accuracy (0.98, 95%CI 0.98-1.00, and 0.99, 95% CI 0.99–0.99, respectively). Traditional ML models showed sensitivities between 0.77 and 0.98, F1 scores between 0.86 and 0.96, and balanced accuracies between 0.88 and 0.96. ICD-9 codes showed sensitivity of 85.9% (95% CI 84.27–87.45), and specificity of 98.5% (95% CI 98.36–98.65). Conclusion To our knowledge, this is the first study directly comparing an LLM, deep learning, and multiple classical ML models for bronchiolitis surveillance in the post-Nirsevimab era. DL and GPT-5 outperformed traditional ML-based tools in identifying bronchiolitis diagnoses and ICD-9 diagnosis coding. AI-based tools hold significant potential for improving epidemiologic surveillance of bronchiolitis from emergency department EHRs. Clinical trial number Not applicable. Supplementary Information The online version contains supplementary material available at 10.1186/s12873-025-01468-6.",
+      "venue": "BMC Emergency Medicine",
+      "domain": "Epidemiologic surveillance",
+      "category": "Benchmarks",
+      "reason_for_inclusion": "Included to meet target filter limit."
+    },
+    {
+      "doi": "10.1136/bmjhci-2025-101780",
+      "title": "Comparison of large language models and expert multidisciplinary team decisions in colorectal cancer",
+      "abstract": "Objectives To evaluate the ability of large language models (LLMs) to simulate multidisciplinary team (MDT) decision-making in colorectal cancer, a malignancy that often requires complex treatment planning. Methods We retrospectively analysed 1423 colorectal cancer cases discussed at MDT meetings at Peking University Cancer Hospital between January 2023 and December 2024. Three LLMs—OpenAI o3-mini-2025-01-31, DeepSeek-R1 671b and Qwen qwq-plus-2025-03-05—were tested for their ability to replicate MDT recommendations using a standardised treatment categorisation framework. Each case was processed three times per model; only cases with consistent outputs across all three runs were included. Concordance between AI-generated decisions and expert MDT consensus was assessed using agreement percentages and Cohen’s kappa. Results O3 demonstrated the highest intramodel stability, with an agreement rate of 81.0% (Fleiss’ kappa=0.794), yielding 1153 cases with consistent outputs. Concordance with MDT consensus was comparable across the three models, ranging from 62.5% to 65.4%. Multivariable analysis of O3 outputs identified treatment-naïve status, non-metastatic disease and colon tumour location as independent predictors of higher concordance with experts. Discussion LLMs showed fair overall agreement with expert MDT decisions, with stronger performance in standardised and less complex clinical scenarios. Areas of higher concordance included treatment-naïve non-metastatic colon cancer, treated non-metastatic rectal cancer and treated non-metastatic colon cancer. Conclusion LLMs can partially replicate expert MDT recommendations in colorectal cancer. Their integration into clinical workflows should aim to complement, rather than replace, human expertise.",
+      "venue": "BMJ Health & Care Informatics",
+      "domain": "Clinical decision support",
+      "category": "Benchmarks",
+      "reason_for_inclusion": "High quality: Published in BMJ Health & Care Informatics, a respected journal in medical informatics."
+    },
+    {
+      "doi": "10.1016/j.wneu.2026.124923",
+      "title": "Large Language Models for Interpreting Standardized Neuropsychological Summaries in Idiopathic Normal Pressure Hydrocephalus: A Pilot Comparative Study.",
+      "abstract": "BACKGROUND\nDiagnosis and prognostication in idiopathic normal pressure hydrocephalus (iNPH) remain challenging. This study examined whether large language models (LLMs) can classify neuropsychological test (NPT) summaries for identifying iNPH and exploring postoperative shunt responsiveness.\n\n\nMETHODS\nThis retrospective study included 42 shunt-treated iNPH patients and 53 neurological controls. De-identified NPT summaries with a standardized structure across cognitive domains were evaluated using three LLMs (ChatGPT-5, Gemini 2.5 Flash, DeepSeek) under a standardized zero-shot prompt. Each model generated categorical outputs (iNPH-compatible) and confidence scores (0-100). For analysis, responses labeled \"Compatible\" were considered AI-positive, whereas \"Incompatible\" or \"Indeterminate\" responses were treated as AI-negative; outputs with low confidence were conservatively handled as negative classifications. Diagnostic performance was compared with established clinical diagnoses. Prognostic performance was assessed for postoperative improvement, defined as ΔiNPHGS ≥1.\n\n\nRESULTS\nDiagnostic performance showed the highest accuracy for ChatGPT-5 (78%, 95% CI 68.6-85.1), followed by Gemini 2.5 Flash (67%, 95% CI 57.4-75.9) and DeepSeek (63%, 95% CI 53.1-72.2). Corresponding AUC values were 0.84, 0.67, and 0.63. Calibration metrics for ChatGPT-5 included a Brier score of 0.18 and a calibration slope of 0.94. In the exploratory prognostic analysis conducted in the shunted iNPH cohort (n = 42), postoperative improvement occurred in 37 patients, whereas 5 patients were classified as non-responders. Prognostic accuracy was 83% (95% CI 69.8-92.5) for ChatGPT-5, 67% (95% CI 52.1-78.8) for DeepSeek, and 64% (95% CI 49.8-76.9) for Gemini 2.5 Flash. Positive predictive values ranged from 87% to 96%. When model confidence was analyzed as a continuous predictor, AUC values for prognostic discrimination were 0.69 for DeepSeek, 0.56 for ChatGPT-5, and 0.53 for Gemini 2.5 Flash. Decision-curve analysis indicated varying net benefit patterns across threshold probabilities.\n\n\nCONCLUSIONS\nLLMs applied to standardized NPT summaries demonstrated measurable diagnostic signal and exploratory prognostic potential in iNPH. These findings support the feasibility of NPT-based LLM assistance, but larger, balanced, externally validated cohorts are required before clinical implementation.",
+      "venue": "World Neurosurgery",
+      "domain": "Neurology diagnostics",
+      "category": "Benchmarks",
+      "reason_for_inclusion": "High relevance: Directly matches user's research interests in clinical benchmarking."
+    },
+    {
+      "doi": "10.3389/fmed.2026.1761025",
+      "title": "Performance of large language models on sleep medicine certification examination: a comprehensive multi-model analysis",
+      "abstract": "Purpose To evaluate and compare the performance of nine contemporary LLM configurations on sleep medicine certification examination-aligned questions, analyzing version differences, pricing tiers, and subdomain competencies. Methods Cross-sectional comparative analysis of 197 multiple-choice questions structured according to American Academy of Sleep Medicine (AASM) certification standards. Nine LLM configurations were evaluated: ChatGPT (GPT-3.5 free, GPT-4o paid), Gemini (2.5 Flash free, 2.5 Pro paid), Claude (3.7 Sonnet previous, Opus 4 paid), Deepseek V3 (free), xAI Grok3 (free), and Llama 3 (free). Each question was posed three times in independent sessions to minimize response variance. The first complete response from each iteration was recorded, and final accuracy was determined using strict 3/3 concordance criterion (correct only when all three iterations yielded identical correct answers). While alternative scoring approaches exist (single-try accuracy, 2/3 majority voting), the strict concordance method was selected as primary metric to minimize stochastic variation and ensure robust performance estimates. Supplementary analyses using majority voting (2/3) yielded consistent model rankings with marginally higher absolute accuracy values. Performance metrics included overall accuracy rates, 95% confidence intervals, and subdomain-specific analyses across seven sleep medicine categories. Statistical analyses employed Pearson’s chi-square test for heterogeneity and McNemar’s test for pairwise comparisons. This text-based simulation evaluated model performance on certification-style questions, though it does not replicate actual clinical examination conditions. Results Model performance demonstrated significant heterogeneity (χ2 = 101.95, df = 8, p < 0.001), with accuracy rates ranging from 68.5% to 95.9%. Gemini 2.5 Pro achieved the highest overall accuracy (95.9%, 95% CI: 93.2–98.7%), followed by Claude Opus 4 (93.9%, 95% CI: 90.6–97.2%) and ChatGPT GPT-4o (93.4%, 95% CI: 89.9–96.9%). Premium versions consistently demonstrated superior performance compared to free alternatives, with performance differences ranging from 5.1 to 8.6 points (all p < 0.05). Subdomain analysis revealed the highest performance consistency in Secondary Sleep Disorders (92.0% mean accuracy) and the greatest variability in Diagnostic Methods (85.9% mean accuracy). Sensitivity analysis comparing three scoring criteria (single-try ≥1/3, majority voting ≥2/3, strict concordance 3/3) revealed that scoring methodology had minimal impact on model rankings (Spearman’s ρ = 0.879–1.000, all p < 0.01). Majority voting and strict concordance yielded identical accuracy rates in seven of nine models due to high response consistency (95.8% average). Eight of nine models exceeded the 80% reference benchmark under all three scoring criteria. Conclusion Contemporary LLMs demonstrate substantially improved performance compared to previous evaluations, with premium models exceeding the 80% reference benchmark. However, these results reflect performance on a certification-aligned question bank rather than the official board examination itself. The significant performance advantage of paid versions raises important considerations regarding equitable access to AI-enhanced medical education and clinical decision support tools.",
+      "venue": "Frontiers in Medicine",
+      "domain": "Sleep medicine",
+      "category": "Benchmarks",
+      "reason_for_inclusion": "High relevance: Directly matches user's research interests in benchmarking LLMs in medical domains."
+    }
+  ],
+  "Foundation Models": [
+    {
+      "doi": "10.1016/j.xcrm.2026.102652",
+      "title": "Developing and evaluating multimodal large language model for orthopantomography analysis to support clinical dentistry",
+      "abstract": "Summary Orthopantomography (OPG) is a primary screening tool for initial dental diagnosis, yet existing AI support typically operates in a one-way manner, lacking interactive nature like ChatGPT. To address this, we introduce ToothXpert, a dental diagnostic system with multimodal large language model. We curated a dental concept alignment dataset and a comprehensive multimodal OPG dataset, MM-OPG (comprising 131,065 question-answer [QA] pairs), covering 11 key conditions. ToothXpert facilitates simultaneous visual and language responses, fostering dynamic dentistry support. On the internal test dataset with 4,950 QA pairs, ToothXpert achieves a macro F1 score of 78.61%, outperforming LLaVA v.1.5 by 23.19%, LLaVA-Med v.1.5 by 41.39%, Qwen-VL by 56.38%, and HuatuoGPT-Vision by 26.74%. In human assessment, ToothXpert achieves an averaged performance of 3.54, surpassing compared multimodal large language models (MLLMs) with 1.46 and 1.38. Moreover, on the external dataset, ToothXpert achieves 1.96% and 2.99% higher F1 scores than two junior dentists with 3-years’ clinical experience, while requiring significantly less time.",
+      "venue": "Cell Reports Medicine",
+      "domain": "Multimodal medical imaging",
+      "category": "Foundation Models",
+      "reason_for_inclusion": "High quality: Published in Cell Reports Medicine, a Cell Press journal."
+    },
+    {
+      "doi": "10.1038/s41598-026-43507-7",
+      "title": "Transparent AI for mathematics: transformer-based large language models for mathematical entity relationship extraction with XAI",
+      "abstract": "Mathematical text understanding is a challenging task due to the presence of specialized entities and complex relationships between them. This study formulates mathematical problem interpretation as a Mathematical Entity Relation Extraction (MERE) task, where operands are treated as entities and operators as their relationships. Transformer-based models are applied to automatically extract these relations from mathematical text, with Bidirectional Encoder Representations from Transformers (BERT) achieving the best performance, reaching an accuracy of 99.39%. To enhance transparency and trust in the model’s predictions, Explainable Artificial Intelligence (XAI) is incorporated using Shapley Additive Explanations (SHAP). The explainability analysis reveals how specific textual and mathematical features influence relation prediction, providing insights into feature importance and model behavior. By combining transformer-based learning, a task-specific dataset, and explainable modeling, this work offers an effective and interpretable framework for MERE, supporting future applications in automated problem solving, knowledge graph construction, and intelligent educational systems.",
+      "venue": "Scientific Reports",
+      "domain": "Mathematical relation extraction",
+      "category": "Foundation Models",
+      "reason_for_inclusion": "High quality: Published in Scientific Reports, a Nature Portfolio journal."
+    },
+    {
+      "doi": "10.64898/2026.03.15.711950",
+      "title": "RNAElectra: An ELECTRA-Style RNA Foundation Model for RNA Regulatory Inference",
+      "abstract": null,
+      "venue": "bioRxiv",
+      "domain": "RNA foundation model",
+      "category": "Foundation Models",
+      "reason_for_inclusion": "High relevance: Directly matches user's research interests in foundation models for biology."
+    },
+    {
+      "doi": "10.1038/s41467-026-70071-5",
+      "title": "Illuminating cell states by a comprehensive and interpretable single cell foundation model",
+      "abstract": "Advances in single-cell sequencing have enabled AI-driven foundation models with powerful data representation. However, their practical use is limited by real-world data sparsity, heterogeneity, and poor interpretability. To overcome these, we introduce CellVQ. To enhance generalizability, we incorporate a large-scale single-cell dataset comprising 68 million cells, model parameters totaling 500 million, and challenging pretraining tasks. Notably, we introduce a Single-Cell Discretization (SCD) module that effectively represents cell embeddings, addressing data heterogeneity. For improved interpretability, the SCD module transforms high-dimensional and sparse single-cell data into a “cell code,” facilitating recognition and analysis. Additionally, we also present CellVQ-Graph, a plug-and-play tool that integrates CellVQ’s features with multimodal data (genes, cell communication, annotations) to build a knowledge graph for biological discovery. Extensively evaluated, CellVQ outperforms strong baselines in all downstream tasks, and also uncovered intriguing biological phenomena with compelling explanations. CellVQ aspires to serve as a truly applicable and generalizable AI tool for the cell biology community.",
+      "venue": "Nature Communications",
+      "domain": "Single-cell foundation model",
+      "category": "Foundation Models",
+      "reason_for_inclusion": "High quality: Published in Nature Communications, a premier Q1 journal."
+    },
+    {
+      "doi": "10.1038/s41467-026-70457-5",
+      "title": "A paired sequence language model for protein-protein interaction modeling",
+      "abstract": "Understanding protein–protein interactions (PPIs) is crucial for deciphering cellular processes and guiding therapeutic discovery. While recent protein language models have advanced sequence-based protein representation, most are designed for individual chains and fail to capture inherent PPI patterns. Here, we introduce a Protein Pair Language Model (PPLM) that jointly encodes paired sequences, enabling direct learning of interaction-aware representations beyond what single-chain models can provide. Building on this foundation, we develop PPLM-PPI, PPLM-Affinity, and PPLM-Contact for binary interaction, binding affinity, and interface contact prediction. Large-scale experiments show that PPLM-PPI achieves state-of-the-art performance across different species on binary interaction prediction, while PPLM-Affinity outperforms both ESM2 and structure-based methods on binding affinity modeling, particularly on challenging cases including antibody–antigen and TCR–pMHC complexes. PPLM-Contact further surpasses existing contact predictors on inter-protein contact prediction and interface residue recognition, including those deduced from cutting-edge complex structure predictions. Together, these results highlight the potential of co-represented language models to advance computational modeling of PPIs.",
+      "venue": "Nature Communications",
+      "domain": "Protein-protein interaction",
+      "category": "Foundation Models",
+      "reason_for_inclusion": "High quality: Published in Nature Communications, a premier Q1 journal."
+    }
+  ],
+  "Reviews": [
+    {
+      "doi": "10.1016/s2215-0366(25)00396-7",
+      "title": "Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies.",
+      "abstract": "Large language models (LLMs) are poised to become a ubiquitous feature of everyday life, mediating communication, decision making, and information curation across nearly every domain. Within psychiatry and psychology, the attention has largely been on bespoke therapeutic applications, sometimes narrowly focused and often diagnostically siloed, rather than on the broader reality that individuals with mental illness will increasingly engage in agential interactions with artificial intelligence (AI) systems. Although the capacity of these systems to model therapeutic dialogue, provide companionship at any hour of the day, and assist with cognitive support has sparked understandable enthusiasm, these same systems might contribute to the onset or exacerbation of psychotic symptoms. Emerging evidence indicates that agential AI might validate or amplify delusional or grandiose content, particularly in users already vulnerable to psychosis, although it is not clear whether these interactions can result in the emergence of de novo psychosis in the absence of pre-existing vulnerability. Some individuals might benefit from AI interactions, for example, where the AI agent functions as a benign and predictable conversational anchor, but there is a growing concern that these agents could reinforce epistemic instability and blur reality boundaries. In this Personal View, we outline the emerging risks, possible mechanisms of delusion co-creation, and safeguarding strategies for agential AI for people with psychotic disorders. We propose a framework of AI-informed care, involving personalised instruction protocols, reflective check-ins, digital advance statements, and escalation safeguards to support epistemic security in vulnerable users. These tools reframe the AI agent as an epistemic ally (as opposed to a therapist or a friend), which functions as a partner in relapse prevention and cognitive containment. Given the rapid adoption of LLMs across all domains of digital life, these protocols must be urgently co-designed with service users and clinicians and tested in clinical trials.",
+      "venue": "Lancet psychiatry",
+      "domain": "AI safety in psychiatry",
+      "category": "Reviews",
+      "reason_for_inclusion": "High quality: Published in Lancet Psychiatry, a premier clinical journal."
+    },
+    {
+      "doi": "10.1038/s41581-026-01071-3",
+      "title": "Large language models in healthcare.",
+      "abstract": null,
+      "venue": "Nature Reviews Nephrology",
+      "domain": "Healthcare AI",
+      "category": "Reviews",
+      "reason_for_inclusion": "High quality: Published in Nature Reviews Nephrology, a premier review journal."
+    },
+    {
+      "doi": "10.1213/ANE.0000000000007991",
+      "title": "Contextualizing AI Evaluation in Anesthesiology: Interpreting Large Language Models and Computer Vision Metrics Across Clinical Use Cases-An Expert Statement from the Society of Technology in Anesthesia.",
+      "abstract": null,
+      "venue": "Anesthesia and Analgesia",
+      "domain": "Anesthesiology AI evaluation",
+      "category": "Reviews",
+      "reason_for_inclusion": "High quality: Published in Anesthesia and Analgesia, a high-impact medical journal."
+    },
+    {
+      "doi": "10.1148/ryai.251133",
+      "title": "The Cost of Convenience: How Labeling Errors by Large Language Models Can Distort Evaluations of AI Performance.",
+      "abstract": null,
+      "venue": "Radiology: Artificial Intelligence",
+      "domain": "AI labeling errors",
+      "category": "Reviews",
+      "reason_for_inclusion": "High quality: Published in Radiology: Artificial Intelligence, a specialized AI journal."
+    },
+    {
+      "doi": "10.1001/jamapsychiatry.2026.0032",
+      "title": "AI in Mental Health Care-Opportunities and Risks Beyond Large Language Models.",
+      "abstract": "\n This Viewpoint explores the risks associated with using artificial intelligence (AI) in mental health care and how successful risk management would allow both patients and clinicians to experience the benefits of AI in clinical care.\n",
+      "venue": "JAMA psychiatry",
+      "domain": "Mental health AI",
+      "category": "Reviews",
+      "reason_for_inclusion": "High quality: Published in JAMA Psychiatry, a top-tier clinical journal."
+    }
+  ],
+  "Databases": [
+    {
+      "doi": "10.64898/2026.02.28.708740",
+      "title": "h5adify: neuro-symbolic metadata harmonization enables scalable AnnData integration with local large language models",
+      "abstract": null,
+      "venue": "bioRxiv",
+      "domain": "Single-cell data integration",
+      "category": "Databases",
+      "reason_for_inclusion": "High relevance: Directly matches user's research interests in data infrastructure for AI."
+    }
+  ]
+}
