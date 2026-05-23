@@ -1,5 +1,5 @@
 {
-  "ai-agents": [
+  "AI Agents": [
     {
       "year": "2025.12",
       "title": "AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development",
@@ -7,7 +7,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "AI-driven drug–target identification pipeline",
-      "abstract": "Drug discovery remains a time-consuming and costly process, necessitating innovative computational approaches to accelerate early stage target identification and compound development. We introduce AgentMol, a modular multimodel AI system that integrates large language models, chemical language modeling, and deep learning–based affinity prediction to automate the discovery pipeline. AgentMol begins with disease-related queries processed through a Retrieval-Augmented Generation system using the Large Language Model to identify protein targets. Protein sequences are then used to condition a GPT-2–based chemical language model, which generates corresponding small-molecule candidates in SMILES format. Finally, a regression convolutional neural network (RCNN) predicts the drug-target interaction by estimating binding affinities (pKi). Models were trained and validated on 470,560 ligand–protein pairs from the BindingDB database. The chemical language model achieved high validity (1.00), uniqueness (0.96), and diversity (0.89), whereas the RCNN model demonstrated robust predictive performance with R2 > 0.6 and Pearson’s R > 0.8. By leveraging LangGraph for orchestration, AgentMol delivers a scalable, interpretable pipeline, effectively enabling the end-to-end generation and evaluation of drug candidates conditioned on protein targets. This system represents a significant step toward practical AI-driven molecular discovery with accessible computational demands.",
       "venue": "Methods and Protocols",
       "paperUrl": "https://www.semanticscholar.org/paper/9df305ffbc93536e0e92b625a642fe9d066a3cd8",
       "codeUrl": "",
@@ -21,7 +20,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "automated single-cell annotation via multi-agent LLMs",
-      "abstract": "",
       "venue": "Nature communications",
       "paperUrl": "https://www.semanticscholar.org/paper/7de5beff1eb163c66310e4291928c6f2d7bb34ac",
       "codeUrl": "",
@@ -35,7 +33,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "explainable AI for clinical trial cohort enrichment",
-      "abstract": "Clinical trial failures are frequently driven by patient heterogeneity and limited sample sizes that obscure treatment effects by diluting statistical power. We introduce NetraAI, a novel explainable artificial intelligence (AI) platform that integrates dynamical-systems modeling, evolutionary long-range memory feature selection, and large-language model (LLM)-generated insights, to discover high-effect-size patient subpopulations (“Personas”) from high-dimensional clinical data. In a Phase II ketamine trial for treatment-resistant depression (n = 63), NetraAI analyzed psychiatric scale data (175/patient) and MRI-derived features (185/patient). NetraAI outperformed traditional machine learning (ML) models in predicting treatment outcomes, improving predictive accuracy by approximately 25-30% and achieving higher sensitivity and specificity in detecting responders. NetraAI identified a 10-clinical variable model that improved predictive AUC by 0.32 over standard machine learning (ML) models and an 8-MRI feature model achieving 95% accuracy and 100% specificity. These findings demonstrate that an explainable dynamical AI approach can leverage small but rich datasets to uncover hidden clinically meaningful subgroups. NetraAI’s precision enrichment strategy has the potential to improve trial success rates and enable personalized medicine by prospectively identifying patients most likely to benefit from a given therapy in oncology, psychiatry, neurodegeneration, and for other disorders.",
       "venue": "NPJ Digital Medicine",
       "paperUrl": "https://www.semanticscholar.org/paper/75f60ee9808353347e8dc5f20994b7d714fa559d",
       "codeUrl": "",
@@ -1302,9 +1299,74 @@
       "codeUrl": "https://github.com/lamm-mit/ProtAgents",
       "githubStars": "https://img.shields.io/github/stars/lamm-mit/ProtAgents",
       "doi": ""
+    },
+    {
+      "year": "2025-12",
+      "title": "MaterialBrain: High-Performance Material Synthesis Extraction via Human-AI-Curated Few-Shot Large Language Models",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Material Science",
+      "venue": "Journal of Chemical Information and Modeling",
+      "paperUrl": "https://www.semanticscholar.org/paper/c1e2d1b164d639f803c46ae335371e8ff9f66eb8",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1021/acs.jcim.5c02299"
+    },
+    {
+      "year": "2025-12",
+      "title": "Viral Sentry AI (VirSentAI) - Automated Zoonotic Surveillance & Drug Repurposing Agent",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Zoonotic Surveillance",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/418f1dbe4d9e45cfc7a2e0688c20d81fcb8c2de9",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.64898/2025.12.29.684576"
+    },
+    {
+      "year": "2025-12",
+      "title": "Moremi Bio Agent: Using Neisseria meningitidis Reference Data For The Double Blinded Validation of A General Purpose Biology-Trained Reasoning Model for Pathogen and Antigen Discovery",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Pathogen Discovery",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/21e8c7b8e04f3a1e3c3ccc8ccdf285eb608c3a44",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.64898/2025.12.17.694980"
+    },
+    {
+      "year": "2025-12",
+      "title": "A medically grounded LLM agent–based tool to detect patient safety events in medical records",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Patient Safety",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/e2c588ab5ffec9297c68b62d1792285b4fc5dd01",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.64898/2025.12.16.25342438"
+    },
+    {
+      "year": "2025-12",
+      "title": "Biosecurity-Aware AI: Agentic Risk Auditing of Soft Prompt Attacks on ESM-Based Variant Predictors",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Biosecurity",
+      "venue": "arXiv.org",
+      "paperUrl": "https://www.semanticscholar.org/paper/82be906a8aa6895796b2b9afc42953dd3ae2392e",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.48550/arXiv.2512.17146"
     }
   ],
-  "foundation-models": [
+  "Foundation models": [
     {
       "year": "2025.12",
       "title": "Novae: a graph-based foundation model for spatial transcriptomics data",
@@ -1351,7 +1413,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "CT imaging foundation model",
-      "abstract": "",
       "venue": "Nature communications",
       "paperUrl": "https://www.semanticscholar.org/paper/37e1003be2e2cc4c1f09352c17363597d47f6740",
       "codeUrl": "",
@@ -1365,7 +1426,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "LLM embeddings to predict transcriptional responses",
-      "abstract": "",
       "venue": "Nature computational science",
       "paperUrl": "https://www.semanticscholar.org/paper/ef1e5451d11c0684b4867e410682daf776ab91c8",
       "codeUrl": "",
@@ -1379,7 +1439,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "generative foundation model for cytology image synthesis",
-      "abstract": "PURPOSE\nCytology is a cornerstone of pathological diagnosis. However, the development of artificial intelligence (AI) models for cytology-based diagnostics remains constrained by limited data availability and stringent privacy regulations. This study aims to develop COIN, a controllable cytology image generation foundation model, to address these challenges by synthesizing high-quality cytology images for enhancing AI diagnostics and supporting clinical applications.\n\n\nEXPERIMENTAL DESIGN\nThe COIN model was trained on a large-scale dataset of 112,226 cytology image-report pairs from 16 anatomical sites. Using diagnostic textual reports, it generates high-fidelity cytology images with morphologically and semantically coherent features. Expert cytologists evaluated the generated images for anatomical and diagnostic authenticity. The model's utility was assessed through data augmentation experiments, AI model training under data-scarce conditions, and content-based image retrieval applications.\n\n\nRESULTS\nExpert evaluations confirmed the high anatomical and diagnostic fidelity of the images generated by COIN. When used for data augmentation, COIN significantly improved the performance of diagnostic AI models across various tasks. Under data-scarce conditions, models trained exclusively on COIN-generated images demonstrated effective generalization to real-world datasets. Furthermore, COIN supported content-based image retrieval, offering a novel tool for case referencing and clinical decision support.\n\n\nCONCLUSIONS\nCOIN represents a robust and privacy-preserving framework for scalable cytology data generation. Its ability to synthesize realistic images and enhance AI diagnostics highlights its broad applicability in computational pathology, providing a valuable tool to accelerate the development and implementation of AI-based diagnostic solutions.",
       "venue": "Clinical cancer research : an official journal of the American Association for Cancer Research",
       "paperUrl": "https://www.semanticscholar.org/paper/2698cc4940fd54cdbc458272b3abc41e7bad6679",
       "codeUrl": "",
@@ -1393,7 +1452,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "large DNA and protein language models for maize mutation discovery",
-      "abstract": "The maize inbred line Chang7-2 and derived lines are important male donors for hybrid production, contributing significantly to the development of high-yield and stress-tolerant hybrids. Additionally, Chang7-2 serves as a valuable model inbred line for genetic and genomic studies, facilitating the discovery of genes underlying hybrid vigor and other agronomic traits. Here, a reference genome assembly and a chemical-induced mutant population (N = 1,716) through ethyl methyl sulfonate (EMS) treatments are generated using Chang7-2. Each EMS line is whole genome sequenced and compared to the Chang7-2 genome, identifying 2,586,769 mutations with 4,939 mutations causing premature stop codons or altered splicing sites. The effect estimation of mutations using two large language artificial intelligence (AI) models, namely the protein language model ESM1b and the DNA language model PlantCaduceus, reveals 15,264 and 18,326 deleterious mutations, respectively. Mutation effects estimated with AI models accelerate revelation of four causal mutations underlying phenotypes of albino leaf, reduced cuticular wax, altered seed color, and male sterility. In addition, allelic expression quantification of genic mutations in 13 EMS M1 lines and their M2 heterozygous progeny, which contain both wildtype and mutant alleles, shows that mutant alleles are overall accumulated at a lower level compared to wildtype. Such allelic disparity is observed for some synonymous mutations, indicating they may not be biologically inconsequential. AI-based estimation of mutation effects offers cross-species evidence for functional impacts of mutations. Our study demonstrates its application in revealing deleterious EMS mutations and identifying causal mutations responsible for mutant phenotypes.",
       "venue": "Genome Biology",
       "paperUrl": "https://www.semanticscholar.org/paper/c21fa11a2873e22feaeef7ffaa395d377f6b9cad",
       "codeUrl": "",
@@ -2647,9 +2705,48 @@
       "codeUrl": "https://github.com/jerryji1993/DNABERT",
       "githubStars": "https://img.shields.io/github/stars/jerryji1993/DNABERT",
       "doi": ""
+    },
+    {
+      "year": "2025-12",
+      "title": "Large generative mRNA language foundation model for efficient coding sequence generation and design with mRNA-GPT",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "mRNA sequence generation",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/7e61e5a7b3605c8a5413c0453edaaa65055f563d",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.64898/2025.12.22.695962"
+    },
+    {
+      "year": "2025-12",
+      "title": "GenBrain: A Generative Foundation Model of Multimodal Brain Imaging",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Brain Imaging",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/270987463346ea5b85fb6b4f0745a27e9c22ec3e",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.64898/2025.12.19.25342614"
+    },
+    {
+      "year": "2025-12",
+      "title": "High-sensitivity pan-cancer AI assessment of lymph node metastasis via uncertainty quantification",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Pathology",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/adec35d82936a1582fae1e604fb9aa709652be87",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1038/s41746-026-02564-y"
     }
   ],
-  "databases": [
+  "Databases/Simulation": [
     {
       "year": "2025.12",
       "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
@@ -3052,9 +3149,22 @@
       "codeUrl": "https://github.com/sanderlab/scPerturb/",
       "githubStars": "https://img.shields.io/github/stars/sanderlab/scPerturb",
       "doi": ""
+    },
+    {
+      "year": "2025-12",
+      "title": "DRPMKB1.0: A Comprehensive Knowledge Base for an AI-Oriented Drug Repositioning Prediction Model",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Drug Repurposing",
+      "venue": "Journal of Chemical Information and Modeling",
+      "paperUrl": "https://www.semanticscholar.org/paper/32d3cb0da0e5ad703eb29a90047efa53156a199c",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1021/acs.jcim.5c01945"
     }
   ],
-  "benchmarks": [
+  "Benchmarks": [
     {
       "year": "2025.12",
       "title": "scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction",
@@ -3075,7 +3185,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "benchmarking LLMs on nutrition knowledge evaluation",
-      "abstract": "Understanding the core principles of nutrition is essential in the contemporary context of abundant and often contradictory dietary advice, to empower individuals to make informed dietary choices and manage diet-related non-communicable diseases. The role of Artificial Intelligence (AI) in providing nutritional information is increasingly prominent, but its reliability in this domain is not well-established yet. This study compares the nutrition knowledge of state-of-the-art Large Language Model (LLM)-based conversational agents and chatbots with that of human subjects having different levels of nutrition knowledge. The “General Nutrition Knowledge Questionnaire–Revised” (GNKQ-R) was administered to four LLMs (ChatGPT-3.5, ChatGPT-4, Google Bard, currently known as Google Gemini, and Microsoft Copilot), using zero-shot prompts. Responses were scored in accordance with the GNKQ-R’s guidelines. The average performance of AI systems across all LLMs was 77.3 ± 5.1 out of 88, comparable to that of dietetics students and significantly higher than English students. ChatGPT-4 scored highest among the LLMs (82/88), surpassing both groups of students (dietetics: 79.3/88, English: 67.7/88) as well as all other demographic groups. In “Dietary Recommendations”, ChatGPT-3.5 and ChatGPT-4 demonstrated comparable performance to dietetics students. ChatGPT-4 excelled in “Food Groups”, outperforming all human groups. In “Healthy Food Choices”, ChatGPT-4 achieved a perfect score, indicating a deep understanding of this subject. ChatGPT-3.5 excelled in “Diet, Disease and Weight Management”. Variations in the performances of the LLMs across different sections were observed, suggesting knowledge gaps in certain areas. Some of the tested LLMs, particularly ChatGPT-3.5 and ChatGPT-4, showed proficiency in nutrition knowledge, rivaling or even surpassing dietetics students in certain sections. This indicates their potential utility in nutritional guidance. However, this study also identified nuances and specific details where LLMs lack compared to specialized human education. The study highlights the potential of AI in public health and educational settings. However, LLMs may be limited in their capacity to generate personalized dietary advice that accounts for clinical complexity and individual variability, reinforcing the indispensable role of expert human judgment.",
       "venue": "PLOS One",
       "paperUrl": "https://www.semanticscholar.org/paper/68ab12015fe819fecd876b4dd8cb81facd8c647e",
       "codeUrl": "",
@@ -3089,7 +3198,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "evaluating LLMs’ creative abilities in systems vaccinology",
-      "abstract": "The advent of large language models (LLMs) has transformed academic research by accelerating hypothesis generation and data analysis. LLMs can help researchers uncover patterns and insights from vast datasets to foster innovative scientific discovery. However, questions arise regarding the creative capacity of artificial intelligence (AI), especially in biologically complex fields such as vaccinology. This study evaluates the ability of LLMs to generate hypotheses, design experiments, and infer broader biological principles through a proposed framework called \"The Creation Game.\" Using three case studies-general control nonderepressible 2 (GCN2)'s role in dendritic cell antigen presentation via stress response, sterol regulatory element-binding protein (SREBP)'s influence on metabolic responses, and Toll-like receptor 5 (TLR5)'s connection to microbiota-driven vaccine efficacy-we assessed AI's accuracy, logic, and creativity. The findings underscore the potential of LLMs to accelerate vaccine research while emphasizing the importance of ethical oversight. By complementing human creativity, AI could potentially transform hypothesis-driven science, paving the way for tailored vaccination strategies and deeper insights into human immunity.",
       "venue": "Science immunology",
       "paperUrl": "https://www.semanticscholar.org/paper/bbfeb4fad4854bf8299b90dc72e5be97ce3233cb",
       "codeUrl": "",
@@ -3654,17 +3762,42 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.48550/arXiv.2412.04075"
+    },
+    {
+      "year": "2025-12",
+      "title": "Interpretable glucose forecasting for type 2 diabetes across traditional, deep, and large language models",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Diabetes",
+      "venue": "Scientific Reports",
+      "paperUrl": "https://www.semanticscholar.org/paper/dcfa2e2cc3260aa02d6594f8c463efc3e755e78c",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1038/s41598-025-32373-4"
+    },
+    {
+      "year": "2025-12",
+      "title": "Computer assisted verbal autopsy: comparing large language models to physicians for assigning causes to 6939 deaths in Sierra Leone from 2019–2022",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Verbal Autopsy",
+      "venue": "BMC Medicine",
+      "paperUrl": "https://www.semanticscholar.org/paper/fb7ddfa2773f0dab97cda7e860153c2c368d69c4",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1186/s12916-025-04584-z"
     }
   ],
-  "reviews": [
+  "Reviews": [
     {
       "year": "2026.03",
       "title": "From foundation models to autonomous agents in biology.",
-      "team": "Shuang Huang",
-      "team website": "",
+      "team": "Webioinfo",
+      "team website": "https://we.webioinfo.top",
       "affiliation": "",
       "domain": "Review of foundation models and autonomous agents in biology",
-      "abstract": "",
       "venue": "Genomics Communications",
       "paperUrl": "https://doi.org/10.48130/gcomm-0026-0005",
       "codeUrl": "https://github.com/Webioinfo01/Awesome-AI-Meets-Biology",
@@ -3678,7 +3811,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "Multimodal transformer for genomics",
-      "abstract": "",
       "venue": "Nature methods",
       "paperUrl": "https://www.semanticscholar.org/paper/336d539daa17f126463a3373d00df732a0f04c83",
       "codeUrl": "",
@@ -3692,7 +3824,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "maintaining scientific rigor in LLM research practices",
-      "abstract": "The rapid adoption of large language models (LLMs) in healthcare has created opportunities for innovation but also has raised critical concerns about scientific rigor. This article provides a toolbox for clinicians, researchers, and reviewers involved with LLM studies, highlighting the importance of methodologic transparency, reproducibility, and ethical considerations. It addresses foundational aspects of LLM functioning, including their training data, inherent biases, and black-box nature. Prompt engineering strategies are reviewed to understand and optimize model interaction, emphasizing the necessity of systematic evaluation of these methods. Key challenges around interpreting outputs are discussed, advocating for explainability and fairness. It stresses clear reporting of computational resources, environmental impacts, and the risks of rapid model iteration on study obsolescence. Given the pace at which LLMs evolve, traditional peer-review practices are often outpaced, requiring new guidelines and rigorous qualitative assessments to ensure validity, fairness, and clinical utility. Recommendations to enhance reporting and reproducibility standards are provided.",
       "venue": "Anesthesiology",
       "paperUrl": "https://www.semanticscholar.org/paper/ff44718f4c2c4365182484ae0d404d42a7d7ac37",
       "codeUrl": "",
@@ -3706,7 +3837,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "perspectives on LLM use in immunology research",
-      "abstract": "Large language model (LLM)-based artificial intelligence (AI) agents are powerful tools that can help researchers automate complex tasks such as literature review, data mining, computational code generation, and summarization of existing knowledge, but they can still fall short in developing original biological hypotheses and insights (see related Research Article by Rodriguez-Coffinet et al. in this issue). Emerging advances in multiagent systems and human-agent collaborative frameworks offer promising steps forward.",
       "venue": "Science immunology",
       "paperUrl": "https://www.semanticscholar.org/paper/a4f0449c55a13ccd2cfee205f69017adf70148a1",
       "codeUrl": "",
@@ -3720,7 +3850,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "typology of physician-LLM chatbot interaction approaches",
-      "abstract": "",
       "venue": "NPJ digital medicine",
       "paperUrl": "https://www.semanticscholar.org/paper/af0f183cdd0609f7d14fa9d85dceae6020838294",
       "codeUrl": "",
@@ -3734,7 +3863,6 @@
       "team website": "",
       "affiliation": "",
       "domain": "AI-augmented imaging and XR-robotics in neurovascular intervention",
-      "abstract": "Stroke remains a leading cause of mortality and long-term disability worldwide, where rapid diagnosis and timely intervention are critical for improving outcomes. Neurovascular imaging modalities, including magnetic resonance angiography, computed tomography angiography, magnetic resonance imaging, and computed tomography, remain central for detecting stenosis, aneurysms, occlusions, and arteriovenous malformations. This review synthesizes recent advances in artificial intelligence-augmented stroke care, spanning the continuum from diagnosis to intervention. We first examine artificial intelligence applications in diagnosis, including classification, object detection, and segmentation models that automate lesion localization and subtype identification across multimodal imaging. Advanced architectures, such as convolutional neural networks, transformers, and large language models, are assessed for their potential in multimodal stroke analysis. Beyond diagnosis, we discuss emerging artificial intelligence-driven planning frameworks, extended reality simulators for training and intraoperative guidance, and robotic platforms that enable precise catheter navigation, force sensing, and telerobotic operation. While most systems remain at preclinical or feasibility stages, their integration illustrates a roadmap toward intelligent, multimodal platforms for stroke care. We also highlight key translational and ethical challenges, including regulatory and policy considerations, which must be addressed for safe adoption. Together, these developments point toward a future of precision-driven and globally accessible neurovascular intervention.",
       "venue": "Stroke",
       "paperUrl": "https://www.semanticscholar.org/paper/fef4bb297900bf697f92e6c70150009169d5c802",
       "codeUrl": "",
@@ -3985,7 +4113,8 @@
       "venue": "Cell",
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40713951/",
       "codeUrl": "https://github.com/physicell-models/grammar_samples",
-      "githubStars": "https://img.shields.io/github/stars/physicell-models/grammar_samples"
+      "githubStars": "https://img.shields.io/github/stars/physicell-models/grammar_samples",
+      "doi": ""
     },
     {
       "year": "2025.07",
@@ -4428,6 +4557,19 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": ""
+    },
+    {
+      "year": "2025-12",
+      "title": "Large language models in obesity: a systematic review.",
+      "team": "",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Obesity",
+      "venue": "International Journal of Obesity",
+      "paperUrl": "https://www.semanticscholar.org/paper/8f60d9556711df62a20f9890ddef77f8dafcf7b0",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1038/s41366-025-01992-2"
     }
   ]
 }
