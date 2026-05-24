@@ -5,7 +5,7 @@
 
 **Visit the official website at: http://awesomebio.webioinfo.top/**
 
-This project is collaboratively maintained by our self-developed AI agent (aweagent) and human experts in a human-in-the-loop workflow, combining automated discovery with expert curation to provide a comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.
+This project is collaboratively maintained by our self-developed AI agent and human experts in a human-in-the-loop workflow, combining automated discovery with expert curation to provide a comprehensive survey of AI applications in biology, bioinformatics, and biomedical research. Paper discovery, annotation, filtering, and README generation are powered by [awescholar](https://github.com/Webioinfo01/awescholar) — an AI-agent-operable scientific literature curator. Skill management is handled via [aweskill](https://aweskill.webioinfo.top/).
 
 This repository organizes AI applications in biology/biomedical/bioinformatics research into five main categories: "AI Agents", "Foundation models", "Databases/Simulation", "Benchmarks", and "Reviews".
 
@@ -415,7 +415,7 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 ## Contributing
 
-Contributions are welcome! Please see [how_to_update.md](how_to_update.md) for instructions on how to add new entries.
+Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for instructions on how to add new entries.
 
 ## License
 

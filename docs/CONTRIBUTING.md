@@ -1,0 +1,108 @@
+# Contributing
+
+## Add or Update Data (Contributors)
+
+Choose **one** of the following methods:
+
+### Method 1: Ask an AI Agent
+
+If you are working inside Claude Code, Codex, Cursor, or another coding agent, tell it:
+
+```text
+Read https://github.com/Webioinfo01/awescholar/blob/main/README.ai.md and follow it to install awescholar for this agent.
+```
+
+Then ask the agent in natural language. For example:
+
+```text
+用 awescholar skills，更新 month_reports/2512_2/updater_filter.json 到项目。
+```
+
+```text
+Using awescholar skills, update month_reports/2512_2/updater_filter.json into the project.
+```
+
+The agent will automatically execute the following steps:
+
+1. **Merge** filtered papers into `docs/data.json` — deduplication by DOI, new categories appended, existing entries preserved
+2. **Regenerate** `readme.md` table sections — only the content between `<!-- AWESCHOLAR:START -->` and `<!-- AWESCHOLAR:END -->` markers is updated, custom headings and TOC are preserved
+3. **Regenerate** `docs/rss.xml` — channel metadata preserved, only item entries updated
+
+### Method 2: Direct Edit
+
+Add entries to `docs/data.json` following this format:
+
+```json
+{
+    "year": "2025.07",
+    "title": "Paper Title",
+    "team": "Team Name",
+    "team website": "https://...",
+    "affiliation": "",
+    "domain": "Research Domain",
+    "venue": "Journal/Conference",
+    "paperUrl": "https://...",
+    "codeUrl": "https://github.com/...",
+    "githubStars": "https://img.shields.io/github/stars/owner/repo",
+    "doi": ""
+}
+```
+
+### Method 3: Interactive Mode
+
+```bash
+awescholar updater add --archive docs/data.json
+```
+
+### Method 4: Search from Semantic Scholar
+
+```bash
+# Search by title and save for review
+awescholar updater search --json-file papers.json --by title
+
+# Search by DOI
+awescholar updater search --json-file papers.json --by doi
+
+# Search and add directly to archive
+awescholar updater search --archive docs/data.json --by title
+```
+
+> After updating data, submit a Pull Request.
+
+---
+
+## Merge and Publish (Maintainers Only)
+
+### Step 1: Merge New Data into Archive
+
+```bash
+awescholar updater update --direction new2old --input updater_filter.json --archive docs/data.json
+```
+
+### Step 2: Update README
+
+```bash
+awescholar updater readme --archive docs/data.json --no-backup
+```
+
+### Step 3: Generate RSS Feed
+
+```bash
+awescholar updater rss --archive docs/data.json
+```
+
+All three steps can also be run automatically via the full pipeline:
+
+```bash
+awescholar --config config.json crawler run --merge-new-to-old --data-json docs/data.json
+```
+
+---
+
+## Install awescholar
+
+```bash
+pip install awescholar
+```
+
+For skill-based AI agent integration, see [README.ai.md](https://github.com/Webioinfo01/awescholar/blob/main/README.ai.md).
