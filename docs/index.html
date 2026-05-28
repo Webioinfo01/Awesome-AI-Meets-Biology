@@ -790,7 +790,20 @@
     
     <script>
         let projectData = {};
-        let stats = {}; // Declare stats globally
+        let stats = {};
+
+        // Map data.json category names to HTML section IDs
+        function categoryToSectionId(cat) {
+            const mapping = {
+                'ai agents': 'ai-agents',
+                'foundation models': 'foundation-models',
+                'databases/simulation': 'databases',
+                'benchmarks': 'benchmarks',
+                'reviews': 'reviews'
+            };
+            const key = cat.toLowerCase().trim();
+            return mapping[key] || key.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        }
 
         fetch('data.json')
           .then(response => response.json())
@@ -799,7 +812,7 @@
             // Dynamically count the number of all first-level keys
             for (const [cat, arr] of Object.entries(data)) {
               if (Array.isArray(arr)) {
-                stats[cat] = arr.length;
+                stats[categoryToSectionId(cat)] = arr.length;
               }
             }
             stats["all-projects"] = Object.values(stats).reduce((a, b) => a + b, 0);
@@ -884,9 +897,10 @@
         function populateData() {
             // Populate each section with data
             Object.keys(projectData).forEach(sectionKey => {
-                const tbody = document.getElementById(`${sectionKey}-tbody`);
+                const sectionId = categoryToSectionId(sectionKey);
+                const tbody = document.getElementById(`${sectionId}-tbody`);
                 if (tbody) {
-                    tbody.innerHTML = projectData[sectionKey].map(item => createTableRow(item, sectionKey)).join('');
+                    tbody.innerHTML = projectData[sectionKey].map(item => createTableRow(item, sectionId)).join('');
                 }
             });
 
