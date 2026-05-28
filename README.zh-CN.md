@@ -1,12 +1,12 @@
 <div align="center">
   <img src="./public/10.48130-gcomm-0026-0005-Figure2.jpg" alt="Awesome AI Meets Biology" width="760">
   <h1>Awesome AI Meets Biology</h1>
-  <p><strong>A curated survey of AI applications in biology, bioinformatics, and biomedical research.</strong></p>
-  <p>Paper discovery, annotation, and filtering powered by <a href="https://github.com/Webioinfo01/awescholar">awescholar</a>. Skill management via <a href="https://aweskill.webioinfo.top/">aweskill</a>.</p>
+  <p><strong>AI 在生物学、生物信息学和生物医学研究中应用的精选综述。</strong></p>
+  <p>论文发现、标注和筛选由 <a href="https://github.com/Webioinfo01/awescholar">awescholar</a> 驱动。技能管理通过 <a href="https://aweskill.webioinfo.top/">aweskill</a> 实现。</p>
   <p>
-    <strong>English</strong> ·
-    <a href="./README.zh-CN.md">简体中文</a> ·
-    <a href="http://awesomebio.webioinfo.top/">Website</a>
+    <a href="./readme.md">English</a> ·
+    <strong>简体中文</strong> ·
+    <a href="http://awesomebio.webioinfo.top/">官网</a>
   </p>
   <p>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
@@ -22,21 +22,21 @@
   </p>
 </div>
 
-> Visit the official website at: http://awesomebio.webioinfo.top/
+> 访问官方网站：http://awesomebio.webioinfo.top/
 
-This project is collaboratively maintained by our self-developed AI agent and human experts in a human-in-the-loop workflow, combining automated discovery with expert curation to provide a comprehensive survey of AI applications in biology, bioinformatics, and biomedical research. Paper discovery, annotation, filtering, and README generation are powered by [awescholar](https://github.com/Webioinfo01/awescholar) — an AI-agent-operable scientific literature curator. Skill management is handled via [aweskill](https://aweskill.webioinfo.top/).
+本项目由我们自主研发的 AI agent 和人类专家以人机协同（human-in-the-loop）的方式共同维护，结合自动化发现与专家审核，提供 AI 在生物学、生物信息学和生物医学研究中的全面综述。论文发现、标注、筛选和 README 生成由 [awescholar](https://github.com/Webioinfo01/awescholar) — 一个 AI agent 可操作的科学文献策展工具驱动。技能管理通过 [aweskill](https://aweskill.webioinfo.top/) 实现。
 
-This repository organizes AI applications in biology/biomedical/bioinformatics research into five main categories: "AI Agents", "Foundation models", "Databases/Simulation", "Benchmarks", and "Reviews".
+本仓库将 AI 在生物学/生物医学/生物信息学研究中的应用分为五大类别："AI Agents"、"Foundation models"、"Databases/Simulation"、"Benchmarks" 和 "Reviews"。
 
-## 📋 Table of Contents
-- [🌟 AI Agents](#AI-Agents)
-- [🎯 Foundation models](#Foundation-models)
-- [💾 Databases/Simulation](#DatabasesSimulation)
-- [📊 Benchmarks](#Benchmarks)
-- [📚 Reviews](#Reviews)
-- [🔗 Other Awesome Projects](#Other-Awesome-Projects)
-- [Contributing](#contributing)
-- [Citation](#citation)
+## 📋 目录
+- [🌟 AI Agents（智能体）](#AI-Agents)
+- [🎯 Foundation models（基础模型）](#Foundation-models)
+- [💾 Databases/Simulation（数据库/模拟）](#DatabasesSimulation)
+- [📊 Benchmarks（基准测试）](#Benchmarks)
+- [📚 Reviews（综述）](#Reviews)
+- [🔗 其他 Awesome 项目](#Other-Awesome-Projects)
+- [贡献指南](#contributing)
+- [引用](#citation)
 
 <!-- AWESCHOLAR:START -->
 ## AI Agents
@@ -416,9 +416,9 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 | 2024.07 | **Foundation models for bioinformatics** |  |  |  | Bioinformatics foundation models | Quantitative Biology | [Link](https://onlinelibrary.wiley.com/doi/10.1002/qub2.69) |  |
 <!-- AWESCHOLAR:END -->
 
-## Other Awesome Projects
+## 其他 Awesome 项目
 
-| Title                                           | Project                                                                                                                                                                             |
+| 标题                                           | 项目                                                                                                                                                                             |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Awesome-AI-Virtual-Tumor**                    | [Link](https://github.com/Webioinfo01/Awesome-AI-Virtual-Tumor) ![GitHub Stars](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Virtual-Tumor)                           |          
 | **Awesome-LLMs-meet-genomes**                   | [Link](https://github.com/ychuest/Awesome-LLMs-meet-genomes) ![GitHub Stars](https://img.shields.io/github/stars/ychuest/Awesome-LLMs-meet-genomes)                                 |
@@ -432,17 +432,17 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 | **Awesome-Bioinformatics**                      | [Link](https://github.com/danielecook/Awesome-Bioinformatics) ![GitHub Stars](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics)                               |
 | **awesome**                                     | [Link](https://github.com/sindresorhus/awesome) ![GitHub Stars](https://img.shields.io/github/stars/sindresorhus/awesome)                                                           |
 
-## Contributing
+## 贡献指南
 
-Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for instructions on how to add new entries.
+欢迎贡献！请参阅 [CONTRIBUTING.md](docs/CONTRIBUTING.md) 了解如何添加新条目。
 
-## License
+## 许可证
 
-This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
+本项目采用 Mozilla Public License 2.0 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
-## Citation
+## 引用
 
-If you find this repository useful in your research, please cite our paper:
+如果您在研究中发现本仓库有用，请引用我们的论文：
 
 ```
 Huang S, Lang M, Chen Z, Yang C, Huang X, et al. 2026. From foundation models to autonomous agents in biology. Genomics Communications 3: e006 doi: 10.48130/gcomm-0026-0005
