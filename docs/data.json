@@ -3793,7 +3793,7 @@
   "Reviews": [
     {
       "year": "2026.03",
-      "title": "From foundation models to autonomous agents in biology.",
+      "title": "From foundation models to autonomous agents in biology",
       "team": "Webioinfo",
       "team website": "https://we.webioinfo.top",
       "affiliation": "",
@@ -3801,7 +3801,7 @@
       "venue": "Genomics Communications",
       "paperUrl": "https://doi.org/10.48130/gcomm-0026-0005",
       "codeUrl": "https://github.com/Webioinfo01/Awesome-AI-Meets-Biology",
-      "githubStars": "",
+      "githubStars": "https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Biology",
       "doi": "10.48130/gcomm-0026-0005"
     },
     {

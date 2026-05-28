@@ -85,6 +85,8 @@ awescholar updater update --direction new2old --input updater_filter.json --arch
 awescholar updater readme --archive docs/data.json --no-backup
 ```
 
+This auto-discovers all README files in the project root (e.g., `readme.md` and `README.zh-CN.md`) that contain `<!-- AWESCHOLAR:START -->` markers and updates the table sections in each one. Use `--readme <path>` to update a single file explicitly.
+
 ### Step 3: Generate RSS Feed
 
 ```bash
@@ -106,3 +108,24 @@ pip install awescholar
 ```
 
 For skill-based AI agent integration, see [README.ai.md](https://github.com/Webioinfo01/awescholar/blob/main/README.ai.md).
+
+---
+
+## Local Development Setup
+
+If you are opening `index.html` locally (e.g., by double-clicking the file), you might encounter issues with loading `data.json` due to browser security restrictions (CORS).
+
+To properly view and test the `index.html` file and its data dependencies locally, serve the files using a simple HTTP server:
+
+1. Open your terminal.
+2. Navigate to the `docs` directory:
+   ```bash
+   cd docs
+   ```
+3. Start a local HTTP server:
+   ```bash
+   python -m http.server
+   ```
+4. Open your browser and navigate to `http://localhost:8000`, then click on `index.html`.
+
+To stop the server, press `Ctrl + C` in your terminal.
