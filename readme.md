@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/10.48130-gcomm-0026-0005-Figure2.jpg" alt="Awesome AI Meets Biology" width="760">
-  <h1>Awesome AI Meets Biology</h1>
+  <h1>Awesome AI Meets Biology <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill companion"></a></h1>
   <p><strong>A curated survey of AI applications in biology, bioinformatics, and biomedical research.</strong></p>
   <p>Paper discovery, annotation, and filtering powered by <a href="https://github.com/Webioinfo01/awescholar">awescholar</a>. Skill management via <a href="https://aweskill.webioinfo.top/">aweskill</a>.</p>
   <p>
