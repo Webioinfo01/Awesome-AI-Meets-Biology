@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/10.48130-gcomm-0026-0005-Figure2.jpg" alt="Awesome AI Meets Biology" width="760">
-  <h1>Awesome AI Meets Biology <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill companion"></a></h1>
+  <h1>Awesome AI Meets Biology <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge2.svg" alt="aweskill companion"></a></h1>
   <p><strong>A curated survey of AI applications in biology, bioinformatics, and biomedical research.</strong></p>
   <p>Paper discovery, annotation, and filtering powered by <a href="https://github.com/Webioinfo01/awescholar">awescholar</a>. Skill management via <a href="https://aweskill.webioinfo.top/">aweskill</a>.</p>
   <p>
@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/updated-2026.05-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
+
 
 > Visit the official website at: http://awesomebio.webioinfo.top/
 
@@ -432,6 +433,13 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 | **awesome-single-cell**                         | [Link](https://github.com/seandavi/awesome-single-cell) ![GitHub Stars](https://img.shields.io/github/stars/seandavi/awesome-single-cell)                                           |
 | **Awesome-Bioinformatics**                      | [Link](https://github.com/danielecook/Awesome-Bioinformatics) ![GitHub Stars](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics)                               |
 | **awesome**                                     | [Link](https://github.com/sindresorhus/awesome) ![GitHub Stars](https://img.shields.io/github/stars/sindresorhus/awesome)                                                           |
+
+## Supported by
+
+This project is powered by:
+
+- **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI-agent-operable scientific literature discovery and curation. Handles automated paper search, annotation, filtering, and README generation for this repository.
+- **[aweskill](https://github.com/Webioinfo01/aweskill)** — A CLI-first skill package manager that AI agents can operate themselves. Manages skill installation, updates, and projection across 47+ coding agents.
 
 ## Contributing
 

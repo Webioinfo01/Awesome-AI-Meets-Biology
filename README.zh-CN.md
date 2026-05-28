@@ -433,6 +433,13 @@
 | **Awesome-Bioinformatics**                      | [Link](https://github.com/danielecook/Awesome-Bioinformatics) ![GitHub Stars](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics)                               |
 | **awesome**                                     | [Link](https://github.com/sindresorhus/awesome) ![GitHub Stars](https://img.shields.io/github/stars/sindresorhus/awesome)                                                           |
 
+## Supported by
+
+本项目由以下工具驱动：
+
+- **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI agent 可自主执行的科学文献发现与策展。负责本仓库的自动论文搜索、标注、筛选和 README 生成。
+- **[aweskill](https://github.com/Webioinfo01/aweskill)** — 一个以 CLI 为核心的 Skill 包管理器，AI agent 也能自己调用和维护。负责 skill 的安装、更新和投影，支持 47+ 编程 agent。
+
 ## 贡献指南
 
 欢迎贡献！请参阅 [CONTRIBUTING.md](docs/CONTRIBUTING.md) 了解如何添加新条目。
