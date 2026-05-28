@@ -6,7 +6,8 @@
   <p>
     <strong>English</strong> ·
     <a href="./README.zh-CN.md">简体中文</a> ·
-    <a href="http://awesomebio.webioinfo.top/">Website</a>
+    <a href="http://awesomebio.webioinfo.top/">Website</a> ·
+    <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
