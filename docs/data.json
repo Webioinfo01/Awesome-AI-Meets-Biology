@@ -1364,6 +1364,19 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.48550/arXiv.2512.17146"
+    },
+    {
+      "year": "2025.03",
+      "title": "A conceptual framework for human–AI collaborative genome annotation",
+      "team": "Radoslaw Suchecki",
+      "team website": "",
+      "affiliation": "",
+      "domain": "",
+      "venue": "Briefings Bioinform.",
+      "paperUrl": "https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1093/bib/bbaf377"
     }
   ],
   "Foundation models": [
@@ -2718,6 +2731,45 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.1038/s41746-026-02564-y"
+    },
+    {
+      "year": "2025.05",
+      "title": "JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model",
+      "team": "B. Wild",
+      "team website": "",
+      "affiliation": "",
+      "domain": "",
+      "venue": "Neural Information Processing Systems",
+      "paperUrl": "https://www.semanticscholar.org/paper/304965a51b428af89df398ec0cc84314b00ac94c",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.48550/arXiv.2505.17257"
+    },
+    {
+      "year": "2025.05",
+      "title": "Token-Mol 1.0: tokenized drug design with large language models",
+      "team": "Tingjun Hou",
+      "team website": "",
+      "affiliation": "",
+      "domain": "",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/944165a43458f98e00f6a322ff8aefd08ed0fd64",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1038/s41467-025-59628-y"
+    },
+    {
+      "year": "2025.05",
+      "title": "AI-guided discovery and optimization of antimicrobial peptides through species-aware language model",
+      "team": "Hojung Nam",
+      "team website": "",
+      "affiliation": "",
+      "domain": "",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/db13fc81c41991a53706b040dff93f7c28071235",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1101/2025.05.20.654992"
     }
   ],
   "Databases/Simulation": [
@@ -3123,6 +3175,19 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.1021/acs.jcim.5c01945"
+    },
+    {
+      "year": "2025.05",
+      "title": "NMRExtractor: leveraging large language models to construct an experimental NMR database from open-source scientific publications",
+      "team": "Mingyue Zheng",
+      "team website": "",
+      "affiliation": "",
+      "domain": "",
+      "venue": "Chemical Science",
+      "paperUrl": "https://www.semanticscholar.org/paper/ecfac36c981a52c976ecfee77afa51e6ddcef7f9",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1039/d4sc08802f"
     }
   ],
   "Benchmarks": [
