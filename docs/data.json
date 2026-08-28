@@ -1863,19 +1863,6 @@
     },
     {
       "year": "2025.06",
-      "title": "Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning",
-      "team": "Zhiyong Lu",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Training LLMs for batch-level single-cell RNA annotation via RL",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2506.02911"
-    },
-    {
-      "year": "2025.06",
       "title": "World Models as Simulators of Patient Biology: Oncology Counterfactual Therapeutics Oracle (OCTO)",
       "team": "Noetik",
       "team website": "https://www.noetik.ai/research",
@@ -2250,19 +2237,6 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.48550/arXiv.2502.03499"
-    },
-    {
-      "year": "2025.02",
-      "title": "GENERator: A Long-Context Generative Genomic Foundation Model",
-      "team": "Zheng Wang",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Generative genomic foundation model",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/4f98b1f62cfd71e2d2bf44156a5a971029cf4c16",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2502.07272"
     },
     {
       "year": "2025.02",
@@ -2915,19 +2889,6 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.48550/arXiv.2508.08331"
-    },
-    {
-      "year": "2025.06",
-      "title": "Probably Approximately Correct Labels",
-      "team": "Tijana Zrnic",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Method for dataset curation via probably approximately correct labels",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2506.10908"
     },
     {
       "year": "2025.06",
@@ -3621,32 +3582,6 @@
       "doi": ""
     },
     {
-      "year": "2025.04",
-      "title": "OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling",
-      "team": "Fuhai Li",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Cell Text-Omic Signaling Graph Benchmark",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2504.02148"
-    },
-    {
-      "year": "2025.04",
-      "title": "Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling",
-      "team": "Mai Chan Lau",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Single-cell immune profiling benchmark",
-      "venue": "Cancer Research",
-      "paperUrl": "https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-6316"
-    },
-    {
       "year": "2025.03",
       "title": "Distinct social-linguistic processing between humans and large audio-language models: Evidence from model-brain alignment",
       "team": "Zhenguang G. Cai",
@@ -4128,19 +4063,6 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.1016/j.cell.2025.05.018"
-    },
-    {
-      "year": "2025.06",
-      "title": "AI Agent Behavioral Science",
-      "team": "Yong Li",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Behavioral science of AI agents",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2506.06366"
     },
     {
       "year": "2025.06",
