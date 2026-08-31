@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/10.48130-gcomm-0026-0005-Figure2.jpg" alt="Awesome AI Meets Biology" width="760">
+  <a href="https://www.maxapress.com/article/doi/10.48130/gcomm-0026-0005"><img src="./public/10.48130-gcomm-0026-0005-Figure2.jpg" alt="Awesome AI Meets Biology" width="760"></a>
   <h1>Awesome AI Meets Biology <a href="https://github.com/Webioinfo01/aweskill"><img src="https://raw.githubusercontent.com/Webioinfo01/aweskill/main/logo/aweskill-badge.svg" alt="aweskill companion"></a></h1>
   <p><strong>AI 在生物学、生物信息学和生物医学研究中应用的精选综述。</strong></p>
   <p>论文发现、标注和筛选由 <a href="https://github.com/Webioinfo01/awescholar">awescholar</a> 驱动。技能管理通过 <a href="https://aweskill.webioinfo.top/">aweskill</a> 实现。</p>
@@ -7,6 +7,7 @@
     <a href="./readme.md">English</a> ·
     <strong>简体中文</strong> ·
     <a href="http://awesomebio.webioinfo.top/">官网</a> ·
+    <a href="https://www.maxapress.com/article/doi/10.48130/gcomm-0026-0005">论文</a> ·
     <a href="https://we.webioinfo.top/">Webioinfo</a>
   </p>
   <p>
