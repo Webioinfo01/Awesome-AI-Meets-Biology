@@ -440,6 +440,44 @@
 - **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI agent 可自主执行的科学文献发现与策展。负责本仓库的自动论文搜索、标注、筛选和 README 生成。
 - **[aweskill](https://github.com/Webioinfo01/aweskill)** — 一个以 CLI 为核心的 Skill 包管理器，AI agent 也能自己调用和维护。负责 skill 的安装、更新和投影，支持 47+ 编程 agent。
 
+## Awesome 软件生态
+
+Awesome AI Meets Biology 是一个不断壮大的 "awesome" 工具家族中的一员 — 围绕 AI 编程 agent 打造，local-first、可被 agent 直接操作。
+
+### CLI 工具
+
+- **[aweskill](https://aweskill.webioinfo.top/)** — CLI 优先的技能包管理器，支持 47+ AI 编程 agent。
+- **[aweswitch](https://github.com/Webioinfo01/aweswitch)** — Claude Code、Codex、OpenCode 的 agent 配置切换器。
+- **[awerouter](https://github.com/mugpeng/awerouter)** — 智能路由器，用结构信号把请求分给 Flash 或 Pro 模型，减少不必要的模型开销。
+- **[aweshelf](https://github.com/Webioinfo01/aweshelf)** — 收藏、分类、恢复 AI 编程会话，还能搭配 aweswitch 实现保存配置，一键启动。
+- **[aweshare](https://github.com/wehuman01/aweshare)** — 通过自建 Hub 共享本地 Ollama/vLLM，或国产厂商 coding plan，或已授权的 OpenAI/Anthropic 帐号订阅，实现 token 的共享经济。
+- **[awewarm](https://github.com/wehuman01/awewarm)** — 订阅窗口保持器，让 AI 编程套餐的窗口持续激活，无论是本地设置，还是通过远程连接的服务器。
+- **[awescholar](https://github.com/Webioinfo01/awescholar)** — AI agent 可自主执行的科学文献发现与策展，搜索、标注、筛选和报告学术论文。
+
+### 桌面应用
+
+- **[awedot](https://awedot.wehuman.top/)** — 悬浮球驻留屏幕边缘，实时追踪当前 AI 会话；一键收藏、随时恢复，并可搭配 aweswitch 固定 agent 配置（比如用 GLM 模型启动）。
+
+### Project Collections
+
+- **[Awesome AI Meets Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology)** — AI 在生物学、生物信息学和生物医学研究中应用的精选综述。由 awescholar 驱动。
+- **[Awesome AI Virtual Tumor](https://github.com/Webioinfo01/Awesome-AI-Virtual-Tumor)** — 面向虚拟肿瘤建模与仿真的前沿 AI 系统精选合集：静态模型、动态模型、agent、基准与综述。
+
+## 赞助与支持
+
+如果 Awesome AI Meets Biology 帮到了你，欢迎支持一下：
+
+- ⭐ 给项目点个 Star — 让更多人看到它。
+- ☕ [Ko-fi](https://ko-fi.com/mugpeng) — 请我喝杯咖啡。
+- 💬 微信 — 扫描下方收款码。
+
+<p align="center">
+  <img src="assets/images/wechat-pay.jpg" alt="微信收款码" width="240">
+</p>
+
+> 你的支持让项目持续维护下去 — 谢谢。
+
+
 ## 贡献指南
 
 欢迎贡献！请参阅 [CONTRIBUTING.md](docs/CONTRIBUTING.md) 了解如何添加新条目。
