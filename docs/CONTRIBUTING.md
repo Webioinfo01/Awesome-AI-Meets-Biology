@@ -25,8 +25,9 @@ Using awescholar skills, update month_reports/2512_2/updater_filter.json into th
 The agent will automatically execute the following steps:
 
 1. **Merge** filtered papers into `docs/data.json` — deduplication by DOI, new categories appended, existing entries preserved
-2. **Regenerate** `readme.md` table sections — only the content between `<!-- AWESCHOLAR:START -->` and `<!-- AWESCHOLAR:END -->` markers is updated, custom headings and TOC are preserved
-3. **Regenerate** `docs/rss.xml` — channel metadata preserved, only item entries updated
+2. **Regenerate** `docs/rss.xml` — channel metadata preserved, only item entries updated
+
+> Note: the README is a website-first landing page. Paper tables are no longer embedded in the README — the website (`docs/index.html` + `docs/data.json`) is the canonical browsing surface.
 
 ### Method 2: Direct Edit
 
@@ -79,13 +80,9 @@ awescholar updater search --archive docs/data.json --by title
 awescholar updater update --direction new2old --input updater_filter.json --archive docs/data.json
 ```
 
-### Step 2: Update README
+### Step 2: Update README — no longer needed
 
-```bash
-awescholar updater readme --archive docs/data.json --no-backup
-```
-
-This auto-discovers all README files in the project root (e.g., `readme.md` and `README.zh-CN.md`) that contain `<!-- AWESCHOLAR:START -->` markers and updates the table sections in each one. Use `--readme <path>` to update a single file explicitly.
+The README table sections were removed in favor of the website. `awescholar updater readme` only rewrites files that contain `<!-- AWESCHOLAR:START -->` markers, so it leaves these READMEs untouched. Update the paper counts in the "Browse the Collection" section manually if you want them refreshed.
 
 ### Step 3: Generate RSS Feed
 
@@ -93,7 +90,7 @@ This auto-discovers all README files in the project root (e.g., `readme.md` and 
 awescholar updater rss --archive docs/data.json
 ```
 
-All three steps can also be run automatically via the full pipeline:
+Both steps can also be run automatically via the full pipeline:
 
 ```bash
 awescholar --config config.json crawler run --merge-new-to-old --data-json docs/data.json

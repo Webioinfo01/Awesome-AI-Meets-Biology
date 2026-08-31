@@ -1121,9 +1121,17 @@
             });
         }
 
-        // Show all projects section by default
+        // Show all projects by default, or the category named in the URL hash (e.g. #ai-agents)
         function showDefaultSection() {
-            showSection('all-projects');
+            const hash = window.location.hash ? window.location.hash.slice(1) : '';
+            const tab = hash ? document.querySelector(`.nav-tab[data-section='${hash}']`) : null;
+            if (tab) {
+                showSection(hash);
+                navTabs.forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+            } else {
+                showSection('all-projects');
+            }
         }
 
         // Add some engaging behavior to the star button
