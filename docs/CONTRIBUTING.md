@@ -80,9 +80,13 @@ awescholar updater search --archive docs/data.json --by title
 awescholar updater update --direction new2old --input updater_filter.json --archive docs/data.json
 ```
 
-### Step 2: Update README — no longer needed
+### Step 2: Refresh README Counts
 
-The README table sections were removed in favor of the website. `awescholar updater readme` only rewrites files that contain `<!-- AWESCHOLAR:START -->` markers, so it leaves these READMEs untouched. Update the paper counts in the "Browse the Collection" section manually if you want them refreshed.
+```bash
+awescholar updater counts --archive docs/data.json
+```
+
+The README table sections were removed in favor of the website; this command refreshes the papers badge and the per-category counts in the "Browse the Collection" section from the archive.
 
 ### Step 3: Generate RSS Feed
 
@@ -90,10 +94,10 @@ The README table sections were removed in favor of the website. `awescholar upda
 awescholar updater rss --archive docs/data.json
 ```
 
-Both steps can also be run automatically via the full pipeline:
+Both steps can also be run automatically via the full pipeline — set `merge_new_to_old: true` and `data_json_path: "docs/data.json"` in `config.json`, then:
 
 ```bash
-awescholar --config config.json crawler run --merge-new-to-old --data-json docs/data.json
+awescholar --config config.json crawler run
 ```
 
 ---
