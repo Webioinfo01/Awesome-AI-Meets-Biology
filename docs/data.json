@@ -21,9 +21,9 @@
       "affiliation": "University of Wisconsin–Madison",
       "domain": "automated single-cell annotation via multi-agent LLMs",
       "venue": "Nature communications",
-      "paperUrl": "https://www.semanticscholar.org/paper/7de5beff1eb163c66310e4291928c6f2d7bb34ac",
-      "codeUrl": "",
-      "githubStars": "",
+      "paperUrl": "https://doi.org/10.1038/s41467-025-67084-x",
+      "codeUrl": "https://github.com/ElliotXie/CASSIA",
+      "githubStars": "https://img.shields.io/github/stars/ElliotXie/CASSIA",
       "doi": "10.1038/s41467-025-67084-x"
     },
     {
@@ -534,17 +534,17 @@
       "doi": ""
     },
     {
-      "year": "2025.07",
-      "title": "GPTBioInsightor",
+      "year": "2026",
+      "title": "GPTBioInsightor: leveraging large language models for transparent scRNA-seq cell type annotations",
       "team": "",
       "team website": "",
       "affiliation": "",
       "domain": "Single Cell annotation",
-      "venue": "",
-      "paperUrl": "",
+      "venue": "Bioinformatics Advances",
+      "paperUrl": "https://doi.org/10.1093/bioadv/vbag025",
       "codeUrl": "https://github.com/huang-sh/GPTBioInsightor",
       "githubStars": "https://img.shields.io/github/stars/huang-sh/GPTBioInsightor",
-      "doi": ""
+      "doi": "10.1093/bioadv/vbag025"
     },
     {
       "year": "2025.06",
@@ -872,30 +872,30 @@
       "doi": "10.48550/arXiv.2504.04698"
     },
     {
-      "year": "2025.04",
+      "year": "2026.06",
       "title": "Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data",
       "team": "",
       "team website": "",
       "affiliation": "",
       "domain": "Single Cell annotation",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1",
+      "venue": "Communications Biology",
+      "paperUrl": "https://doi.org/10.1038/s42003-026-10420-8",
       "codeUrl": "https://github.com/cafferychen777/mLLMCelltype",
       "githubStars": "https://img.shields.io/github/stars/cafferychen777/mLLMCelltype",
-      "doi": ""
+      "doi": "10.1038/s42003-026-10420-8"
     },
     {
-      "year": "2025.04",
+      "year": "2025.07",
       "title": "SCassist: An AI Based Workflow Assistant for Single-Cell Analysis",
       "team": "Rachel R Caspi",
       "team website": "",
       "affiliation": "National Institutes of Health",
       "domain": "Single Cell tasks(cluster, annotation)",
       "venue": "Bioinformatics",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1",
+      "paperUrl": "https://doi.org/10.1093/bioinformatics/btaf402",
       "codeUrl": "https://github.com/NIH-NEI/SCassist",
       "githubStars": "https://img.shields.io/github/stars/NIH-NEI/SCassist",
-      "doi": "10.1101/2025.04.22.650107"
+      "doi": "10.1093/bioinformatics/btaf402"
     },
     {
       "year": "2025.04",
@@ -1028,17 +1028,17 @@
       "doi": "10.48550/arXiv.2503.03503"
     },
     {
-      "year": "2025.03",
+      "year": "2026.08",
       "title": "IAN: An Intelligent System for Omics Data Analysis and Discovery",
       "team": "Rachel R. Caspi",
       "team website": "",
       "affiliation": "Laboratory of Immunology, National Eye Institute, NIH, Bethesda 20892, USA",
       "domain": "Omics Data Integration",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/1ecbcfe40fe475b6fec3186ced39162afdb33175",
+      "venue": "Cell Reports Methods",
+      "paperUrl": "https://doi.org/10.1016/j.crmeth.2026.101503",
       "codeUrl": "https://github.com/NIH-NEI/IAN",
       "githubStars": "https://img.shields.io/github/stars/NIH-NEI/IAN",
-      "doi": "10.1101/2025.03.06.640921"
+      "doi": "10.1016/j.crmeth.2026.101503"
     },
     {
       "year": "2025.02",
@@ -1146,19 +1146,6 @@
     },
     {
       "year": "2024.12",
-      "title": "CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data",
-      "team": "",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Single Cell annotation",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2",
-      "codeUrl": "https://github.com/ElliotXie/CASSIA",
-      "githubStars": "https://img.shields.io/github/stars/ElliotXie/CASSIA",
-      "doi": ""
-    },
-    {
-      "year": "2024.12",
       "title": "ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model",
       "team": "Yunpeng Cai",
       "team website": "",
@@ -1262,17 +1249,17 @@
       "doi": ""
     },
     {
-      "year": "2024.05",
+      "year": "2025.07",
       "title": "A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights",
       "team": "",
       "team website": "",
       "affiliation": "",
       "domain": "Multi-omics/single cell RNA",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2",
+      "venue": "Briefings in Bioinformatics",
+      "paperUrl": "https://doi.org/10.1093/bib/bbaf312",
       "codeUrl": "https://github.com/lyyang01/Bio-Copilot",
       "githubStars": "https://img.shields.io/github/stars/lyyang01/Bio-Copilot",
-      "doi": ""
+      "doi": "10.1093/bib/bbaf312"
     },
     {
       "year": "2024.04",
@@ -1288,17 +1275,17 @@
       "doi": ""
     },
     {
-      "year": "2024.01",
+      "year": "2024",
       "title": "ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning",
       "team": "",
       "team website": "",
       "affiliation": "",
       "domain": "Protein design and discovery",
-      "venue": "arXiv",
-      "paperUrl": "https://arxiv.org/abs/2402.04268",
+      "venue": "Digital Discovery",
+      "paperUrl": "https://doi.org/10.1039/d4dd00013g",
       "codeUrl": "https://github.com/lamm-mit/ProtAgents",
       "githubStars": "https://img.shields.io/github/stars/lamm-mit/ProtAgents",
-      "doi": ""
+      "doi": "10.1039/d4dd00013g"
     },
     {
       "year": "2025-12",

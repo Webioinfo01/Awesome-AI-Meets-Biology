@@ -18,8 +18,8 @@
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
     <img src="https://img.shields.io/badge/categories-5-7C3AED?style=flat-square" alt="Categories">
-    <img src="https://img.shields.io/badge/papers-351-0EA5E9?style=flat-square" alt="Papers">
-    <img src="https://img.shields.io/badge/updated-2026.05-334155?style=flat-square" alt="Last updated">
+    <img src="https://img.shields.io/badge/papers-350-0EA5E9?style=flat-square" alt="Papers">
+    <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
 
@@ -41,7 +41,7 @@
 
 **→ http://awesomebio.webioinfo.top/**
 
-- 🌟 [AI Agents（智能体）](http://awesomebio.webioinfo.top/#ai-agents) — 106 篇
+- 🌟 [AI Agents（智能体）](http://awesomebio.webioinfo.top/#ai-agents) — 105 篇
 - 🎯 [Foundation models（基础模型）](http://awesomebio.webioinfo.top/#foundation-models) — 107 篇
 - 💾 [Databases/Simulation（数据库/模拟）](http://awesomebio.webioinfo.top/#databases) — 32 篇
 - 📊 [Benchmarks（基准测试）](http://awesomebio.webioinfo.top/#benchmarks) — 47 篇

@@ -18,8 +18,8 @@
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
     <img src="https://img.shields.io/badge/categories-5-7C3AED?style=flat-square" alt="Categories">
-    <img src="https://img.shields.io/badge/papers-351-0EA5E9?style=flat-square" alt="Papers">
-    <img src="https://img.shields.io/badge/updated-2026.05-334155?style=flat-square" alt="Last updated">
+    <img src="https://img.shields.io/badge/papers-350-0EA5E9?style=flat-square" alt="Papers">
+    <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
 
@@ -42,7 +42,7 @@ All 351 papers live on the [website](http://awesomebio.webioinfo.top/) — with 
 
 **→ http://awesomebio.webioinfo.top/**
 
-- 🌟 [AI Agents](http://awesomebio.webioinfo.top/#ai-agents) — 106 papers
+- 🌟 [AI Agents](http://awesomebio.webioinfo.top/#ai-agents) — 105 papers
 - 🎯 [Foundation models](http://awesomebio.webioinfo.top/#foundation-models) — 107 papers
 - 💾 [Databases/Simulation](http://awesomebio.webioinfo.top/#databases) — 32 papers
 - 📊 [Benchmarks](http://awesomebio.webioinfo.top/#benchmarks) — 47 papers
