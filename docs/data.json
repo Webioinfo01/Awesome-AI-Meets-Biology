@@ -326,6 +326,19 @@
       "doi": "10.1039/d5cp03582a"
     },
     {
+      "year": "2025.10",
+      "title": "Tongyi DeepResearch Technical Report",
+      "team": "Tongyi DeepResearch Team",
+      "team website": "https://github.com/Alibaba-NLP",
+      "affiliation": "Alibaba Group",
+      "domain": "Agentic deep research for autonomous information seeking and report generation",
+      "venue": "ArXiv",
+      "paperUrl": "https://arxiv.org/abs/2510.24701",
+      "codeUrl": "https://github.com/Alibaba-NLP/DeepResearch",
+      "githubStars": "https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch",
+      "doi": "10.48550/arXiv.2510.24701"
+    },
+    {
       "year": "2025.09",
       "title": "ARGTUMOUR: INTEGRATING LARGE LANGUAGE MODELS AND COMPUTATIONAL ARGUMENTATION TO DISCUSS TREATMENT OPTIONS FOR HIGH-GRADE GLIOMA",
       "team": "Matt Williams",
@@ -677,17 +690,17 @@
       "doi": ""
     },
     {
-      "year": "2025.06",
-      "title": "Biomni: A General-Purpose Biomedical AI Agent",
+      "year": "2026.08",
+      "title": "Autonomous biomedical research with an artificial intelligence agent",
       "team": "Jure Leskovec",
       "team website": "https://github.com/snap-stanford",
       "affiliation": "Stanford University",
       "domain": "Biomedical AI agent for autonomous research workflows",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1",
+      "venue": "Science",
+      "paperUrl": "https://doi.org/10.1126/science.adz4351",
       "codeUrl": "https://biomni.stanford.edu/",
       "githubStars": "https://img.shields.io/github/stars/snap-stanford/biomni",
-      "doi": "10.1101/2025.05.30.656746"
+      "doi": "10.1126/science.adz4351"
     },
     {
       "year": "2025.06",

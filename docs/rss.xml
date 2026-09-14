@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 14 Sep 2026 00:22:43 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 11:33:20 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -362,6 +362,21 @@
     </description>
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ConstructionofanartificialintelligenceagentforthediscoveryofnextgenerationwhiteLEDphosphors202510</guid>
+  </item>
+  <item>
+    <title>Tongyi DeepResearch Technical Report</title>
+    <link>https://doi.org/10.48550/arXiv.2510.24701</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tongyi DeepResearch Team</p>
+        <p><b>Domain:</b> Agentic deep research for autonomous information seeking and report generation</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://arxiv.org/abs/2510.24701">Read the Paper</a></p>
+        <p><a href="https://github.com/Alibaba-NLP/DeepResearch">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TongyiDeepResearchTechnicalReport202510</guid>
   </item>
   <item>
     <title>ARGTUMOUR: INTEGRATING LARGE LANGUAGE MODELS AND COMPUTATIONAL ARGUMENTATION TO DISCUSS TREATMENT OPTIONS FOR HIGH-GRADE GLIOMA</title>
@@ -751,19 +766,19 @@
     <guid isPermaLink="false">CellVoyagerAICompBioAgentGeneratesNewInsightsbyAutonomouslyAnalyzingBiologicalData202506</guid>
   </item>
   <item>
-    <title>Biomni: A General-Purpose Biomedical AI Agent</title>
-    <link>https://doi.org/10.1101/2025.05.30.656746</link>
+    <title>Autonomous biomedical research with an artificial intelligence agent</title>
+    <link>https://doi.org/10.1126/science.adz4351</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Jure Leskovec</p>
         <p><b>Domain:</b> Biomedical AI agent for autonomous research workflows</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1">Read the Paper</a></p>
+        <p><b>Venue:</b> Science</p>
+        <p><a href="https://doi.org/10.1126/science.adz4351">Read the Paper</a></p>
         <p><a href="https://biomni.stanford.edu/">Code</a></p>
       ]]>
     </description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">BiomniAGeneralPurposeBiomedicalAIAgent202506</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Autonomousbiomedicalresearchwithanartificialintelligenceagent202608</guid>
   </item>
   <item>
     <title>Knowledge-guided Contextual Gene Set Analysis Using Large Language Models</title>
