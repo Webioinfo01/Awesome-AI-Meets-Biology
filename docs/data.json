@@ -880,8 +880,8 @@
       "domain": "LLM agent for automatic biomarker discovery and enrichment (BRAD)",
       "venue": "Bioinformatics",
       "paperUrl": "https://www.semanticscholar.org/paper/3ac8cac9583281d5eebca6a17e00af015eb8b286",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Jpickard1/BRAD",
+      "githubStars": "https://img.shields.io/github/stars/Jpickard1/BRAD",
       "doi": "10.1093/bioinformatics/btaf159"
     },
     {
@@ -1257,8 +1257,8 @@
       "domain": "Multi-agent AI for automated materials discovery",
       "venue": "Advanced Materials (Deerfield Beach, Fla.)",
       "paperUrl": "https://www.semanticscholar.org/paper/dbbcdb281ed6aa646af0402172cf8a7cfda85d5c",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/lamm-mit/SciAgentsDiscovery",
+      "githubStars": "https://img.shields.io/github/stars/lamm-mit/SciAgentsDiscovery",
       "doi": "10.1002/adma.202413523"
     },
     {
