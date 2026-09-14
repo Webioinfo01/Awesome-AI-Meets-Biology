@@ -1,6 +1,58 @@
 {
   "AI Agents": [
     {
+      "year": "2026.07",
+      "title": "MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis",
+      "team": "H.-H. Zhang",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Auditable AI agent for end-to-end metagenomic and multi-omics analysis",
+      "venue": "bioRxiv",
+      "paperUrl": "https://doi.org/10.64898/2026.07.21.739769",
+      "codeUrl": "https://github.com/BGI-AI-models/MetaClaw",
+      "githubStars": "https://img.shields.io/github/stars/BGI-AI-models/MetaClaw",
+      "doi": "10.64898/2026.07.21.739769"
+    },
+    {
+      "year": "2026.04",
+      "title": "BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery",
+      "team": "Y. Qin",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Multi-modal agentic workspace for chemistry and protein scientific discovery",
+      "venue": "arXiv",
+      "paperUrl": "https://arxiv.org/abs/2604.00550",
+      "codeUrl": "https://github.com/qinheming/BloClaw",
+      "githubStars": "https://img.shields.io/github/stars/qinheming/BloClaw",
+      "doi": "10.48550/arXiv.2604.00550"
+    },
+    {
+      "year": "2026.03",
+      "title": "Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses",
+      "team": "D. Bu",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Self-evolving multi-agent LLM framework for autonomous biomedical data analysis",
+      "venue": "Nature Biomedical Engineering",
+      "paperUrl": "https://doi.org/10.1038/s41551-026-01634-6",
+      "codeUrl": "https://github.com/BOBQWERA/BioMedAgent",
+      "githubStars": "https://img.shields.io/github/stars/BOBQWERA/BioMedAgent",
+      "doi": "10.1038/s41551-026-01634-6"
+    },
+    {
+      "year": "2026.01",
+      "title": "Making large language models reliable data science programming copilots for biomedical research",
+      "team": "Z. Wang",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Open-source framework (BioDSA) for vibe-prototyping biomedical AI agents",
+      "venue": "Nature Biomedical Engineering",
+      "paperUrl": "https://www.semanticscholar.org/paper/3080b0a455ba95e7e1b0e6c603eddd49635f94ff",
+      "codeUrl": "https://github.com/RyanWangZf/BioDSA",
+      "githubStars": "https://img.shields.io/github/stars/RyanWangZf/BioDSA",
+      "doi": "10.1038/s41551-025-01587-2"
+    },
+    {
       "year": "2025.12",
       "title": "AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development",
       "team": "Jacek Nikliński",
@@ -545,6 +597,19 @@
       "codeUrl": "https://github.com/huang-sh/GPTBioInsightor",
       "githubStars": "https://img.shields.io/github/stars/huang-sh/GPTBioInsightor",
       "doi": "10.1093/bioadv/vbag025"
+    },
+    {
+      "year": "2025.07",
+      "title": "STELLA: Self-Evolving LLM Agent for Biomedical Research",
+      "team": "R. Jin",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Self-evolving multimodal LLM agent for biomedical research",
+      "venue": "arXiv",
+      "paperUrl": "https://arxiv.org/abs/2507.02004",
+      "codeUrl": "https://github.com/zaixizhang/STELLA",
+      "githubStars": "https://img.shields.io/github/stars/zaixizhang/STELLA",
+      "doi": "10.48550/arXiv.2507.02004"
     },
     {
       "year": "2025.06",
@@ -1127,8 +1192,8 @@
       "domain": "Multi-omics Pipelines",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2501.06314",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/bio-xyz/BioAgents",
+      "githubStars": "https://img.shields.io/github/stars/bio-xyz/BioAgents",
       "doi": ""
     },
     {

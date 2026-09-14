@@ -5,8 +5,68 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 24 May 2026 12:02:50 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 00:22:43 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
+    <link>https://doi.org/10.64898/2026.07.21.739769</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> H.-H. Zhang</p>
+        <p><b>Domain:</b> Auditable AI agent for end-to-end metagenomic and multi-omics analysis</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.07.21.739769">Read the Paper</a></p>
+        <p><a href="https://github.com/BGI-AI-models/MetaClaw">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MetaClawanauditableAIagentforendtoendmultidirectionalmetagenomicandmultiomicsanalysis202607</guid>
+  </item>
+  <item>
+    <title>BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery</title>
+    <link>https://doi.org/10.48550/arXiv.2604.00550</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Y. Qin</p>
+        <p><b>Domain:</b> Multi-modal agentic workspace for chemistry and protein scientific discovery</p>
+        <p><b>Venue:</b> arXiv</p>
+        <p><a href="https://arxiv.org/abs/2604.00550">Read the Paper</a></p>
+        <p><a href="https://github.com/qinheming/BloClaw">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BloClawAnOmniscientMultiModalAgenticWorkspaceforNextGenerationScientificDiscovery202604</guid>
+  </item>
+  <item>
+    <title>Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses</title>
+    <link>https://doi.org/10.1038/s41551-026-01634-6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> D. Bu</p>
+        <p><b>Domain:</b> Self-evolving multi-agent LLM framework for autonomous biomedical data analysis</p>
+        <p><b>Venue:</b> Nature Biomedical Engineering</p>
+        <p><a href="https://doi.org/10.1038/s41551-026-01634-6">Read the Paper</a></p>
+        <p><a href="https://github.com/BOBQWERA/BioMedAgent">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">EmpoweringAIdatascientistsusingamultiagentLLMframeworkwithselfevolvingcapabilitiesforautonomoustoolawarebiomedicaldataanalyses202603</guid>
+  </item>
+  <item>
+    <title>Making large language models reliable data science programming copilots for biomedical research</title>
+    <link>https://doi.org/10.1038/s41551-025-01587-2</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Z. Wang</p>
+        <p><b>Domain:</b> Open-source framework (BioDSA) for vibe-prototyping biomedical AI agents</p>
+        <p><b>Venue:</b> Nature Biomedical Engineering</p>
+        <p><a href="https://www.semanticscholar.org/paper/3080b0a455ba95e7e1b0e6c603eddd49635f94ff">Read the Paper</a></p>
+        <p><a href="https://github.com/RyanWangZf/BioDSA">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Makinglargelanguagemodelsreliabledatascienceprogrammingcopilotsforbiomedicalresearch202601</guid>
+  </item>
   <item>
     <title>AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development</title>
     <link>https://doi.org/10.3390/mps8060143</link>
@@ -29,7 +89,8 @@
         <p><b>Team:</b> C. Kendziorski</p>
         <p><b>Domain:</b> automated single-cell annotation via multi-agent LLMs</p>
         <p><b>Venue:</b> Nature communications</p>
-        <p><a href="https://www.semanticscholar.org/paper/7de5beff1eb163c66310e4291928c6f2d7bb34ac">Read the Paper</a></p>
+        <p><a href="https://doi.org/10.1038/s41467-025-67084-x">Read the Paper</a></p>
+        <p><a href="https://github.com/ElliotXie/CASSIA">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
@@ -585,17 +646,34 @@
     <guid isPermaLink="false">PromptBioAMultiAgentAIPlatformforBioinformaticsDataAnalysis202507</guid>
   </item>
   <item>
-    <title>GPTBioInsightor</title>
-    <link></link>
+    <title>GPTBioInsightor: leveraging large language models for transparent scRNA-seq cell type annotations</title>
+    <link>https://doi.org/10.1093/bioadv/vbag025</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> </p>
         <p><b>Domain:</b> Single Cell annotation</p>
+        <p><b>Venue:</b> Bioinformatics Advances</p>
+        <p><a href="https://doi.org/10.1093/bioadv/vbag025">Read the Paper</a></p>
         <p><a href="https://github.com/huang-sh/GPTBioInsightor">Code</a></p>
       ]]>
     </description>
+    <pubDate>2026</pubDate>
+    <guid isPermaLink="false">GPTBioInsightorleveraginglargelanguagemodelsfortransparentscRNAseqcelltypeannotations2026</guid>
+  </item>
+  <item>
+    <title>STELLA: Self-Evolving LLM Agent for Biomedical Research</title>
+    <link>https://doi.org/10.48550/arXiv.2507.02004</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> R. Jin</p>
+        <p><b>Domain:</b> Self-evolving multimodal LLM agent for biomedical research</p>
+        <p><b>Venue:</b> arXiv</p>
+        <p><a href="https://arxiv.org/abs/2507.02004">Read the Paper</a></p>
+        <p><a href="https://github.com/zaixizhang/STELLA">Code</a></p>
+      ]]>
+    </description>
     <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">GPTBioInsightor202507</guid>
+    <guid isPermaLink="false">STELLASelfEvolvingLLMAgentforBiomedicalResearch202507</guid>
   </item>
   <item>
     <title>NVIDIA Biomedical AI-Q Research Agent Developer Blueprint</title>
@@ -958,33 +1036,33 @@
   </item>
   <item>
     <title>Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data</title>
-    <link>https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1</link>
+    <link>https://doi.org/10.1038/s42003-026-10420-8</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> </p>
         <p><b>Domain:</b> Single Cell annotation</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">Read the Paper</a></p>
+        <p><b>Venue:</b> Communications Biology</p>
+        <p><a href="https://doi.org/10.1038/s42003-026-10420-8">Read the Paper</a></p>
         <p><a href="https://github.com/cafferychen777/mLLMCelltype">Code</a></p>
       ]]>
     </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">LargeLanguageModelConsensusSubstantiallyImprovestheCellTypeAnnotationAccuracyforscRNAseqData202504</guid>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LargeLanguageModelConsensusSubstantiallyImprovestheCellTypeAnnotationAccuracyforscRNAseqData202606</guid>
   </item>
   <item>
     <title>SCassist: An AI Based Workflow Assistant for Single-Cell Analysis</title>
-    <link>https://doi.org/10.1101/2025.04.22.650107</link>
+    <link>https://doi.org/10.1093/bioinformatics/btaf402</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rachel R Caspi</p>
         <p><b>Domain:</b> Single Cell tasks(cluster, annotation)</p>
         <p><b>Venue:</b> Bioinformatics</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2025.04.22.650107v1">Read the Paper</a></p>
+        <p><a href="https://doi.org/10.1093/bioinformatics/btaf402">Read the Paper</a></p>
         <p><a href="https://github.com/NIH-NEI/SCassist">Code</a></p>
       ]]>
     </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">SCassistAnAIBasedWorkflowAssistantforSingleCellAnalysis202504</guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SCassistAnAIBasedWorkflowAssistantforSingleCellAnalysis202507</guid>
   </item>
   <item>
     <title>Fleming: An AI Agent for Antibiotic Discovery in Mycobacterium tuberculosis</title>
@@ -1131,18 +1209,18 @@
   </item>
   <item>
     <title>IAN: An Intelligent System for Omics Data Analysis and Discovery</title>
-    <link>https://doi.org/10.1101/2025.03.06.640921</link>
+    <link>https://doi.org/10.1016/j.crmeth.2026.101503</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Rachel R. Caspi</p>
         <p><b>Domain:</b> Omics Data Integration</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/1ecbcfe40fe475b6fec3186ced39162afdb33175">Read the Paper</a></p>
+        <p><b>Venue:</b> Cell Reports Methods</p>
+        <p><a href="https://doi.org/10.1016/j.crmeth.2026.101503">Read the Paper</a></p>
         <p><a href="https://github.com/NIH-NEI/IAN">Code</a></p>
       ]]>
     </description>
-    <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">IANAnIntelligentSystemforOmicsDataAnalysisandDiscovery202503</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">IANAnIntelligentSystemforOmicsDataAnalysisandDiscovery202608</guid>
   </item>
   <item>
     <title>LIDDIA: Language-based Intelligent Drug Discovery Agent</title>
@@ -1239,6 +1317,7 @@
         <p><b>Domain:</b> Multi-omics Pipelines</p>
         <p><b>Venue:</b> arXiv</p>
         <p><a href="https://arxiv.org/abs/2501.06314">Read the Paper</a></p>
+        <p><a href="https://github.com/bio-xyz/BioAgents">Code</a></p>
       ]]>
     </description>
     <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
@@ -1257,21 +1336,6 @@
     </description>
     <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ExtractingKnowledgefromScientificTextsonPatientDerivedCancerModelsUsingLargeLanguageModelsAlgorithmDevelopmentandValidation202501</guid>
-  </item>
-  <item>
-    <title>CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data</title>
-    <link>https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> </p>
-        <p><b>Domain:</b> Single Cell annotation</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2">Read the Paper</a></p>
-        <p><a href="https://github.com/ElliotXie/CASSIA">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">CASSIAamultiagentlargelanguagemodelforreferencefreeinterpretableandautomatedcellannotationofsinglecellRNAsequencingdata202412</guid>
   </item>
   <item>
     <title>ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model</title>
@@ -1391,18 +1455,18 @@
   </item>
   <item>
     <title>A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights</title>
-    <link>https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2</link>
+    <link>https://doi.org/10.1093/bib/bbaf312</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> </p>
         <p><b>Domain:</b> Multi-omics/single cell RNA</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2024.05.19.594895v2">Read the Paper</a></p>
+        <p><b>Venue:</b> Briefings in Bioinformatics</p>
+        <p><a href="https://doi.org/10.1093/bib/bbaf312">Read the Paper</a></p>
         <p><a href="https://github.com/lyyang01/Bio-Copilot">Code</a></p>
       ]]>
     </description>
-    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ADataIntelligenceIntensiveBioinformaticsCopilotSystemforLargescaleOmicsResearchesandScientificInsights202405</guid>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ADataIntelligenceIntensiveBioinformaticsCopilotSystemforLargescaleOmicsResearchesandScientificInsights202507</guid>
   </item>
   <item>
     <title>CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments</title>
@@ -1421,25 +1485,25 @@
   </item>
   <item>
     <title>ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning</title>
-    <link>https://arxiv.org/abs/2402.04268</link>
+    <link>https://doi.org/10.1039/d4dd00013g</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> </p>
         <p><b>Domain:</b> Protein design and discovery</p>
-        <p><b>Venue:</b> arXiv</p>
-        <p><a href="https://arxiv.org/abs/2402.04268">Read the Paper</a></p>
+        <p><b>Venue:</b> Digital Discovery</p>
+        <p><a href="https://doi.org/10.1039/d4dd00013g">Read the Paper</a></p>
         <p><a href="https://github.com/lamm-mit/ProtAgents">Code</a></p>
       ]]>
     </description>
-    <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ProtAgentsProteindiscoveryvialargelanguagemodelmultiagentcollaborationscombiningphysicsandmachinelearning202401</guid>
+    <pubDate>2024</pubDate>
+    <guid isPermaLink="false">ProtAgentsProteindiscoveryvialargelanguagemodelmultiagentcollaborationscombiningphysicsandmachinelearning2024</guid>
   </item>
   <item>
     <title>MaterialBrain: High-Performance Material Synthesis Extraction via Human-AI-Curated Few-Shot Large Language Models</title>
     <link>https://doi.org/10.1021/acs.jcim.5c02299</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Ge Wang</p>
         <p><b>Domain:</b> Material Science</p>
         <p><b>Venue:</b> Journal of Chemical Information and Modeling</p>
         <p><a href="https://www.semanticscholar.org/paper/c1e2d1b164d639f803c46ae335371e8ff9f66eb8">Read the Paper</a></p>
@@ -1453,7 +1517,7 @@
     <link>https://doi.org/10.64898/2025.12.29.684576</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Eduardo Tejera</p>
         <p><b>Domain:</b> Zoonotic Surveillance</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/418f1dbe4d9e45cfc7a2e0688c20d81fcb8c2de9">Read the Paper</a></p>
@@ -1467,7 +1531,7 @@
     <link>https://doi.org/10.64898/2025.12.17.694980</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> D. Akogo</p>
         <p><b>Domain:</b> Pathogen Discovery</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/21e8c7b8e04f3a1e3c3ccc8ccdf285eb608c3a44">Read the Paper</a></p>
@@ -1481,7 +1545,7 @@
     <link>https://doi.org/10.64898/2025.12.16.25342438</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> J. Guise</p>
         <p><b>Domain:</b> Patient Safety</p>
         <p><b>Venue:</b> medRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/e2c588ab5ffec9297c68b62d1792285b4fc5dd01">Read the Paper</a></p>
@@ -1495,7 +1559,7 @@
     <link>https://doi.org/10.48550/arXiv.2512.17146</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Huixin Zhan</p>
         <p><b>Domain:</b> Biosecurity</p>
         <p><b>Venue:</b> arXiv.org</p>
         <p><a href="https://www.semanticscholar.org/paper/82be906a8aa6895796b2b9afc42953dd3ae2392e">Read the Paper</a></p>
@@ -1503,6 +1567,19 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">BiosecurityAwareAIAgenticRiskAuditingofSoftPromptAttacksonESMBasedVariantPredictors2025-12</guid>
+  </item>
+  <item>
+    <title>A conceptual framework for human–AI collaborative genome annotation</title>
+    <link>https://doi.org/10.1093/bib/bbaf377</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Radoslaw Suchecki</p>
+        <p><b>Venue:</b> Briefings Bioinform.</p>
+        <p><a href="https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AconceptualframeworkforhumanAIcollaborativegenomeannotation202503</guid>
   </item>
   <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
@@ -2045,20 +2122,6 @@
     <guid isPermaLink="false">RiNALMogeneralpurposeRNAlanguagemodelscangeneralizewellonstructurepredictiontasks202507</guid>
   </item>
   <item>
-    <title>Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning</title>
-    <link>https://doi.org/10.48550/arXiv.2506.02911</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Zhiyong Lu</p>
-        <p><b>Domain:</b> Training LLMs for batch-level single-cell RNA annotation via RL</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">CelloTrainingLLMstoSolveSingleCellReasoningPuzzleswithReinforcementLearning202506</guid>
-  </item>
-  <item>
     <title>World Models as Simulators of Patient Biology: Oncology Counterfactual Therapeutics Oracle (OCTO)</title>
     <link>https://www.noetik.ai/octo</link>
     <description>
@@ -2479,20 +2542,6 @@
     </description>
     <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">OmniDNAAUnifiedGenomicFoundationModelforCrossModalandMultiTaskLearning202502</guid>
-  </item>
-  <item>
-    <title>GENERator: A Long-Context Generative Genomic Foundation Model</title>
-    <link>https://doi.org/10.48550/arXiv.2502.07272</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Zheng Wang</p>
-        <p><b>Domain:</b> Generative genomic foundation model</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/4f98b1f62cfd71e2d2bf44156a5a971029cf4c16">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">GENERatorALongContextGenerativeGenomicFoundationModel202502</guid>
   </item>
   <item>
     <title>Top-DTI: Integrating Topological Deep Learning and Large Language Models for Drug Target Interaction Prediction</title>
@@ -2998,7 +3047,7 @@
     <link>https://doi.org/10.64898/2025.12.22.695962</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Yutaka Saito</p>
         <p><b>Domain:</b> mRNA sequence generation</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/7e61e5a7b3605c8a5413c0453edaaa65055f563d">Read the Paper</a></p>
@@ -3012,7 +3061,7 @@
     <link>https://doi.org/10.64898/2025.12.19.25342614</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> W. Gong</p>
         <p><b>Domain:</b> Brain Imaging</p>
         <p><b>Venue:</b> medRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/270987463346ea5b85fb6b4f0745a27e9c22ec3e">Read the Paper</a></p>
@@ -3026,7 +3075,7 @@
     <link>https://doi.org/10.1038/s41746-026-02564-y</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Guanzhen Yu</p>
         <p><b>Domain:</b> Pathology</p>
         <p><b>Venue:</b> medRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/adec35d82936a1582fae1e604fb9aa709652be87">Read the Paper</a></p>
@@ -3034,6 +3083,45 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">HighsensitivitypancancerAIassessmentoflymphnodemetastasisviauncertaintyquantification2025-12</guid>
+  </item>
+  <item>
+    <title>JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model</title>
+    <link>https://doi.org/10.48550/arXiv.2505.17257</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> B. Wild</p>
+        <p><b>Venue:</b> Neural Information Processing Systems</p>
+        <p><a href="https://www.semanticscholar.org/paper/304965a51b428af89df398ec0cc84314b00ac94c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">JanusDNAAPowerfulBidirectionalHybridDNAFoundationModel202505</guid>
+  </item>
+  <item>
+    <title>Token-Mol 1.0: tokenized drug design with large language models</title>
+    <link>https://doi.org/10.1038/s41467-025-59628-y</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tingjun Hou</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/944165a43458f98e00f6a322ff8aefd08ed0fd64">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TokenMoltokenizeddrugdesignwithlargelanguagemodels202505</guid>
+  </item>
+  <item>
+    <title>AI-guided discovery and optimization of antimicrobial peptides through species-aware language model</title>
+    <link>https://doi.org/10.1101/2025.05.20.654992</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hojung Nam</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/db13fc81c41991a53706b040dff93f7c28071235">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIguideddiscoveryandoptimizationofantimicrobialpeptidesthroughspeciesawarelanguagemodel202505</guid>
   </item>
   <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
@@ -3055,7 +3143,7 @@
     <link>https://doi.org/10.1002/imo2.70064</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Hongwu Du</p>
         <p><b>Domain:</b> Consensus mapping of cell type annotation</p>
         <p><b>Venue:</b> iMetaOmics</p>
         <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064">Read the Paper</a></p>
@@ -3219,20 +3307,6 @@
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">miRKatAIAnIntegratedDatabaseandMultiagentAIsystemformicroRNAResearch202508</guid>
-  </item>
-  <item>
-    <title>Probably Approximately Correct Labels</title>
-    <link>https://doi.org/10.48550/arXiv.2506.10908</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Tijana Zrnic</p>
-        <p><b>Domain:</b> Method for dataset curation via probably approximately correct labels</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ProbablyApproximatelyCorrectLabels202506</guid>
   </item>
   <item>
     <title>X-Atlas/Orion: Genome-wide Perturb-seq Datasets via a Scalable Fix-Cryopreserve Platform for Training Dose-Dependent Biological Foundation Models</title>
@@ -3485,7 +3559,7 @@
     <link>https://doi.org/10.1021/acs.jcim.5c01945</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Bairong Shen</p>
         <p><b>Domain:</b> Drug Repurposing</p>
         <p><b>Venue:</b> Journal of Chemical Information and Modeling</p>
         <p><a href="https://www.semanticscholar.org/paper/32d3cb0da0e5ad703eb29a90047efa53156a199c">Read the Paper</a></p>
@@ -3493,6 +3567,19 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">DRPMKBAComprehensiveKnowledgeBaseforanAIOrientedDrugRepositioningPredictionModel2025-12</guid>
+  </item>
+  <item>
+    <title>NMRExtractor: leveraging large language models to construct an experimental NMR database from open-source scientific publications</title>
+    <link>https://doi.org/10.1039/d4sc08802f</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Mingyue Zheng</p>
+        <p><b>Venue:</b> Chemical Science</p>
+        <p><a href="https://www.semanticscholar.org/paper/ecfac36c981a52c976ecfee77afa51e6ddcef7f9">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">NMRExtractorleveraginglargelanguagemodelstoconstructanexperimentalNMRdatabasefromopensourcescientificpublications202505</guid>
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
@@ -3988,34 +4075,6 @@
     <guid isPermaLink="false">Zeroshotevaluationrevealslimitationsofsinglecellfoundationmodels202504</guid>
   </item>
   <item>
-    <title>OmniCellTOSG: The First Cell Text-Omic Signaling Graphs Dataset for Joint LLM and GNN Modeling</title>
-    <link>https://doi.org/10.48550/arXiv.2504.02148</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Fuhai Li</p>
-        <p><b>Domain:</b> Cell Text-Omic Signaling Graph Benchmark</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">OmniCellTOSGTheFirstCellTextOmicSignalingGraphsDatasetforJointLLMandGNNModeling202504</guid>
-  </item>
-  <item>
-    <title>Abstract 6316: Predictive performance comparison of foundational and CNN models for single-cell immune profiling</title>
-    <link>https://doi.org/10.1158/1538-7445.am2025-6316</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Mai Chan Lau</p>
-        <p><b>Domain:</b> Single-cell immune profiling benchmark</p>
-        <p><b>Venue:</b> Cancer Research</p>
-        <p><a href="https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">AbstractPredictiveperformancecomparisonoffoundationalandCNNmodelsforsinglecellimmuneprofiling202504</guid>
-  </item>
-  <item>
     <title>Distinct social-linguistic processing between humans and large audio-language models: Evidence from model-brain alignment</title>
     <link>https://doi.org/10.48550/arXiv.2503.19586</link>
     <description>
@@ -4147,7 +4206,7 @@
     <link>https://doi.org/10.1038/s41598-025-32373-4</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> Hind Almisbahi</p>
         <p><b>Domain:</b> Diabetes</p>
         <p><b>Venue:</b> Scientific Reports</p>
         <p><a href="https://www.semanticscholar.org/paper/dcfa2e2cc3260aa02d6594f8c463efc3e755e78c">Read the Paper</a></p>
@@ -4161,7 +4220,7 @@
     <link>https://doi.org/10.1186/s12916-025-04584-z</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> R. Ansumana</p>
         <p><b>Domain:</b> Verbal Autopsy</p>
         <p><b>Venue:</b> BMC Medicine</p>
         <p><a href="https://www.semanticscholar.org/paper/fb7ddfa2773f0dab97cda7e860153c2c368d69c4">Read the Paper</a></p>
@@ -4171,7 +4230,20 @@
     <guid isPermaLink="false">ComputerassistedverbalautopsycomparinglargelanguagemodelstophysiciansforassigningcausestodeathsinSierraLeonefrom2025-12</guid>
   </item>
   <item>
-    <title>From foundation models to autonomous agents in biology.</title>
+    <title>Benchmarking algorithms for generalizable single-cell perturbation response prediction</title>
+    <link>https://doi.org/10.1038/s41592-025-02980-0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Qi Liu</p>
+        <p><b>Venue:</b> Nature Methods</p>
+        <p><a href="https://www.semanticscholar.org/paper/e8eeb58f3cdd1461d1c761db907dfe7ef7b23057">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Benchmarkingalgorithmsforgeneralizablesinglecellperturbationresponseprediction202512</guid>
+  </item>
+  <item>
+    <title>From foundation models to autonomous agents in biology</title>
     <link>https://doi.org/10.48130/gcomm-0026-0005</link>
     <description>
       <![CDATA[
@@ -4535,20 +4607,6 @@
     </description>
     <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ThegenerativeeraofmedicalAI202507</guid>
-  </item>
-  <item>
-    <title>AI Agent Behavioral Science</title>
-    <link>https://doi.org/10.48550/arXiv.2506.06366</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Yong Li</p>
-        <p><b>Domain:</b> Behavioral science of AI agents</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">AIAgentBehavioralScience202506</guid>
   </item>
   <item>
     <title>Contemporary AI foundation models increase biological weapons risk</title>
@@ -5003,7 +5061,7 @@
     <link>https://doi.org/10.1038/s41366-025-01992-2</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> </p>
+        <p><b>Team:</b> N. Kulthamrongsri</p>
         <p><b>Domain:</b> Obesity</p>
         <p><b>Venue:</b> International Journal of Obesity</p>
         <p><a href="https://www.semanticscholar.org/paper/8f60d9556711df62a20f9890ddef77f8dafcf7b0">Read the Paper</a></p>
