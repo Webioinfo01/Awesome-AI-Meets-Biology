@@ -11,7 +11,8 @@
       "paperUrl": "https://doi.org/10.64898/2026.07.21.739769",
       "codeUrl": "https://github.com/BGI-AI-models/MetaClaw",
       "githubStars": "https://img.shields.io/github/stars/BGI-AI-models/MetaClaw",
-      "doi": "10.64898/2026.07.21.739769"
+      "doi": "10.64898/2026.07.21.739769",
+      "citations": 0
     },
     {
       "year": "2026.04",
@@ -24,7 +25,8 @@
       "paperUrl": "https://arxiv.org/abs/2604.00550",
       "codeUrl": "https://github.com/qinheming/BloClaw",
       "githubStars": "https://img.shields.io/github/stars/qinheming/BloClaw",
-      "doi": "10.48550/arXiv.2604.00550"
+      "doi": "10.48550/arXiv.2604.00550",
+      "citations": 1
     },
     {
       "year": "2026.03",
@@ -37,7 +39,8 @@
       "paperUrl": "https://doi.org/10.1038/s41551-026-01634-6",
       "codeUrl": "https://github.com/BOBQWERA/BioMedAgent",
       "githubStars": "https://img.shields.io/github/stars/BOBQWERA/BioMedAgent",
-      "doi": "10.1038/s41551-026-01634-6"
+      "doi": "10.1038/s41551-026-01634-6",
+      "citations": 22
     },
     {
       "year": "2026.01",
@@ -50,7 +53,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3080b0a455ba95e7e1b0e6c603eddd49635f94ff",
       "codeUrl": "https://github.com/RyanWangZf/BioDSA",
       "githubStars": "https://img.shields.io/github/stars/RyanWangZf/BioDSA",
-      "doi": "10.1038/s41551-025-01587-2"
+      "doi": "10.1038/s41551-025-01587-2",
+      "citations": 15
     },
     {
       "year": "2025.12",
@@ -63,7 +67,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9df305ffbc93536e0e92b625a642fe9d066a3cd8",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3390/mps8060143"
+      "doi": "10.3390/mps8060143",
+      "citations": 3
     },
     {
       "year": "2025.12",
@@ -76,7 +81,8 @@
       "paperUrl": "https://doi.org/10.1038/s41467-025-67084-x",
       "codeUrl": "https://github.com/ElliotXie/CASSIA",
       "githubStars": "https://img.shields.io/github/stars/ElliotXie/CASSIA",
-      "doi": "10.1038/s41467-025-67084-x"
+      "doi": "10.1038/s41467-025-67084-x",
+      "citations": 18
     },
     {
       "year": "2025.12",
@@ -89,7 +95,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/75f60ee9808353347e8dc5f20994b7d714fa559d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-02143-7"
+      "doi": "10.1038/s41746-025-02143-7",
+      "citations": 6
     },
     {
       "year": "2025.11",
@@ -102,7 +109,8 @@
       "paperUrl": "https://arxiv.org/abs/2512.00306",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2512.00306"
+      "doi": "10.48550/arXiv.2512.00306",
+      "citations": 15
     },
     {
       "year": "2025.11",
@@ -128,7 +136,8 @@
       "paperUrl": "https://www.nature.com/articles/s41587-025-02857-9",
       "codeUrl": "https://github.com/epigen/cellwhisperer",
       "githubStars": "https://img.shields.io/github/stars/epigen/cellwhisperer",
-      "doi": "10.1038/s41587-025-02857-9"
+      "doi": "10.1038/s41587-025-02857-9",
+      "citations": 43
     },
     {
       "year": "2025.11",
@@ -141,7 +150,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/bc2a9fef179f39c7ede24789d91d01b291167fb6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.isci.2025.113984"
+      "doi": "10.1016/j.isci.2025.113984",
+      "citations": 5
     },
     {
       "year": "2025.11",
@@ -154,7 +164,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/684a9cd95428486f5796feb5ec659182cc57e847",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.21203/rs.3.rs-7811754/v1"
+      "doi": "10.21203/rs.3.rs-7811754/v1",
+      "citations": 0
     },
     {
       "year": "2025.11",
@@ -167,7 +178,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ea57ddb13f4b20dd70ff9af3a0e021a33316c39a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.11.24.690154"
+      "doi": "10.1101/2025.11.24.690154",
+      "citations": 2
     },
     {
       "year": "2025.11",
@@ -180,7 +192,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/166aa151726fda4f8b95dd79df1d8e56276bca77",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s43856-025-01194-x"
+      "doi": "10.1038/s43856-025-01194-x",
+      "citations": 29
     },
     {
       "year": "2025.10",
@@ -193,7 +206,8 @@
       "paperUrl": "https://arxiv.org/abs/2510.14861",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2510.14861"
+      "doi": "10.48550/arXiv.2510.14861",
+      "citations": 7
     },
     {
       "year": "2025.10",
@@ -206,7 +220,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/949ace206622c4aa82bdb95d722f4fe365bda11d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.annemergmed.2025.08.021"
+      "doi": "10.1016/j.annemergmed.2025.08.021",
+      "citations": 2
     },
     {
       "year": "2025.10",
@@ -219,7 +234,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/6b3ade2ee392a3da6a6071177044201128b35b9c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.metrad.2025.100186"
+      "doi": "10.1016/j.metrad.2025.100186",
+      "citations": 1
     },
     {
       "year": "2025.10",
@@ -232,7 +248,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7543c4368d844cf0a9320e43630cd26b502b6ad1",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1136/bmjdhai-2025-000017"
+      "doi": "10.1136/bmjdhai-2025-000017",
+      "citations": 2
     },
     {
       "year": "2025.10",
@@ -245,7 +262,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/52f1b628bd6246106058a359604bcfebad30ecc6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1161/HYPERTENSIONAHA.125.25305"
+      "doi": "10.1161/HYPERTENSIONAHA.125.25305",
+      "citations": 10
     },
     {
       "year": "2025.10",
@@ -258,7 +276,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7d909a8b3c49ecf6962b80d686d790b5dbe257b4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/pnasnexus/pgaf325"
+      "doi": "10.1093/pnasnexus/pgaf325",
+      "citations": 25
     },
     {
       "year": "2025.10",
@@ -271,7 +290,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d17aa5bf14869c5fec4b3563af21910c197c0aeb",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/acs.analchem.5c04807"
+      "doi": "10.1021/acs.analchem.5c04807",
+      "citations": 5
     },
     {
       "year": "2025.10",
@@ -284,7 +304,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2a75b97593d1b841466707f8a8582932eecfc0fe",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1097/fjc.0000000000001768"
+      "doi": "10.1097/fjc.0000000000001768",
+      "citations": 0
     },
     {
       "year": "2025.10",
@@ -297,7 +318,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a9ce5fb4b09b869e475f27ea4f89cc47a23e3e2b",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/jacs.5c12212"
+      "doi": "10.1021/jacs.5c12212",
+      "citations": 26
     },
     {
       "year": "2025.10",
@@ -310,7 +332,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c65e1ee2971a29babd541a601d3777b20dca25ac",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/psp4.70127"
+      "doi": "10.1002/psp4.70127",
+      "citations": 10
     },
     {
       "year": "2025.10",
@@ -323,7 +346,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/05f3a7aa54c4fc44a92d2d00927a5efd524e5ece",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1039/d5cp03582a"
+      "doi": "10.1039/d5cp03582a",
+      "citations": 1
     },
     {
       "year": "2025.10",
@@ -336,7 +360,8 @@
       "paperUrl": "https://arxiv.org/abs/2510.24701",
       "codeUrl": "https://github.com/Alibaba-NLP/DeepResearch",
       "githubStars": "https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch",
-      "doi": "10.48550/arXiv.2510.24701"
+      "doi": "10.48550/arXiv.2510.24701",
+      "citations": 0
     },
     {
       "year": "2025.09",
@@ -349,7 +374,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b6df41a78e7327265ab7c85c2df1979704d9f51e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/neuonc/noaf185.104"
+      "doi": "10.1093/neuonc/noaf185.104",
+      "citations": 0
     },
     {
       "year": "2025.09",
@@ -362,7 +388,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/97412aeab5443a278258ef4269ed7224e08c9a3a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s44387-025-00021-x"
+      "doi": "10.1038/s44387-025-00021-x",
+      "citations": 18
     },
     {
       "year": "2025.09",
@@ -375,7 +402,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/417e2443ea0f32703e6f8df54f7f990e09b51c96",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.toxlet.2025.07.199"
+      "doi": "10.1016/j.toxlet.2025.07.199",
+      "citations": 0
     },
     {
       "year": "2025.09",
@@ -388,7 +416,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2c36c003302fef3f77cef4b96a723f880ac2d65b",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2509.09740"
+      "doi": "10.48550/arXiv.2509.09740",
+      "citations": 0
     },
     {
       "year": "2025.09",
@@ -401,7 +430,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a375b66187f36ef48b373433c2416185ee70dd41",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/acs.analchem.4c05039"
+      "doi": "10.1021/acs.analchem.4c05039",
+      "citations": 4
     },
     {
       "year": "2025.09",
@@ -414,7 +444,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d90383ebe5de7fe2ea516b899a1656d13656b2fc",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.09.11.675660"
+      "doi": "10.1101/2025.09.11.675660",
+      "citations": 5
     },
     {
       "year": "2025.09",
@@ -427,7 +458,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b3dc8722e83573c7a6143e2b590b5791a4cf475e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2509.19566"
+      "doi": "10.48550/arXiv.2509.19566",
+      "citations": 2
     },
     {
       "year": "2025.08",
@@ -440,7 +472,8 @@
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.08.08.669291v2",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.08.08.669291"
+      "doi": "10.1101/2025.08.08.669291",
+      "citations": 3
     },
     {
       "year": "2025.08",
@@ -453,7 +486,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d67afa3cb98b6e5a15966ce06f1aff61cf2ad270",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2508.10492"
+      "doi": "10.48550/arXiv.2508.10492",
+      "citations": 1
     },
     {
       "year": "2025.08",
@@ -466,7 +500,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ecab6c8b4052a09127340a7fcfcc0b1550435b63",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1109/TBME.2025.3597325"
+      "doi": "10.1109/TBME.2025.3597325",
+      "citations": 6
     },
     {
       "year": "2025.08",
@@ -479,7 +514,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/0688a4ed8971d339ae2f294a299ce0e9b836fb62",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-01841-6"
+      "doi": "10.1038/s41746-025-01841-6",
+      "citations": 33
     },
     {
       "year": "2025.08",
@@ -492,7 +528,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d1cb625c241b63052cea1da4fbd6b25d5f798790",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/ird3.70030"
+      "doi": "10.1002/ird3.70030",
+      "citations": 7
     },
     {
       "year": "2025.08",
@@ -505,7 +542,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fb69b0591a8acf0d3f36b47d3df36b1ef481a394",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2508.00285"
+      "doi": "10.48550/arXiv.2508.00285",
+      "citations": 0
     },
     {
       "year": "2025.08",
@@ -518,7 +556,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b1f35310cb1190f264ffdb07c7ec2fee0335cce4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3233/SHTI250844"
+      "doi": "10.3233/SHTI250844",
+      "citations": 1
     },
     {
       "year": "2025.08",
@@ -531,7 +570,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/5bd7da9ef638f309da5490cc7a2a4dac8fa9c07c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-01921-7"
+      "doi": "10.1038/s41746-025-01921-7",
+      "citations": 7
     },
     {
       "year": "2025.08",
@@ -544,7 +584,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ded9da3e1cbf8f8c142383ed4650d626445b6d18",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-01940-4"
+      "doi": "10.1038/s41746-025-01940-4",
+      "citations": 50
     },
     {
       "year": "2025.08",
@@ -557,7 +598,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/13ce985163af039fe40e1f4bab9fa4880339202c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s43856-025-01091-3"
+      "doi": "10.1038/s43856-025-01091-3",
+      "citations": 24
     },
     {
       "year": "2025.08",
@@ -570,7 +612,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/add5d50f1309b5064453b48eae56d626e291f154",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3389/frai.2025.1636809"
+      "doi": "10.3389/frai.2025.1636809",
+      "citations": 5
     },
     {
       "year": "2025.07",
@@ -583,7 +626,8 @@
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1",
       "codeUrl": "https://github.com/zou-group/virtual-lab",
       "githubStars": "https://img.shields.io/github/stars/zou-group/virtual-lab",
-      "doi": "10.1038/s41586-025-09442-9"
+      "doi": "10.1038/s41586-025-09442-9",
+      "citations": 270
     },
     {
       "year": "2025.07",
@@ -609,7 +653,8 @@
       "paperUrl": "https://doi.org/10.1093/bioadv/vbag025",
       "codeUrl": "https://github.com/huang-sh/GPTBioInsightor",
       "githubStars": "https://img.shields.io/github/stars/huang-sh/GPTBioInsightor",
-      "doi": "10.1093/bioadv/vbag025"
+      "doi": "10.1093/bioadv/vbag025",
+      "citations": 1
     },
     {
       "year": "2025.07",
@@ -700,7 +745,8 @@
       "paperUrl": "https://doi.org/10.1126/science.adz4351",
       "codeUrl": "https://biomni.stanford.edu/",
       "githubStars": "https://img.shields.io/github/stars/snap-stanford/biomni",
-      "doi": "10.1126/science.adz4351"
+      "doi": "10.1126/science.adz4351",
+      "citations": 31
     },
     {
       "year": "2025.06",
@@ -713,7 +759,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7cb3a28963a5ceb201e4092a4e52644c3436a7c7",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.04303"
+      "doi": "10.48550/arXiv.2506.04303",
+      "citations": 1
     },
     {
       "year": "2025.06",
@@ -739,7 +786,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f8666b034f4ddd25259d76c5c34e9fbb91dfc917",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.05542"
+      "doi": "10.48550/arXiv.2506.05542",
+      "citations": 4
     },
     {
       "year": "2025.06",
@@ -752,7 +800,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/50cc21fce97d07dceb5021abb655ce9015a727f6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1177/11779322251344033"
+      "doi": "10.1177/11779322251344033",
+      "citations": 1
     },
     {
       "year": "2025.06",
@@ -765,7 +814,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/860d4b613b31bc64e81644015c0164627c67f31e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.05.27.656480"
+      "doi": "10.1101/2025.05.27.656480",
+      "citations": 3
     },
     {
       "year": "2025.06",
@@ -778,7 +828,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.06366"
+      "doi": "10.48550/arXiv.2506.06366",
+      "citations": 9
     },
     {
       "year": "2025.06",
@@ -791,7 +842,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.10908"
+      "doi": "10.48550/arXiv.2506.10908",
+      "citations": 7
     },
     {
       "year": "2025.06",
@@ -804,7 +856,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/5f145bd0636027e192d7c8d0102806166fc30d64",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.02911"
+      "doi": "10.48550/arXiv.2506.02911",
+      "citations": 8
     },
     {
       "year": "2025.05",
@@ -830,7 +883,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/40e125e1b882b278d14d7f86617a4381084fa69a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2505.08844"
+      "doi": "10.48550/arXiv.2505.08844",
+      "citations": 8
     },
     {
       "year": "2025.05",
@@ -843,7 +897,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/1fd6efbd486e07872b17bf8b08ab68c5a60716c0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/aisy.202401089"
+      "doi": "10.1002/aisy.202401089",
+      "citations": 2
     },
     {
       "year": "2025.05",
@@ -856,7 +911,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b0b726a254ede59afe4ab6635fb23c916ceacb94",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/advs.202503926"
+      "doi": "10.1002/advs.202503926",
+      "citations": 22
     },
     {
       "year": "2025.05",
@@ -869,7 +925,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d",
       "codeUrl": "https://github.com/wzn99/DrugPilot",
       "githubStars": "https://img.shields.io/github/stars/wzn99/DrugPilot",
-      "doi": "10.48550/arXiv.2505.13940"
+      "doi": "10.48550/arXiv.2505.13940",
+      "citations": 24
     },
     {
       "year": "2025.05",
@@ -882,7 +939,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3ac8cac9583281d5eebca6a17e00af015eb8b286",
       "codeUrl": "https://github.com/Jpickard1/BRAD",
       "githubStars": "https://img.shields.io/github/stars/Jpickard1/BRAD",
-      "doi": "10.1093/bioinformatics/btaf159"
+      "doi": "10.1093/bioinformatics/btaf159",
+      "citations": 18
     },
     {
       "year": "2025.04",
@@ -921,7 +979,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3d7a503eded6fabd6979c3847d5db68970bf9d3d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1609/aaai.v39i28.35218"
+      "doi": "10.1609/aaai.v39i28.35218",
+      "citations": 4
     },
     {
       "year": "2025.04",
@@ -934,7 +993,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/1c45bfa74d72bc131f7254ae28e5d7ee1abd425f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.04.01.646731"
+      "doi": "10.1101/2025.04.01.646731",
+      "citations": 20
     },
     {
       "year": "2025.04",
@@ -947,7 +1007,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/0e8d9a99ce3f609b18e039f9770ef935e114b02e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2504.04698"
+      "doi": "10.48550/arXiv.2504.04698",
+      "citations": 11
     },
     {
       "year": "2026.06",
@@ -973,7 +1034,8 @@
       "paperUrl": "https://doi.org/10.1093/bioinformatics/btaf402",
       "codeUrl": "https://github.com/NIH-NEI/SCassist",
       "githubStars": "https://img.shields.io/github/stars/NIH-NEI/SCassist",
-      "doi": "10.1093/bioinformatics/btaf402"
+      "doi": "10.1093/bioinformatics/btaf402",
+      "citations": 4
     },
     {
       "year": "2025.04",
@@ -986,7 +1048,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d4b49553e887d04229c6cd04cc1eb6e464332e4e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.04.01.646719"
+      "doi": "10.1101/2025.04.01.646719",
+      "citations": 3
     },
     {
       "year": "2025.04",
@@ -999,7 +1062,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4305e3ff95f996eafc5a25dec044eed4af34aac4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2504.03976"
+      "doi": "10.48550/arXiv.2504.03976",
+      "citations": 2
     },
     {
       "year": "2025.03",
@@ -1051,7 +1115,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/46e921cb6fba3423e48fa894afa9b0b47bf934d6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.22164"
+      "doi": "10.48550/arXiv.2503.22164",
+      "citations": 25
     },
     {
       "year": "2025.03",
@@ -1064,7 +1129,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a967904a87ba4c1d6359fbd7342a074d63e2fe63",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.23170"
+      "doi": "10.48550/arXiv.2503.23170",
+      "citations": 9
     },
     {
       "year": "2025.03",
@@ -1077,7 +1143,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b913baa47245a4a76054bb12e04d61c3c88fb532",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.03.06.641840"
+      "doi": "10.1101/2025.03.06.641840",
+      "citations": 14
     },
     {
       "year": "2025.03",
@@ -1090,7 +1157,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ab1f61ae171dfbe425e60bc942997c1bdba29c24",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3929/ethz-b-000726143"
+      "doi": "10.3929/ethz-b-000726143",
+      "citations": 2
     },
     {
       "year": "2025.03",
@@ -1103,7 +1171,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/391ca60f6cd9b7ccc0ff8bc5fc72c6543c770fd9",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.03503"
+      "doi": "10.48550/arXiv.2503.03503",
+      "citations": 22
     },
     {
       "year": "2026.08",
@@ -1116,7 +1185,8 @@
       "paperUrl": "https://doi.org/10.1016/j.crmeth.2026.101503",
       "codeUrl": "https://github.com/NIH-NEI/IAN",
       "githubStars": "https://img.shields.io/github/stars/NIH-NEI/IAN",
-      "doi": "10.1016/j.crmeth.2026.101503"
+      "doi": "10.1016/j.crmeth.2026.101503",
+      "citations": 2
     },
     {
       "year": "2025.02",
@@ -1142,7 +1212,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/cb217acb0ea521307477a39ec893f135b72ead45",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.01059"
+      "doi": "10.48550/arXiv.2502.01059",
+      "citations": 1
     },
     {
       "year": "2025.02",
@@ -1155,7 +1226,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e44999184842c94e6f976417cbe73431501eac03",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.02.11.637754"
+      "doi": "10.1101/2025.02.11.637754",
+      "citations": 9
     },
     {
       "year": "2025.02",
@@ -1168,7 +1240,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8ab71d93085aaa5900ad6ec5e7b966829934d95e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.02.13.638015"
+      "doi": "10.1101/2025.02.13.638015",
+      "citations": 6
     },
     {
       "year": "2025.01",
@@ -1220,7 +1293,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4ea31174978b289183898b4cafd1432d9ddd0349",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.01.28.634527"
+      "doi": "10.1101/2025.01.28.634527",
+      "citations": 3
     },
     {
       "year": "2024.12",
@@ -1233,7 +1307,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c89cfdd40cf24c40b09304cbbf85024933def10c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/acs.jcim.4c01345"
+      "doi": "10.1021/acs.jcim.4c01345",
+      "citations": 12
     },
     {
       "year": "2024.12",
@@ -1246,7 +1321,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/aba63c2f387349a58bbc9a89d83e2018bc436819",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1109/ICDMW65004.2024.00092"
+      "doi": "10.1109/ICDMW65004.2024.00092",
+      "citations": 4
     },
     {
       "year": "2024.12",
@@ -1259,7 +1335,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/dbbcdb281ed6aa646af0402172cf8a7cfda85d5c",
       "codeUrl": "https://github.com/lamm-mit/SciAgentsDiscovery",
       "githubStars": "https://img.shields.io/github/stars/lamm-mit/SciAgentsDiscovery",
-      "doi": "10.1002/adma.202413523"
+      "doi": "10.1002/adma.202413523",
+      "citations": 254
     },
     {
       "year": "2024.12",
@@ -1272,7 +1349,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/0cac159098bb2365ca8547979f6f81018165a0ca",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3390/biomedicines12122894"
+      "doi": "10.3390/biomedicines12122894",
+      "citations": 2
     },
     {
       "year": "2024.11",
@@ -1337,7 +1415,8 @@
       "paperUrl": "https://doi.org/10.1093/bib/bbaf312",
       "codeUrl": "https://github.com/lyyang01/Bio-Copilot",
       "githubStars": "https://img.shields.io/github/stars/lyyang01/Bio-Copilot",
-      "doi": "10.1093/bib/bbaf312"
+      "doi": "10.1093/bib/bbaf312",
+      "citations": 9
     },
     {
       "year": "2024.04",
@@ -1376,7 +1455,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c1e2d1b164d639f803c46ae335371e8ff9f66eb8",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/acs.jcim.5c02299"
+      "doi": "10.1021/acs.jcim.5c02299",
+      "citations": 1
     },
     {
       "year": "2025-12",
@@ -1389,7 +1469,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/418f1dbe4d9e45cfc7a2e0688c20d81fcb8c2de9",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.64898/2025.12.29.684576"
+      "doi": "10.64898/2025.12.29.684576",
+      "citations": 1
     },
     {
       "year": "2025-12",
@@ -1402,7 +1483,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/21e8c7b8e04f3a1e3c3ccc8ccdf285eb608c3a44",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.64898/2025.12.17.694980"
+      "doi": "10.64898/2025.12.17.694980",
+      "citations": 0
     },
     {
       "year": "2025-12",
@@ -1415,7 +1497,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e2c588ab5ffec9297c68b62d1792285b4fc5dd01",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.64898/2025.12.16.25342438"
+      "doi": "10.64898/2025.12.16.25342438",
+      "citations": 2
     },
     {
       "year": "2025-12",
@@ -1428,7 +1511,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/82be906a8aa6895796b2b9afc42953dd3ae2392e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2512.17146"
+      "doi": "10.48550/arXiv.2512.17146",
+      "citations": 0
     },
     {
       "year": "2025.03",
@@ -1441,7 +1525,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/bib/bbaf377"
+      "doi": "10.1093/bib/bbaf377",
+      "citations": 8
     }
   ],
   "Foundation models": [
@@ -1456,7 +1541,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/96635eda1f59bf68a0b2dca799155c37ea90e441",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41592-025-02899-6"
+      "doi": "10.1038/s41592-025-02899-6",
+      "citations": 40
     },
     {
       "year": "2025.12",
@@ -1469,7 +1555,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383",
       "codeUrl": "https://github.com/abuendia/spatial-prop",
       "githubStars": "https://img.shields.io/github/stars/abuendia/spatial-prop",
-      "doi": "10.64898/2025.11.30.691355"
+      "doi": "10.64898/2025.11.30.691355",
+      "citations": 2
     },
     {
       "year": "2025.12",
@@ -1482,7 +1569,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.cell.2025.11.016"
+      "doi": "10.1016/j.cell.2025.11.016",
+      "citations": 62
     },
     {
       "year": "2025.12",
@@ -1495,7 +1583,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/37e1003be2e2cc4c1f09352c17363597d47f6740",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-66620-z"
+      "doi": "10.1038/s41467-025-66620-z",
+      "citations": 18
     },
     {
       "year": "2025.12",
@@ -1508,7 +1597,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ef1e5451d11c0684b4867e410682daf776ab91c8",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s43588-025-00912-8"
+      "doi": "10.1038/s43588-025-00912-8",
+      "citations": 15
     },
     {
       "year": "2025.12",
@@ -1521,7 +1611,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2698cc4940fd54cdbc458272b3abc41e7bad6679",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1158/1078-0432.CCR-25-2445"
+      "doi": "10.1158/1078-0432.CCR-25-2445",
+      "citations": 2
     },
     {
       "year": "2025.12",
@@ -1534,7 +1625,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c21fa11a2873e22feaeef7ffaa395d377f6b9cad",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1186/s13059-025-03890-2"
+      "doi": "10.1186/s13059-025-03890-2",
+      "citations": 3
     },
     {
       "year": "2025.11",
@@ -1547,7 +1639,8 @@
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1",
       "codeUrl": "https://github.com/snap-stanford/PULSAR/",
       "githubStars": "https://img.shields.io/github/stars/snap-stanford/PULSAR",
-      "doi": "10.1101/2025.11.24.685470"
+      "doi": "10.1101/2025.11.24.685470",
+      "citations": 4
     },
     {
       "year": "2025.11",
@@ -1560,7 +1653,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/dc21f74eef0a822e4822d8530f7b31577018aca3",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.7326/ANNALS-25-00739"
+      "doi": "10.7326/ANNALS-25-00739",
+      "citations": 23
     },
     {
       "year": "2025.11",
@@ -1586,7 +1680,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/27ef41325e809dc35657540d14bcbb79cadad20f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41591-025-03982-3"
+      "doi": "10.1038/s41591-025-03982-3",
+      "citations": 115
     },
     {
       "year": "2025.11",
@@ -1599,7 +1694,8 @@
       "paperUrl": "https://www.nature.com/articles/s41551-025-01528-z",
       "codeUrl": "https://github.com/TencentAILabHealthcare/scTranslator",
       "githubStars": "https://img.shields.io/github/stars/TencentAILabHealthcare/scTranslator",
-      "doi": "https://doi.org/10.1038/s41551-025-01528-z"
+      "doi": "https://doi.org/10.1038/s41551-025-01528-z",
+      "citations": 11
     },
     {
       "year": "2025.11",
@@ -1612,7 +1708,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e8ff2fc61bdbb4dafc4a47c3a9b0db33519f7e3c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-02042-x"
+      "doi": "10.1038/s41746-025-02042-x",
+      "citations": 11
     },
     {
       "year": "2025.11",
@@ -1625,7 +1722,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4c6905c93cba6bed8e11b29dcb446b11c996c49a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s43856-025-01205-x"
+      "doi": "10.1038/s43856-025-01205-x",
+      "citations": 7
     },
     {
       "year": "2025.11",
@@ -1638,7 +1736,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c9cd1f5b57f86be3a656f17a0dc0ed32a4e82825",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-65340-8"
+      "doi": "10.1038/s41467-025-65340-8",
+      "citations": 23
     },
     {
       "year": "2025.10",
@@ -1651,7 +1750,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4488463e7f0cd84dd17f5f26ee952e900c0d1be3",
       "codeUrl": "https://github.com/BGI-HangzhouAI/Genos",
       "githubStars": "https://img.shields.io/github/stars/BGI-shenzhen/Genos",
-      "doi": "10.1093/gigascience/giaf132"
+      "doi": "10.1093/gigascience/giaf132",
+      "citations": 18
     },
     {
       "year": "2025.10",
@@ -1664,7 +1764,8 @@
       "paperUrl": "https://www.science.org/doi/10.1126/science.adi8577",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1126/science.adi8577"
+      "doi": "10.1126/science.adi8577",
+      "citations": 50
     },
     {
       "year": "2025.10",
@@ -1677,7 +1778,8 @@
       "paperUrl": "https://www.nature.com/articles/s43588-025-00870-1",
       "codeUrl": "https://github.com/perturblib/perturblib",
       "githubStars": "https://img.shields.io/github/stars/perturblib/perturblib",
-      "doi": "doi.org/10.1038/s43588-025-00870-1"
+      "doi": "doi.org/10.1038/s43588-025-00870-1",
+      "citations": 23
     },
     {
       "year": "2025.10",
@@ -1690,7 +1792,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/1162518e157df984005781befad5137fe322e387",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/ndt/gfaf116.0786"
+      "doi": "10.1093/ndt/gfaf116.0786",
+      "citations": 0
     },
     {
       "year": "2025.10",
@@ -1703,7 +1806,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d33e009f7804910b78436dbf1ef9c33b0b4735a0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3389/fmicb.2025.1687021"
+      "doi": "10.3389/fmicb.2025.1687021",
+      "citations": 0
     },
     {
       "year": "2025.10",
@@ -1716,7 +1820,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/60ff987179dd2874300a3180bc8a37995b20035a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1039/d5nr03027g"
+      "doi": "10.1039/d5nr03027g",
+      "citations": 1
     },
     {
       "year": "2025.09",
@@ -1729,7 +1834,8 @@
       "paperUrl": "https://arxiv.org/abs/2509.26223",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2509.26223"
+      "doi": "10.48550/arXiv.2509.26223",
+      "citations": 0
     },
     {
       "year": "2025.09",
@@ -1742,7 +1848,8 @@
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40983974/",
       "codeUrl": "https://github.com/suzheng/GeneRAIN",
       "githubStars": "https://img.shields.io/github/stars/suzheng/GeneRAIN",
-      "doi": "10.1186/s13059-025-03749-6"
+      "doi": "10.1186/s13059-025-03749-6",
+      "citations": 3
     },
     {
       "year": "2025.09",
@@ -1755,7 +1862,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/05c6b1020a1d8018530f3a56702a00703d7170a0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.annonc.2025.08.635"
+      "doi": "10.1016/j.annonc.2025.08.635",
+      "citations": 0
     },
     {
       "year": "2025.09",
@@ -1768,7 +1876,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.08.27.672609"
+      "doi": "10.1101/2025.08.27.672609",
+      "citations": 1
     },
     {
       "year": "2025.09",
@@ -1781,7 +1890,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/369f76d5f2e4cd2028863acec5b4f15fecdc9f63",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-62058-5"
+      "doi": "10.1038/s41467-025-62058-5",
+      "citations": 19
     },
     {
       "year": "2025.09",
@@ -1794,7 +1904,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/832128fa44868362e97bb29386c5c1425f428e78",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1109/JBHI.2025.3611985"
+      "doi": "10.1109/JBHI.2025.3611985",
+      "citations": 1
     },
     {
       "year": "2025.09",
@@ -1807,7 +1918,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2fd36ab5d27c28324c14047f0ee852e475af152f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-63794-4"
+      "doi": "10.1038/s41467-025-63794-4",
+      "citations": 8
     },
     {
       "year": "2025.08",
@@ -1820,7 +1932,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/669f6dcb66625d549e88f697fdf9a38cd3bcce3f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s44387-025-00015-9"
+      "doi": "10.1038/s44387-025-00015-9",
+      "citations": 55
     },
     {
       "year": "2025.08",
@@ -1833,7 +1946,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/47a6ff604cb8beee19e44353346c6cc404e968bc",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.jacadv.2025.102117"
+      "doi": "10.1016/j.jacadv.2025.102117",
+      "citations": 1
     },
     {
       "year": "2025.08",
@@ -1846,7 +1960,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f3b2b073deb1bb49f4ba089a4cafa6c578aececd",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-63160-4"
+      "doi": "10.1038/s41467-025-63160-4",
+      "citations": 20
     },
     {
       "year": "2025.08",
@@ -1859,7 +1974,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/30bf408ed7ceb1a7aee914ebe6ccf125ace58cc4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-01941-3"
+      "doi": "10.1038/s41746-025-01941-3",
+      "citations": 6
     },
     {
       "year": "2025.08",
@@ -1872,7 +1988,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d77d18b9f67a0891cf665e22c26d22b59ba58b14",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2508.18579"
+      "doi": "10.48550/arXiv.2508.18579",
+      "citations": 1
     },
     {
       "year": "2025.08",
@@ -1885,7 +2002,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a9f7761b740c85444b86f581801a471340007a0d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2023.12.07.569910"
+      "doi": "10.1101/2023.12.07.569910",
+      "citations": 28
     },
     {
       "year": "2025.07",
@@ -2041,7 +2159,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a4ac7f99debb0c757ba3f0f8291b24a4255d1d03",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.05127"
+      "doi": "10.48550/arXiv.2506.05127",
+      "citations": 16
     },
     {
       "year": "2025.05",
@@ -2106,7 +2225,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9aab32b1ffef407d9918bcf6f7b87c930d45c3f7",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.01.28.635153"
+      "doi": "10.1101/2025.01.28.635153",
+      "citations": 2
     },
     {
       "year": "2025.05",
@@ -2119,7 +2239,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.05.28.653051"
+      "doi": "10.1101/2025.05.28.653051",
+      "citations": 3
     },
     {
       "year": "2025.05",
@@ -2132,7 +2253,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2505.03853"
+      "doi": "10.48550/arXiv.2505.03853",
+      "citations": 4
     },
     {
       "year": "2025.04",
@@ -2145,7 +2267,8 @@
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1",
       "codeUrl": "https://github.com/vandijklab/cell2sentence",
       "githubStars": "https://img.shields.io/github/stars/vandijklab/cell2sentence",
-      "doi": "10.1101/2025.04.14.648850"
+      "doi": "10.1101/2025.04.14.648850",
+      "citations": 56
     },
     {
       "year": "2025.04",
@@ -2171,7 +2294,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e8db25fc84442d27305675bc67f101ee2cad8d49",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-5084"
+      "doi": "10.1158/1538-7445.am2025-5084",
+      "citations": 0
     },
     {
       "year": "2025.04",
@@ -2184,7 +2308,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/bf2a8036a813c5bc51269f833d5c0109c7275950",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-6316"
+      "doi": "10.1158/1538-7445.am2025-6316",
+      "citations": 0
     },
     {
       "year": "2025.04",
@@ -2197,7 +2322,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-5059"
+      "doi": "10.1158/1538-7445.am2025-5059",
+      "citations": 0
     },
     {
       "year": "2025.04",
@@ -2223,7 +2349,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/555b53a4b3f89030f96e6a2e2d7e4ee83a1de4b5",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-3762"
+      "doi": "10.1158/1538-7445.am2025-3762",
+      "citations": 0
     },
     {
       "year": "2025.04",
@@ -2249,7 +2376,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.02781"
+      "doi": "10.48550/arXiv.2503.02781",
+      "citations": 13
     },
     {
       "year": "2025.02",
@@ -2301,7 +2429,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/92e6303157e9044ada38869c8d3c318882bbb9b6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.17464"
+      "doi": "10.48550/arXiv.2502.17464",
+      "citations": 14
     },
     {
       "year": "2025.02",
@@ -2314,7 +2443,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7b9c7b43df7282797547f622788389d09cf5b3d2",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.03499"
+      "doi": "10.48550/arXiv.2502.03499",
+      "citations": 7
     },
     {
       "year": "2025.02",
@@ -2327,7 +2457,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.02.07.637146"
+      "doi": "10.1101/2025.02.07.637146",
+      "citations": 6
     },
     {
       "year": "2025.02",
@@ -2340,7 +2471,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/91b7e83815ad6a4da3232dd62f3799634ee43dda",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.7554/eLife.102788"
+      "doi": "10.7554/eLife.102788",
+      "citations": 8
     },
     {
       "year": "2025.01",
@@ -2418,7 +2550,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/98be9134fce5ba8889ea6de518b814c9482ecd8e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.01.07.631724"
+      "doi": "10.1101/2025.01.07.631724",
+      "citations": 3
     },
     {
       "year": "2025.01",
@@ -2431,7 +2564,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2fc9811c567186a15873eb8600df36b27f40c088",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.01.13.632881"
+      "doi": "10.1101/2025.01.13.632881",
+      "citations": 12
     },
     {
       "year": "2025.01",
@@ -2444,7 +2578,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8d6ab0e57aa1f7d20e680f3306a9e098a9b3a286",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2501.15108"
+      "doi": "10.48550/arXiv.2501.15108",
+      "citations": 8
     },
     {
       "year": "2024.12",
@@ -2457,7 +2592,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/238d842ee1679545e00d212a342f271a05473eaf",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2024.12.09.627422"
+      "doi": "10.1101/2024.12.09.627422",
+      "citations": 9
     },
     {
       "year": "2024.12",
@@ -2470,7 +2606,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2024.12.07.627102"
+      "doi": "10.1101/2024.12.07.627102",
+      "citations": 1
     },
     {
       "year": "2024.12",
@@ -2483,7 +2620,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4eb9efc6ea3f7bf7935c374940af4c3866a5a368",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3390/ijms26010130"
+      "doi": "10.3390/ijms26010130",
+      "citations": 11
     },
     {
       "year": "2024.12",
@@ -2496,7 +2634,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/1fc064d589849dfefce0d28fe64b9b83600a0cb6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2412.04069"
+      "doi": "10.48550/arXiv.2412.04069",
+      "citations": 5
     },
     {
       "year": "2024.11",
@@ -2769,7 +2908,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7e61e5a7b3605c8a5413c0453edaaa65055f563d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.64898/2025.12.22.695962"
+      "doi": "10.64898/2025.12.22.695962",
+      "citations": 1
     },
     {
       "year": "2025-12",
@@ -2782,7 +2922,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/270987463346ea5b85fb6b4f0745a27e9c22ec3e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.64898/2025.12.19.25342614"
+      "doi": "10.64898/2025.12.19.25342614",
+      "citations": 4
     },
     {
       "year": "2025-12",
@@ -2795,7 +2936,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/adec35d82936a1582fae1e604fb9aa709652be87",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-026-02564-y"
+      "doi": "10.1038/s41746-026-02564-y",
+      "citations": 0
     },
     {
       "year": "2025.05",
@@ -2808,7 +2950,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/304965a51b428af89df398ec0cc84314b00ac94c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2505.17257"
+      "doi": "10.48550/arXiv.2505.17257",
+      "citations": 9
     },
     {
       "year": "2025.05",
@@ -2821,7 +2964,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/944165a43458f98e00f6a322ff8aefd08ed0fd64",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-59628-y"
+      "doi": "10.1038/s41467-025-59628-y",
+      "citations": 31
     },
     {
       "year": "2025.05",
@@ -2834,7 +2978,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/db13fc81c41991a53706b040dff93f7c28071235",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.05.20.654992"
+      "doi": "10.1101/2025.05.20.654992",
+      "citations": 32
     }
   ],
   "Databases/Simulation": [
@@ -2849,7 +2994,8 @@
       "paperUrl": "https://www.biorxiv.org/content/10.64898/2025.12.23.696273v1",
       "codeUrl": "https://github.com/emdann/GWT_perturbseq_analysis_2025",
       "githubStars": "https://img.shields.io/github/stars/emdann/GWT_perturbseq_analysis_2025",
-      "doi": "10.64898/2025.12.23.696273"
+      "doi": "10.64898/2025.12.23.696273",
+      "citations": 20
     },
     {
       "year": "2025.11",
@@ -2862,7 +3008,8 @@
       "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064",
       "codeUrl": "https://github.com/Starlitnightly/CellOntologyMapper",
       "githubStars": "https://img.shields.io/github/stars/Starlitnightly/CellOntologyMapper",
-      "doi": "10.1002/imo2.70064"
+      "doi": "10.1002/imo2.70064",
+      "citations": 0
     },
     {
       "year": "2025.11",
@@ -2875,7 +3022,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/693c203c962996b3a53f115787aa2ad849ba4f16",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/nar/gkaf1254"
+      "doi": "10.1093/nar/gkaf1254",
+      "citations": 17
     },
     {
       "year": "2025.10",
@@ -2888,7 +3036,8 @@
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/41138729/",
       "codeUrl": "https://github.com/guomics-lab/Aging_PR",
       "githubStars": "https://img.shields.io/github/stars/guomics-lab/Aging_PR",
-      "doi": "10.1016/j.cell.2025.10.004"
+      "doi": "10.1016/j.cell.2025.10.004",
+      "citations": 11
     },
     {
       "year": "2025.10",
@@ -2901,7 +3050,8 @@
       "paperUrl": "https://www.nature.com/articles/s41586-025-09603-w",
       "codeUrl": "https://github.com/ratschlab/metagraph",
       "githubStars": "https://img.shields.io/github/stars/ratschlab/metagraph",
-      "doi": "10.1038/s41586-025-09603-w"
+      "doi": "10.1038/s41586-025-09603-w",
+      "citations": 35
     },
     {
       "year": "2025.10",
@@ -2914,7 +3064,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/16e555468e627ef481d4d175fd23ccf75b2267c6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3233/SHTI251535"
+      "doi": "10.3233/SHTI251535",
+      "citations": 2
     },
     {
       "year": "2025.10",
@@ -2927,7 +3078,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3912db2f306b51446460ca728fc328fdf05e41f5",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41597-025-05922-9"
+      "doi": "10.1038/s41597-025-05922-9",
+      "citations": 15
     },
     {
       "year": "2025.10",
@@ -2940,7 +3092,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4f2dc57404b117f11dae7e704c9a360440a02d27",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/acsomega.5c03612"
+      "doi": "10.1021/acsomega.5c03612",
+      "citations": 3
     },
     {
       "year": "2025.09",
@@ -2953,7 +3106,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/04ee89fee63089a928a24f26caddc7b27c2bd22f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2509.25620"
+      "doi": "10.48550/arXiv.2509.25620",
+      "citations": 3
     },
     {
       "year": "2025.08",
@@ -2979,7 +3133,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/cf72cf90a34bbb8715ca2626d4ac6e901afb3457",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41467-025-62781-z"
+      "doi": "10.1038/s41467-025-62781-z",
+      "citations": 21
     },
     {
       "year": "2025.08",
@@ -2992,7 +3147,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/839511d2d7a43d41be05e10fe8448b0ca37112a2",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/pro.70251"
+      "doi": "10.1002/pro.70251",
+      "citations": 8
     },
     {
       "year": "2025.08",
@@ -3005,7 +3161,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/eecf17eee7339225389f95c092fbf8fbda0f9779",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2508.08331"
+      "doi": "10.48550/arXiv.2508.08331",
+      "citations": 0
     },
     {
       "year": "2025.06",
@@ -3031,7 +3188,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f5af8e3f7acd968b7baeb788f5b33cf7d868616e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/advs.202500870"
+      "doi": "10.1002/advs.202500870",
+      "citations": 11
     },
     {
       "year": "2025.05",
@@ -3044,7 +3202,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b2f16f79e6dc815d09b2892db7d3ca1d8a766478",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/nar/gkaf375"
+      "doi": "10.1093/nar/gkaf375",
+      "citations": 3
     },
     {
       "year": "2025.04",
@@ -3070,7 +3229,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e3ce9b990c9604648ad39e38275cd61b7711415a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/bioinformatics/btaf149"
+      "doi": "10.1093/bioinformatics/btaf149",
+      "citations": 9
     },
     {
       "year": "2025.04",
@@ -3083,7 +3243,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2504.02148"
+      "doi": "10.48550/arXiv.2504.02148",
+      "citations": 4
     },
     {
       "year": "2025.04",
@@ -3096,7 +3257,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fcfbebdd995f3f1fc4592e08c4ed7e08c5ae2da1",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-1087"
+      "doi": "10.1158/1538-7445.am2025-1087",
+      "citations": 0
     },
     {
       "year": "2025.03",
@@ -3148,7 +3310,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b51970fcc636348932f171cf220d810b5a873ba0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.02.19.639172"
+      "doi": "10.1101/2025.02.19.639172",
+      "citations": 0
     },
     {
       "year": "2024.12",
@@ -3161,7 +3324,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/aa3a1bbd4f6ec6934ce6a3850991747f563ab3b0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2412.06847"
+      "doi": "10.48550/arXiv.2412.06847",
+      "citations": 0
     },
     {
       "year": "2024.12",
@@ -3174,7 +3338,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/212898d49afdf60a12eeda9935bc54d748da3089",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2024.12.05.627020"
+      "doi": "10.1101/2024.12.05.627020",
+      "citations": 4
     },
     {
       "year": "2024.12",
@@ -3187,7 +3352,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/28d30ecee02ba1039bd83c77d3131c7c744dad26",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/alz.092685"
+      "doi": "10.1002/alz.092685",
+      "citations": 0
     },
     {
       "year": "2024.06",
@@ -3239,7 +3405,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/32d3cb0da0e5ad703eb29a90047efa53156a199c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1021/acs.jcim.5c01945"
+      "doi": "10.1021/acs.jcim.5c01945",
+      "citations": 1
     },
     {
       "year": "2025.05",
@@ -3252,7 +3419,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ecfac36c981a52c976ecfee77afa51e6ddcef7f9",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1039/d4sc08802f"
+      "doi": "10.1039/d4sc08802f",
+      "citations": 12
     }
   ],
   "Benchmarks": [
@@ -3267,7 +3435,8 @@
       "paperUrl": "https://www.nature.com/articles/s41467-025-67481-2",
       "codeUrl": "https://github.com/QSong-github/scDrugMap",
       "githubStars": "https://img.shields.io/github/stars/QSong-github/scDrugMap",
-      "doi": "10.1038/s41467-025-67481-2"
+      "doi": "10.1038/s41467-025-67481-2",
+      "citations": 5
     },
     {
       "year": "2025.12",
@@ -3280,7 +3449,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/68ab12015fe819fecd876b4dd8cb81facd8c647e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1371/journal.pone.0336577"
+      "doi": "10.1371/journal.pone.0336577",
+      "citations": 1
     },
     {
       "year": "2025.12",
@@ -3293,7 +3463,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/bbfeb4fad4854bf8299b90dc72e5be97ce3233cb",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1126/sciimmunol.adx1794"
+      "doi": "10.1126/sciimmunol.adx1794",
+      "citations": 5
     },
     {
       "year": "2025.11",
@@ -3306,7 +3477,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/78c758993828ae1ee5f0584d813152f2ce4af84f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-02005-2"
+      "doi": "10.1038/s41746-025-02005-2",
+      "citations": 72
     },
     {
       "year": "2025.11",
@@ -3319,7 +3491,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/451e3c40a041f86528800d0334d2883e427d9083",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1111/exd.70175"
+      "doi": "10.1111/exd.70175",
+      "citations": 0
     },
     {
       "year": "2025.11",
@@ -3332,7 +3505,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f96a2b7f2a4866633d0ce8b267f7ddb2b978ac50",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3390/jcm14228033"
+      "doi": "10.3390/jcm14228033",
+      "citations": 3
     },
     {
       "year": "2025.11",
@@ -3345,7 +3519,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/def7e6e5f4214315563aea3a913cc3580431af90",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2024.12.13.628448"
+      "doi": "10.1101/2024.12.13.628448",
+      "citations": 24
     },
     {
       "year": "2025.10",
@@ -3358,7 +3533,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fb8c61c3c19c42a2ea24c9d24d8fe154a1c2ad5c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3389/frai.2025.1664303"
+      "doi": "10.3389/frai.2025.1664303",
+      "citations": 3
     },
     {
       "year": "2025.10",
@@ -3371,7 +3547,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8111d51e12be7239b1bdceb41a8a7d49364ce36f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1007/s11606-025-09888-7"
+      "doi": "10.1007/s11606-025-09888-7",
+      "citations": 18
     },
     {
       "year": "2025.10",
@@ -3384,7 +3561,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/78f0fe0f64e3c240cb970a1a09aa3246dcf7b17d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1097/JS9.0000000000003631"
+      "doi": "10.1097/JS9.0000000000003631",
+      "citations": 3
     },
     {
       "year": "2025.10",
@@ -3397,7 +3575,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9b089d091cbba4c292c025d4903001a08ab326c0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.5152/j.aott.2025.25428"
+      "doi": "10.5152/j.aott.2025.25428",
+      "citations": 8
     },
     {
       "year": "2025.10",
@@ -3410,7 +3589,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c7971a60f6f5d72b3ddc29767eb9905d0a01dbe5",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41598-025-22437-w"
+      "doi": "10.1038/s41598-025-22437-w",
+      "citations": 14
     },
     {
       "year": "2025.10",
@@ -3423,7 +3603,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a4c43e72d1311ea886405e9bdc942f49d5357046",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/jamia/ocaf174"
+      "doi": "10.1093/jamia/ocaf174",
+      "citations": 5
     },
     {
       "year": "2025.10",
@@ -3436,7 +3617,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/56739c6a235efbc01afbb0fb198538219fefb181",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-01996-2"
+      "doi": "10.1038/s41746-025-01996-2",
+      "citations": 4
     },
     {
       "year": "2025.10",
@@ -3449,7 +3631,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3ee4da3d68df74aaef3fc69df14dea76d32223a8",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41598-025-22979-z"
+      "doi": "10.1038/s41598-025-22979-z",
+      "citations": 28
     },
     {
       "year": "2025.09",
@@ -3462,7 +3645,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d9cb979f15f584f231076a9c36e898c9599244b5",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1007/s00432-025-06304-9"
+      "doi": "10.1007/s00432-025-06304-9",
+      "citations": 10
     },
     {
       "year": "2025.09",
@@ -3475,7 +3659,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/97de7f17b404aa7b484062f252576902358fe0aa",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1097/JS9.0000000000003406"
+      "doi": "10.1097/JS9.0000000000003406",
+      "citations": 9
     },
     {
       "year": "2025.09",
@@ -3488,7 +3673,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9e8ad3169a37fe49b3bbf6bd6319aa6c47e6665f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.2196/75910"
+      "doi": "10.2196/75910",
+      "citations": 9
     },
     {
       "year": "2025.09",
@@ -3501,7 +3687,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fa0d96aa69d0f420172727ffe5402530f1f57d33",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.2196/72412"
+      "doi": "10.2196/72412",
+      "citations": 2
     },
     {
       "year": "2025.09",
@@ -3514,7 +3701,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8ba1a7337bd576ea0473c5aa0cb39fbf19310a0f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.2196/76048"
+      "doi": "10.2196/76048",
+      "citations": 20
     },
     {
       "year": "2025.09",
@@ -3527,7 +3715,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/77ac819d1287c6bb41c1d988f5528a09e40ccce7",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1186/s12911-025-03202-5"
+      "doi": "10.1186/s12911-025-03202-5",
+      "citations": 9
     },
     {
       "year": "2025.09",
@@ -3540,7 +3729,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8cdb6320735984619991bab8b1f54502ecc96aca",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2509.17353"
+      "doi": "10.48550/arXiv.2509.17353",
+      "citations": 8
     },
     {
       "year": "2025.08",
@@ -3553,7 +3743,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/45ca1748e55b6a73096c33cce5d18d9c3781241a",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1017/S0029665125101572"
+      "doi": "10.1017/S0029665125101572",
+      "citations": 0
     },
     {
       "year": "2025.08",
@@ -3566,7 +3757,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3deaeaf3edefbe465c46927eccb65af9f8193937",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1080/26408066.2025.2547211"
+      "doi": "10.1080/26408066.2025.2547211",
+      "citations": 0
     },
     {
       "year": "2025.08",
@@ -3579,7 +3771,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/820a8fbfdc7dae76f13041ce27e2070342d0b10f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1177/00131644251355485"
+      "doi": "10.1177/00131644251355485",
+      "citations": 7
     },
     {
       "year": "2025.08",
@@ -3592,7 +3785,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/bc5d6c636c36f5ddc9af61da414511d43373b8e0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s42256-025-01072-0"
+      "doi": "10.1038/s42256-025-01072-0",
+      "citations": 54
     },
     {
       "year": "2025.08",
@@ -3605,7 +3799,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/dfbb9645b5580d4b08e4a1d5e3a21b2998c08531",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1186/s13054-025-05591-5"
+      "doi": "10.1186/s13054-025-05591-5",
+      "citations": 7
     },
     {
       "year": "2025.08",
@@ -3618,7 +3813,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/6fa80e4e9537bc8ec43df53f9d57373d79144dbb",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.08.22.671610"
+      "doi": "10.1101/2025.08.22.671610",
+      "citations": 1
     },
     {
       "year": "2025.08",
@@ -3670,7 +3866,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.02052"
+      "doi": "10.48550/arXiv.2506.02052",
+      "citations": 2
     },
     {
       "year": "2025.05",
@@ -3683,7 +3880,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/4dd1c628a26c7b13c98e975c7ae8b5c16fbc320e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2505.07865"
+      "doi": "10.48550/arXiv.2505.07865",
+      "citations": 8
     },
     {
       "year": "2025.05",
@@ -3722,7 +3920,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/47e39f3d5f62dbf4079be48a77f540baea3f689d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.19586"
+      "doi": "10.48550/arXiv.2503.19586",
+      "citations": 4
     },
     {
       "year": "2025.02",
@@ -3735,7 +3934,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/1456f9a8717ea2987897172a3e855970302cc373",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.16660"
+      "doi": "10.48550/arXiv.2502.16660",
+      "citations": 18
     },
     {
       "year": "2025.02",
@@ -3748,7 +3948,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/79dd24bdeaefadf1681d1d68104a02ba78c9c91d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.02500"
+      "doi": "10.48550/arXiv.2502.02500",
+      "citations": 0
     },
     {
       "year": "2025.02",
@@ -3761,7 +3962,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fa6f62ba24bfa8f771c0f01f6a0ecbd81b253088",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.02.19.639127"
+      "doi": "10.1101/2025.02.19.639127",
+      "citations": 7
     },
     {
       "year": "2025.01",
@@ -3774,7 +3976,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8b9312c65220e7ef9c5edfc5b3b9f8bb259e1444",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.01.15.633272"
+      "doi": "10.1101/2025.01.15.633272",
+      "citations": 9
     },
     {
       "year": "2025.01",
@@ -3787,7 +3990,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7d4202a3e3801d6304e0e2463c49d033b37da77d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2501.18009"
+      "doi": "10.48550/arXiv.2501.18009",
+      "citations": 10
     },
     {
       "year": "2025.01",
@@ -3800,7 +4004,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f62b34cfa37bc9066affe185da5349f4c9ef9fb0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1101/2025.01.17.633626"
+      "doi": "10.1101/2025.01.17.633626",
+      "citations": 4
     },
     {
       "year": "2024.12",
@@ -3826,7 +4031,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7eb6e6bce59f3e724ae3365b1348627dfd73c409",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2412.04075"
+      "doi": "10.48550/arXiv.2412.04075",
+      "citations": 4
     },
     {
       "year": "2025-12",
@@ -3839,7 +4045,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/dcfa2e2cc3260aa02d6594f8c463efc3e755e78c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41598-025-32373-4"
+      "doi": "10.1038/s41598-025-32373-4",
+      "citations": 4
     },
     {
       "year": "2025-12",
@@ -3852,7 +4059,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fb7ddfa2773f0dab97cda7e860153c2c368d69c4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1186/s12916-025-04584-z"
+      "doi": "10.1186/s12916-025-04584-z",
+      "citations": 3
     },
     {
       "year": "2025.12",
@@ -3865,7 +4073,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e8eeb58f3cdd1461d1c761db907dfe7ef7b23057",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41592-025-02980-0"
+      "doi": "10.1038/s41592-025-02980-0",
+      "citations": 54
     }
   ],
   "Reviews": [
@@ -3880,7 +4089,8 @@
       "paperUrl": "https://doi.org/10.48130/gcomm-0026-0005",
       "codeUrl": "https://github.com/Webioinfo01/Awesome-AI-Meets-Biology",
       "githubStars": "https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Biology",
-      "doi": "10.48130/gcomm-0026-0005"
+      "doi": "10.48130/gcomm-0026-0005",
+      "citations": 3
     },
     {
       "year": "2025.12",
@@ -3893,7 +4103,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/336d539daa17f126463a3373d00df732a0f04c83",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41592-025-02918-6"
+      "doi": "10.1038/s41592-025-02918-6",
+      "citations": 10
     },
     {
       "year": "2025.12",
@@ -3906,7 +4117,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/ff44718f4c2c4365182484ae0d404d42a7d7ac37",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1097/ALN.0000000000005795"
+      "doi": "10.1097/ALN.0000000000005795",
+      "citations": 5
     },
     {
       "year": "2025.12",
@@ -3919,7 +4131,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a4f0449c55a13ccd2cfee205f69017adf70148a1",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1126/sciimmunol.aea8735"
+      "doi": "10.1126/sciimmunol.aea8735",
+      "citations": 1
     },
     {
       "year": "2025.12",
@@ -3932,7 +4145,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/af0f183cdd0609f7d14fa9d85dceae6020838294",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-02184-y"
+      "doi": "10.1038/s41746-025-02184-y",
+      "citations": 7
     },
     {
       "year": "2025.12",
@@ -3945,7 +4159,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fef4bb297900bf697f92e6c70150009169d5c802",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1161/STROKEAHA.125.053121"
+      "doi": "10.1161/STROKEAHA.125.053121",
+      "citations": 3
     },
     {
       "year": "2025.11",
@@ -3958,7 +4173,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/5ed2d020b02049452d6d37f46ea2f8cb67340cda",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/bib/bbaf601"
+      "doi": "10.1093/bib/bbaf601",
+      "citations": 16
     },
     {
       "year": "2025.11",
@@ -3971,7 +4187,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/57ce49793ed83b65abbba9910417216e7cab21ca",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s12276-025-01583-1"
+      "doi": "10.1038/s12276-025-01583-1",
+      "citations": 7
     },
     {
       "year": "2025.11",
@@ -3984,7 +4201,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/98c5653f348bd14a92a875bacea1459d7325b8cd",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1109/TNNLS.2025.3628671"
+      "doi": "10.1109/TNNLS.2025.3628671",
+      "citations": 16
     },
     {
       "year": "2025.11",
@@ -3997,7 +4215,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/54fc0d09d25af18d5c24f1cb0cd6c20660ba4ae3",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1148/radiol.242961"
+      "doi": "10.1148/radiol.242961",
+      "citations": 24
     },
     {
       "year": "2025.11",
@@ -4010,7 +4229,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9fc7f21ff6d8a51d50b6361287f5751cd1a89c79",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1073/pnas.2518075122"
+      "doi": "10.1073/pnas.2518075122",
+      "citations": 81
     },
     {
       "year": "2025.11",
@@ -4023,7 +4243,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c7c877cb0570876573dd7116ea75cd480cc87383",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-02048-5"
+      "doi": "10.1038/s41746-025-02048-5",
+      "citations": 26
     },
     {
       "year": "2025.10",
@@ -4036,7 +4257,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/aa3da305318799a02ab371318bd01678187ef080",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3390/info16100894"
+      "doi": "10.3390/info16100894",
+      "citations": 22
     },
     {
       "year": "2025.10",
@@ -4049,7 +4271,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/014a5845cf9a0c2cc2ed6d0c800a67a540094b80",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/eurpub/ckaf161.316"
+      "doi": "10.1093/eurpub/ckaf161.316",
+      "citations": 0
     },
     {
       "year": "2025.10",
@@ -4062,7 +4285,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fb2c169f42adb99f8f3c37e24e2eba98df65e952",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2510.07793"
+      "doi": "10.48550/arXiv.2510.07793",
+      "citations": 5
     },
     {
       "year": "2025.10",
@@ -4075,7 +4299,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b6078700f6315eff5ce13121caa8e06d3d2e0f88",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1007/s00345-025-06019-z"
+      "doi": "10.1007/s00345-025-06019-z",
+      "citations": 4
     },
     {
       "year": "2025.10",
@@ -4088,7 +4313,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7215c7382de7800c038787235fa4305e2e6af4ad",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.2196/80557"
+      "doi": "10.2196/80557",
+      "citations": 31
     },
     {
       "year": "2025.09",
@@ -4101,7 +4327,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8b6e4d0874844057237a5fd53e2e03a3c2c52e20",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/wps.21352"
+      "doi": "10.1002/wps.21352",
+      "citations": 80
     },
     {
       "year": "2025.09",
@@ -4114,7 +4341,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2dc8ce06575136b64ac13b32567e200653dbb8b0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1148/radiol.241516"
+      "doi": "10.1148/radiol.241516",
+      "citations": 15
     },
     {
       "year": "2025.09",
@@ -4127,7 +4355,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/008014c0fe9c31dfa58c4329d4f9d5307fd80016",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1200/CCI-25-00076"
+      "doi": "10.1200/CCI-25-00076",
+      "citations": 5
     },
     {
       "year": "2025.09",
@@ -4140,7 +4369,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/2a3c4c175bcb3842a4a52dda33a3a4f9e5a970d1",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1080/17512433.2025.2568090"
+      "doi": "10.1080/17512433.2025.2568090",
+      "citations": 5
     },
     {
       "year": "2025.09",
@@ -4153,7 +4383,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/0d300f8d40b41d929137aef09e2eed654cb018cc",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41598-025-17937-8"
+      "doi": "10.1038/s41598-025-17937-8",
+      "citations": 7
     },
     {
       "year": "2025.09",
@@ -4166,7 +4397,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/301702a963ee3c7cd1614d38fe432a4e7c1c5c8d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41746-025-01971-x"
+      "doi": "10.1038/s41746-025-01971-x",
+      "citations": 14
     },
     {
       "year": "2025.08",
@@ -4179,7 +4411,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/5b813012fba35e20e1892f6b01f1dd323a1e1c3d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41575-025-01108-1"
+      "doi": "10.1038/s41575-025-01108-1",
+      "citations": 25
     },
     {
       "year": "2025.07",
@@ -4205,7 +4438,8 @@
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40645169/",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.cell.2025.05.018"
+      "doi": "10.1016/j.cell.2025.05.018",
+      "citations": 97
     },
     {
       "year": "2025.06",
@@ -4218,7 +4452,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/e4854e4c12a3dc1964775c7368b3ee3adb02982e",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.13798"
+      "doi": "10.48550/arXiv.2506.13798",
+      "citations": 5
     },
     {
       "year": "2025.06",
@@ -4231,7 +4466,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/98b561595f5bf7d47456b83d5f52af31ebf0e9ae",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3389/fpls.2025.1611992"
+      "doi": "10.3389/fpls.2025.1611992",
+      "citations": 11
     },
     {
       "year": "2025.06",
@@ -4244,7 +4480,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/74d45591664632d4150df72d6b5adb2b7b65e267",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3390/ijms26115324"
+      "doi": "10.3390/ijms26115324",
+      "citations": 17
     },
     {
       "year": "2025.06",
@@ -4257,7 +4494,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3a01165637266c9da59be95a4a0a78f37af2b6dc",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2506.12117"
+      "doi": "10.48550/arXiv.2506.12117",
+      "citations": 0
     },
     {
       "year": "2025.06",
@@ -4270,7 +4508,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/0ee50fdccfabf9204c91cf4238e08f3035794adf",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.70280/njph(2025)v2i1.31"
+      "doi": "10.70280/njph(2025)v2i1.31",
+      "citations": 3
     },
     {
       "year": "2025.05",
@@ -4283,7 +4522,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/c1a1785a284ae67ac3fcdfa4fc096a589762e3e2",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1002/aisy.202500154"
+      "doi": "10.1002/aisy.202500154",
+      "citations": 1
     },
     {
       "year": "2025.04",
@@ -4309,7 +4549,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7f65931fb6bbfca0496c919e83ed40e910b2dc5f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41586-025-08710-y"
+      "doi": "10.1038/s41586-025-08710-y",
+      "citations": 118
     },
     {
       "year": "2025.04",
@@ -4335,7 +4576,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/6336c71a68d9435fef00a61cc1930909ac92136f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1128/msystems.01455-24"
+      "doi": "10.1128/msystems.01455-24",
+      "citations": 1
     },
     {
       "year": "2025.03",
@@ -4348,7 +4590,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/12610a7b39efe0ec0a1cd52c242a712ea719fb4c",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1016/j.tibtech.2025.02.008"
+      "doi": "10.1016/j.tibtech.2025.02.008",
+      "citations": 34
     },
     {
       "year": "2025.03",
@@ -4361,7 +4604,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9ad1cc1a90c204bc066861e41c7d3c4125ad6340",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.04135"
+      "doi": "10.48550/arXiv.2503.04135",
+      "citations": 8
     },
     {
       "year": "2025.03",
@@ -4374,7 +4618,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fb2f674c38dfd2fb692d08588fa1f99758bce28b",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1007/s44366-025-0051-1"
+      "doi": "10.1007/s44366-025-0051-1",
+      "citations": 4
     },
     {
       "year": "2025.03",
@@ -4387,7 +4632,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/aef0d2c0359d97c688f89c13732ec21a351ead8d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.04490"
+      "doi": "10.48550/arXiv.2503.04490",
+      "citations": 22
     },
     {
       "year": "2025.03",
@@ -4400,7 +4646,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2503.23691"
+      "doi": "10.48550/arXiv.2503.23691",
+      "citations": 8
     },
     {
       "year": "2025.02",
@@ -4413,7 +4660,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/49d8af23298ab111494ddc9a79ae6a9d89181217",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.20779"
+      "doi": "10.48550/arXiv.2502.20779",
+      "citations": 4
     },
     {
       "year": "2025.02",
@@ -4426,7 +4674,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/f85004321e43370535088042ebac96b958880c5d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2502.06975"
+      "doi": "10.48550/arXiv.2502.06975",
+      "citations": 42
     },
     {
       "year": "2025.02",
@@ -4439,7 +4688,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/dc5335e5ec2bf80abda630ada4eb431a173ddec4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1146/annurev-earth-040523-020630"
+      "doi": "10.1146/annurev-earth-040523-020630",
+      "citations": 19
     },
     {
       "year": "2025.01",
@@ -4452,7 +4702,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/7ca21dec02c418f010d6b95de3bde7bb6ac69c66",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2501.18794"
+      "doi": "10.48550/arXiv.2501.18794",
+      "citations": 11
     },
     {
       "year": "2025.01",
@@ -4465,7 +4716,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/0322d6eef1567b8b6ce3998d03f955082f9a87b6",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.48550/arXiv.2501.10282"
+      "doi": "10.48550/arXiv.2501.10282",
+      "citations": 19
     },
     {
       "year": "2025.01",
@@ -4478,7 +4730,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/3f21f2fadc60b7f627b5154a9944ec22d28c2678",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1093/nsr/nwaf028"
+      "doi": "10.1093/nsr/nwaf028",
+      "citations": 56
     },
     {
       "year": "2025.01",
@@ -4491,7 +4744,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/9c310642e1a07abeab7c6a8216ec60328feb74a2",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1111/1751-7915.70072"
+      "doi": "10.1111/1751-7915.70072",
+      "citations": 55
     },
     {
       "year": "2025.01",
@@ -4504,7 +4758,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/fa06241dfa98d42974532dd314b87d14ad5dc33f",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.17305/bb.2024.11537"
+      "doi": "10.17305/bb.2024.11537",
+      "citations": 24
     },
     {
       "year": "2025.01",
@@ -4517,7 +4772,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/a86fd4458cbbe7f1ea491d93c1b5ec31da8d272d",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.37256/aie.6120255553"
+      "doi": "10.37256/aie.6120255553",
+      "citations": 4
     },
     {
       "year": "2025.01",
@@ -4530,7 +4786,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/864031c9cc2195153f6fc08fed9d67131ddee8c4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1126/science.adv4414"
+      "doi": "10.1126/science.adv4414",
+      "citations": 24
     },
     {
       "year": "2024.12",
@@ -4543,7 +4800,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/d7157f73a59c3a619549217e6d27884bebedf419",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3389/fphar.2024.1458739"
+      "doi": "10.3389/fphar.2024.1458739",
+      "citations": 24
     },
     {
       "year": "2024.12",
@@ -4556,7 +4814,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/6ae86bc78b187c0ca15b977156b8a2bd41d91be9",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.3389/fimmu.2024.1514977"
+      "doi": "10.3389/fimmu.2024.1514977",
+      "citations": 19
     },
     {
       "year": "2024.12",
@@ -4569,7 +4828,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/6567678e2b6869ead0953704efdb926294daeebb",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.54254/2753-8818/2024.la18791"
+      "doi": "10.54254/2753-8818/2024.la18791",
+      "citations": 0
     },
     {
       "year": "2024.10",
@@ -4634,7 +4894,8 @@
       "paperUrl": "https://www.semanticscholar.org/paper/8f60d9556711df62a20f9890ddef77f8dafcf7b0",
       "codeUrl": "",
       "githubStars": "",
-      "doi": "10.1038/s41366-025-01992-2"
+      "doi": "10.1038/s41366-025-01992-2",
+      "citations": 5
     }
   ]
 }

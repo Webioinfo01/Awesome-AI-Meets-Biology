@@ -294,6 +294,28 @@
             margin-left: 0.5rem;
         }
 
+        .citation-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.28rem;
+            margin-top: 0.4rem;
+            padding: 0.18rem 0.55rem;
+            border-radius: 999px;
+            font-size: 0.72rem;
+            font-weight: 600;
+            line-height: 1.2;
+            letter-spacing: 0.01em;
+            background: linear-gradient(135deg, #fff7ed, #ffedd5);
+            color: #c2410c;
+            border: 1px solid #fdba74;
+            white-space: nowrap;
+        }
+
+        .citation-badge i {
+            font-size: 0.62rem;
+            opacity: 0.9;
+        }
+
         .footer {
             background: #333;
             color: white;
@@ -945,10 +967,26 @@
             return categoryNames[categoryKey] || categoryKey;
         }
 
+        function formatCitationCount(value) {
+            if (value === null || value === undefined || value === '') return null;
+            const num = Number(value);
+            if (!Number.isFinite(num) || num < 0) return null;
+            if (num >= 1e6) return (num / 1e6).toFixed(1).replace(/\.0$/, '') + 'M';
+            if (num >= 1e3) return (num / 1e3).toFixed(1).replace(/\.0$/, '') + 'k';
+            return String(num);
+        }
+
+        function citationBadgeHtml(value) {
+            const short = formatCitationCount(value);
+            if (short === null) return '';
+            const full = Number(value).toLocaleString();
+            return `<span class="citation-badge" title="${full} citations · Semantic Scholar"><i class="fas fa-quote-left"></i>${short}</span>`;
+        }
+
         function createTableRow(item, sectionType) {
-            const githubStarsImg = item.githubStars ? 
+            const githubStarsImg = item.githubStars ?
                 `<img src="${item.githubStars}" alt="GitHub Stars" class="github-stars">` : '';
-            
+
             return `
                 <tr>
                     <td>${item.year}</td>
@@ -962,6 +1000,7 @@
                         ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
                             <i class="fas fa-external-link-alt"></i> Paper
                         </a>` : ''}
+                        ${citationBadgeHtml(item.citations)}
                         ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
                             <i class="fab fa-github"></i> Code
                         </a> ${githubStarsImg}` : ''}
@@ -971,9 +1010,9 @@
         }
 
         function createAllProjectsTableRow(item) {
-            const githubStarsImg = item.githubStars ? 
+            const githubStarsImg = item.githubStars ?
                 `<img src="${item.githubStars}" alt="GitHub Stars" class="github-stars">` : '';
-            
+
             return `
                 <tr>
                     <td>${item.year}</td>
@@ -988,6 +1027,7 @@
                         ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
                             <i class="fas fa-external-link-alt"></i> Paper
                         </a>` : ''}
+                        ${citationBadgeHtml(item.citations)}
                         ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
                             <i class="fab fa-github"></i> Code
                         </a> ${githubStarsImg}` : ''}

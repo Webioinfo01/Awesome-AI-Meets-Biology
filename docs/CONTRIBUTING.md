@@ -45,9 +45,12 @@ Add entries to `docs/data.json` following this format:
     "paperUrl": "https://...",
     "codeUrl": "https://github.com/...",
     "githubStars": "https://img.shields.io/github/stars/owner/repo",
+    "citations": 42,
     "doi": ""
 }
 ```
+
+`citations` is the Semantic Scholar citation count (integer). It powers the citation badge under Paper on the website. Leave it `null` if unknown; `awescholar updater citations --archive docs/data.json` backfills it.
 
 ### Method 3: Interactive Mode
 
