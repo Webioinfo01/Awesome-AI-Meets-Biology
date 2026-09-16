@@ -983,9 +983,22 @@
             return `<span class="citation-badge" title="${full} citations · Semantic Scholar"><i class="fas fa-quote-left"></i>${short}</span>`;
         }
 
+        // githubStars is a numeric count since the enrich refresh; legacy
+        // entries may still store the badge image URL directly.
+        function starsBadgeHtml(item) {
+            if (!item.githubStars) return '';
+            const value = String(item.githubStars);
+            if (/^https?:\/\//.test(value)) {
+                return `<img src="${value}" alt="GitHub Stars" class="github-stars">`;
+            }
+            const m = String(item.codeUrl || '').match(/github\.com\/([^/\s]+)\/([^/\s#?]+)/);
+            return m
+                ? `<img src="https://img.shields.io/github/stars/${m[1]}/${m[2]}" alt="GitHub Stars" class="github-stars">`
+                : '';
+        }
+
         function createTableRow(item, sectionType) {
-            const githubStarsImg = item.githubStars ?
-                `<img src="${item.githubStars}" alt="GitHub Stars" class="github-stars">` : '';
+            const githubStarsImg = starsBadgeHtml(item);
 
             return `
                 <tr>
@@ -1010,8 +1023,7 @@
         }
 
         function createAllProjectsTableRow(item) {
-            const githubStarsImg = item.githubStars ?
-                `<img src="${item.githubStars}" alt="GitHub Stars" class="github-stars">` : '';
+            const githubStarsImg = starsBadgeHtml(item);
 
             return `
                 <tr>
