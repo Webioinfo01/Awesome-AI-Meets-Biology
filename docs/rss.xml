@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 16 Sep 2026 12:27:08 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 15:16:55 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -496,18 +496,19 @@
     <guid isPermaLink="false">BioScientistAgentDesigningLLMBiomedicalAgentswithKGAugmentedRLReasoningModulesforDrugRepurposingandMechanisticofActionElucidation202508</guid>
   </item>
   <item>
-    <title>Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model</title>
-    <link>https://doi.org/10.48550/arXiv.2508.10492</link>
+    <title>DxDirector: an agentic large language model driving the full-process clinical diagnosis</title>
+    <link>https://doi.org/10.1038/s41467-026-71928-5</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Xueqi Cheng</p>
         <p><b>Domain:</b> LLM-driven full-process clinical diagnosis</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/d67afa3cb98b6e5a15966ce06f1aff61cf2ad270">Read the Paper</a></p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://doi.org/10.1038/s41467-026-71928-5">Read the Paper</a></p>
+        <p><a href="https://github.com/xsc1234/DxDirector">Code</a></p>
       ]]>
     </description>
-    <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ReversePhysicianAIRelationshipFullprocessClinicalDiagnosisDrivenbyaLargeLanguageModel202508</guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DxDirectoranagenticlargelanguagemodeldrivingthefullprocessclinicaldiagnosis202604</guid>
   </item>
   <item>
     <title>ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-institution and Multi-system Data.</title>
@@ -1544,7 +1545,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">MaterialBrainHighPerformanceMaterialSynthesisExtractionviaHumanAICuratedFewShotLargeLanguageModels2025-12</guid>
+    <guid isPermaLink="false">MaterialBrainHighPerformanceMaterialSynthesisExtractionviaHumanAICuratedFewShotLargeLanguageModels202512</guid>
   </item>
   <item>
     <title>Viral Sentry AI (VirSentAI) - Automated Zoonotic Surveillance &amp; Drug Repurposing Agent</title>
@@ -1558,7 +1559,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ViralSentryAIVirSentAIAutomatedZoonoticSurveillanceDrugRepurposingAgent2025-12</guid>
+    <guid isPermaLink="false">ViralSentryAIVirSentAIAutomatedZoonoticSurveillanceDrugRepurposingAgent202512</guid>
   </item>
   <item>
     <title>Moremi Bio Agent: Using Neisseria meningitidis Reference Data For The Double Blinded Validation of A General Purpose Biology-Trained Reasoning Model for Pathogen and Antigen Discovery</title>
@@ -1572,7 +1573,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">MoremiBioAgentUsingNeisseriameningitidisReferenceDataForTheDoubleBlindedValidationofAGeneralPurposeBiologyTrainedReasoningModelforPathogenandAntigenDiscovery2025-12</guid>
+    <guid isPermaLink="false">MoremiBioAgentUsingNeisseriameningitidisReferenceDataForTheDoubleBlindedValidationofAGeneralPurposeBiologyTrainedReasoningModelforPathogenandAntigenDiscovery202512</guid>
   </item>
   <item>
     <title>A medically grounded LLM agent–based tool to detect patient safety events in medical records</title>
@@ -1586,7 +1587,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">AmedicallygroundedLLMagentbasedtooltodetectpatientsafetyeventsinmedicalrecords2025-12</guid>
+    <guid isPermaLink="false">AmedicallygroundedLLMagentbasedtooltodetectpatientsafetyeventsinmedicalrecords202512</guid>
   </item>
   <item>
     <title>Biosecurity-Aware AI: Agentic Risk Auditing of Soft Prompt Attacks on ESM-Based Variant Predictors</title>
@@ -1600,7 +1601,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">BiosecurityAwareAIAgenticRiskAuditingofSoftPromptAttacksonESMBasedVariantPredictors2025-12</guid>
+    <guid isPermaLink="false">BiosecurityAwareAIAgenticRiskAuditingofSoftPromptAttacksonESMBasedVariantPredictors202512</guid>
   </item>
   <item>
     <title>A conceptual framework for human–AI collaborative genome annotation</title>
@@ -1629,6 +1630,21 @@
     </description>
     <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">XunZianAIbiologistrevealsdiseasemodifyingtargets202608</guid>
+  </item>
+  <item>
+    <title>OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era</title>
+    <link>https://doi.org/10.64898/2026.06.11.731775</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hongwu Du</p>
+        <p><b>Domain:</b> Agent-facing omics operating layer that turns the OmicVerse V2 ecosystem into state-aware, agent-executable workflows spanning 11 omics domains</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.06.11.731775">Read the Paper</a></p>
+        <p><a href="https://github.com/omicverse/omicverse">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">OmicOSAComprehensiveOmicsEcosystemInfrastructureandAgentSystemfortheAIEra202606</guid>
   </item>
   <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
@@ -3123,7 +3139,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">LargegenerativemRNAlanguagefoundationmodelforefficientcodingsequencegenerationanddesignwithmRNAGPT2025-12</guid>
+    <guid isPermaLink="false">LargegenerativemRNAlanguagefoundationmodelforefficientcodingsequencegenerationanddesignwithmRNAGPT202512</guid>
   </item>
   <item>
     <title>GenBrain: A Generative Foundation Model of Multimodal Brain Imaging</title>
@@ -3138,7 +3154,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">GenBrainAGenerativeFoundationModelofMultimodalBrainImaging2025-12</guid>
+    <guid isPermaLink="false">GenBrainAGenerativeFoundationModelofMultimodalBrainImaging202512</guid>
   </item>
   <item>
     <title>High-sensitivity pan-cancer AI assessment of lymph node metastasis via uncertainty quantification</title>
@@ -3153,7 +3169,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">HighsensitivitypancancerAIassessmentoflymphnodemetastasisviauncertaintyquantification2025-12</guid>
+    <guid isPermaLink="false">HighsensitivitypancancerAIassessmentoflymphnodemetastasisviauncertaintyquantification202512</guid>
   </item>
   <item>
     <title>JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model</title>
@@ -3645,7 +3661,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">DRPMKBAComprehensiveKnowledgeBaseforanAIOrientedDrugRepositioningPredictionModel2025-12</guid>
+    <guid isPermaLink="false">DRPMKBAComprehensiveKnowledgeBaseforanAIOrientedDrugRepositioningPredictionModel202512</guid>
   </item>
   <item>
     <title>NMRExtractor: leveraging large language models to construct an experimental NMR database from open-source scientific publications</title>
@@ -4302,7 +4318,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Interpretableglucoseforecastingfortypediabetesacrosstraditionaldeepandlargelanguagemodels2025-12</guid>
+    <guid isPermaLink="false">Interpretableglucoseforecastingfortypediabetesacrosstraditionaldeepandlargelanguagemodels202512</guid>
   </item>
   <item>
     <title>Computer assisted verbal autopsy: comparing large language models to physicians for assigning causes to 6939 deaths in Sierra Leone from 2019–2022</title>
@@ -4317,7 +4333,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ComputerassistedverbalautopsycomparinglargelanguagemodelstophysiciansforassigningcausestodeathsinSierraLeonefrom2025-12</guid>
+    <guid isPermaLink="false">ComputerassistedverbalautopsycomparinglargelanguagemodelstophysiciansforassigningcausestodeathsinSierraLeonefrom202512</guid>
   </item>
   <item>
     <title>Benchmarking algorithms for generalizable single-cell perturbation response prediction</title>
@@ -5160,7 +5176,7 @@
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Largelanguagemodelsinobesityasystematicreview2025-12</guid>
+    <guid isPermaLink="false">Largelanguagemodelsinobesityasystematicreview202512</guid>
   </item>
 </channel>
 </rss>

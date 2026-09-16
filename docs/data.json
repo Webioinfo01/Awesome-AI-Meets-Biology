@@ -476,18 +476,26 @@
       "citations": 3
     },
     {
-      "year": "2025.08",
-      "title": "Reverse Physician-AI Relationship: Full-process Clinical Diagnosis Driven by a Large Language Model",
+      "year": "2026.04",
+      "title": "DxDirector: an agentic large language model driving the full-process clinical diagnosis",
       "team": "Xueqi Cheng",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Chinese Academy of Sciences, Institute of Computing Technology",
       "domain": "LLM-driven full-process clinical diagnosis",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/d67afa3cb98b6e5a15966ce06f1aff61cf2ad270",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2508.10492",
-      "citations": 1
+      "venue": "Nature Communications",
+      "paperUrl": "https://doi.org/10.1038/s41467-026-71928-5",
+      "codeUrl": "https://github.com/xsc1234/DxDirector",
+      "githubStars": "https://img.shields.io/github/stars/xsc1234/DxDirector",
+      "doi": "10.1038/s41467-026-71928-5",
+      "citations": 1,
+      "authors": [
+        "Shicheng Xu",
+        "Xin Huang",
+        "Zihao Wei",
+        "Liang Pang",
+        "Huawei Shen",
+        "Xueqi Cheng"
+      ]
     },
     {
       "year": "2025.08",
@@ -1561,6 +1569,47 @@
       "githubStars": "https://img.shields.io/github/stars/biocuckooHXH/XunZi",
       "citations": 0,
       "doi": "10.1038/s41551-026-01769-6"
+    },
+    {
+      "year": "2026.06",
+      "title": "OmicOS: A Comprehensive Omics Ecosystem Infrastructure and Agent System for the AI Era",
+      "team": "Hongwu Du",
+      "authors": [
+        "Zehua Zeng",
+        "Xu Meng",
+        "Lei Hu",
+        "Chen Li",
+        "Peng Liu",
+        "Yue Shi",
+        "Xue-Jiao Ma",
+        "Lianchong Gao",
+        "Xuehai Wang",
+        "Zhiwei Luo",
+        "Yawen Zheng",
+        "Jie-Shen Xian",
+        "Ziheng Lin",
+        "Hao-Liang Zhu",
+        "Zhaorui Jiang",
+        "Sheng Mao",
+        "Yifan Lu",
+        "Wenzhuo Tang",
+        "Qiangwei Peng",
+        "Yuqing Ma",
+        "Liping Zhou",
+        "Cen-Can Xing",
+        "Xuegong Zhang",
+        "Yuanyan Xiong",
+        "Hongwu Du"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Agent-facing omics operating layer that turns the OmicVerse V2 ecosystem into state-aware, agent-executable workflows spanning 11 omics domains",
+      "venue": "bioRxiv",
+      "paperUrl": "https://doi.org/10.64898/2026.06.11.731775",
+      "codeUrl": "https://github.com/omicverse/omicverse",
+      "githubStars": "https://img.shields.io/github/stars/omicverse/omicverse",
+      "citations": 0,
+      "doi": "10.64898/2026.06.11.731775"
     }
   ],
   "Foundation models": [
