@@ -23,8 +23,8 @@
       "domain": "Multi-modal agentic workspace for chemistry and protein scientific discovery",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2604.00550",
-      "codeUrl": "https://github.com/qinheming/BloClaw",
-      "githubStars": "https://img.shields.io/github/stars/qinheming/BloClaw",
+      "codeUrl": "https://github.com/qinheming/BIoClaw",
+      "githubStars": 378,
       "doi": "10.48550/arXiv.2604.00550",
       "citations": 1
     },
@@ -3006,8 +3006,8 @@
       "domain": "Consensus mapping of cell type annotation",
       "venue": "iMetaOmics",
       "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064",
-      "codeUrl": "https://github.com/Starlitnightly/CellOntologyMapper",
-      "githubStars": "https://img.shields.io/github/stars/Starlitnightly/CellOntologyMapper",
+      "codeUrl": "https://github.com/omicverse/CellOntologyMapper",
+      "githubStars": 12,
       "doi": "10.1002/imo2.70064",
       "citations": 0
     },
@@ -3118,8 +3118,8 @@
       "domain": "Biomarker discovery, Drug prediction,(18 projects with 2,600+ samples and 56,000+ drugs, with full ecosystem)",
       "venue": "",
       "paperUrl": "",
-      "codeUrl": "https://github.com/mugpeng/DROMA",
-      "githubStars": "https://img.shields.io/github/stars/mugpeng/DROMA",
+      "codeUrl": "https://github.com/DROMA01/DROMA",
+      "githubStars": 7,
       "doi": ""
     },
     {
