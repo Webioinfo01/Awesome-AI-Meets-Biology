@@ -3,6 +3,7 @@ month_reports/.DS_Store
 updater.json
 month_reports/config*.json
 *.bak
+*.bak.*
 docs/.DS_Store
 /archive
 .DS_Store
