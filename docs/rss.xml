@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 15 Sep 2026 16:40:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 12:27:08 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -31,7 +31,7 @@
         <p><b>Domain:</b> Multi-modal agentic workspace for chemistry and protein scientific discovery</p>
         <p><b>Venue:</b> arXiv</p>
         <p><a href="https://arxiv.org/abs/2604.00550">Read the Paper</a></p>
-        <p><a href="https://github.com/qinheming/BloClaw">Code</a></p>
+        <p><a href="https://github.com/qinheming/BIoClaw">Code</a></p>
       ]]>
     </description>
     <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
@@ -446,6 +446,7 @@
         <p><b>Domain:</b> Automated lipidomics workflow</p>
         <p><b>Venue:</b> Analytical chemistry</p>
         <p><a href="https://www.semanticscholar.org/paper/a375b66187f36ef48b373433c2416185ee70dd41">Read the Paper</a></p>
+        <p><a href="https://github.com/chopralab/CLAW_MRM">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
@@ -517,6 +518,7 @@
         <p><b>Domain:</b> LLM for radiology impression generation</p>
         <p><b>Venue:</b> IEEE transactions on bio-medical engineering</p>
         <p><a href="https://www.semanticscholar.org/paper/ecab6c8b4052a09127340a7fcfcc0b1550435b63">Read the Paper</a></p>
+        <p><a href="https://github.com/DPX-CN/ChatRadio-Valuer">Code</a></p>
       ]]>
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
@@ -559,6 +561,7 @@
         <p><b>Domain:</b> Etiology-aware attention steering in LLM diagnosis</p>
         <p><b>Venue:</b> ArXiv</p>
         <p><a href="https://www.semanticscholar.org/paper/fb69b0591a8acf0d3f36b47d3df36b1ef481a394">Read the Paper</a></p>
+        <p><a href="https://github.com/Twilight-sp/EAS-Diagnosis">Code</a></p>
       ]]>
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
@@ -1374,6 +1377,7 @@
         <p><b>Domain:</b> Automated protein analysis AI agent</p>
         <p><b>Venue:</b> Journal of chemical information and modeling</p>
         <p><a href="https://www.semanticscholar.org/paper/c89cfdd40cf24c40b09304cbbf85024933def10c">Read the Paper</a></p>
+        <p><a href="https://github.com/SIAT-code/ProtChat">Code</a></p>
       ]]>
     </description>
     <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
@@ -1612,6 +1616,21 @@
     <guid isPermaLink="false">AconceptualframeworkforhumanAIcollaborativegenomeannotation202503</guid>
   </item>
   <item>
+    <title>XunZi, an AI biologist, reveals disease-modifying targets.</title>
+    <link>https://doi.org/10.1038/s41551-026-01769-6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Da Jia</p>
+        <p><b>Domain:</b> Autonomous AI biologist that integrates logical reasoning and multimodal data fusion to generate de novo disease-modifying targets</p>
+        <p><b>Venue:</b> Nature Biomedical Engineering</p>
+        <p><a href="https://doi.org/10.1038/s41551-026-01769-6">Read the Paper</a></p>
+        <p><a href="https://github.com/biocuckooHXH/XunZi">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">XunZianAIbiologistrevealsdiseasemodifyingtargets202608</guid>
+  </item>
+  <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
     <link>https://doi.org/10.1038/s41592-025-02899-6</link>
     <description>
@@ -1648,6 +1667,7 @@
         <p><b>Team:</b> H. Poon</p>
         <p><b>Venue:</b> Cell</p>
         <p><a href="https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949">Read the Paper</a></p>
+        <p><a href="https://github.com/prov-gigatime/GigaTIME">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
@@ -1819,6 +1839,7 @@
         <p><b>Domain:</b> mRNA Sequence Design with Language Models</p>
         <p><b>Venue:</b> Nature Communications</p>
         <p><a href="https://www.semanticscholar.org/paper/c9cd1f5b57f86be3a656f17a0dc0ed32a4e82825">Read the Paper</a></p>
+        <p><a href="https://github.com/yyly6/mRNABERT">Code</a></p>
       ]]>
     </description>
     <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
@@ -1962,6 +1983,7 @@
         <p><b>Domain:</b> Plant genomics DNA language model</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38">Read the Paper</a></p>
+        <p><a href="https://github.com/plantcad/plantcad2">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
@@ -1990,6 +2012,7 @@
         <p><b>Domain:</b> Uncertainty‐aware vision‐language model for VRL</p>
         <p><b>Venue:</b> IEEE journal of biomedical and health informatics</p>
         <p><a href="https://www.semanticscholar.org/paper/832128fa44868362e97bb29386c5c1425f428e78">Read the Paper</a></p>
+        <p><a href="https://github.com/wang-wen-wen/UA-VLFM">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
@@ -2342,6 +2365,7 @@
         <p><b>Domain:</b> Single-cell representation learning leveraging LLM prior knowledge</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/9aab32b1ffef407d9918bcf6f7b87c930d45c3f7">Read the Paper</a></p>
+        <p><a href="https://github.com/microsoft/sciLaMA">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
@@ -2356,6 +2380,7 @@
         <p><b>Domain:</b> Antibody–antigen binding affinity prediction using LLM-based models</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6">Read the Paper</a></p>
+        <p><a href="https://github.com/hossain013/LlamaAffinity">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
@@ -2589,6 +2614,7 @@
         <p><b>Domain:</b> Drug–target interaction prediction framework</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b">Read the Paper</a></p>
+        <p><a href="https://github.com/bozdaglab/Top_DTI">Code</a></p>
       ]]>
     </description>
     <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
@@ -2706,6 +2732,7 @@
         <p><b>Domain:</b> Antimicrobial peptide discovery from gut microbes</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/2fc9811c567186a15873eb8600df36b27f40c088">Read the Paper</a></p>
+        <p><a href="https://github.com/JackKuo666/AMP-SEMiner-Portal">Code</a></p>
       ]]>
     </description>
     <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
@@ -2763,6 +2790,7 @@
         <p><b>Domain:</b> Protein secondary structure prediction with PLMs</p>
         <p><b>Venue:</b> International Journal of Molecular Sciences</p>
         <p><a href="https://www.semanticscholar.org/paper/4eb9efc6ea3f7bf7935c374940af4c3866a5a368">Read the Paper</a></p>
+        <p><a href="https://github.com/WafaAlanazi/Porter6">Code</a></p>
       ]]>
     </description>
     <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
@@ -2837,6 +2865,7 @@
         <p><b>Domain:</b> Life science question answer (RAG)</p>
         <p><b>Venue:</b> arXiv</p>
         <p><a href="https://arxiv.org/abs/2408.01107">Read the Paper</a></p>
+        <p><a href="https://github.com/ZhaoqianXue/BioRAG">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
@@ -2986,6 +3015,7 @@
         <p><b>Domain:</b> DNA/RNA</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1">Read the Paper</a></p>
+        <p><a href="https://github.com/xilinshen/OmniNA">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
@@ -3104,6 +3134,7 @@
         <p><b>Domain:</b> Brain Imaging</p>
         <p><b>Venue:</b> medRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/270987463346ea5b85fb6b4f0745a27e9c22ec3e">Read the Paper</a></p>
+        <p><a href="https://github.com/real-JohnYoung/GenBrain-A-Generative-Foundation-Model-of-Multimodal-Brain-Imaging">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
@@ -3118,6 +3149,7 @@
         <p><b>Domain:</b> Pathology</p>
         <p><b>Venue:</b> medRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/adec35d82936a1582fae1e604fb9aa709652be87">Read the Paper</a></p>
+        <p><a href="https://github.com/MHMAILab/UPATHLN">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
@@ -3145,6 +3177,7 @@
         <p><b>Team:</b> Tingjun Hou</p>
         <p><b>Venue:</b> Nature Communications</p>
         <p><a href="https://www.semanticscholar.org/paper/944165a43458f98e00f6a322ff8aefd08ed0fd64">Read the Paper</a></p>
+        <p><a href="https://github.com/jkwang93/Token-Mol">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
@@ -3187,7 +3220,7 @@
         <p><b>Domain:</b> Consensus mapping of cell type annotation</p>
         <p><b>Venue:</b> iMetaOmics</p>
         <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064">Read the Paper</a></p>
-        <p><a href="https://github.com/Starlitnightly/CellOntologyMapper">Code</a></p>
+        <p><a href="https://github.com/omicverse/CellOntologyMapper">Code</a></p>
       ]]>
     </description>
     <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
@@ -3202,6 +3235,7 @@
         <p><b>Domain:</b> Bacterial and Viral Bioinformatics Resource</p>
         <p><b>Venue:</b> Nucleic acids research</p>
         <p><a href="https://www.semanticscholar.org/paper/693c203c962996b3a53f115787aa2ad849ba4f16">Read the Paper</a></p>
+        <p><a href="https://github.com/BV-BRC/BV-BRC-Web">Code</a></p>
       ]]>
     </description>
     <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
@@ -3300,7 +3334,7 @@
       <![CDATA[
         <p><b>Team:</b> </p>
         <p><b>Domain:</b> Biomarker discovery, Drug prediction,(18 projects with 2,600+ samples and 56,000+ drugs, with full ecosystem)</p>
-        <p><a href="https://github.com/mugpeng/DROMA">Code</a></p>
+        <p><a href="https://github.com/DROMA01/DROMA">Code</a></p>
       ]]>
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
@@ -3343,6 +3377,7 @@
         <p><b>Domain:</b> Database and AI system for microRNA research</p>
         <p><b>Venue:</b> ArXiv</p>
         <p><a href="https://www.semanticscholar.org/paper/eecf17eee7339225389f95c092fbf8fbda0f9779">Read the Paper</a></p>
+        <p><a href="https://github.com/PasTaco/MirKatAI">Code</a></p>
       ]]>
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
@@ -3372,6 +3407,7 @@
         <p><b>Domain:</b> Multi-species scRNA-seq database for AI-ready applications</p>
         <p><b>Venue:</b> Advanced Science</p>
         <p><a href="https://www.semanticscholar.org/paper/f5af8e3f7acd968b7baeb788f5b33cf7d868616e">Read the Paper</a></p>
+        <p><a href="https://github.com/CNICDS/scCompass">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
@@ -3415,6 +3451,7 @@
         <p><b>Domain:</b> Hierarchical Framework for Cell Type Annotation and Harmonization</p>
         <p><b>Venue:</b> Bioinformatics</p>
         <p><a href="https://www.semanticscholar.org/paper/e3ce9b990c9604648ad39e38275cd61b7711415a">Read the Paper</a></p>
+        <p><a href="https://github.com/SuperBianC/uhaf">Code</a></p>
       ]]>
     </description>
     <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
@@ -3618,6 +3655,7 @@
         <p><b>Team:</b> Mingyue Zheng</p>
         <p><b>Venue:</b> Chemical Science</p>
         <p><a href="https://www.semanticscholar.org/paper/ecfac36c981a52c976ecfee77afa51e6ddcef7f9">Read the Paper</a></p>
+        <p><a href="https://github.com/eat-sugar/NMRExtractor">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
@@ -3801,6 +3839,7 @@
         <p><b>Domain:</b> Evaluation of compliance and factuality in clinical research document generation by LLMs</p>
         <p><b>Venue:</b> Journal of the American Medical Informatics Association : JAMIA</p>
         <p><a href="https://www.semanticscholar.org/paper/a4c43e72d1311ea886405e9bdc942f49d5357046">Read the Paper</a></p>
+        <p><a href="https://github.com/RyanWangZf/InformBench">Code</a></p>
       ]]>
     </description>
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
@@ -3983,6 +4022,7 @@
         <p><b>Domain:</b> Alignment of brain visual representations with LLM embeddings</p>
         <p><b>Venue:</b> Nature Machine Intelligence</p>
         <p><a href="https://www.semanticscholar.org/paper/bc5d6c636c36f5ddc9af61da414511d43373b8e0">Read the Paper</a></p>
+        <p><a href="https://github.com/adriendoerig/visuo_llm">Code</a></p>
       ]]>
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
@@ -4068,6 +4108,7 @@
         <p><b>Domain:</b> Benchmarking protein modeling architectures and pretraining strategies</p>
         <p><b>Venue:</b> ArXiv</p>
         <p><a href="https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8">Read the Paper</a></p>
+        <p><a href="https://github.com/Trust-App-AI-Lab/protap">Code</a></p>
       ]]>
     </description>
     <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
@@ -4097,6 +4138,7 @@
         <p><b>Domain:</b> LLM extraction and annotation of neuroimaging metadata</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.semanticscholar.org/paper/59087a91539883877289ceb562272f1cc13e9545">Read the Paper</a></p>
+        <p><a href="https://github.com/NeuroBridge/LLM-Metadata-Extraction-Paper-2025">Code</a></p>
       ]]>
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
@@ -4155,6 +4197,7 @@
         <p><b>Domain:</b> Dermatology image classification evaluation framework</p>
         <p><b>Venue:</b> ArXiv</p>
         <p><a href="https://www.semanticscholar.org/paper/79dd24bdeaefadf1681d1d68104a02ba78c9c91d">Read the Paper</a></p>
+        <p><a href="https://github.com/LMietkiewicz/the-skin-game-research-paper">Code</a></p>
       ]]>
     </description>
     <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
@@ -4270,6 +4313,7 @@
         <p><b>Domain:</b> Verbal Autopsy</p>
         <p><b>Venue:</b> BMC Medicine</p>
         <p><a href="https://www.semanticscholar.org/paper/fb7ddfa2773f0dab97cda7e860153c2c368d69c4">Read the Paper</a></p>
+        <p><a href="https://github.com/cghr-toronto/wen-et-al-2025-cava">Code</a></p>
       ]]>
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>

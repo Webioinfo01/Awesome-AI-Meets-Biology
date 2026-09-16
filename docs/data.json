@@ -1527,6 +1527,40 @@
       "githubStars": "",
       "doi": "10.1093/bib/bbaf377",
       "citations": 8
+    },
+    {
+      "year": "2026.08",
+      "title": "XunZi, an AI biologist, reveals disease-modifying targets.",
+      "team": "Da Jia",
+      "authors": [
+        "Xinhe Huang",
+        "Junhong Qin",
+        "Fei Tang",
+        "Chen-Yu Yang",
+        "Linhua Xu",
+        "Junfen Wei",
+        "Dan Liu",
+        "Kang Chen",
+        "Chi Zhang",
+        "Miao-Miao Chen",
+        "Yujie Gou",
+        "Jiayi Zhang",
+        "Yongze Ma",
+        "Lin Zhao",
+        "Yingfeng Tu",
+        "Peng Lei",
+        "Yu Xue",
+        "Da Jia"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Autonomous AI biologist that integrates logical reasoning and multimodal data fusion to generate de novo disease-modifying targets",
+      "venue": "Nature Biomedical Engineering",
+      "paperUrl": "https://doi.org/10.1038/s41551-026-01769-6",
+      "codeUrl": "https://github.com/biocuckooHXH/XunZi",
+      "githubStars": "https://img.shields.io/github/stars/biocuckooHXH/XunZi",
+      "citations": 0,
+      "doi": "10.1038/s41551-026-01769-6"
     }
   ],
   "Foundation models": [
