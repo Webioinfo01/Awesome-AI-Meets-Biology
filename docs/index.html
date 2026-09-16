@@ -243,6 +243,25 @@
             background: #f8f9fa;
         }
 
+        .show-more-btn {
+            display: block;
+            margin: 1rem auto 0;
+            padding: 0.5rem 1.5rem;
+            border: 1px solid #667eea;
+            border-radius: 20px;
+            background: #fff;
+            color: #667eea;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .show-more-btn:hover {
+            background: #667eea;
+            color: #fff;
+        }
+
         .paper-title {
             font-weight: 600;
             color: #333;
@@ -916,6 +935,10 @@
         // REMOVED: The dynamic RSS generation function is no longer needed here.
         // It has been moved to a separate Node.js script.
 
+        // Rows shown per table before collapsing; "Show all" reveals the rest
+        const PREVIEW_ROWS = 20;
+        const expandedTables = new Set();
+
         function populateData() {
             // Populate each section with data
             Object.keys(projectData).forEach(sectionKey => {
@@ -923,6 +946,7 @@
                 const tbody = document.getElementById(`${sectionId}-tbody`);
                 if (tbody) {
                     tbody.innerHTML = projectData[sectionKey].map(item => createTableRow(item, sectionId)).join('');
+                    addShowMoreButton(tbody);
                 }
             });
 
@@ -953,7 +977,46 @@
             const tbody = document.getElementById('all-projects-tbody');
             if (tbody) {
                 tbody.innerHTML = allProjects.map(item => createAllProjectsTableRow(item)).join('');
+                addShowMoreButton(tbody);
             }
+        }
+
+        function addShowMoreButton(tbody) {
+            const table = tbody.closest('table');
+            if (!table || tbody.rows.length <= PREVIEW_ROWS) return;
+            [...tbody.rows].forEach((row, idx) => { row.dataset.idx = idx; });
+            const btn = document.createElement('button');
+            btn.className = 'show-more-btn';
+            btn.dataset.tbody = tbody.id;
+            btn.addEventListener('click', () => {
+                expandedTables.has(tbody.id) ? expandedTables.delete(tbody.id) : expandedTables.add(tbody.id);
+                applyRowVisibility();
+            });
+            table.insertAdjacentElement('afterend', btn);
+            applyRowVisibility();
+        }
+
+        // Decide per-row visibility from the search box and the collapse state
+        function applyRowVisibility() {
+            const searchTerm = searchInput.value.trim().toLowerCase();
+            const searching = searchTerm.length > 0;
+            document.querySelectorAll('.data-table tbody').forEach(tbody => {
+                const expanded = searching || expandedTables.has(tbody.id);
+                const btn = document.querySelector(`.show-more-btn[data-tbody="${tbody.id}"]`);
+                if (btn) {
+                    const matches = searching
+                        ? [...tbody.rows].filter(r => r.textContent.toLowerCase().includes(searchTerm)).length
+                        : tbody.rows.length;
+                    btn.textContent = expanded && !searching
+                        ? 'Show less'
+                        : `Show all ${tbody.rows.length} papers`;
+                    btn.style.display = matches === 0 && searching ? 'none' : '';
+                }
+                [...tbody.rows].forEach((row, idx) => {
+                    const matchesSearch = !searching || row.textContent.toLowerCase().includes(searchTerm);
+                    row.style.display = (matchesSearch && (expanded || idx < PREVIEW_ROWS)) ? '' : 'none';
+                });
+            });
         }
 
         function getCategoryDisplayName(categoryKey) {
@@ -1090,7 +1153,9 @@
             // Calculate project counts by year
             const yearCounts = {};
             Object.values(projectData).flat().forEach(item => {
-                const year = String(item.year).split('.')[0]; // Handle "YYYY.MM" format
+                // Take the leading 4-digit year from any format ("2025.08", "2025-08", "2025")
+                const m = String(item.year).match(/\d{4}/);
+                const year = m ? m[0] : '';
                 if (year) {
                     yearCounts[year] = (yearCounts[year] || 0) + 1;
                 }
@@ -1151,17 +1216,7 @@
         }
 
         function handleSearch() {
-            const searchTerm = searchInput.value.toLowerCase();
-            const allRows = document.querySelectorAll('.data-table tbody tr');
-            
-            allRows.forEach(row => {
-                const text = row.textContent.toLowerCase();
-                if (text.includes(searchTerm)) {
-                    row.style.display = '';
-                } else {
-                    row.style.display = 'none';
-                }
-            });
+            applyRowVisibility();
         }
 
         function showSection(sectionId) {
