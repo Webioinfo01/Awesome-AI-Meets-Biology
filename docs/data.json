@@ -359,7 +359,7 @@
       "venue": "ArXiv",
       "paperUrl": "https://arxiv.org/abs/2510.24701",
       "codeUrl": "https://github.com/Alibaba-NLP/DeepResearch",
-      "githubStars": 19946,
+      "githubStars": 19948,
       "doi": "10.48550/arXiv.2510.24701",
       "citations": 0
     },
@@ -428,8 +428,8 @@
       "domain": "Automated lipidomics workflow",
       "venue": "Analytical chemistry",
       "paperUrl": "https://www.semanticscholar.org/paper/a375b66187f36ef48b373433c2416185ee70dd41",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/chopralab/CLAW_MRM",
+      "githubStars": 0,
       "doi": "10.1021/acs.analchem.4c05039",
       "citations": 4
     },
@@ -498,8 +498,8 @@
       "domain": "LLM for radiology impression generation",
       "venue": "IEEE transactions on bio-medical engineering",
       "paperUrl": "https://www.semanticscholar.org/paper/ecab6c8b4052a09127340a7fcfcc0b1550435b63",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/DPX-CN/ChatRadio-Valuer",
+      "githubStars": 1,
       "doi": "10.1109/TBME.2025.3597325",
       "citations": 6
     },
@@ -540,8 +540,8 @@
       "domain": "Etiology-aware attention steering in LLM diagnosis",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/fb69b0591a8acf0d3f36b47d3df36b1ef481a394",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Twilight-sp/EAS-Diagnosis",
+      "githubStars": 0,
       "doi": "10.48550/arXiv.2508.00285",
       "citations": 0
     },
@@ -952,7 +952,7 @@
       "venue": "ICLR 2025",
       "paperUrl": "https://arxiv.org/abs/2504.08066",
       "codeUrl": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "githubStars": 7152,
+      "githubStars": 7153,
       "doi": ""
     },
     {
@@ -1305,8 +1305,8 @@
       "domain": "Automated protein analysis AI agent",
       "venue": "Journal of chemical information and modeling",
       "paperUrl": "https://www.semanticscholar.org/paper/c89cfdd40cf24c40b09304cbbf85024933def10c",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/SIAT-code/ProtChat",
+      "githubStars": 19,
       "doi": "10.1021/acs.jcim.4c01345",
       "citations": 12
     },
@@ -1388,7 +1388,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2408.06292",
       "codeUrl": "https://github.com/SakanaAI/AI-Scientist",
-      "githubStars": 14559,
+      "githubStars": 14562,
       "doi": ""
     },
     {
@@ -1567,8 +1567,8 @@
       "domain": "",
       "venue": "Cell",
       "paperUrl": "https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/prov-gigatime/GigaTIME",
+      "githubStars": 411,
       "doi": "10.1016/j.cell.2025.11.016",
       "citations": 62
     },
@@ -1734,8 +1734,8 @@
       "domain": "mRNA Sequence Design with Language Models",
       "venue": "Nature Communications",
       "paperUrl": "https://www.semanticscholar.org/paper/c9cd1f5b57f86be3a656f17a0dc0ed32a4e82825",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/yyly6/mRNABERT",
+      "githubStars": 19,
       "doi": "10.1038/s41467-025-65340-8",
       "citations": 23
     },
@@ -1874,8 +1874,8 @@
       "domain": "Plant genomics DNA language model",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/plantcad/plantcad2",
+      "githubStars": 1,
       "doi": "10.1101/2025.08.27.672609",
       "citations": 1
     },
@@ -1902,8 +1902,8 @@
       "domain": "Uncertainty‐aware vision‐language model for VRL",
       "venue": "IEEE journal of biomedical and health informatics",
       "paperUrl": "https://www.semanticscholar.org/paper/832128fa44868362e97bb29386c5c1425f428e78",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/wang-wen-wen/UA-VLFM",
+      "githubStars": 1,
       "doi": "10.1109/JBHI.2025.3611985",
       "citations": 1
     },
@@ -2015,7 +2015,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2",
       "codeUrl": "https://github.com/microsoft/bioemu",
-      "githubStars": 875,
+      "githubStars": 876,
       "doi": ""
     },
     {
@@ -2028,7 +2028,7 @@
       "venue": "Science",
       "paperUrl": "https://www.science.org/doi/10.1126/science.adv9817",
       "codeUrl": "https://github.com/microsoft/bioemu",
-      "githubStars": 875,
+      "githubStars": 876,
       "doi": ""
     },
     {
@@ -2093,7 +2093,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
       "codeUrl": "https://github.com/ArcInstitute/state",
-      "githubStars": 687,
+      "githubStars": 688,
       "doi": ""
     },
     {
@@ -2106,7 +2106,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1",
       "codeUrl": "https://github.com/google-deepmind/alphagenome",
-      "githubStars": 2123,
+      "githubStars": 2127,
       "doi": ""
     },
     {
@@ -2223,8 +2223,8 @@
       "domain": "Single-cell representation learning leveraging LLM prior knowledge",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/9aab32b1ffef407d9918bcf6f7b87c930d45c3f7",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/microsoft/sciLaMA",
+      "githubStars": 8,
       "doi": "10.1101/2025.01.28.635153",
       "citations": 2
     },
@@ -2237,8 +2237,8 @@
       "domain": "Antibody–antigen binding affinity prediction using LLM-based models",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/2478b5379054be98bb2b0f325bc474ff806f1ea6",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/hossain013/LlamaAffinity",
+      "githubStars": 5,
       "doi": "10.1101/2025.05.28.653051",
       "citations": 3
     },
@@ -2455,8 +2455,8 @@
       "domain": "Drug–target interaction prediction framework",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/c7aa64927a5600588c7e6600aafcf1a3b0d3e41b",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/bozdaglab/Top_DTI",
+      "githubStars": 6,
       "doi": "10.1101/2025.02.07.637146",
       "citations": 6
     },
@@ -2562,8 +2562,8 @@
       "domain": "Antimicrobial peptide discovery from gut microbes",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/2fc9811c567186a15873eb8600df36b27f40c088",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/JackKuo666/AMP-SEMiner-Portal",
+      "githubStars": 2,
       "doi": "10.1101/2025.01.13.632881",
       "citations": 12
     },
@@ -2618,8 +2618,8 @@
       "domain": "Protein secondary structure prediction with PLMs",
       "venue": "International Journal of Molecular Sciences",
       "paperUrl": "https://www.semanticscholar.org/paper/4eb9efc6ea3f7bf7935c374940af4c3866a5a368",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/WafaAlanazi/Porter6",
+      "githubStars": 1,
       "doi": "10.3390/ijms26010130",
       "citations": 11
     },
@@ -2660,7 +2660,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1",
       "codeUrl": "https://github.com/bowang-lab/Orthrus",
-      "githubStars": 130,
+      "githubStars": 131,
       "doi": ""
     },
     {
@@ -2685,8 +2685,8 @@
       "domain": "Life science question answer (RAG)",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2408.01107",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/ZhaoqianXue/BioRAG",
+      "githubStars": 0,
       "doi": ""
     },
     {
@@ -2751,7 +2751,7 @@
       "venue": "Nature",
       "paperUrl": "https://www.nature.com/articles/s41586-024-07487-w",
       "codeUrl": "https://github.com/google-deepmind/alphafold3",
-      "githubStars": 8556,
+      "githubStars": 8557,
       "doi": ""
     },
     {
@@ -2803,7 +2803,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02201-0",
       "codeUrl": "https://github.com/bowang-lab/scGPT",
-      "githubStars": 1628,
+      "githubStars": 1629,
       "doi": ""
     },
     {
@@ -2815,8 +2815,8 @@
       "domain": "DNA/RNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/xilinshen/OmniNA",
+      "githubStars": 1,
       "doi": ""
     },
     {
@@ -2920,8 +2920,8 @@
       "domain": "Brain Imaging",
       "venue": "medRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/270987463346ea5b85fb6b4f0745a27e9c22ec3e",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/real-JohnYoung/GenBrain-A-Generative-Foundation-Model-of-Multimodal-Brain-Imaging",
+      "githubStars": 5,
       "doi": "10.64898/2025.12.19.25342614",
       "citations": 4
     },
@@ -2934,8 +2934,8 @@
       "domain": "Pathology",
       "venue": "medRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/adec35d82936a1582fae1e604fb9aa709652be87",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/MHMAILab/UPATHLN",
+      "githubStars": 2,
       "doi": "10.1038/s41746-026-02564-y",
       "citations": 0
     },
@@ -2962,8 +2962,8 @@
       "domain": "",
       "venue": "Nature Communications",
       "paperUrl": "https://www.semanticscholar.org/paper/944165a43458f98e00f6a322ff8aefd08ed0fd64",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/jkwang93/Token-Mol",
+      "githubStars": 67,
       "doi": "10.1038/s41467-025-59628-y",
       "citations": 31
     },
@@ -3020,8 +3020,8 @@
       "domain": "Bacterial and Viral Bioinformatics Resource",
       "venue": "Nucleic acids research",
       "paperUrl": "https://www.semanticscholar.org/paper/693c203c962996b3a53f115787aa2ad849ba4f16",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/BV-BRC/BV-BRC-Web",
+      "githubStars": 7,
       "doi": "10.1093/nar/gkaf1254",
       "citations": 17
     },
@@ -3159,8 +3159,8 @@
       "domain": "Database and AI system for microRNA research",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/eecf17eee7339225389f95c092fbf8fbda0f9779",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/PasTaco/MirKatAI",
+      "githubStars": 5,
       "doi": "10.48550/arXiv.2508.08331",
       "citations": 0
     },
@@ -3186,8 +3186,8 @@
       "domain": "Multi-species scRNA-seq database for AI-ready applications",
       "venue": "Advanced Science",
       "paperUrl": "https://www.semanticscholar.org/paper/f5af8e3f7acd968b7baeb788f5b33cf7d868616e",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/CNICDS/scCompass",
+      "githubStars": 9,
       "doi": "10.1002/advs.202500870",
       "citations": 11
     },
@@ -3227,8 +3227,8 @@
       "domain": "Hierarchical Framework for Cell Type Annotation and Harmonization",
       "venue": "Bioinformatics",
       "paperUrl": "https://www.semanticscholar.org/paper/e3ce9b990c9604648ad39e38275cd61b7711415a",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/SuperBianC/uhaf",
+      "githubStars": 5,
       "doi": "10.1093/bioinformatics/btaf149",
       "citations": 9
     },
@@ -3417,8 +3417,8 @@
       "domain": "",
       "venue": "Chemical Science",
       "paperUrl": "https://www.semanticscholar.org/paper/ecfac36c981a52c976ecfee77afa51e6ddcef7f9",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/eat-sugar/NMRExtractor",
+      "githubStars": 23,
       "doi": "10.1039/d4sc08802f",
       "citations": 12
     }
@@ -3601,8 +3601,8 @@
       "domain": "Evaluation of compliance and factuality in clinical research document generation by LLMs",
       "venue": "Journal of the American Medical Informatics Association : JAMIA",
       "paperUrl": "https://www.semanticscholar.org/paper/a4c43e72d1311ea886405e9bdc942f49d5357046",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/RyanWangZf/InformBench",
+      "githubStars": 1,
       "doi": "10.1093/jamia/ocaf174",
       "citations": 5
     },
@@ -3783,8 +3783,8 @@
       "domain": "Alignment of brain visual representations with LLM embeddings",
       "venue": "Nature Machine Intelligence",
       "paperUrl": "https://www.semanticscholar.org/paper/bc5d6c636c36f5ddc9af61da414511d43373b8e0",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/adriendoerig/visuo_llm",
+      "githubStars": 24,
       "doi": "10.1038/s42256-025-01072-0",
       "citations": 54
     },
@@ -3864,8 +3864,8 @@
       "domain": "Benchmarking protein modeling architectures and pretraining strategies",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/5f65dfc5038c92492af55364ada876303e247be8",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Trust-App-AI-Lab/protap",
+      "githubStars": 13,
       "doi": "10.48550/arXiv.2506.02052",
       "citations": 2
     },
@@ -3892,8 +3892,8 @@
       "domain": "LLM extraction and annotation of neuroimaging metadata",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/59087a91539883877289ceb562272f1cc13e9545",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/NeuroBridge/LLM-Metadata-Extraction-Paper-2025",
+      "githubStars": 0,
       "doi": "10.1101/2025.05.13.653828"
     },
     {
@@ -3946,8 +3946,8 @@
       "domain": "Dermatology image classification evaluation framework",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/79dd24bdeaefadf1681d1d68104a02ba78c9c91d",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/LMietkiewicz/the-skin-game-research-paper",
+      "githubStars": 2,
       "doi": "10.48550/arXiv.2502.02500",
       "citations": 0
     },
@@ -4057,8 +4057,8 @@
       "domain": "Verbal Autopsy",
       "venue": "BMC Medicine",
       "paperUrl": "https://www.semanticscholar.org/paper/fb7ddfa2773f0dab97cda7e860153c2c368d69c4",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/cghr-toronto/wen-et-al-2025-cava",
+      "githubStars": 0,
       "doi": "10.1186/s12916-025-04584-z",
       "citations": 3
     },
