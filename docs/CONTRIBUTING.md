@@ -52,6 +52,14 @@ Add entries to `docs/data.json` following this format:
 
 `citations` is the Semantic Scholar citation count (integer). It powers the citation badge under Paper on the website. Leave it `null` if unknown; `awescholar updater citations --archive docs/data.json` backfills it.
 
+`githubStars` in this repo is always a **shields.io badge URL**, not a bare star count:
+
+- When `codeUrl` is a `github.com` repo, set `"githubStars": "https://img.shields.io/github/stars/owner/repo"` (same `owner/repo` as the code link).
+- When there is no GitHub `codeUrl` (homepage, Hugging Face, Zenodo, DOI only), leave `githubStars` empty — do not invent a badge.
+- Do not store numeric counts in this field; the website renders the badge image URL directly.
+
+`awescholar updater enrich` may temporarily write numeric counts when it refreshes metrics — convert them back to badge URLs for this archive (or skip enrich’s star refresh and keep badges as-is).
+
 ### Method 3: Interactive Mode
 
 ```bash

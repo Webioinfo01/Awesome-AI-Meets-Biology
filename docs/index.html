@@ -983,8 +983,9 @@
             return `<span class="citation-badge" title="${full} citations · Semantic Scholar"><i class="fas fa-quote-left"></i>${short}</span>`;
         }
 
-        // githubStars is a numeric count since the enrich refresh; legacy
-        // entries may still store the badge image URL directly.
+        // This archive stores githubStars as a shields.io badge URL when
+        // codeUrl is a GitHub repo. Numeric counts (e.g. from awescholar
+        // enrich) are still accepted and rendered via the codeUrl repo.
         function starsBadgeHtml(item) {
             if (!item.githubStars) return '';
             const value = String(item.githubStars);

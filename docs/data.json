@@ -24,7 +24,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2604.00550",
       "codeUrl": "https://github.com/qinheming/BIoClaw",
-      "githubStars": 378,
+      "githubStars": "https://img.shields.io/github/stars/qinheming/BIoClaw",
       "doi": "10.48550/arXiv.2604.00550",
       "citations": 1
     },
@@ -3007,7 +3007,7 @@
       "venue": "iMetaOmics",
       "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064",
       "codeUrl": "https://github.com/omicverse/CellOntologyMapper",
-      "githubStars": 12,
+      "githubStars": "https://img.shields.io/github/stars/omicverse/CellOntologyMapper",
       "doi": "10.1002/imo2.70064",
       "citations": 0
     },
@@ -3119,7 +3119,7 @@
       "venue": "",
       "paperUrl": "",
       "codeUrl": "https://github.com/DROMA01/DROMA",
-      "githubStars": 7,
+      "githubStars": "https://img.shields.io/github/stars/DROMA01/DROMA",
       "doi": ""
     },
     {
