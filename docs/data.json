@@ -10,7 +10,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://doi.org/10.64898/2026.07.21.739769",
       "codeUrl": "https://github.com/BGI-AI-models/MetaClaw",
-      "githubStars": "https://img.shields.io/github/stars/BGI-AI-models/MetaClaw",
+      "githubStars": 2,
       "doi": "10.64898/2026.07.21.739769",
       "citations": 0
     },
@@ -38,7 +38,7 @@
       "venue": "Nature Biomedical Engineering",
       "paperUrl": "https://doi.org/10.1038/s41551-026-01634-6",
       "codeUrl": "https://github.com/BOBQWERA/BioMedAgent",
-      "githubStars": "https://img.shields.io/github/stars/BOBQWERA/BioMedAgent",
+      "githubStars": 137,
       "doi": "10.1038/s41551-026-01634-6",
       "citations": 22
     },
@@ -52,7 +52,7 @@
       "venue": "Nature Biomedical Engineering",
       "paperUrl": "https://www.semanticscholar.org/paper/3080b0a455ba95e7e1b0e6c603eddd49635f94ff",
       "codeUrl": "https://github.com/RyanWangZf/BioDSA",
-      "githubStars": "https://img.shields.io/github/stars/RyanWangZf/BioDSA",
+      "githubStars": 93,
       "doi": "10.1038/s41551-025-01587-2",
       "citations": 15
     },
@@ -65,8 +65,8 @@
       "domain": "AI-driven drug–target identification pipeline",
       "venue": "Methods and Protocols",
       "paperUrl": "https://www.semanticscholar.org/paper/9df305ffbc93536e0e92b625a642fe9d066a3cd8",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/golempharm/agentmol",
+      "githubStars": 1,
       "doi": "10.3390/mps8060143",
       "citations": 3
     },
@@ -80,7 +80,7 @@
       "venue": "Nature communications",
       "paperUrl": "https://doi.org/10.1038/s41467-025-67084-x",
       "codeUrl": "https://github.com/ElliotXie/CASSIA",
-      "githubStars": "https://img.shields.io/github/stars/ElliotXie/CASSIA",
+      "githubStars": 106,
       "doi": "10.1038/s41467-025-67084-x",
       "citations": 18
     },
@@ -135,7 +135,7 @@
       "venue": "nature biotechnology",
       "paperUrl": "https://www.nature.com/articles/s41587-025-02857-9",
       "codeUrl": "https://github.com/epigen/cellwhisperer",
-      "githubStars": "https://img.shields.io/github/stars/epigen/cellwhisperer",
+      "githubStars": 219,
       "doi": "10.1038/s41587-025-02857-9",
       "citations": 43
     },
@@ -176,8 +176,8 @@
       "domain": "Automated Systematic Reviews in Biology",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/ea57ddb13f4b20dd70ff9af3a0e021a33316c39a",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/MetaBeeAI/MetaBeeAI",
+      "githubStars": 9,
       "doi": "10.1101/2025.11.24.690154",
       "citations": 2
     },
@@ -204,8 +204,8 @@
       "domain": "AI-XR Co-Scientist, AI with physical experimentation abilities",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2510.14861",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/zaixizhang/LabOS",
+      "githubStars": 33,
       "doi": "10.48550/arXiv.2510.14861",
       "citations": 7
     },
@@ -359,7 +359,7 @@
       "venue": "ArXiv",
       "paperUrl": "https://arxiv.org/abs/2510.24701",
       "codeUrl": "https://github.com/Alibaba-NLP/DeepResearch",
-      "githubStars": "https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch",
+      "githubStars": 19946,
       "doi": "10.48550/arXiv.2510.24701",
       "citations": 0
     },
@@ -456,8 +456,8 @@
       "domain": "Small language model agents for genomics (NBA)",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/b3dc8722e83573c7a6143e2b590b5791a4cf475e",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/georgesshong/nanobioagent",
+      "githubStars": 6,
       "doi": "10.48550/arXiv.2509.19566",
       "citations": 2
     },
@@ -625,7 +625,7 @@
       "venue": "Nature",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1",
       "codeUrl": "https://github.com/zou-group/virtual-lab",
-      "githubStars": "https://img.shields.io/github/stars/zou-group/virtual-lab",
+      "githubStars": 734,
       "doi": "10.1038/s41586-025-09442-9",
       "citations": 270
     },
@@ -652,7 +652,7 @@
       "venue": "Bioinformatics Advances",
       "paperUrl": "https://doi.org/10.1093/bioadv/vbag025",
       "codeUrl": "https://github.com/huang-sh/GPTBioInsightor",
-      "githubStars": "https://img.shields.io/github/stars/huang-sh/GPTBioInsightor",
+      "githubStars": 14,
       "doi": "10.1093/bioadv/vbag025",
       "citations": 1
     },
@@ -666,7 +666,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2507.02004",
       "codeUrl": "https://github.com/zaixizhang/STELLA",
-      "githubStars": "https://img.shields.io/github/stars/zaixizhang/STELLA",
+      "githubStars": 153,
       "doi": "10.48550/arXiv.2507.02004"
     },
     {
@@ -679,7 +679,7 @@
       "venue": "Nvidia's blog",
       "paperUrl": "https://build.nvidia.com/nvidia/biomedical-aiq-research-agent",
       "codeUrl": "https://github.com/NVIDIA/bionemo-framework",
-      "githubStars": "https://img.shields.io/github/stars/NVIDIA/bionemo-framework",
+      "githubStars": 855,
       "doi": ""
     },
     {
@@ -718,7 +718,7 @@
       "venue": "Genome Biology",
       "paperUrl": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x",
       "codeUrl": "https://github.com/yxwucq/scExtract",
-      "githubStars": "https://img.shields.io/github/stars/yxwucq/scExtract",
+      "githubStars": 48,
       "doi": ""
     },
     {
@@ -731,7 +731,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1",
       "codeUrl": "https://github.com/zou-group/CellVoyager",
-      "githubStars": "https://img.shields.io/github/stars/zou-group/CellVoyager",
+      "githubStars": 263,
       "doi": ""
     },
     {
@@ -826,8 +826,8 @@
       "domain": "Behavioral science of AI agents",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/e4bcb3f40c952a639c2bd665f8754defd67aad5e",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/nicky2tymze/the-mixing-board",
+      "githubStars": 1,
       "doi": "10.48550/arXiv.2506.06366",
       "citations": 9
     },
@@ -840,8 +840,8 @@
       "domain": "Method for dataset curation via probably approximately correct labels",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/1cb28c5ca1eb9ebc3d29c0cf59fe4ef3fdd48fc6",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/tijana-zrnic/pac-labels",
+      "githubStars": 14,
       "doi": "10.48550/arXiv.2506.10908",
       "citations": 7
     },
@@ -869,7 +869,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://arxiv.org/abs/2505.20286",
       "codeUrl": "https://github.com/CharlesQ9/Alita",
-      "githubStars": "https://img.shields.io/github/stars/CharlesQ9/Alita",
+      "githubStars": 880,
       "doi": ""
     },
     {
@@ -881,8 +881,8 @@
       "domain": "LLM agent for cell type annotation in single-cell data",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/40e125e1b882b278d14d7f86617a4381084fa69a",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/jianghao-zhang/CellTypeAgent",
+      "githubStars": 4,
       "doi": "10.48550/arXiv.2505.08844",
       "citations": 8
     },
@@ -895,8 +895,8 @@
       "domain": "Multimodal LLM-agent for automatic molecular data processing",
       "venue": "Advanced Intelligent Systems",
       "paperUrl": "https://www.semanticscholar.org/paper/1fd6efbd486e07872b17bf8b08ab68c5a60716c0",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/YiYuDL/ChatMolData",
+      "githubStars": 4,
       "doi": "10.1002/aisy.202401089",
       "citations": 2
     },
@@ -924,7 +924,7 @@
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/a51b28d8fcf17077a038fe775117865731f9c98d",
       "codeUrl": "https://github.com/wzn99/DrugPilot",
-      "githubStars": "https://img.shields.io/github/stars/wzn99/DrugPilot",
+      "githubStars": 23,
       "doi": "10.48550/arXiv.2505.13940",
       "citations": 24
     },
@@ -938,7 +938,7 @@
       "venue": "Bioinformatics",
       "paperUrl": "https://www.semanticscholar.org/paper/3ac8cac9583281d5eebca6a17e00af015eb8b286",
       "codeUrl": "https://github.com/Jpickard1/BRAD",
-      "githubStars": "https://img.shields.io/github/stars/Jpickard1/BRAD",
+      "githubStars": 64,
       "doi": "10.1093/bioinformatics/btaf159",
       "citations": 18
     },
@@ -952,7 +952,7 @@
       "venue": "ICLR 2025",
       "paperUrl": "https://arxiv.org/abs/2504.08066",
       "codeUrl": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2",
+      "githubStars": 7152,
       "doi": ""
     },
     {
@@ -965,7 +965,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1",
       "codeUrl": "https://github.com/Genentech/SpatialAgent",
-      "githubStars": "https://img.shields.io/github/stars/Genentech/SpatialAgent",
+      "githubStars": 209,
       "doi": ""
     },
     {
@@ -1005,8 +1005,8 @@
       "domain": "Universal Single-Cell Annotation with LLM Agent",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/0e8d9a99ce3f609b18e039f9770ef935e114b02e",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Miiyuu/scAgent",
+      "githubStars": 8,
       "doi": "10.48550/arXiv.2504.04698",
       "citations": 11
     },
@@ -1020,7 +1020,7 @@
       "venue": "Communications Biology",
       "paperUrl": "https://doi.org/10.1038/s42003-026-10420-8",
       "codeUrl": "https://github.com/cafferychen777/mLLMCelltype",
-      "githubStars": "https://img.shields.io/github/stars/cafferychen777/mLLMCelltype",
+      "githubStars": 661,
       "doi": "10.1038/s42003-026-10420-8"
     },
     {
@@ -1033,7 +1033,7 @@
       "venue": "Bioinformatics",
       "paperUrl": "https://doi.org/10.1093/bioinformatics/btaf402",
       "codeUrl": "https://github.com/NIH-NEI/SCassist",
-      "githubStars": "https://img.shields.io/github/stars/NIH-NEI/SCassist",
+      "githubStars": 33,
       "doi": "10.1093/bioinformatics/btaf402",
       "citations": 4
     },
@@ -1060,8 +1060,8 @@
       "domain": "Conversational bioinformatics pipeline",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/4305e3ff95f996eafc5a25dec044eed4af34aac4",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/OpenTechBio/Olaf",
+      "githubStars": 26,
       "doi": "10.48550/arXiv.2504.03976",
       "citations": 2
     },
@@ -1075,7 +1075,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2503.10970",
       "codeUrl": "https://github.com/mims-harvard/TxAgent",
-      "githubStars": "https://img.shields.io/github/stars/mims-harvard/TxAgent",
+      "githubStars": 653,
       "doi": ""
     },
     {
@@ -1127,8 +1127,8 @@
       "domain": "Astrobiology & Mass Spectrometry AI",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/a967904a87ba4c1d6359fbd7342a074d63e2fe63",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/amirgroup-codes/AstroAgents",
+      "githubStars": 15,
       "doi": "10.48550/arXiv.2503.23170",
       "citations": 9
     },
@@ -1184,7 +1184,7 @@
       "venue": "Cell Reports Methods",
       "paperUrl": "https://doi.org/10.1016/j.crmeth.2026.101503",
       "codeUrl": "https://github.com/NIH-NEI/IAN",
-      "githubStars": "https://img.shields.io/github/stars/NIH-NEI/IAN",
+      "githubStars": 18,
       "doi": "10.1016/j.crmeth.2026.101503",
       "citations": 2
     },
@@ -1197,8 +1197,8 @@
       "domain": "Drug Discovery",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2502.13959",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/ninglab/LIDDIA",
+      "githubStars": 9,
       "doi": ""
     },
     {
@@ -1253,7 +1253,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1",
       "codeUrl": "https://github.com/ai4nucleome/BioMaster",
-      "githubStars": "https://img.shields.io/github/stars/ai4nucleome/BioMaster",
+      "githubStars": 113,
       "doi": ""
     },
     {
@@ -1266,7 +1266,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2501.08187",
       "codeUrl": "https://github.com/zjunlp/InstructCell",
-      "githubStars": "https://img.shields.io/github/stars/zjunlp/InstructCell",
+      "githubStars": 33,
       "doi": ""
     },
     {
@@ -1279,7 +1279,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2501.06314",
       "codeUrl": "https://github.com/bio-xyz/BioAgents",
-      "githubStars": "https://img.shields.io/github/stars/bio-xyz/BioAgents",
+      "githubStars": 184,
       "doi": ""
     },
     {
@@ -1319,8 +1319,8 @@
       "domain": "scRNA-seq interpretation via LLM prompting",
       "venue": "2024 IEEE International Conference on Data Mining Workshops (ICDMW)",
       "paperUrl": "https://www.semanticscholar.org/paper/aba63c2f387349a58bbc9a89d83e2018bc436819",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/shining1984/screader",
+      "githubStars": 74,
       "doi": "10.1109/ICDMW65004.2024.00092",
       "citations": 4
     },
@@ -1334,7 +1334,7 @@
       "venue": "Advanced Materials (Deerfield Beach, Fla.)",
       "paperUrl": "https://www.semanticscholar.org/paper/dbbcdb281ed6aa646af0402172cf8a7cfda85d5c",
       "codeUrl": "https://github.com/lamm-mit/SciAgentsDiscovery",
-      "githubStars": "https://img.shields.io/github/stars/lamm-mit/SciAgentsDiscovery",
+      "githubStars": 639,
       "doi": "10.1002/adma.202413523",
       "citations": 254
     },
@@ -1362,7 +1362,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2405.17631",
       "codeUrl": "https://github.com/snap-stanford/BioDiscoveryAgent/",
-      "githubStars": "https://img.shields.io/github/stars/snap-stanford/BioDiscoveryAgent",
+      "githubStars": 126,
       "doi": ""
     },
     {
@@ -1375,7 +1375,7 @@
       "venue": "Advanced Science",
       "paperUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202407094",
       "codeUrl": "https://github.com/JoshuaChou2018/AutoBA",
-      "githubStars": "https://img.shields.io/github/stars/JoshuaChou2018/AutoBA",
+      "githubStars": 238,
       "doi": ""
     },
     {
@@ -1388,7 +1388,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2408.06292",
       "codeUrl": "https://github.com/SakanaAI/AI-Scientist",
-      "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist",
+      "githubStars": 14559,
       "doi": ""
     },
     {
@@ -1414,7 +1414,7 @@
       "venue": "Briefings in Bioinformatics",
       "paperUrl": "https://doi.org/10.1093/bib/bbaf312",
       "codeUrl": "https://github.com/lyyang01/Bio-Copilot",
-      "githubStars": "https://img.shields.io/github/stars/lyyang01/Bio-Copilot",
+      "githubStars": 13,
       "doi": "10.1093/bib/bbaf312",
       "citations": 9
     },
@@ -1428,7 +1428,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3",
       "codeUrl": "https://github.com/cong-lab/crispr-gpt-pub",
-      "githubStars": "https://img.shields.io/github/stars/cong-lab/crispr-gpt-pub",
+      "githubStars": 176,
       "doi": ""
     },
     {
@@ -1441,7 +1441,7 @@
       "venue": "Digital Discovery",
       "paperUrl": "https://doi.org/10.1039/d4dd00013g",
       "codeUrl": "https://github.com/lamm-mit/ProtAgents",
-      "githubStars": "https://img.shields.io/github/stars/lamm-mit/ProtAgents",
+      "githubStars": 53,
       "doi": "10.1039/d4dd00013g"
     },
     {
@@ -1539,8 +1539,8 @@
       "domain": "",
       "venue": "Nature Methods",
       "paperUrl": "https://www.semanticscholar.org/paper/96635eda1f59bf68a0b2dca799155c37ea90e441",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/prism-oncology/novae",
+      "githubStars": 158,
       "doi": "10.1038/s41592-025-02899-6",
       "citations": 40
     },
@@ -1554,7 +1554,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383",
       "codeUrl": "https://github.com/abuendia/spatial-prop",
-      "githubStars": "https://img.shields.io/github/stars/abuendia/spatial-prop",
+      "githubStars": 10,
       "doi": "10.64898/2025.11.30.691355",
       "citations": 2
     },
@@ -1638,7 +1638,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1",
       "codeUrl": "https://github.com/snap-stanford/PULSAR/",
-      "githubStars": "https://img.shields.io/github/stars/snap-stanford/PULSAR",
+      "githubStars": 39,
       "doi": "10.1101/2025.11.24.685470",
       "citations": 4
     },
@@ -1666,7 +1666,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.08.12.607533v3",
       "codeUrl": "https://github.com/theislab/prophet",
-      "githubStars": "https://img.shields.io/github/stars/theislab/prophet",
+      "githubStars": 40,
       "doi": "10.1101/2024.08.12.607533v3"
     },
     {
@@ -1693,7 +1693,7 @@
       "venue": "Nature Biomedical Engineering",
       "paperUrl": "https://www.nature.com/articles/s41551-025-01528-z",
       "codeUrl": "https://github.com/TencentAILabHealthcare/scTranslator",
-      "githubStars": "https://img.shields.io/github/stars/TencentAILabHealthcare/scTranslator",
+      "githubStars": 99,
       "doi": "https://doi.org/10.1038/s41551-025-01528-z",
       "citations": 11
     },
@@ -1749,7 +1749,7 @@
       "venue": "GigaScience",
       "paperUrl": "https://www.semanticscholar.org/paper/4488463e7f0cd84dd17f5f26ee952e900c0d1be3",
       "codeUrl": "https://github.com/BGI-HangzhouAI/Genos",
-      "githubStars": "https://img.shields.io/github/stars/BGI-shenzhen/Genos",
+      "githubStars": 180,
       "doi": "10.1093/gigascience/giaf132",
       "citations": 18
     },
@@ -1777,7 +1777,7 @@
       "venue": "Nature Computational Science",
       "paperUrl": "https://www.nature.com/articles/s43588-025-00870-1",
       "codeUrl": "https://github.com/perturblib/perturblib",
-      "githubStars": "https://img.shields.io/github/stars/perturblib/perturblib",
+      "githubStars": 53,
       "doi": "doi.org/10.1038/s43588-025-00870-1",
       "citations": 23
     },
@@ -1847,7 +1847,7 @@
       "venue": "Genome Biology",
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40983974/",
       "codeUrl": "https://github.com/suzheng/GeneRAIN",
-      "githubStars": "https://img.shields.io/github/stars/suzheng/GeneRAIN",
+      "githubStars": 11,
       "doi": "10.1186/s13059-025-03749-6",
       "citations": 3
     },
@@ -1986,8 +1986,8 @@
       "domain": "LLM for small-molecule drug approval prediction",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/d77d18b9f67a0891cf665e22c26d22b59ba58b14",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/mohammad-gh009/DrugReasoner",
+      "githubStars": 13,
       "doi": "10.48550/arXiv.2508.18579",
       "citations": 1
     },
@@ -2000,8 +2000,8 @@
       "domain": "LLM embeddings for single-cell data analysis",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/a9f7761b740c85444b86f581801a471340007a0d",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/HelloWorldLTY/scELMo",
+      "githubStars": 24,
       "doi": "10.1101/2023.12.07.569910",
       "citations": 28
     },
@@ -2015,7 +2015,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2",
       "codeUrl": "https://github.com/microsoft/bioemu",
-      "githubStars": "https://img.shields.io/github/stars/xujing363/ODFormer",
+      "githubStars": 875,
       "doi": ""
     },
     {
@@ -2028,7 +2028,7 @@
       "venue": "Science",
       "paperUrl": "https://www.science.org/doi/10.1126/science.adv9817",
       "codeUrl": "https://github.com/microsoft/bioemu",
-      "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
+      "githubStars": 875,
       "doi": ""
     },
     {
@@ -2054,7 +2054,7 @@
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-025-60872-5",
       "codeUrl": "https://github.com/lbcb-sci/RiNALMo",
-      "githubStars": "https://img.shields.io/github/stars/lbcb-sci/RiNALMo",
+      "githubStars": 173,
       "doi": ""
     },
     {
@@ -2080,7 +2080,7 @@
       "venue": "Nature Machine Intelligence",
       "paperUrl": "https://www.nature.com/articles/s42256-025-01044-4",
       "codeUrl": "https://github.com/LucaOne/LucaOne",
-      "githubStars": "https://img.shields.io/github/stars/LucaOne/LucaOne",
+      "githubStars": 369,
       "doi": ""
     },
     {
@@ -2093,7 +2093,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
       "codeUrl": "https://github.com/ArcInstitute/state",
-      "githubStars": "https://img.shields.io/github/stars/ArcInstitute/state",
+      "githubStars": 687,
       "doi": ""
     },
     {
@@ -2106,7 +2106,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1",
       "codeUrl": "https://github.com/google-deepmind/alphagenome",
-      "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphagenome",
+      "githubStars": 2123,
       "doi": ""
     },
     {
@@ -2119,7 +2119,7 @@
       "venue": "ICML 2025",
       "paperUrl": "https://arxiv.org/abs/2506.01833",
       "codeUrl": "https://github.com/YangLab/CSI",
-      "githubStars": "https://img.shields.io/github/stars/YangLab/CSI",
+      "githubStars": 6,
       "doi": ""
     },
     {
@@ -2132,7 +2132,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.14.658531v1",
       "codeUrl": "https://github.com/ZexiChen502/UniCure",
-      "githubStars": "https://img.shields.io/github/stars/ZexiChen502/UniCure",
+      "githubStars": 19,
       "doi": ""
     },
     {
@@ -2157,8 +2157,8 @@
       "domain": "Generative foundation model for digital histopathology images",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/a4ac7f99debb0c757ba3f0f8291b24a4255d1d03",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/cvlab-stonybrook/PixCell",
+      "githubStars": 37,
       "doi": "10.48550/arXiv.2506.05127",
       "citations": 16
     },
@@ -2172,7 +2172,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-025-02707-1",
       "codeUrl": "https://github.com/GuangyuWangLab2021/Loki",
-      "githubStars": "https://img.shields.io/github/stars/GuangyuWangLab2021/Loki",
+      "githubStars": 148,
       "doi": ""
     },
     {
@@ -2185,7 +2185,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2505.23839",
       "codeUrl": "https://github.com/zaixizhang/GeneBreaker",
-      "githubStars": "https://img.shields.io/github/stars/zaixizhang/GeneBreaker",
+      "githubStars": 24,
       "doi": ""
     },
     {
@@ -2198,7 +2198,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2505.23579",
       "codeUrl": "https://github.com/bowang-lab/BioReason",
-      "githubStars": "https://img.shields.io/github/stars/bowang-lab/BioReason",
+      "githubStars": 404,
       "doi": ""
     },
     {
@@ -2211,7 +2211,7 @@
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-025-59926-5",
       "codeUrl": "https://github.com/biomed-AI/CellFM",
-      "githubStars": "https://img.shields.io/github/stars/biomed-AI/CellFM",
+      "githubStars": 111,
       "doi": ""
     },
     {
@@ -2266,7 +2266,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1",
       "codeUrl": "https://github.com/vandijklab/cell2sentence",
-      "githubStars": "https://img.shields.io/github/stars/vandijklab/cell2sentence",
+      "githubStars": 880,
       "doi": "10.1101/2025.04.14.648850",
       "citations": 56
     },
@@ -2280,7 +2280,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1",
       "codeUrl": "https://github.com/theislab/CellFlow",
-      "githubStars": "https://img.shields.io/github/stars/theislab/CellFlow",
+      "githubStars": 159,
       "doi": ""
     },
     {
@@ -2362,7 +2362,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://arxiv.org/abs/2401.06199",
       "codeUrl": "https://github.com/biomap-research/xTrimoPGLM",
-      "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM",
+      "githubStars": 25,
       "doi": ""
     },
     {
@@ -2374,8 +2374,8 @@
       "domain": "Clinical Pharmacology Modeling",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/mims-harvard/Madrigal",
+      "githubStars": 45,
       "doi": "10.48550/arXiv.2503.02781",
       "citations": 13
     },
@@ -2389,7 +2389,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1",
       "codeUrl": "https://github.com/arcinstitute/evo2",
-      "githubStars": "https://img.shields.io/github/stars/arcinstitute/evo2",
+      "githubStars": 4215,
       "doi": ""
     },
     {
@@ -2402,7 +2402,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2502.07272",
       "codeUrl": "https://github.com/GenerTeam/GENERator",
-      "githubStars": "https://img.shields.io/github/stars/GenerTeam/GENERator",
+      "githubStars": 465,
       "doi": ""
     },
     {
@@ -2415,7 +2415,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1",
       "codeUrl": "https://github.com/bowang-lab/scGPT-spatial",
-      "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT-spatial",
+      "githubStars": 143,
       "doi": ""
     },
     {
@@ -2427,8 +2427,8 @@
       "domain": "EEG foundation model",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/92e6303157e9044ada38869c8d3c318882bbb9b6",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/ChiShengChen/LCMv1",
+      "githubStars": 1,
       "doi": "10.48550/arXiv.2502.17464",
       "citations": 14
     },
@@ -2441,8 +2441,8 @@
       "domain": "Cross-modal genomic foundation model",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/7b9c7b43df7282797547f622788389d09cf5b3d2",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Zehui127/Omni-DNA",
+      "githubStars": 6,
       "doi": "10.48550/arXiv.2502.03499",
       "citations": 7
     },
@@ -2497,7 +2497,7 @@
       "venue": "Nucleic Acids Research",
       "paperUrl": "https://academic.oup.com/nar/article/53/2/gkae1310/7954523",
       "codeUrl": "https://github.com/AIRI-Institute/GENA_LM",
-      "githubStars": "https://img.shields.io/github/stars/AIRI-Institute/GENA_LM",
+      "githubStars": 231,
       "doi": ""
     },
     {
@@ -2510,7 +2510,7 @@
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2410.03634",
       "codeUrl": "https://github.com/Profluent-Internships/ProCALM",
-      "githubStars": "https://img.shields.io/github/stars/Profluent-Internships/ProCALM",
+      "githubStars": 24,
       "doi": ""
     },
     {
@@ -2523,7 +2523,7 @@
       "venue": "Science",
       "paperUrl": "https://www.science.org/doi/10.1126/science.ads0018",
       "codeUrl": "https://github.com/evolutionaryscale/esm",
-      "githubStars": "https://img.shields.io/github/stars/evolutionaryscale/esm",
+      "githubStars": 2957,
       "doi": ""
     },
     {
@@ -2536,7 +2536,7 @@
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-024-55707-8",
       "codeUrl": "https://github.com/theislab/IMPA",
-      "githubStars": "https://img.shields.io/github/stars/theislab/IMPA",
+      "githubStars": 27,
       "doi": ""
     },
     {
@@ -2576,8 +2576,8 @@
       "domain": "Biomedical dataset distillation for LLM training",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/8d6ab0e57aa1f7d20e680f3306a9e098a9b3a286",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/coco11563/KAILIN-Knowledge-Hierarchy-Guided-Biological-Medical-Dataset-Distillation-for-Domain-LLM-Training",
+      "githubStars": 1,
       "doi": "10.48550/arXiv.2501.15108",
       "citations": 8
     },
@@ -2632,8 +2632,8 @@
       "domain": "Multi-modal protein sequence design from text",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/1fc064d589849dfefce0d28fe64b9b83600a0cb6",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/GXY0116/ProtDAT",
+      "githubStars": 16,
       "doi": "10.48550/arXiv.2412.04069",
       "citations": 5
     },
@@ -2647,7 +2647,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02523-z",
       "codeUrl": "https://github.com/instadeepai/nucleotide-transformer",
-      "githubStars": "https://img.shields.io/github/stars/instadeepai/nucleotide-transformer",
+      "githubStars": 920,
       "doi": ""
     },
     {
@@ -2660,7 +2660,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1",
       "codeUrl": "https://github.com/bowang-lab/Orthrus",
-      "githubStars": "https://img.shields.io/github/stars/bowang-lab/Orthrus",
+      "githubStars": 130,
       "doi": ""
     },
     {
@@ -2673,7 +2673,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.09.27.615337v6",
       "codeUrl": "https://github.com/csh3/stFormer",
-      "githubStars": "https://img.shields.io/github/stars/csh3/stFormer",
+      "githubStars": 11,
       "doi": ""
     },
     {
@@ -2712,7 +2712,7 @@
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02305-7",
       "codeUrl": "https://github.com/biomap-research/scFoundation",
-      "githubStars": "https://img.shields.io/github/stars/biomap-research/scFoundation",
+      "githubStars": 428,
       "doi": ""
     },
     {
@@ -2725,7 +2725,7 @@
       "venue": "ISMB 24",
       "paperUrl": "https://arxiv.org/abs/2401.15269",
       "codeUrl": "https://github.com/dmis-lab/self-biorag",
-      "githubStars": "https://img.shields.io/github/stars/dmis-lab/self-biorag",
+      "githubStars": 64,
       "doi": ""
     },
     {
@@ -2751,7 +2751,7 @@
       "venue": "Nature",
       "paperUrl": "https://www.nature.com/articles/s41586-024-07487-w",
       "codeUrl": "https://github.com/google-deepmind/alphafold3",
-      "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphafold3",
+      "githubStars": 8556,
       "doi": ""
     },
     {
@@ -2790,7 +2790,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1",
       "codeUrl": "https://github.com/theislab/nicheformer",
-      "githubStars": "https://img.shields.io/github/stars/theislab/nicheformer",
+      "githubStars": 175,
       "doi": ""
     },
     {
@@ -2803,7 +2803,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02201-0",
       "codeUrl": "https://github.com/bowang-lab/scGPT",
-      "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT",
+      "githubStars": 1628,
       "doi": ""
     },
     {
@@ -2829,7 +2829,7 @@
       "venue": "EMNLP 2024",
       "paperUrl": "https://openreview.net/forum?id=g1NplcWH7X",
       "codeUrl": "https://github.com/HelloWorldLTY/Geneverse",
-      "githubStars": "https://img.shields.io/github/stars/HelloWorldLTY/Geneverse",
+      "githubStars": 11,
       "doi": ""
     },
     {
@@ -2842,7 +2842,7 @@
       "venue": "NeurIPS 2023",
       "paperUrl": "https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf",
       "codeUrl": "https://github.com/HazyResearch/hyena-dna",
-      "githubStars": "https://img.shields.io/github/stars/HazyResearch/hyena-dna",
+      "githubStars": 808,
       "doi": ""
     },
     {
@@ -2855,7 +2855,7 @@
       "venue": "Cell Systems",
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/37909046/",
       "codeUrl": "https://github.com/salesforce/progen",
-      "githubStars": "https://img.shields.io/github/stars/salesforce/progen",
+      "githubStars": 705,
       "doi": ""
     },
     {
@@ -2868,7 +2868,7 @@
       "venue": "ICLR 2024",
       "paperUrl": "https://arxiv.org/abs/2306.15006",
       "codeUrl": "https://github.com/MAGICS-LAB/DNABERT_2",
-      "githubStars": "https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2",
+      "githubStars": 514,
       "doi": ""
     },
     {
@@ -2894,7 +2894,7 @@
       "venue": "Bioinformatics",
       "paperUrl": "https://academic.oup.com/bioinformatics/article/37/15/2112/6128680",
       "codeUrl": "https://github.com/jerryji1993/DNABERT",
-      "githubStars": "https://img.shields.io/github/stars/jerryji1993/DNABERT",
+      "githubStars": 778,
       "doi": ""
     },
     {
@@ -2948,8 +2948,8 @@
       "domain": "",
       "venue": "Neural Information Processing Systems",
       "paperUrl": "https://www.semanticscholar.org/paper/304965a51b428af89df398ec0cc84314b00ac94c",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Qihao-Duan/JanusDNA",
+      "githubStars": 32,
       "doi": "10.48550/arXiv.2505.17257",
       "citations": 9
     },
@@ -2993,7 +2993,7 @@
       "venue": "arXiv",
       "paperUrl": "https://www.biorxiv.org/content/10.64898/2025.12.23.696273v1",
       "codeUrl": "https://github.com/emdann/GWT_perturbseq_analysis_2025",
-      "githubStars": "https://img.shields.io/github/stars/emdann/GWT_perturbseq_analysis_2025",
+      "githubStars": 25,
       "doi": "10.64898/2025.12.23.696273",
       "citations": 20
     },
@@ -3007,7 +3007,7 @@
       "venue": "iMetaOmics",
       "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/imo2.70064",
       "codeUrl": "https://github.com/Starlitnightly/CellOntologyMapper",
-      "githubStars": "https://img.shields.io/github/stars/Starlitnightly/CellOntologyMapper",
+      "githubStars": 12,
       "doi": "10.1002/imo2.70064",
       "citations": 0
     },
@@ -3035,7 +3035,7 @@
       "venue": "Cell",
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/41138729/",
       "codeUrl": "https://github.com/guomics-lab/Aging_PR",
-      "githubStars": "https://img.shields.io/github/stars/guomics-lab/Aging_PR",
+      "githubStars": 4,
       "doi": "10.1016/j.cell.2025.10.004",
       "citations": 11
     },
@@ -3049,7 +3049,7 @@
       "venue": "Nature",
       "paperUrl": "https://www.nature.com/articles/s41586-025-09603-w",
       "codeUrl": "https://github.com/ratschlab/metagraph",
-      "githubStars": "https://img.shields.io/github/stars/ratschlab/metagraph",
+      "githubStars": 230,
       "doi": "10.1038/s41586-025-09603-w",
       "citations": 35
     },
@@ -3215,7 +3215,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-025-02651-0",
       "codeUrl": "https://github.com/ZhangLabGT/scMultiSim/",
-      "githubStars": "https://img.shields.io/github/stars/ZhangLabGT/scMultiSim",
+      "githubStars": 69,
       "doi": ""
     },
     {
@@ -3241,8 +3241,8 @@
       "domain": "Text-omic signaling graph dataset",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/fd87bf03430232aa9c2aeb733bd8d6dc023c4ef7",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/FuhaiLiAiLab/OmniCellTOSG",
+      "githubStars": 10,
       "doi": "10.48550/arXiv.2504.02148",
       "citations": 4
     },
@@ -3283,7 +3283,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.27.640494v2",
       "codeUrl": "https://github.com/ArcInstitute/SRAgent",
-      "githubStars": "https://img.shields.io/github/stars/ArcInstitute/SRAgent",
+      "githubStars": 182,
       "doi": ""
     },
     {
@@ -3296,7 +3296,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.20.639398v3",
       "codeUrl": "https://github.com/ArcInstitute/arc-virtual-cell-atlas",
-      "githubStars": "https://img.shields.io/github/stars/ArcInstitute/arc-virtual-cell-atlas",
+      "githubStars": 592,
       "doi": ""
     },
     {
@@ -3336,8 +3336,8 @@
       "domain": "Biomedical knowledge graph platform",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/212898d49afdf60a12eeda9935bc54d748da3089",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/FuhaiLiAiLab/BioMedGraphica",
+      "githubStars": 11,
       "doi": "10.1101/2024.12.05.627020",
       "citations": 4
     },
@@ -3378,7 +3378,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02241-6",
       "codeUrl": "https://github.com/broadinstitute/cellpainting-gallery/",
-      "githubStars": "https://img.shields.io/github/stars/broadinstitute/cellpainting-gallery",
+      "githubStars": 140,
       "doi": ""
     },
     {
@@ -3391,7 +3391,7 @@
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-023-02144-y",
       "codeUrl": "https://github.com/sanderlab/scPerturb/",
-      "githubStars": "https://img.shields.io/github/stars/sanderlab/scPerturb",
+      "githubStars": 187,
       "doi": ""
     },
     {
@@ -3434,7 +3434,7 @@
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-025-67481-2",
       "codeUrl": "https://github.com/QSong-github/scDrugMap",
-      "githubStars": "https://img.shields.io/github/stars/QSong-github/scDrugMap",
+      "githubStars": 14,
       "doi": "10.1038/s41467-025-67481-2",
       "citations": 5
     },
@@ -3852,7 +3852,7 @@
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
       "codeUrl": "https://github.com/ArcInstitute/cell-eval",
-      "githubStars": "https://img.shields.io/github/stars/ArcInstitute/cell-eval",
+      "githubStars": 160,
       "doi": ""
     },
     {
@@ -3878,8 +3878,8 @@
       "domain": "LLMs for language-driven single-cell multi-omics analysis (CellVerse)",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/4dd1c628a26c7b13c98e975c7ae8b5c16fbc320e",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/zfkarl/CellVerse",
+      "githubStars": 17,
       "doi": "10.48550/arXiv.2505.07865",
       "citations": 8
     },
@@ -3906,7 +3906,7 @@
       "venue": "Genome Biology",
       "paperUrl": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x",
       "codeUrl": "https://github.com/microsoft/zero-shot-scfoundation",
-      "githubStars": "https://img.shields.io/github/stars/microsoft/zero-shot-scfoundation",
+      "githubStars": 86,
       "doi": ""
     },
     {
@@ -3932,8 +3932,8 @@
       "domain": "Biological pathway reasoning benchmark",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/1456f9a8717ea2987897172a3e855970302cc373",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/zhao-ht/BioMaze",
+      "githubStars": 24,
       "doi": "10.48550/arXiv.2502.16660",
       "citations": 18
     },
@@ -3974,8 +3974,8 @@
       "domain": "LLM evaluation in neurodegenerative disease research",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/8b9312c65220e7ef9c5edfc5b3b9f8bb259e1444",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/NIH-CARD/CARDBiomedBench",
+      "githubStars": 5,
       "doi": "10.1101/2025.01.15.633272",
       "citations": 9
     },
@@ -4017,7 +4017,7 @@
       "venue": "NeurIPS 2024",
       "paperUrl": "https://neurips.cc/virtual/2024/102911",
       "codeUrl": "https://github.com/altoslabs/perturbench",
-      "githubStars": "https://img.shields.io/github/stars/altoslabs/perturbench",
+      "githubStars": 97,
       "doi": ""
     },
     {
@@ -4029,8 +4029,8 @@
       "domain": "Benchmark of gene property prediction models",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/7eb6e6bce59f3e724ae3365b1348627dfd73c409",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/BiomedSciAI/gene-benchmark",
+      "githubStars": 16,
       "doi": "10.48550/arXiv.2412.04075",
       "citations": 4
     },
@@ -4088,7 +4088,7 @@
       "venue": "Genomics Communications",
       "paperUrl": "https://doi.org/10.48130/gcomm-0026-0005",
       "codeUrl": "https://github.com/Webioinfo01/Awesome-AI-Meets-Biology",
-      "githubStars": "https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Biology",
+      "githubStars": 40,
       "doi": "10.48130/gcomm-0026-0005",
       "citations": 3
     },
@@ -4424,7 +4424,7 @@
       "venue": "Cell",
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40713951/",
       "codeUrl": "https://github.com/physicell-models/grammar_samples",
-      "githubStars": "https://img.shields.io/github/stars/physicell-models/grammar_samples",
+      "githubStars": 34,
       "doi": ""
     },
     {
@@ -4534,8 +4534,8 @@
       "domain": "MCP for agents",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2503.23278",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/AIM-Intelligence/awesome-mcp-security",
+      "githubStars": 50,
       "doi": ""
     },
     {
@@ -4602,8 +4602,8 @@
       "domain": "Sequence Analysis",
       "venue": "ArXiv",
       "paperUrl": "https://www.semanticscholar.org/paper/9ad1cc1a90c204bc066861e41c7d3c4125ad6340",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/jiangjyjy/Bioinformatics_Prompting_Survey",
+      "githubStars": 2,
       "doi": "10.48550/arXiv.2503.04135",
       "citations": 8
     },
