@@ -2364,6 +2364,22 @@
       "citations": 0,
       "doi": "10.1038/s41591-026-04494-4",
       "addedAt": "2026-09-17T04:16:57Z"
+    },
+    {
+      "year": "2026.09",
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "team": "James Zou",
+      "authors": [],
+      "team website": "",
+      "affiliation": "Stanford University",
+      "domain": "Turns research papers into interactive AI agents that reproduce the paper's analyses",
+      "venue": "Nature",
+      "paperUrl": "https://doi.org/10.1038/s41586-026-11044-y",
+      "codeUrl": "https://github.com/jmiao24/Paper2Agent",
+      "githubStars": "https://img.shields.io/github/stars/jmiao24/Paper2Agent",
+      "citations": 0,
+      "doi": "10.1038/s41586-026-11044-y",
+      "addedAt": "2026-09-17T23:58:24Z"
     }
   ],
   "Foundation models": [
