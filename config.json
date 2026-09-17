@@ -20,6 +20,9 @@
             "perturbation study"
         ]
     },
+    "archive": {
+        "stars_style": "badge"
+    },
     "categories": [
         "AI Agents",
         "Foundation models",
