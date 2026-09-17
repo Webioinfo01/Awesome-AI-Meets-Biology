@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 16 Sep 2026 15:16:55 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 01:33:19 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -1647,6 +1647,146 @@
     <guid isPermaLink="false">OmicOSAComprehensiveOmicsEcosystemInfrastructureandAgentSystemfortheAIEra202606</guid>
   </item>
   <item>
+    <title>ChatDIA: A zero-shot large language model workflow for targeted analysis of data-independent acquisition mass spectrometry data</title>
+    <link>https://doi.org/10.64898/2026.02.11.705360</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> H. Röst</p>
+        <p><b>Domain:</b> Proteomics DIA-MS data analysis</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/f3aa1e304b29940e95b544e411a3f13b713514ff">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ChatDIAAzeroshotlargelanguagemodelworkflowfortargetedanalysisofdataindependentacquisitionmassspectrometrydata2026-05</guid>
+  </item>
+  <item>
+    <title>Pepti-Agent: An AI Agent for Peptide Design and Optimization</title>
+    <link>https://doi.org/10.48550/arXiv.2606.15422</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Farimani</p>
+        <p><b>Domain:</b> Peptide design and optimization (drug discovery)</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://www.semanticscholar.org/paper/a995496539d5c45f642b92829ddfcba92cdb1db4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PeptiAgentAnAIAgentforPeptideDesignandOptimization2026-06</guid>
+  </item>
+  <item>
+    <title>AERO: An AI Agent for Adaptive Eligibility Refinement and Optimization of Clinical Trial Criteria in Real-World Trial Emulation</title>
+    <link>https://doi.org/10.64898/2026.04.30.26352142</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> N. Zong</p>
+        <p><b>Domain:</b> Clinical trial emulation</p>
+        <p><b>Venue:</b> medRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e5d5cf85de2daa3bb82b1671ac71f2ee55469e96">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AEROAnAIAgentforAdaptiveEligibilityRefinementandOptimizationofClinicalTrialCriteriainRealWorldTrialEmulation2026-05</guid>
+  </item>
+  <item>
+    <title>Client-server interfaces enable efficient agent-driven variant calling</title>
+    <link>https://doi.org/10.64898/2026.06.25.734665</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ruibang Luo</p>
+        <p><b>Domain:</b> Genomic variant calling</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/c2b76fbc0fbe3c0bb9841235127ec12319f32018">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Clientserverinterfacesenableefficientagentdrivenvariantcalling2026-06</guid>
+  </item>
+  <item>
+    <title>An independent supervisory safety agent improves reaction of large language models to suicidal ideation</title>
+    <link>https://doi.org/10.64898/2026.04.13.26350757</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Charney</p>
+        <p><b>Domain:</b> AI Safety</p>
+        <p><b>Venue:</b> medRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/18f8d02bb06ebe51c26dd69ceb1671bb3997254e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Anindependentsupervisorysafetyagentimprovesreactionoflargelanguagemodelstosuicidalideation2026-04</guid>
+  </item>
+  <item>
+    <title>TRUST: an large language model-based dialogue system for trauma understanding and structured assessments</title>
+    <link>https://doi.org/10.1093/jamia/ocag050</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jinho D. Choi</p>
+        <p><b>Domain:</b> Trauma mental health dialogue systems</p>
+        <p><b>Venue:</b> J. Am. Medical Informatics Assoc.</p>
+        <p><a href="https://www.semanticscholar.org/paper/be81650723b291277c5fa827d9b7fa8cfe5e351e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TRUSTanlargelanguagemodelbaseddialoguesystemfortraumaunderstandingandstructuredassessments2026-05</guid>
+  </item>
+  <item>
+    <title>MetaMuse: A Multi-Agent AI System for Biomedical Metadata Curation and Harmonization</title>
+    <link>https://doi.org/10.64898/2026.04.12.718044</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> T. Kassis</p>
+        <p><b>Domain:</b> Biomedical Metadata Curation</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/5c414d15ca051b6ddd967c646f8c2f190b3efff8">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MetaMuseAMultiAgentAISystemforBiomedicalMetadataCurationandHarmonization2026-04</guid>
+  </item>
+  <item>
+    <title>An AI-agent-orchestrated grey-box Transformer framework for sparse pharmacokinetic curve reconstruction and pharmacometric model initialization</title>
+    <link>https://doi.org/10.64898/2026.05.23.727373</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Dongyang Liu</p>
+        <p><b>Domain:</b> Pharmacokinetics/pharmacometrics</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e769cc16086de270fcc358dac62332530af01cef">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AnAIagentorchestratedgreyboxTransformerframeworkforsparsepharmacokineticcurvereconstructionandpharmacometricmodelinitialization2026-05</guid>
+  </item>
+  <item>
+    <title>BioBrain: A Multi-Agent Framework for Natural Language Driven Quantitative Microscopy Data Analysis</title>
+    <link>https://doi.org/10.64898/2026.06.17.732700</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> N. Hatzakis</p>
+        <p><b>Domain:</b> Quantitative microscopy data analysis</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/3e3ba0820ac286451d7d8727e1f6645e097fb661">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BioBrainAMultiAgentFrameworkforNaturalLanguageDrivenQuantitativeMicroscopyDataAnalysis2026-06</guid>
+  </item>
+  <item>
+    <title>Behavior-Driven Marine Larval Dispersal and Settlement with AI Agent-Based Modeling</title>
+    <link>https://doi.org/10.64898/2026.04.29.721765</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Annalisas Bracco</p>
+        <p><b>Domain:</b> Marine larval dispersal modeling (LLM-driven agents)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/ccda12e420fbda0dc65668cbf4e31e498d7cc69e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BehaviorDrivenMarineLarvalDispersalandSettlementwithAIAgentBasedModeling2026-05</guid>
+  </item>
+  <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
     <link>https://doi.org/10.1038/s41592-025-02899-6</link>
     <description>
@@ -3213,6 +3353,160 @@
     <guid isPermaLink="false">AIguideddiscoveryandoptimizationofantimicrobialpeptidesthroughspeciesawarelanguagemodel202505</guid>
   </item>
   <item>
+    <title>H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling</title>
+    <link>https://doi.org/10.64898/2026.04.21.717342</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jianhua Yao</p>
+        <p><b>Domain:</b> Histopathology / Spatial Multi-Omics</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/8c1c4e2ffa9ba3156c782f95d8491c9dd4969f73">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HOAFoundationModelBridgingHistopathologytoSpatialMultiOmicsProfiling2026-04</guid>
+  </item>
+  <item>
+    <title>sdAbs-LLM: Generative Large Language Models For de novo Antibody Design and Agentic Evaluation</title>
+    <link>https://doi.org/10.64898/2026.04.18.716776</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> J. Chen</p>
+        <p><b>Domain:</b> Antibody Design / Protein Engineering</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/57f620be2b3b38e1471e7d94af210f3492759260">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">sdAbsLLMGenerativeLargeLanguageModelsFordenovoAntibodyDesignandAgenticEvaluation2026-04</guid>
+  </item>
+  <item>
+    <title>AMix-2: Establishing Protein as a Native Modality in Large Language Models</title>
+    <link>https://doi.org/10.48550/arXiv.2605.30963</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hao Zhou</p>
+        <p><b>Domain:</b> Protein-language foundation model</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://www.semanticscholar.org/paper/cf2e1d246ff7d9ebf202cc050bcc6c615efc8b8a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AMixEstablishingProteinasaNativeModalityinLargeLanguageModels2026-05</guid>
+  </item>
+  <item>
+    <title>Advancing generative large language models toward discriminative performance in protein function prediction</title>
+    <link>https://doi.org/10.1186/s13059-026-04109-8</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jianpeng Ma</p>
+        <p><b>Domain:</b> Protein function prediction</p>
+        <p><b>Venue:</b> Genome Biology</p>
+        <p><a href="https://www.semanticscholar.org/paper/0e3dcd88d90fdb9c18ffb4b38d86024455311246">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Advancinggenerativelargelanguagemodelstowarddiscriminativeperformanceinproteinfunctionprediction2026-05</guid>
+  </item>
+  <item>
+    <title>A fully open structure-guided RNA foundation model for robust structural and functional inference</title>
+    <link>https://doi.org/10.1101/2025.08.06.668731</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> S. K. Zhou</p>
+        <p><b>Domain:</b> RNA structure/function foundation model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/1b9f5099a642b672bdc5b9cc65188e433c0bf4f0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AfullyopenstructureguidedRNAfoundationmodelforrobuststructuralandfunctionalinference2026-05</guid>
+  </item>
+  <item>
+    <title>A universal foundation model for grounded biomedical image interpretation</title>
+    <link>https://doi.org/10.1038/s41467-026-73986-1</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hao Chen</p>
+        <p><b>Domain:</b> Grounded biomedical image interpretation</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/4e3d7c65c095c5e2a9c528b93c57480a1d2f1274">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Auniversalfoundationmodelforgroundedbiomedicalimageinterpretation2026-06</guid>
+  </item>
+  <item>
+    <title>GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction</title>
+    <link>https://doi.org/10.1145/3770855.3819032</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Andreas Luttens</p>
+        <p><b>Domain:</b> Molecular property prediction</p>
+        <p><b>Venue:</b> Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2</p>
+        <p><a href="https://www.semanticscholar.org/paper/cab3e35726a95c1402faccb3ed5cb9e30e859604">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GLACIERAMultimodalStudentTeacherFoundationModelforMolecularPropertyPrediction2026-06</guid>
+  </item>
+  <item>
+    <title>Adapting Generative Genome Foundation Model Evo for Functional Genomics Prediction via Progressive Fine-Tuning.</title>
+    <link>https://doi.org/10.1109/TCBBIO.2026.3705107</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Rong-Jie Wang</p>
+        <p><b>Domain:</b> DNA functional genomics prediction</p>
+        <p><b>Venue:</b> IEEE transactions on computational biology and bioinformatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/f325597cfdee0a45ba2967e82f06762308a0a52a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AdaptingGenerativeGenomeFoundationModelEvoforFunctionalGenomicsPredictionviaProgressiveFineTuning2026-06</guid>
+  </item>
+  <item>
+    <title>Foundation Model-Based Zero-Shot Tissue Segmentation of Pathological Images via the Mixture of Local-to-Global Experts</title>
+    <link>https://doi.org/10.1109/TIP.2026.3705155</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Wei Shao</p>
+        <p><b>Domain:</b> Pathology image tissue segmentation</p>
+        <p><b>Venue:</b> IEEE Transactions on Image Processing</p>
+        <p><a href="https://www.semanticscholar.org/paper/1dfb032e48c9e1346773eb524023db3b6dba1c3c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FoundationModelBasedZeroShotTissueSegmentationofPathologicalImagesviatheMixtureofLocaltoGlobalExperts2026-06</guid>
+  </item>
+  <item>
+    <title>ConnectoFM: A Foundation Model for Learning the Language of the Connectome</title>
+    <link>https://doi.org/10.64898/2026.06.06.730367</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Md. Shamsuzzoha Bayzid</p>
+        <p><b>Domain:</b> Connectomics (EM image analysis)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/6de7a2c757c0894f93d7e55ffd596ea5c32ee2e4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ConnectoFMAFoundationModelforLearningtheLanguageoftheConnectome2026-06</guid>
+  </item>
+  <item>
+    <title>Interpreting Omics Data Analysis with Large Language Models for Disease Target and Drug Discovery</title>
+    <link>https://doi.org/10.64898/2026.04.30.721768</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fuhai Li</p>
+        <p><b>Domain:</b> Omics-based drug target discovery</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/d37c44a49e2b3dfca5c06c1017c0b5b7584f30d3">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">InterpretingOmicsDataAnalysiswithLargeLanguageModelsforDiseaseTargetandDrugDiscovery2026-05</guid>
+  </item>
+  <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
     <link>https://doi.org/10.64898/2025.12.23.696273</link>
     <description>
@@ -3676,6 +3970,20 @@
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">NMRExtractorleveraginglargelanguagemodelstoconstructanexperimentalNMRdatabasefromopensourcescientificpublications202505</guid>
+  </item>
+  <item>
+    <title>Systematic functional annotation of thousands of BAHD acyltransferases in plant genomes using Protein Language Model and phylogenomic tools</title>
+    <link>https://doi.org/10.64898/2026.06.09.730906</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> G. Moghe</p>
+        <p><b>Domain:</b> Plant enzyme functional annotation (protein language models)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/82981a38d935b3eb3ca7aa7e33bbf578d707ada1">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SystematicfunctionalannotationofthousandsofBAHDacyltransferasesinplantgenomesusingProteinLanguageModelandphylogenomictools2026-06</guid>
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
@@ -4347,6 +4655,62 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Benchmarkingalgorithmsforgeneralizablesinglecellperturbationresponseprediction202512</guid>
+  </item>
+  <item>
+    <title>Benchmarking Agentic Large Language Models for Complex Protein-Set Functional Annotation</title>
+    <link>https://doi.org/10.64898/2026.04.18.719404</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Xiaoyun Zhang</p>
+        <p><b>Domain:</b> Protein Functional Annotation / Bioinformatics</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/ec05818f963451755cc7dd4e4e17c5866e341234">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BenchmarkingAgenticLargeLanguageModelsforComplexProteinSetFunctionalAnnotation2026-04</guid>
+  </item>
+  <item>
+    <title>Revisiting ADMET prediction reliability under real-world challenges in the foundation model era</title>
+    <link>https://doi.org/10.1186/s13321-026-01217-2</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Chang-Yu Hsieh</p>
+        <p><b>Domain:</b> ADMET prediction / drug discovery</p>
+        <p><b>Venue:</b> Journal of Cheminformatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/69ffbf8434553fb74a918df475e911ad13d7f787">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">RevisitingADMETpredictionreliabilityunderrealworldchallengesinthefoundationmodelera2026-05</guid>
+  </item>
+  <item>
+    <title>A triaxial benchmark for assessing responses from large language models in traditional Chinese medicine</title>
+    <link>https://doi.org/10.1038/s43856-026-01631-5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jie Xu</p>
+        <p><b>Domain:</b> Traditional Chinese medicine evaluation</p>
+        <p><b>Venue:</b> Communications Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/5acdcff9b53fb64c1bf6fb2eac2dc769664a3e82">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AtriaxialbenchmarkforassessingresponsesfromlargelanguagemodelsintraditionalChinesemedicine2026-05</guid>
+  </item>
+  <item>
+    <title>What Large Language Models Know About Plant Molecular Biology</title>
+    <link>https://doi.org/10.1101/2025.08.31.672925</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> E. Ferrante</p>
+        <p><b>Domain:</b> Plant molecular biology</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/b1d0477f46c0932e44668ae05cca5802cec024db">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">WhatLargeLanguageModelsKnowAboutPlantMolecularBiology2026-06</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>
@@ -5177,6 +5541,62 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Largelanguagemodelsinobesityasystematicreview202512</guid>
+  </item>
+  <item>
+    <title>Call your AI agent</title>
+    <link>https://doi.org/10.1038/s41592-026-03088-9</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Vivien Marx</p>
+        <p><b>Domain:</b> AI agents in science (commentary)</p>
+        <p><b>Venue:</b> Nature Methods</p>
+        <p><a href="https://www.semanticscholar.org/paper/f828c7d0f59154965d42a105d473fa5c7d4f5e7e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CallyourAIagent2026-05</guid>
+  </item>
+  <item>
+    <title>AI-Driven Synthesis in Medicinal Chemistry: Integrating Large Language Models, Robotic Automation, and Sustainability Metrics to Accelerate Drug Discovery.</title>
+    <link>https://doi.org/10.1002/med.70074</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Antonio Lavecchia</p>
+        <p><b>Domain:</b> Medicinal chemistry synthesis</p>
+        <p><b>Venue:</b> Medicinal research reviews (Print)</p>
+        <p><a href="https://www.semanticscholar.org/paper/5db902956f06728deecf9f72c2278864658e9486">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIDrivenSynthesisinMedicinalChemistryIntegratingLargeLanguageModelsRoboticAutomationandSustainabilityMetricstoAccelerateDrugDiscovery2026-06</guid>
+  </item>
+  <item>
+    <title>Artificial Intelligence Agents in Mental Health: A Systematic Review and Meta Analysis</title>
+    <link>https://doi.org/10.64898/2026.04.21.26351365</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> L. Fan</p>
+        <p><b>Domain:</b> Mental Health AI</p>
+        <p><b>Venue:</b> medRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/fb326543d639565c4515d3ff2c61a5418c249418">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ArtificialIntelligenceAgentsinMentalHealthASystematicReviewandMetaAnalysis2026-04</guid>
+  </item>
+  <item>
+    <title>Expert perspectives on US regulatory approaches to large language models in healthcare</title>
+    <link>https://doi.org/10.1038/s41746-026-02787-z</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tinglong Dai</p>
+        <p><b>Domain:</b> Health AI regulation and policy</p>
+        <p><b>Venue:</b> npj Digital Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/d797f0c1be02056e44cdc030c4b3b39c8f32339c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ExpertperspectivesonUSregulatoryapproachestolargelanguagemodelsinhealthcare2026-05</guid>
   </item>
 </channel>
 </rss>
