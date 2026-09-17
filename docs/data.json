@@ -5,7 +5,7 @@
       "title": "MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis",
       "team": "H.-H. Zhang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Key Laboratory of Molecular Biophysics of the Ministry of Education, Hubei Key Laboratory of Bioinformatics and Molecular-imaging",
       "domain": "Auditable AI agent for end-to-end metagenomic and multi-omics analysis",
       "venue": "bioRxiv",
       "paperUrl": "https://doi.org/10.64898/2026.07.21.739769",
@@ -33,7 +33,7 @@
       "title": "Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses",
       "team": "D. Bu",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Institute of Computing Technology",
       "domain": "Self-evolving multi-agent LLM framework for autonomous biomedical data analysis",
       "venue": "Nature Biomedical Engineering",
       "paperUrl": "https://doi.org/10.1038/s41551-026-01634-6",
@@ -47,7 +47,7 @@
       "title": "Making large language models reliable data science programming copilots for biomedical research",
       "team": "Z. Wang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "University of Illinois Urbana-Champaign, Jimei University, Illinois College, Urbana University",
       "domain": "Open-source framework (BioDSA) for vibe-prototyping biomedical AI agents",
       "venue": "Nature Biomedical Engineering",
       "paperUrl": "https://www.semanticscholar.org/paper/3080b0a455ba95e7e1b0e6c603eddd49635f94ff",
@@ -642,20 +642,21 @@
       "title": "PromptBio: A Multi-Agent AI Platform for Bioinformatics Data Analysis",
       "team": "PromptBio(Xiao Yang)",
       "team website": "https://www.promptbio.ai/",
-      "affiliation": "",
+      "affiliation": "Promundo, Prompt (Canada)",
       "domain": "multiple agents system for bioinformatics",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1",
       "codeUrl": "https://www.promptbio.ai/download.html",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1101/2025.07.05.663295",
+      "citations": 10
     },
     {
       "year": "2026",
       "title": "GPTBioInsightor: leveraging large language models for transparent scRNA-seq cell type annotations",
-      "team": "",
+      "team": "Christopher Heeschen",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Pancreatic Cancer Heterogeneity, Candiolo Cancer Institute - FPO - IRCCS , Candiolo (Torino) 10060,",
       "domain": "Single Cell annotation",
       "venue": "Bioinformatics Advances",
       "paperUrl": "https://doi.org/10.1093/bioadv/vbag025",
@@ -695,18 +696,19 @@
       "title": "OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery",
       "team": "Shuangjia Zheng",
       "team website": "https://github.com/GENTEL-lab",
-      "affiliation": "",
+      "affiliation": "Global Institute of Future Technology, Shanghai Jiao Tong University, Shanghai, China, Lingang Laboratory, Shanghai, China",
       "domain": "General Biomedical Research (therapeutic targets)",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1",
       "codeUrl": "https://gentel-lab.github.io/OriGene-Homepage/",
       "githubStars": "https://img.shields.io/github/stars/GENTEL-lab/OriGene",
-      "doi": ""
+      "doi": "10.1101/2025.06.03.657658",
+      "citations": 28
     },
     {
       "year": "2025.06",
       "title": "Agent Laboratory: Using LLM Agents as Research Assistants",
-      "team": "",
+      "team": "E. Barsoum",
       "team website": "",
       "affiliation": "",
       "domain": "General Scientific Research",
@@ -714,20 +716,22 @@
       "paperUrl": "https://arxiv.org/abs/2501.04227",
       "codeUrl": "https://agentlaboratory.github.io/",
       "githubStars": "https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory",
-      "doi": ""
+      "doi": "10.48550/arXiv.2501.04227",
+      "citations": 491
     },
     {
       "year": "2025.06",
       "title": "scExtract: leveraging large language models for fully automated single-cell RNA-seq data annotation and prior-informed multi-dataset integration",
-      "team": "",
+      "team": "Fuchou Tang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Ministry of Education of the People's Republic of China, Peking University",
       "domain": "scRNA downstream tasks",
       "venue": "Genome Biology",
       "paperUrl": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03639-x",
       "codeUrl": "https://github.com/yxwucq/scExtract",
       "githubStars": "https://img.shields.io/github/stars/yxwucq/scExtract",
-      "doi": ""
+      "doi": "10.1186/s13059-025-03639-x",
+      "citations": 19
     },
     {
       "year": "2025.06",
@@ -740,7 +744,8 @@
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.03.657517v1",
       "codeUrl": "https://github.com/zou-group/CellVoyager",
       "githubStars": "https://img.shields.io/github/stars/zou-group/CellVoyager",
-      "doi": ""
+      "doi": "10.1101/2025.06.03.657517",
+      "citations": 34
     },
     {
       "year": "2026.08",
@@ -878,7 +883,8 @@
       "paperUrl": "https://arxiv.org/abs/2505.20286",
       "codeUrl": "https://github.com/CharlesQ9/Alita",
       "githubStars": "https://img.shields.io/github/stars/CharlesQ9/Alita",
-      "doi": ""
+      "doi": "10.48550/arXiv.2505.20286",
+      "citations": 115
     },
     {
       "year": "2025.05",
@@ -961,20 +967,22 @@
       "paperUrl": "https://arxiv.org/abs/2504.08066",
       "codeUrl": "https://github.com/SakanaAI/AI-Scientist-v2",
       "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2",
-      "doi": ""
+      "doi": "10.48550/arXiv.2504.08066",
+      "citations": 387
     },
     {
       "year": "2025.04",
       "title": "SpatialAgent: An autonomous AI agent for spatial biology",
       "team": "Genentech(Aviv Regev)",
       "team website": "https://github.com/Genentech",
-      "affiliation": "",
+      "affiliation": "Genentech",
       "domain": "Spatial scRNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1",
       "codeUrl": "https://github.com/Genentech/SpatialAgent",
       "githubStars": "https://img.shields.io/github/stars/Genentech/SpatialAgent",
-      "doi": ""
+      "doi": "10.1101/2025.04.03.646459",
+      "citations": 67
     },
     {
       "year": "2025.04",
@@ -983,8 +991,8 @@
       "team website": "",
       "affiliation": "Peking University",
       "domain": "Knowledge Graphs and LLMs in Metabolomics",
-      "venue": "",
-      "paperUrl": "https://www.semanticscholar.org/paper/3d7a503eded6fabd6979c3847d5db68970bf9d3d",
+      "venue": "AAAI",
+      "paperUrl": "https://doi.org/10.1609/aaai.v39i28.35218",
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.1609/aaai.v39i28.35218",
@@ -1021,9 +1029,9 @@
     {
       "year": "2026.06",
       "title": "Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data",
-      "team": "",
+      "team": "Jun Chen",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Mayo Clinic in Arizona, Mayo Clinic in Florida",
       "domain": "Single Cell annotation",
       "venue": "Communications Biology",
       "paperUrl": "https://doi.org/10.1038/s42003-026-10420-8",
@@ -1084,33 +1092,36 @@
       "paperUrl": "https://arxiv.org/abs/2503.10970",
       "codeUrl": "https://github.com/mims-harvard/TxAgent",
       "githubStars": "https://img.shields.io/github/stars/mims-harvard/TxAgent",
-      "doi": ""
+      "doi": "10.48550/arXiv.2503.10970",
+      "citations": 83
     },
     {
       "year": "2025.03",
       "title": "DrBioRight 2.0: an LLM-powered bioinformatics chatbot for large-scale cancer functional proteomics analysis",
-      "team": "",
+      "team": "Han Liang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "The University of Texas MD Anderson Cancer Center",
       "domain": "proteomics",
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-025-57430-4",
       "codeUrl": "https://drbioright.org/",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1038/s41467-025-57430-4",
+      "citations": 48
     },
     {
       "year": "2025.03",
       "title": "DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration",
-      "team": "",
+      "team": "Yue Zhao",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "University of Southern California",
       "domain": "Drug Discovery",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2411.15692",
       "codeUrl": "https://anonymous.4open.science/r/drugagent-5C42/",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.48550/arXiv.2411.15692",
+      "citations": 48
     },
     {
       "year": "2025.03",
@@ -1199,7 +1210,7 @@
     {
       "year": "2025.02",
       "title": "LIDDIA: Language-based Intelligent Drug Discovery Agent",
-      "team": "",
+      "team": "Xia Ning",
       "team website": "",
       "affiliation": "",
       "domain": "Drug Discovery",
@@ -1207,7 +1218,8 @@
       "paperUrl": "https://arxiv.org/abs/2502.13959",
       "codeUrl": "https://github.com/ninglab/LIDDIA",
       "githubStars": "https://img.shields.io/github/stars/ninglab/LIDDIA",
-      "doi": ""
+      "doi": "10.48550/arXiv.2502.13959",
+      "citations": 29
     },
     {
       "year": "2025.02",
@@ -1254,20 +1266,21 @@
     {
       "year": "2025.01",
       "title": "BioMaster: Multi-agent System for Automated Bioinformatics Analysis Workflow",
-      "team": "",
+      "team": "Yanlin Zhang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Data Science and Analytics Thrust, Hong Kong University of Science and Technology (Guangzhou), Guangzhou, Guangdong, China",
       "domain": "Multi-omics Pipelines",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.01.23.634608v1",
       "codeUrl": "https://github.com/ai4nucleome/BioMaster",
       "githubStars": "https://img.shields.io/github/stars/ai4nucleome/BioMaster",
-      "doi": ""
+      "doi": "10.1101/2025.01.23.634608",
+      "citations": 35
     },
     {
       "year": "2025.01",
       "title": "InstructCell: A Multi-Modal AI Copilot for Single-Cell Analysis with Instruction Following",
-      "team": "",
+      "team": "Huajun Chen",
       "team website": "",
       "affiliation": "",
       "domain": "single cell RNA",
@@ -1275,7 +1288,8 @@
       "paperUrl": "https://arxiv.org/abs/2501.08187",
       "codeUrl": "https://github.com/zjunlp/InstructCell",
       "githubStars": "https://img.shields.io/github/stars/zjunlp/InstructCell",
-      "doi": ""
+      "doi": "10.48550/arXiv.2501.08187",
+      "citations": 8
     },
     {
       "year": "2025.01",
@@ -1288,7 +1302,8 @@
       "paperUrl": "https://arxiv.org/abs/2501.06314",
       "codeUrl": "https://github.com/bio-xyz/BioAgents",
       "githubStars": "https://img.shields.io/github/stars/bio-xyz/BioAgents",
-      "doi": ""
+      "doi": "10.48550/arXiv.2501.06314",
+      "citations": 17
     },
     {
       "year": "2025.01",
@@ -1363,7 +1378,7 @@
     {
       "year": "2024.11",
       "title": "BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments",
-      "team": "",
+      "team": "J. Leskovec",
       "team website": "",
       "affiliation": "",
       "domain": "Experimental Design (Genetic Perturbation)",
@@ -1371,20 +1386,21 @@
       "paperUrl": "https://arxiv.org/abs/2405.17631",
       "codeUrl": "https://github.com/snap-stanford/BioDiscoveryAgent/",
       "githubStars": "https://img.shields.io/github/stars/snap-stanford/BioDiscoveryAgent",
-      "doi": ""
+      "doi": "10.48550/arXiv.2405.17631",
+      "citations": 84
     },
     {
       "year": "2024.10",
       "title": "An AI Agent for Fully Automated Multi-Omic Analyses",
-      "team": "",
+      "team": "Xin Gao",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Computer Science Program Computer, Electrical and Mathematical Sciences and Engineering Division King Abdullah University of Science and Technology    Thuwal 23",
       "domain": "Multi-omics Pipelines",
       "venue": "Advanced Science",
       "paperUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202407094",
       "codeUrl": "https://github.com/JoshuaChou2018/AutoBA",
       "githubStars": "https://img.shields.io/github/stars/JoshuaChou2018/AutoBA",
-      "doi": ""
+      "doi": "10.1002/advs.202407094"
     },
     {
       "year": "2024.09",
@@ -1397,12 +1413,13 @@
       "paperUrl": "https://arxiv.org/abs/2408.06292",
       "codeUrl": "https://github.com/SakanaAI/AI-Scientist",
       "githubStars": "https://img.shields.io/github/stars/SakanaAI/AI-Scientist",
-      "doi": ""
+      "doi": "10.48550/arXiv.2408.06292",
+      "citations": 1136
     },
     {
       "year": "2024.07",
       "title": "CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis",
-      "team": "",
+      "team": "Jiajie Peng",
       "team website": "",
       "affiliation": "",
       "domain": "single cell RNA",
@@ -1410,14 +1427,15 @@
       "paperUrl": "https://arxiv.org/abs/2407.09811",
       "codeUrl": "http://cell.agent4science.cn/",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.48550/arXiv.2407.09811",
+      "citations": 94
     },
     {
       "year": "2025.07",
       "title": "A Data-Intelligence-Intensive Bioinformatics Copilot System for Large-scale Omics Researches and Scientific Insights",
-      "team": "",
+      "team": "Yi-Xue Li",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Guangzhou National Laboratory, Guangdong-Hong Kong-Macau Joint Laboratory for Cell Fate Regulation and Diseases",
       "domain": "Multi-omics/single cell RNA",
       "venue": "Briefings in Bioinformatics",
       "paperUrl": "https://doi.org/10.1093/bib/bbaf312",
@@ -1437,14 +1455,15 @@
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.25.591003v3",
       "codeUrl": "https://github.com/cong-lab/crispr-gpt-pub",
       "githubStars": "https://img.shields.io/github/stars/cong-lab/crispr-gpt-pub",
-      "doi": ""
+      "doi": "10.1101/2024.04.25.591003",
+      "citations": 7
     },
     {
       "year": "2024",
       "title": "ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning",
-      "team": "",
+      "team": "Markus J. Buehler",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Laboratory for Atomistic and Molecular Mechanics, Massachusetts Institute of Technology",
       "domain": "Protein design and discovery",
       "venue": "Digital Discovery",
       "paperUrl": "https://doi.org/10.1039/d4dd00013g",
@@ -1527,8 +1546,8 @@
       "title": "A conceptual framework for human–AI collaborative genome annotation",
       "team": "Radoslaw Suchecki",
       "team website": "",
-      "affiliation": "",
-      "domain": "",
+      "affiliation": "Agriculture and Food, CSIRO , 40 Waite Road, Urrbrae, SA 5064 ,, sAlkahest Inc. , 125 Shoreway Rd D, San Carlos, CA 94070 ,",
+      "domain": "Genome annotation / human-AI collaboration",
       "venue": "Briefings Bioinform.",
       "paperUrl": "https://www.semanticscholar.org/paper/b5bbf10cc21c28b6a7b626f76869aa8f30506f78",
       "codeUrl": "",
@@ -1561,7 +1580,7 @@
         "Da Jia"
       ],
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Sichuan University",
       "domain": "Autonomous AI biologist that integrates logical reasoning and multimodal data fusion to generate de novo disease-modifying targets",
       "venue": "Nature Biomedical Engineering",
       "paperUrl": "https://doi.org/10.1038/s41551-026-01769-6",
@@ -1602,7 +1621,7 @@
         "Hongwu Du"
       ],
       "team website": "",
-      "affiliation": "",
+      "affiliation": "School of Chemistry and Biological Engineering, University of Science and Technology Beijing",
       "domain": "Agent-facing omics operating layer that turns the OmicVerse V2 ecosystem into state-aware, agent-executable workflows spanning 11 omics domains",
       "venue": "bioRxiv",
       "paperUrl": "https://doi.org/10.64898/2026.06.11.731775",
@@ -2249,7 +2268,7 @@
       "team": "P. Cournède",
       "team website": "",
       "affiliation": "Université Paris-Saclay, Institut Gustave Roussy, CentraleSupélec",
-      "domain": "",
+      "domain": "Spatial transcriptomics model",
       "venue": "Nature Methods",
       "paperUrl": "https://www.semanticscholar.org/paper/96635eda1f59bf68a0b2dca799155c37ea90e441",
       "codeUrl": "https://github.com/prism-oncology/novae",
@@ -2277,7 +2296,7 @@
       "team": "H. Poon",
       "team website": "",
       "affiliation": "Microsoft (United States), Microsoft Research (United Kingdom)",
-      "domain": "",
+      "domain": "Tumor microenvironment modeling (multimodal AI-generated virtual populations)",
       "venue": "Cell",
       "paperUrl": "https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949",
       "codeUrl": "https://github.com/prov-gigatime/GigaTIME",
@@ -2707,28 +2726,29 @@
     {
       "year": "2025.07",
       "title": "ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer",
-      "team": "",
+      "team": "Luonan Chen",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Second Military Medical University, Changhai Hospital",
       "domain": "Organoid drug response prediction",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2",
       "codeUrl": "https://github.com/microsoft/bioemu",
       "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
-      "doi": ""
+      "doi": "10.1101/2025.07.08.663664",
+      "citations": 4
     },
     {
       "year": "2025.07",
       "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
       "team": "Microsoft Research(Frank Noé)",
       "team website": "https://github.com/microsoft",
-      "affiliation": "",
+      "affiliation": "AI for Science, Microsoft Research., Freie Universität Berlin, Berlin, Germany., Department of Chemistry, Rice University, Houston, TX, USA.",
       "domain": "Protein",
       "venue": "Science",
       "paperUrl": "https://www.science.org/doi/10.1126/science.adv9817",
       "codeUrl": "https://github.com/microsoft/bioemu",
       "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
-      "doi": ""
+      "doi": "10.1126/science.adv9817"
     },
     {
       "year": "2025.07",
@@ -2741,20 +2761,22 @@
       "paperUrl": "https://arxiv.org/html/2507.04704v1#S4",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.48550/arXiv.2507.04704",
+      "citations": 1
     },
     {
       "year": "2025.07",
       "title": "RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks",
-      "team": "",
+      "team": "Mile Šikić",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Agency for Science, Technology and Research, University of Zagreb",
       "domain": "RNA",
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-025-60872-5",
       "codeUrl": "https://github.com/lbcb-sci/RiNALMo",
       "githubStars": "https://img.shields.io/github/stars/lbcb-sci/RiNALMo",
-      "doi": ""
+      "doi": "10.1038/s41467-025-60872-5",
+      "citations": 154
     },
     {
       "year": "2025.06",
@@ -2774,44 +2796,47 @@
       "title": "Generalized biological foundation model with unified nucleic acid and protein language",
       "team": "Alibaba(Zhaorong Li)",
       "team website": "https://github.com/LucaOne",
-      "affiliation": "",
+      "affiliation": "Alibaba Group (China)",
       "domain": "DNA/RNA/Protein",
       "venue": "Nature Machine Intelligence",
       "paperUrl": "https://www.nature.com/articles/s42256-025-01044-4",
       "codeUrl": "https://github.com/LucaOne/LucaOne",
       "githubStars": "https://img.shields.io/github/stars/LucaOne/LucaOne",
-      "doi": ""
+      "doi": "10.1038/s42256-025-01044-4",
+      "citations": 59
     },
     {
       "year": "2025.06",
       "title": "Predicting cellular responses to perturbation across diverse contexts with State",
       "team": "Arc Institute(Yusuf H. Roohani)",
       "team website": "https://github.com/ArcInstitute",
-      "affiliation": "",
+      "affiliation": "Arc Institute",
       "domain": "genetic, signaling, and chemical perturbation scRNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
       "codeUrl": "https://github.com/ArcInstitute/state",
       "githubStars": "https://img.shields.io/github/stars/ArcInstitute/state",
-      "doi": ""
+      "doi": "10.1101/2025.06.26.661135",
+      "citations": 143
     },
     {
       "year": "2025.06",
       "title": "AlphaGenome: Advancing regulatory variant effect prediction with a unified DNA sequence model",
       "team": "Google DeepMind(Pushmeet Kohli)",
       "team website": "https://github.com/google-deepmind",
-      "affiliation": "",
+      "affiliation": "Google (United States), Google DeepMind (United Kingdom)",
       "domain": "DNA/RNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1",
       "codeUrl": "https://github.com/google-deepmind/alphagenome",
       "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphagenome",
-      "doi": ""
+      "doi": "10.1101/2025.06.25.661532",
+      "citations": 111
     },
     {
       "year": "2025.06",
       "title": "SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model",
-      "team": "",
+      "team": "Bing Su",
       "team website": "",
       "affiliation": "",
       "domain": "DNA",
@@ -2819,20 +2844,22 @@
       "paperUrl": "https://arxiv.org/abs/2506.01833",
       "codeUrl": "https://github.com/YangLab/CSI",
       "githubStars": "https://img.shields.io/github/stars/YangLab/CSI",
-      "doi": ""
+      "doi": "10.48550/arXiv.2506.01833",
+      "citations": 5
     },
     {
       "year": "2025.06",
       "title": "UniCure: A Foundation Model for Predicting Personalized Cancer Therapy Response",
-      "team": "",
+      "team": "Luonan Chen",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "State Key Laboratory of Cell Biology, Center for Excellence in Molecular Cell Science",
       "domain": "drug perturbation scRNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.14.658531v1",
       "codeUrl": "https://github.com/ZexiChen502/UniCure",
       "githubStars": "https://img.shields.io/github/stars/ZexiChen502/UniCure",
-      "doi": ""
+      "doi": "10.1101/2025.06.14.658531",
+      "citations": 1
     },
     {
       "year": "2025.06",
@@ -2845,7 +2872,8 @@
       "paperUrl": "https://www.nature.com/articles/s42256-025-01047-1",
       "codeUrl": "https://huggingface.co/InstaDeepAI/ChatNT",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1038/s42256-025-01047-1",
+      "citations": 64
     },
     {
       "year": "2025.06",
@@ -2866,13 +2894,14 @@
       "title": "A visual–omics foundation model to bridge histopathology with spatial transcriptomics",
       "team": "Guangyu Wang",
       "team website": "https://guangyuwanglab.github.io/web/",
-      "affiliation": "",
+      "affiliation": "Houston Methodist, Cornell University",
       "domain": "histopathology and spatial single cell RNA",
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-025-02707-1",
       "codeUrl": "https://github.com/GuangyuWangLab2021/Loki",
       "githubStars": "https://img.shields.io/github/stars/GuangyuWangLab2021/Loki",
-      "doi": ""
+      "doi": "10.1038/s41592-025-02707-1",
+      "citations": 136
     },
     {
       "year": "2025.05",
@@ -2885,7 +2914,8 @@
       "paperUrl": "https://arxiv.org/abs/2505.23839",
       "codeUrl": "https://github.com/zaixizhang/GeneBreaker",
       "githubStars": "https://img.shields.io/github/stars/zaixizhang/GeneBreaker",
-      "doi": ""
+      "doi": "10.48550/arXiv.2505.23839",
+      "citations": 17
     },
     {
       "year": "2025.05",
@@ -2898,20 +2928,22 @@
       "paperUrl": "https://arxiv.org/abs/2505.23579",
       "codeUrl": "https://github.com/bowang-lab/BioReason",
       "githubStars": "https://img.shields.io/github/stars/bowang-lab/BioReason",
-      "doi": ""
+      "doi": "10.48550/arXiv.2505.23579",
+      "citations": 49
     },
     {
       "year": "2025.05",
       "title": "CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells",
-      "team": "",
+      "team": "Yue-Dong Yang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Sun Yat-sen University",
       "domain": "single cell RNA",
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-025-59926-5",
       "codeUrl": "https://github.com/biomed-AI/CellFM",
       "githubStars": "https://img.shields.io/github/stars/biomed-AI/CellFM",
-      "doi": ""
+      "doi": "10.1038/s41467-025-59926-5",
+      "citations": 101
     },
     {
       "year": "2025.05",
@@ -2974,13 +3006,14 @@
       "title": "CellFlow enables generative single-cell phenotype modeling with flow matching",
       "team": "Fabian J. Theis",
       "team website": "https://github.com/theislab",
-      "affiliation": "",
+      "affiliation": "Helmholtz Munich, Technical University of Munich",
       "domain": "Perturbation single cell RNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1",
       "codeUrl": "https://github.com/theislab/CellFlow",
       "githubStars": "https://img.shields.io/github/stars/theislab/CellFlow",
-      "doi": ""
+      "doi": "10.1101/2025.04.11.648220",
+      "citations": 62
     },
     {
       "year": "2025.04",
@@ -3062,7 +3095,8 @@
       "paperUrl": "https://arxiv.org/abs/2401.06199",
       "codeUrl": "https://github.com/biomap-research/xTrimoPGLM",
       "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM",
-      "doi": ""
+      "doi": "10.48550/arXiv.2401.06199",
+      "citations": 153
     },
     {
       "year": "2025.03",
@@ -3083,18 +3117,19 @@
       "title": "Genome modeling and design across all domains of life with Evo 2",
       "team": "Arc Institute(Brian L. Hie)",
       "team website": "https://github.com/ArcInstitute",
-      "affiliation": "",
+      "affiliation": "Arc Institute, Stanford University",
       "domain": "DNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1",
       "codeUrl": "https://github.com/arcinstitute/evo2",
       "githubStars": "https://img.shields.io/github/stars/arcinstitute/evo2",
-      "doi": ""
+      "doi": "10.1101/2025.02.18.638918",
+      "citations": 306
     },
     {
       "year": "2025.02",
       "title": "GENERator: A Long-Context Generative Genomic Foundation Model",
-      "team": "",
+      "team": "Zheng Wang",
       "team website": "",
       "affiliation": "",
       "domain": "DNA",
@@ -3102,20 +3137,22 @@
       "paperUrl": "https://arxiv.org/abs/2502.07272",
       "codeUrl": "https://github.com/GenerTeam/GENERator",
       "githubStars": "https://img.shields.io/github/stars/GenerTeam/GENERator",
-      "doi": ""
+      "doi": "10.48550/arXiv.2502.07272",
+      "citations": 45
     },
     {
       "year": "2025.02",
       "title": "scGPT-spatial: Continual Pretraining of Single-Cell Foundation Model for Spatial Transcriptomics",
       "team": "Bo Wang",
       "team website": "https://github.com/bowang-lab",
-      "affiliation": "",
+      "affiliation": "University of Toronto, Vector Institute",
       "domain": "spatial single cell RNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1",
       "codeUrl": "https://github.com/bowang-lab/scGPT-spatial",
       "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT-spatial",
-      "doi": ""
+      "doi": "10.1101/2025.02.05.636714",
+      "citations": 63
     },
     {
       "year": "2025.02",
@@ -3176,28 +3213,29 @@
     {
       "year": "2025.01",
       "title": "A foundation model of transcription across human cell types",
-      "team": "",
+      "team": "Raúl Rabadán",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Columbia University Irving Medical Center, Columbia University",
       "domain": "transcriptional regulation(ATAC-seq)",
       "venue": "Nature",
       "paperUrl": "https://www.nature.com/articles/s41586-024-08391-z",
       "codeUrl": "https://github.com/GET-Foundation",
       "githubStars": "https://img.shields.io/github/stars/GET-Foundation/get_model",
-      "doi": ""
+      "doi": "10.1038/s41586-024-08391-z",
+      "citations": 120
     },
     {
       "year": "2025.01",
       "title": "GENA-LM: a new DNA language model for long sequences",
-      "team": "",
+      "team": "Mikhail Burtsev",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "London Institute for Mathematical Sciences Royal Institution, 21 Albemarle St, London W1S 4BS ,",
       "domain": "DNA",
       "venue": "Nucleic Acids Research",
       "paperUrl": "https://academic.oup.com/nar/article/53/2/gkae1310/7954523",
       "codeUrl": "https://github.com/AIRI-Institute/GENA_LM",
       "githubStars": "https://img.shields.io/github/stars/AIRI-Institute/GENA_LM",
-      "doi": ""
+      "doi": "10.1093/nar/gkae1310"
     },
     {
       "year": "2025.01",
@@ -3210,33 +3248,36 @@
       "paperUrl": "https://arxiv.org/abs/2410.03634",
       "codeUrl": "https://github.com/Profluent-Internships/ProCALM",
       "githubStars": "https://img.shields.io/github/stars/Profluent-Internships/ProCALM",
-      "doi": ""
+      "doi": "10.48550/arXiv.2410.03634",
+      "citations": 9
     },
     {
       "year": "2025.01",
       "title": "Simulating 500 million years of evolution with a language model",
       "team": "EvolutionaryScale(Alexander Rives)",
       "team website": "https://github.com/evolutionaryscale",
-      "affiliation": "",
+      "affiliation": "EvolutionaryScale, PBC, New York, NY, USA.",
       "domain": "Protein",
       "venue": "Science",
       "paperUrl": "https://www.science.org/doi/10.1126/science.ads0018",
       "codeUrl": "https://github.com/evolutionaryscale/esm",
       "githubStars": "https://img.shields.io/github/stars/evolutionaryscale/esm",
-      "doi": ""
+      "doi": "10.1126/science.ads0018",
+      "citations": 379
     },
     {
       "year": "2025.01",
       "title": "Predicting cell morphological responses to perturbations using generative modeling",
       "team": "Fabian J. Theis, Mohammad Lotfollahi",
       "team website": "https://github.com/theislab",
-      "affiliation": "",
+      "affiliation": "Wellcome/MRC Cambridge Stem Cell Institute, Wellcome Sanger Institute, Helmholtz Munich",
       "domain": "phenotype morphological responses to perturbation",
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41467-024-55707-8",
       "codeUrl": "https://github.com/theislab/IMPA",
       "githubStars": "https://img.shields.io/github/stars/theislab/IMPA",
-      "doi": ""
+      "doi": "10.1038/s41467-024-55707-8",
+      "citations": 64
     },
     {
       "year": "2025.01",
@@ -3339,46 +3380,49 @@
     {
       "year": "2024.11",
       "title": "Nucleotide Transformer: building and evaluating robust foundation models for human genomics",
-      "team": "",
+      "team": "Thomas Pierrot",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Institute on Taxation and Economic Policy",
       "domain": "DNA",
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02523-z",
       "codeUrl": "https://github.com/instadeepai/nucleotide-transformer",
       "githubStars": "https://img.shields.io/github/stars/instadeepai/nucleotide-transformer",
-      "doi": ""
+      "doi": "10.1038/s41592-024-02523-z",
+      "citations": 278
     },
     {
       "year": "2024.10",
       "title": "Orthrus: Towards Evolutionary and Functional RNA Foundation Models",
-      "team": "",
+      "team": "Bo Wang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "University Health Network, University of Toronto, York University, Vector Institute",
       "domain": "RNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.10.10.617658v1",
       "codeUrl": "https://github.com/bowang-lab/Orthrus",
       "githubStars": "https://img.shields.io/github/stars/bowang-lab/Orthrus",
-      "doi": ""
+      "doi": "10.1101/2024.10.10.617658",
+      "citations": 19
     },
     {
       "year": "2024.09",
       "title": "stFormer: a foundation model for spatial transcriptomics",
-      "team": "",
+      "team": "Ye Yuan",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Shanghai Jiao Tong University, Institute of Process Engineering",
       "domain": "DNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.09.27.615337v6",
       "codeUrl": "https://github.com/csh3/stFormer",
       "githubStars": "https://img.shields.io/github/stars/csh3/stFormer",
-      "doi": ""
+      "doi": "10.1101/2024.09.27.615337",
+      "citations": 13
     },
     {
       "year": "2024.08",
       "title": "BioRAG: A RAG-LLM Framework for Biological Question Reasoning",
-      "team": "",
+      "team": "Yuanchun Zhou",
       "team website": "",
       "affiliation": "",
       "domain": "Life science question answer (RAG)",
@@ -3386,38 +3430,41 @@
       "paperUrl": "https://arxiv.org/abs/2408.01107",
       "codeUrl": "https://github.com/ZhaoqianXue/BioRAG",
       "githubStars": "https://img.shields.io/github/stars/ZhaoqianXue/BioRAG",
-      "doi": ""
+      "doi": "10.48550/arXiv.2408.01107",
+      "citations": 89
     },
     {
       "year": "2024.07",
       "title": "DNA language model GROVER learns sequence context in the human genome",
-      "team": "",
+      "team": "A. Poetsch",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "National Center for Tumor Diseases, Nationales Centrum für Tumorerkrankungen Dresden, Biotechnologisches Zentrum, Technische Universität Dresden",
       "domain": "DNA",
       "venue": "Nature Machine Intelligence",
       "paperUrl": "https://www.nature.com/articles/s42256-024-00872-0",
       "codeUrl": "https://zenodo.org/records/13374192",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1038/s42256-024-00872-0",
+      "citations": 128
     },
     {
       "year": "2024.06",
       "title": "scFoundation: Large-scale foundation model on single-cell transcriptomics",
       "team": "Biomap research(Le Song, Xuegong Zhang)",
       "team website": "https://github.com/biomap-research",
-      "affiliation": "",
+      "affiliation": "Mohamed bin Zayed University of Artificial Intelligence, Bidar Organization for Medicinal and Aromatic plants",
       "domain": "single cell RNA",
       "venue": "Nature Communications",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02305-7",
       "codeUrl": "https://github.com/biomap-research/scFoundation",
       "githubStars": "https://img.shields.io/github/stars/biomap-research/scFoundation",
-      "doi": ""
+      "doi": "10.1038/s41592-024-02305-7",
+      "citations": 671
     },
     {
       "year": "2024.06",
       "title": "Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models",
-      "team": "",
+      "team": "Jaewoo Kang",
       "team website": "",
       "affiliation": "",
       "domain": "biomedical question answer (RAG)",
@@ -3425,7 +3472,8 @@
       "paperUrl": "https://arxiv.org/abs/2401.15269",
       "codeUrl": "https://github.com/dmis-lab/self-biorag",
       "githubStars": "https://img.shields.io/github/stars/dmis-lab/self-biorag",
-      "doi": ""
+      "doi": "10.48550/arXiv.2401.15269",
+      "citations": 142
     },
     {
       "year": "2024.06",
@@ -3438,20 +3486,22 @@
       "paperUrl": "https://arxiv.org/abs/2406.14150",
       "codeUrl": "https://huggingface.co/InstaDeepAI/isoformer",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.48550/arXiv.2406.14150",
+      "citations": 19
     },
     {
       "year": "2024.05",
       "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
       "team": "Google DeepMind(John M. Jumper)",
       "team website": "https://github.com/google-deepmind",
-      "affiliation": "",
+      "affiliation": "Google DeepMind (United Kingdom), Google (United Kingdom)",
       "domain": "Protein",
       "venue": "Nature",
       "paperUrl": "https://www.nature.com/articles/s41586-024-07487-w",
       "codeUrl": "https://github.com/google-deepmind/alphafold3",
       "githubStars": "https://img.shields.io/github/stars/google-deepmind/alphafold3",
-      "doi": ""
+      "doi": "10.1038/s41586-024-07487-w",
+      "citations": 13782
     },
     {
       "year": "2024.04",
@@ -3464,59 +3514,63 @@
       "paperUrl": "https://arxiv.org/abs/2404.10242",
       "codeUrl": "https://www.rxrx.ai/phenom",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.48550/arXiv.2404.10242",
+      "citations": 97
     },
     {
       "year": "2024.03",
       "title": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
-      "team": "",
+      "team": "Volodymyr Kuleshov",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Cornell University",
       "domain": "DNA",
       "venue": "arXiv",
       "paperUrl": "https://arxiv.org/abs/2403.03234",
       "codeUrl": "https://caduceus-dna.github.io/",
       "githubStars": "https://img.shields.io/github/stars/kuleshov-group/caduceus",
-      "doi": ""
+      "doi": "10.48550/arXiv.2403.03234",
+      "citations": 240
     },
     {
       "year": "2024.03",
       "title": "Nicheformer: a foundation model for single-cell and spatial omics",
       "team": "Fabian J. Theis",
       "team website": "https://github.com/theislab",
-      "affiliation": "",
+      "affiliation": "Helmholtz Munich",
       "domain": "single-cell and spatial omics",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1",
       "codeUrl": "https://github.com/theislab/nicheformer",
       "githubStars": "https://img.shields.io/github/stars/theislab/nicheformer",
-      "doi": ""
+      "doi": "10.1101/2024.04.15.589472"
     },
     {
       "year": "2024.02",
       "title": "scGPT: toward building a foundation model for single-cell multi-omics using generative AI",
       "team": "Bo Wang",
       "team website": "https://github.com/bowang-lab",
-      "affiliation": "",
+      "affiliation": "University Health Network, University of Toronto, Vector Institute",
       "domain": "single cell RNA",
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02201-0",
       "codeUrl": "https://github.com/bowang-lab/scGPT",
       "githubStars": "https://img.shields.io/github/stars/bowang-lab/scGPT",
-      "doi": ""
+      "doi": "10.1038/s41592-024-02201-0",
+      "citations": 1352
     },
     {
       "year": "2024.01",
       "title": "OmniNA: A foundation model for nucleotide sequences",
-      "team": "",
+      "team": "Xiangchun Li",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Tianjin Medical University Cancer Institute and Hospital",
       "domain": "DNA/RNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.01.14.575543v1",
       "codeUrl": "https://github.com/xilinshen/OmniNA",
       "githubStars": "https://img.shields.io/github/stars/xilinshen/OmniNA",
-      "doi": ""
+      "doi": "10.1101/2024.01.14.575543",
+      "citations": 4
     },
     {
       "year": "2024.01",
@@ -3549,18 +3603,18 @@
       "title": "ProGen2: Exploring the boundaries of protein language models",
       "team": "Salesforce Research( Ali Madani)",
       "team website": "https://github.com/salesforce",
-      "affiliation": "",
+      "affiliation": "Salesforce (United States)",
       "domain": "Protein",
       "venue": "Cell Systems",
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/37909046/",
       "codeUrl": "https://github.com/salesforce/progen",
       "githubStars": "https://img.shields.io/github/stars/salesforce/progen",
-      "doi": ""
+      "doi": "10.1016/j.cels.2023.10.002"
     },
     {
       "year": "2023.06",
       "title": "DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome",
-      "team": "",
+      "team": "Han Liu",
       "team website": "",
       "affiliation": "",
       "domain": "DNA",
@@ -3568,20 +3622,22 @@
       "paperUrl": "https://arxiv.org/abs/2306.15006",
       "codeUrl": "https://github.com/MAGICS-LAB/DNABERT_2",
       "githubStars": "https://img.shields.io/github/stars/MAGICS-LAB/DNABERT_2",
-      "doi": ""
+      "doi": "10.48550/arXiv.2306.15006",
+      "citations": 485
     },
     {
       "year": "2023.05",
       "title": "Transfer learning enables predictions in network biology",
-      "team": "",
+      "team": "P. Ellinor",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Broad Institute, Massachusetts General Hospital",
       "domain": "General scRNA tasks, discovery of key network regulators and candidate therapeutic targets",
       "venue": "Nature",
       "paperUrl": "https://www.nature.com/articles/s41586-023-06139-9",
       "codeUrl": "https://huggingface.co/ctheodoris/Geneformer",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1038/s41586-023-06139-9",
+      "citations": 1239
     },
     {
       "year": "2021.07",
@@ -3644,7 +3700,7 @@
       "team": "B. Wild",
       "team website": "",
       "affiliation": "",
-      "domain": "",
+      "domain": "DNA foundation model",
       "venue": "Neural Information Processing Systems",
       "paperUrl": "https://www.semanticscholar.org/paper/304965a51b428af89df398ec0cc84314b00ac94c",
       "codeUrl": "https://github.com/Qihao-Duan/JanusDNA",
@@ -3657,8 +3713,8 @@
       "title": "Token-Mol 1.0: tokenized drug design with large language models",
       "team": "Tingjun Hou",
       "team website": "",
-      "affiliation": "",
-      "domain": "",
+      "affiliation": "Zhejiang University",
+      "domain": "Drug Discovery (tokenized molecular design)",
       "venue": "Nature Communications",
       "paperUrl": "https://www.semanticscholar.org/paper/944165a43458f98e00f6a322ff8aefd08ed0fd64",
       "codeUrl": "https://github.com/jkwang93/Token-Mol",
@@ -3671,8 +3727,8 @@
       "title": "AI-guided discovery and optimization of antimicrobial peptides through species-aware language model",
       "team": "Hojung Nam",
       "team website": "",
-      "affiliation": "",
-      "domain": "",
+      "affiliation": "Gwangju Institute of Science and Technology",
+      "domain": "Antimicrobial peptide discovery and optimization",
       "venue": "bioRxiv",
       "paperUrl": "https://www.semanticscholar.org/paper/db13fc81c41991a53706b040dff93f7c28071235",
       "codeUrl": "",
@@ -4819,15 +4875,16 @@
     {
       "year": "2025.06",
       "title": "X-Atlas/Orion: Genome-wide Perturb-seq Datasets via a Scalable Fix-Cryopreserve Platform for Training Dose-Dependent Biological Foundation Models",
-      "team": "",
+      "team": "Ci Chu",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Xaira Therapeutics, South San Francisco, CA, USA",
       "domain": "Genome-wide Perturb-seq Datasets",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.11.659105v1",
       "codeUrl": "10.25452/figshare.plus.29190726",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1101/2025.06.11.659105",
+      "citations": 37
     },
     {
       "year": "2025.05",
@@ -4860,15 +4917,16 @@
     {
       "year": "2025.04",
       "title": "scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions",
-      "team": "",
+      "team": "Xiuwei Zhang",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Georgia Institute of Technology",
       "domain": "Simulation of single-cell multi-omics and spatial data",
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-025-02651-0",
       "codeUrl": "https://github.com/ZhangLabGT/scMultiSim/",
       "githubStars": "https://img.shields.io/github/stars/ZhangLabGT/scMultiSim",
-      "doi": ""
+      "doi": "10.1038/s41592-025-02651-0",
+      "citations": 10
     },
     {
       "year": "2025.04",
@@ -4923,33 +4981,36 @@
       "paperUrl": "https://arxiv.org/abs/2503.20158v2",
       "codeUrl": "https://www.rxrx.ai/datasets",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.48550/arXiv.2503.20158",
+      "citations": 16
     },
     {
       "year": "2025.02",
       "title": "scBaseCount: an AI agent-curated, uniformly processed, and continually expanding single cell data repository",
       "team": "Arc Institute(Yusuf H. Roohani)",
       "team website": "https://github.com/ArcInstitute",
-      "affiliation": "",
+      "affiliation": "Arc Institute",
       "domain": "preprocess scRNA data",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.27.640494v2",
       "codeUrl": "https://github.com/ArcInstitute/SRAgent",
       "githubStars": "https://img.shields.io/github/stars/ArcInstitute/SRAgent",
-      "doi": ""
+      "doi": "10.1101/2025.02.27.640494",
+      "citations": 15
     },
     {
       "year": "2025.02",
       "title": "Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling",
       "team": "tahoebio(but in arc's repository)",
       "team website": "https://github.com/ArcInstitute",
-      "affiliation": "",
+      "affiliation": "Tahoe Therapeutics",
       "domain": "Drug perturbation scRNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.02.20.639398v3",
       "codeUrl": "https://github.com/ArcInstitute/arc-virtual-cell-atlas",
       "githubStars": "https://img.shields.io/github/stars/ArcInstitute/arc-virtual-cell-atlas",
-      "doi": ""
+      "doi": "10.1101/2025.02.20.639398",
+      "citations": 145
     },
     {
       "year": "2025.02",
@@ -5012,39 +5073,42 @@
       "title": "Signals in the Cells: Multimodal and Contextualized Machine Learning Foundations for Therapeutics",
       "team": "Marinka Zitnik",
       "team website": "https://zitniklab.hms.harvard.edu/",
-      "affiliation": "",
+      "affiliation": "Broad Institute",
       "domain": "Drug Discovery (Therapeutic science, 66 datasets)",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2024.06.12.598655v3",
       "codeUrl": "https://tdcommons.ai/",
       "githubStars": "https://img.shields.io/github/stars/mims-harvard/TDC",
-      "doi": ""
+      "doi": "10.1101/2024.06.12.598655",
+      "citations": 22
     },
     {
       "year": "2024.04",
       "title": "Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (Cell Painting Gallery)",
       "team": "Broad Institute(Anne E. Carpenter)",
       "team website": "https://github.com/broadinstitute",
-      "affiliation": "",
+      "affiliation": "Broad Institute",
       "domain": "phenotype morphological responses to perturbation",
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-024-02241-6",
       "codeUrl": "https://github.com/broadinstitute/cellpainting-gallery/",
       "githubStars": "https://img.shields.io/github/stars/broadinstitute/cellpainting-gallery",
-      "doi": ""
+      "doi": "10.1038/s41592-024-02241-6",
+      "citations": 182
     },
     {
       "year": "2024.01",
       "title": "scPerturb: harmonized single-cell perturbation data",
-      "team": "",
+      "team": "C. Sander",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Broad Institute, Harvard University, Dana-Farber Cancer Institute, Center for Systems Biology",
       "domain": "scRNA perturbation(44 public datasets, drugs and genes)",
       "venue": "Nature Methods",
       "paperUrl": "https://www.nature.com/articles/s41592-023-02144-y",
       "codeUrl": "https://github.com/sanderlab/scPerturb/",
       "githubStars": "https://img.shields.io/github/stars/sanderlab/scPerturb",
-      "doi": ""
+      "doi": "10.1038/s41592-023-02144-y",
+      "citations": 199
     },
     {
       "year": "2025.12",
@@ -5065,8 +5129,8 @@
       "title": "NMRExtractor: leveraging large language models to construct an experimental NMR database from open-source scientific publications",
       "team": "Mingyue Zheng",
       "team website": "",
-      "affiliation": "",
-      "domain": "",
+      "affiliation": "Nanjing University of Chinese Medicine, Drug Discovery and Design Center",
+      "domain": "NMR database construction from literature via LLMs",
       "venue": "Chemical Science",
       "paperUrl": "https://www.semanticscholar.org/paper/ecfac36c981a52c976ecfee77afa51e6ddcef7f9",
       "codeUrl": "https://github.com/eat-sugar/NMRExtractor",
@@ -5579,28 +5643,30 @@
     {
       "year": "2025.06",
       "title": "Fundamental Limitations of Foundation Models in Single-Cell Transcriptomics",
-      "team": "",
+      "team": "Shankar Subramaniam",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "UC San Diego Health System, University of California San Diego",
       "domain": "evaluate cell-type classification",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661767v1",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1101/2025.06.26.661767",
+      "citations": 5
     },
     {
       "year": "2025.06",
       "title": "Cell-Eval(Predicting cellular responses to perturbation across diverse contexts with State)",
       "team": "Arc Institute(Yusuf H. Roohani)",
       "team website": "https://github.com/ArcInstitute",
-      "affiliation": "",
+      "affiliation": "Arc Institute",
       "domain": "Perturbation scRNA",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1",
       "codeUrl": "https://github.com/ArcInstitute/cell-eval",
       "githubStars": "https://img.shields.io/github/stars/ArcInstitute/cell-eval",
-      "doi": ""
+      "doi": "10.1101/2025.06.26.661135",
+      "citations": 143
     },
     {
       "year": "2025.06",
@@ -5648,13 +5714,14 @@
       "title": "Zero-shot evaluation reveals limitations of single-cell foundation models",
       "team": "Microsoft Research(Alex X. Lu)",
       "team website": "https://github.com/microsoft",
-      "affiliation": "",
+      "affiliation": "Microsoft (United States), Microsoft Research (United Kingdom)",
       "domain": "cell type clustering and batch integration for scGPT and Geneformer",
       "venue": "Genome Biology",
       "paperUrl": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x",
       "codeUrl": "https://github.com/microsoft/zero-shot-scfoundation",
       "githubStars": "https://img.shields.io/github/stars/microsoft/zero-shot-scfoundation",
-      "doi": ""
+      "doi": "10.1186/s13059-025-03574-x",
+      "citations": 132
     },
     {
       "year": "2025.03",
@@ -5815,7 +5882,7 @@
       "team": "Qi Liu",
       "team website": "",
       "affiliation": "Tongji University, Autonomous Healthcare, Tongji Hospital, Shanghai Center for Brain Science and Brain-Inspired Technology",
-      "domain": "",
+      "domain": "Benchmarking single-cell perturbation response prediction",
       "venue": "Nature Methods",
       "paperUrl": "https://www.semanticscholar.org/paper/e8eeb58f3cdd1461d1c761db907dfe7ef7b23057",
       "codeUrl": "",
@@ -6334,7 +6401,8 @@
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40713951/",
       "codeUrl": "https://github.com/physicell-models/grammar_samples",
       "githubStars": "https://img.shields.io/github/stars/physicell-models/grammar_samples",
-      "doi": ""
+      "doi": "10.1016/j.cell.2025.06.048",
+      "citations": 62
     },
     {
       "year": "2025.07",
@@ -6445,7 +6513,8 @@
       "paperUrl": "https://arxiv.org/abs/2503.23278",
       "codeUrl": "https://github.com/AIM-Intelligence/awesome-mcp-security",
       "githubStars": "https://img.shields.io/github/stars/AIM-Intelligence/awesome-mcp-security",
-      "doi": ""
+      "doi": "10.48550/arXiv.2503.23278",
+      "citations": 495
     },
     {
       "year": "2025.04",
@@ -6464,7 +6533,7 @@
     {
       "year": "2025.04",
       "title": "A Survey of the Model Context Protocol (MCP): Standardizing Context to Enhance Large Language Models (LLMs)",
-      "team": "",
+      "team": "Tala Talaei Khoei",
       "team website": "",
       "affiliation": "",
       "domain": "MCP for agents",
@@ -6472,7 +6541,7 @@
       "paperUrl": "https://www.preprints.org/manuscript/202504.0245/v1",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.20944/preprints202504.0245.v1"
     },
     {
       "year": "2025.04",
@@ -6743,7 +6812,7 @@
     {
       "year": "2024.10",
       "title": "Empowering biomedical discovery with AI agents",
-      "team": "",
+      "team": "Marinka Zitnik",
       "team website": "",
       "affiliation": "",
       "domain": "Biomedical Agents",
@@ -6751,12 +6820,12 @@
       "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/39486399/",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1016/j.cell.2024.09.022"
     },
     {
       "year": "2024.08",
       "title": "Transformers in single-cell omics: a review and new perspectives",
-      "team": "",
+      "team": "Fabian J. Theis",
       "team website": "",
       "affiliation": "",
       "domain": "Single cell foundation models",
@@ -6764,12 +6833,13 @@
       "paperUrl": "https://www.nature.com/articles/s41592-024-02353-z",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1038/s41592-024-02353-z",
+      "citations": 166
     },
     {
       "year": "2024.08",
       "title": "Language models for biological research: a primer",
-      "team": "",
+      "team": "James Y. Zou",
       "team website": "",
       "affiliation": "",
       "domain": "biological foundation models",
@@ -6777,20 +6847,22 @@
       "paperUrl": "https://www.nature.com/articles/s41592-024-02354-y",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1038/s41592-024-02354-y",
+      "citations": 66
     },
     {
       "year": "2024.07",
       "title": "Foundation models for bioinformatics",
-      "team": "",
+      "team": "Ge Gao",
       "team website": "",
-      "affiliation": "",
+      "affiliation": "Changping Laboratory  Beijing China",
       "domain": "Bioinformatics foundation models",
       "venue": "Quantitative Biology",
       "paperUrl": "https://onlinelibrary.wiley.com/doi/10.1002/qub2.69",
       "codeUrl": "",
       "githubStars": "",
-      "doi": ""
+      "doi": "10.1002/qub2.69",
+      "citations": 61
     },
     {
       "year": "2025.12",
