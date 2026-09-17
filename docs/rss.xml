@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 16 Sep 2026 15:16:55 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 01:27:36 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -815,20 +815,6 @@
     </description>
     <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">DeepSeqHighThroughputSingleCellRNASequencingDataLabelingviaWebSearchAugmentedAgenticGenerativeAIFoundationModels202506</guid>
-  </item>
-  <item>
-    <title>Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data</title>
-    <link>https://doi.org/10.48550/arXiv.2506.05542</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Panagiotis Alexiou</p>
-        <p><b>Domain:</b> Autonomous ML experimentation agent for genomic and transcriptomic data</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/f8666b034f4ddd25259d76c5c34e9fbb91dfc917">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">AgentomicsMLAutonomousMachineLearningExperimentationAgentforGenomicandTranscriptomicData202506</guid>
   </item>
   <item>
     <title>A User-Friendly Machine Learning Pipeline for Automated Leaf Segmentation in Atriplex lentiformis</title>
@@ -1645,6 +1631,150 @@
     </description>
     <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">OmicOSAComprehensiveOmicsEcosystemInfrastructureandAgentSystemfortheAIEra202606</guid>
+  </item>
+  <item>
+    <title>scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis</title>
+    <link>https://doi.org/10.1101/2024.10.01.616063</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Can Li</p>
+        <p><b>Domain:</b> scRNA-seq analysis / single-cell transcriptomics</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.1101/2024.10.01.616063">Read the Paper</a></p>
+        <p><a href="https://github.com/li-group/scChat">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">scChatALargeLanguageModelPoweredCoPilotforContextualizedSingleCellRNASequencingAnalysis202601</guid>
+  </item>
+  <item>
+    <title>LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design</title>
+    <link>https://doi.org/10.64898/2026.03.02.709055</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Cristian Taccioli</p>
+        <p><b>Domain:</b> Drug Discovery (de novo small molecule design)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.03.02.709055">Read the Paper</a></p>
+        <p><a href="https://github.com/tacclab/LLMsFold">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LLMsFoldIntegratingLargeLanguageModelsandBiophysicalSimulationsforDeNovoDrugDesign202603</guid>
+  </item>
+  <item>
+    <title>ELISA (Embedding-Linked Interactive Single-cell Agent): an interpretable hybrid generative Artificial Intelligence agent for expression-grounded discovery in single-cell genomics</title>
+    <link>https://doi.org/10.1093/bib/bbag501</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Omar Coser</p>
+        <p><b>Domain:</b> single-cell genomics / scRNA-seq interpretation</p>
+        <p><b>Venue:</b> Briefings in Bioinformatics</p>
+        <p><a href="https://doi.org/10.1093/bib/bbag501">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ELISAEmbeddingLinkedInteractiveSinglecellAgentaninterpretablehybridgenerativeArtificialIntelligenceagentforexpressiongroundeddiscoveryinsinglecellgenomics202603</guid>
+  </item>
+  <item>
+    <title>Catalysis AI Agent Guides Discovering the Universal Design Principle of Cu‐Based Single‐Atom Alloy Catalysts for CO2 Electroreduction</title>
+    <link>https://doi.org/10.1002/anie.202524612</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Dao-Jian Cheng</p>
+        <p><b>Domain:</b> Catalysis / materials discovery (CO2 electroreduction)</p>
+        <p><b>Venue:</b> Angewandte Chemie</p>
+        <p><a href="https://doi.org/10.1002/anie.202524612">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CatalysisAIAgentGuidesDiscoveringtheUniversalDesignPrincipleofCuBasedSingleAtomAlloyCatalystsforCOElectroreduction202602</guid>
+  </item>
+  <item>
+    <title>Synthesis of Highly Crystalline Covalent Organic Frameworks Using Large Language Models.</title>
+    <link>https://doi.org/10.1021/jacs.5c23233</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Omar M. Yaghi</p>
+        <p><b>Domain:</b> Materials synthesis (covalent organic frameworks)</p>
+        <p><b>Venue:</b> Journal of the American Chemical Society</p>
+        <p><a href="https://doi.org/10.1021/jacs.5c23233">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SynthesisofHighlyCrystallineCovalentOrganicFrameworksUsingLargeLanguageModels202602</guid>
+  </item>
+  <item>
+    <title>An autonomous agentic workflow for clinical detection of cognitive concerns using large language models</title>
+    <link>https://doi.org/10.1038/s41746-025-02324-4</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> H. Estiri</p>
+        <p><b>Domain:</b> Clinical NLP / cognitive impairment detection</p>
+        <p><b>Venue:</b> npj Digital Medicine</p>
+        <p><a href="https://doi.org/10.1038/s41746-025-02324-4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Anautonomousagenticworkflowforclinicaldetectionofcognitiveconcernsusinglargelanguagemodels202601</guid>
+  </item>
+  <item>
+    <title>Agentomics: an agentic system that autonomously develops novel state-of-the-art solutions for biomedical machine learning tasks</title>
+    <link>https://doi.org/10.1093/bioinformatics/btag250</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Panagiotis Alexiou</p>
+        <p><b>Domain:</b> Automated biomedical machine learning (LLM-powered agentic system for end-to-end ML experimentation across Protein Engineering, Drug Discovery, and Regulatory Genomics)</p>
+        <p><b>Venue:</b> Bioinformatics</p>
+        <p><a href="https://doi.org/10.1093/bioinformatics/btag250">Read the Paper</a></p>
+        <p><a href="https://github.com/BioGeMT/agentomics-ml">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Agentomicsanagenticsystemthatautonomouslydevelopsnovelstateoftheartsolutionsforbiomedicalmachinelearningtasks202601</guid>
+  </item>
+  <item>
+    <title>Toward integrated sleep health: multimodal AI in Hang Hao Meng agent</title>
+    <link>https://doi.org/10.1038/s41746-026-02432-9</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Junhang Zhang</p>
+        <p><b>Domain:</b> Sleep medicine digital health</p>
+        <p><b>Venue:</b> npj Digit. Medicine</p>
+        <p><a href="https://doi.org/10.1038/s41746-026-02432-9">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TowardintegratedsleephealthmultimodalAIinHangHaoMengagent202602</guid>
+  </item>
+  <item>
+    <title>A cognitive layer architecture to support large-language model performance in psychotherapy interactions</title>
+    <link>https://doi.org/10.1038/s41591-026-04278-w</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ross Harper</p>
+        <p><b>Domain:</b> Psychotherapy / mental health AI</p>
+        <p><b>Venue:</b> Nature Medicine</p>
+        <p><a href="https://doi.org/10.1038/s41591-026-04278-w">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Acognitivelayerarchitecturetosupportlargelanguagemodelperformanceinpsychotherapyinteractions202603</guid>
+  </item>
+  <item>
+    <title>MutexaGPT: an intuition-to-design translator for physics-based enzyme engineering.</title>
+    <link>https://doi.org/10.1038/s43588-026-01049-y</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Z. Yang</p>
+        <p><b>Domain:</b> Enzyme/Protein Engineering</p>
+        <p><b>Venue:</b> Nature Computational Science</p>
+        <p><a href="https://doi.org/10.1038/s43588-026-01049-y">Read the Paper</a></p>
+        <p><a href="https://github.com/ChemBioHTP/EnzyHTP-GPT">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MutexaGPTanintuitiontodesigntranslatorforphysicsbasedenzymeengineering202609</guid>
   </item>
   <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
@@ -3213,6 +3343,223 @@
     <guid isPermaLink="false">AIguideddiscoveryandoptimizationofantimicrobialpeptidesthroughspeciesawarelanguagemodel202505</guid>
   </item>
   <item>
+    <title>MGM as a Large‐Scale Pretrained Foundation Model for Microbiome Analyses in Diverse Contexts</title>
+    <link>https://doi.org/10.1002/advs.202513333</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> K. Ning</p>
+        <p><b>Domain:</b> Microbiome foundation model</p>
+        <p><b>Venue:</b> Advancement of science</p>
+        <p><a href="https://doi.org/10.1002/advs.202513333">Read the Paper</a></p>
+        <p><a href="https://github.com/HUST-NingKang-Lab/MGM">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MGMasaLargeScalePretrainedFoundationModelforMicrobiomeAnalysesinDiverseContexts202601</guid>
+  </item>
+  <item>
+    <title>Predicting the evolutionary and functional landscapes of viruses with a unified nucleotide-protein language model: LucaVirus</title>
+    <link>https://doi.org/10.1093/nsr/nwag376</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Mang Shi</p>
+        <p><b>Domain:</b> Viral nucleotide-protein language model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.1093/nsr/nwag376">Read the Paper</a></p>
+        <p><a href="https://github.com/LucaOne/LucaVirus">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PredictingtheevolutionaryandfunctionallandscapesofviruseswithaunifiednucleotideproteinlanguagemodelLucaVirus202601</guid>
+  </item>
+  <item>
+    <title>NetMedGPT - A network medicine foundation model for extensive disease mechanism mining and drug repurposing</title>
+    <link>https://doi.org/10.64898/2026.01.04.697552</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jan Baumbach</p>
+        <p><b>Domain:</b> Network medicine / drug repurposing</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.01.04.697552">Read the Paper</a></p>
+        <p><a href="https://github.com/faren-f/NetMedGPT">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">NetMedGPTAnetworkmedicinefoundationmodelforextensivediseasemechanismmininganddrugrepurposing202601</guid>
+  </item>
+  <item>
+    <title>Illuminating cell states by a comprehensive and interpretable single cell foundation model</title>
+    <link>https://doi.org/10.1038/s41467-026-70071-5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Stan Z. Li</p>
+        <p><b>Domain:</b> Single-cell transcriptomics</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://doi.org/10.1038/s41467-026-70071-5">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Illuminatingcellstatesbyacomprehensiveandinterpretablesinglecellfoundationmodel202603</guid>
+  </item>
+  <item>
+    <title>GREmLN: A Cellular Graph Structure Aware Transcriptomics Foundation Model</title>
+    <link>https://doi.org/10.1101/2025.07.03.663009</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Andrea Califano</p>
+        <p><b>Domain:</b> Single-cell transcriptomics</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.1101/2025.07.03.663009">Read the Paper</a></p>
+        <p><a href="https://github.com/czi-ai/GREmLN">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GREmLNACellularGraphStructureAwareTranscriptomicsFoundationModel202603</guid>
+  </item>
+  <item>
+    <title>RNAElectra: An ELECTRA-Style RNA Foundation Model for RNA Regulatory Inference</title>
+    <link>https://doi.org/10.64898/2026.03.15.711950</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jiayu Wen</p>
+        <p><b>Domain:</b> RNA regulatory model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.03.15.711950">Read the Paper</a></p>
+        <p><a href="https://github.com/FreakingPotato/RNAELECTRA">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">RNAElectraAnELECTRAStyleRNAFoundationModelforRNARegulatoryInference202603</guid>
+  </item>
+  <item>
+    <title>DualPG‐DTA: A Large Language Model‐Powered Graph Neural Network Framework for Enhanced Drug‐Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti‐Leukemia Activity</title>
+    <link>https://doi.org/10.1002/advs.202513099</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ling Wang</p>
+        <p><b>Domain:</b> Drug-target affinity prediction / drug discovery</p>
+        <p><b>Venue:</b> Advancement of science</p>
+        <p><a href="https://doi.org/10.1002/advs.202513099">Read the Paper</a></p>
+        <p><a href="https://github.com/idrugLab/DualPG-DTA">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DualPGDTAALargeLanguageModelPoweredGraphNeuralNetworkFrameworkforEnhancedDrugTargetAffinityPredictionandDiscoveryofNovelCDKInhibitorsExhibitingInVivoAntiLeukemiaActivity202601</guid>
+  </item>
+  <item>
+    <title>Few-shot molecular property optimization via a domain-specialized large language model</title>
+    <link>https://doi.org/10.1039/d5sc08859c</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Xiang-Gen Liu</p>
+        <p><b>Domain:</b> Molecular optimization / drug discovery</p>
+        <p><b>Venue:</b> Chemical Science</p>
+        <p><a href="https://doi.org/10.1039/d5sc08859c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Fewshotmolecularpropertyoptimizationviaadomainspecializedlargelanguagemodel202602</guid>
+  </item>
+  <item>
+    <title>A paired sequence language model for protein-protein interaction modeling</title>
+    <link>https://doi.org/10.1038/s41467-026-70457-5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yang Zhang</p>
+        <p><b>Domain:</b> Protein model (protein-protein interaction, protein language model)</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://doi.org/10.1038/s41467-026-70457-5">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Apairedsequencelanguagemodelforproteinproteininteractionmodeling202603</guid>
+  </item>
+  <item>
+    <title>CLM-X: A multimodal single-cell foundation model with flexible multi-way Transformer for unified scRNA-seq and scATAC-seq analysis</title>
+    <link>https://doi.org/10.64898/2026.02.17.704943</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Xiao-Lin Li</p>
+        <p><b>Domain:</b> single-cell multi-omics (scRNA-seq/scATAC-seq) foundation model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.02.17.704943">Read the Paper</a></p>
+        <p><a href="https://github.com/HIM-AIM/CLM-X">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CLMXAmultimodalsinglecellfoundationmodelwithflexiblemultiwayTransformerforunifiedscRNAseqandscATACseqanalysis202602</guid>
+  </item>
+  <item>
+    <title>Large mRNA language foundation modeling with NUWA for unified sequence perception and generation</title>
+    <link>https://doi.org/10.1101/2025.11.01.686058</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Bian Bian</p>
+        <p><b>Domain:</b> mRNA sequence language model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.1101/2025.11.01.686058">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">LargemRNAlanguagefoundationmodelingwithNUWAforunifiedsequenceperceptionandgeneration202602</guid>
+  </item>
+  <item>
+    <title>Foundation model cascades enable zero-shot microscopy image analysis for cell therapy manufacturing</title>
+    <link>https://doi.org/10.1016/j.jcyt.2026.102078</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jing Li</p>
+        <p><b>Domain:</b> microscopy image analysis for cell therapy manufacturing</p>
+        <p><b>Venue:</b> Cytotherapy</p>
+        <p><a href="https://doi.org/10.1016/j.jcyt.2026.102078">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Foundationmodelcascadesenablezeroshotmicroscopyimageanalysisforcelltherapymanufacturing202602</guid>
+  </item>
+  <item>
+    <title>Mining lysine post-translational modification sites by integrating protein language model representations with structural context</title>
+    <link>https://doi.org/10.1073/pnas.2529141123</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Luonan Chen</p>
+        <p><b>Domain:</b> protein post-translational modification (PTM) site prediction</p>
+        <p><b>Venue:</b> Proceedings of the National Academy of Sciences of the United States of America</p>
+        <p><a href="https://doi.org/10.1073/pnas.2529141123">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Mininglysineposttranslationalmodificationsitesbyintegratingproteinlanguagemodelrepresentationswithstructuralcontext202602</guid>
+  </item>
+  <item>
+    <title>Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training</title>
+    <link>https://doi.org/10.48550/arXiv.2601.05648</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Shaoshuai Li</p>
+        <p><b>Domain:</b> single-cell foundation model with cell-language cross-modal pre-training</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2601.05648">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">OpenWorldKnowledgeAidedSingleCellFoundationModelwithRobustCrossModalCellLanguagePretraining202601</guid>
+  </item>
+  <item>
+    <title>Development of Large Language Model Specialized into Microbiome Datasets: an Application of Self-Evaluation and Scoring Comparison with Conventional Natural Language Processing Markers</title>
+    <link>https://doi.org/10.4014/jmb.2511.11050</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jae Kyeom Kim</p>
+        <p><b>Domain:</b> microbiome-specialized large language model</p>
+        <p><b>Venue:</b> Journal of Microbiology and Biotechnology</p>
+        <p><a href="https://doi.org/10.4014/jmb.2511.11050">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DevelopmentofLargeLanguageModelSpecializedintoMicrobiomeDatasetsanApplicationofSelfEvaluationandScoringComparisonwithConventionalNaturalLanguageProcessingMarkers202601</guid>
+  </item>
+  <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
     <link>https://doi.org/10.64898/2025.12.23.696273</link>
     <description>
@@ -3676,6 +4023,35 @@
     </description>
     <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">NMRExtractorleveraginglargelanguagemodelstoconstructanexperimentalNMRdatabasefromopensourcescientificpublications202505</guid>
+  </item>
+  <item>
+    <title>Protein Language Visualizer: A Repository for Homology Exploration with Language Model Embeddings</title>
+    <link>https://doi.org/10.1101/2024.11.19.624229</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Jinich</p>
+        <p><b>Domain:</b> Protein language model embeddings / homology visualization</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.1101/2024.11.19.624229">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ProteinLanguageVisualizerARepositoryforHomologyExplorationwithLanguageModelEmbeddings202601</guid>
+  </item>
+  <item>
+    <title>h5adify: neuro-symbolic metadata harmonization enables scalable AnnData integration with local large language models</title>
+    <link>https://doi.org/10.64898/2026.02.28.708740</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Alentorn</p>
+        <p><b>Domain:</b> Single-cell/spatial transcriptomics metadata harmonization</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.02.28.708740">Read the Paper</a></p>
+        <p><a href="https://github.com/LOCImm/h5adify">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">hadifyneurosymbolicmetadataharmonizationenablesscalableAnnDataintegrationwithlocallargelanguagemodels202603</guid>
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
@@ -4347,6 +4723,35 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Benchmarkingalgorithmsforgeneralizablesinglecellperturbationresponseprediction202512</guid>
+  </item>
+  <item>
+    <title>RareArena: a comprehensive benchmark dataset unveiling the potential of large language models in rare disease diagnosis.</title>
+    <link>https://doi.org/10.1016/j.landig.2025.100953</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> T. Wong</p>
+        <p><b>Domain:</b> Rare disease diagnosis with large language models</p>
+        <p><b>Venue:</b> The Lancet Digital Health</p>
+        <p><a href="https://doi.org/10.1016/j.landig.2025.100953">Read the Paper</a></p>
+        <p><a href="https://github.com/zhao-zy15/RareArena">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">RareArenaacomprehensivebenchmarkdatasetunveilingthepotentialoflargelanguagemodelsinrarediseasediagnosis202602</guid>
+  </item>
+  <item>
+    <title>Benchmarking large language model-based agent systems for clinical decision tasks</title>
+    <link>https://doi.org/10.1038/s41746-026-02443-6</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> J. Kather</p>
+        <p><b>Domain:</b> LLM-based agent systems for clinical decision-making</p>
+        <p><b>Venue:</b> npj Digit. Medicine</p>
+        <p><a href="https://doi.org/10.1038/s41746-026-02443-6">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Benchmarkinglargelanguagemodelbasedagentsystemsforclinicaldecisiontasks202602</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>
@@ -5177,6 +5582,62 @@
     </description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Largelanguagemodelsinobesityasystematicreview202512</guid>
+  </item>
+  <item>
+    <title>Generative AI in pharmaceutical R&amp;D: From large language models to AI agents to regulation.</title>
+    <link>https://doi.org/10.1016/j.drudis.2025.104593</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Christoph Meier</p>
+        <p><b>Domain:</b> Pharmaceutical R&amp;D / Drug Discovery (Generative AI, LLMs, AI agents, regulation)</p>
+        <p><b>Venue:</b> Drug Discovery Today</p>
+        <p><a href="https://doi.org/10.1016/j.drudis.2025.104593">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GenerativeAIinpharmaceuticalRDFromlargelanguagemodelstoAIagentstoregulation202601</guid>
+  </item>
+  <item>
+    <title>A Review of Multi-Agent AI Systems for Biological and Clinical Data Analysis</title>
+    <link>https://doi.org/10.3390/mps9020033</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Behrouz Shamsaei</p>
+        <p><b>Domain:</b> Biomedical and clinical data analysis (multi-agent AI systems)</p>
+        <p><b>Venue:</b> Methods and Protocols</p>
+        <p><a href="https://doi.org/10.3390/mps9020033">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AReviewofMultiAgentAISystemsforBiologicalandClinicalDataAnalysis202602</guid>
+  </item>
+  <item>
+    <title>Large language model agents for biological intelligence across genomics, proteomics, spatial biology, and biomedicine</title>
+    <link>https://doi.org/10.1093/bib/bbag110</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Li-Qing Zhang</p>
+        <p><b>Domain:</b> Computational biology (LLM agents for genomics, proteomics, spatial biology, and biomedicine)</p>
+        <p><b>Venue:</b> Briefings in Bioinformatics</p>
+        <p><a href="https://doi.org/10.1093/bib/bbag110">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelagentsforbiologicalintelligenceacrossgenomicsproteomicsspatialbiologyandbiomedicine202603</guid>
+  </item>
+  <item>
+    <title>Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies.</title>
+    <link>https://doi.org/10.1016/s2215-0366(25)00396-7</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> T. Pollak</p>
+        <p><b>Domain:</b> LLM safety and risks in psychiatry/mental health (AI-associated delusions in psychotic disorders)</p>
+        <p><b>Venue:</b> Lancet psychiatry</p>
+        <p><a href="https://doi.org/10.1016/s2215-0366(25)00396-7">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Artificialintelligenceassociateddelusionsandlargelanguagemodelsrisksmechanismsofdelusioncocreationandsafeguardingstrategies202603</guid>
   </item>
 </channel>
 </rss>
