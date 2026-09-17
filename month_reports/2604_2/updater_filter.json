@@ -1,0 +1,77 @@
+{
+  "Benchmarks": [
+    {
+      "year": "2026-04-21T00:00:00",
+      "title": "Benchmarking Agentic Large Language Models for Complex Protein-Set Functional Annotation",
+      "team": "Xiaoyun Zhang",
+      "authors": [
+        "Xiaoyun Zhang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Protein Functional Annotation / Bioinformatics",
+      "abstract": "Large language model (LLM) agents are increasingly used to synthesize heterogeneous bioinformatics evidence, but their reliability for high-volume biological annotation remains poorly characterized. We evaluated three agent configurations on a controlled protein annotation task: Claude App with Claude Opus 4.7, Claude Code CLI with Claude Opus 4.7 and Claude Scientific Skills, and Codex App with GPT-5.4 and Claude Scientific Skills. Each configuration was run three times on the same verbatim prompt, the same 73 selected orthogroup FASTA files (1,705 protein sequences), and the same local evidence: Swiss-Prot BLASTP output, Pfam/HMMER domain hits, DeepTMHMM topology predictions, and SignalP secretion predictions. We audited the nine outputs for coverage, biological correctness, missing evidence, hallucinated or over-specific annotations, and within-method consistency, then merged the best-supported evidence into a final orthogroup annotation table. All nine runs covered all 73 orthogroups, indicating that the agents could retrieve and organize the complete input set. However, normalized calcification-relevance calls were only moderately reproducible: within-method exact tier agreement ranged from 0.397 to 0.685 for Claude App (mean 0.562), 0.342 to 0.740 for Claude Code (mean 0.516), and 0.411 to 0.630 for Codex App (mean 0.539), and the per-run number of high-confidence calls varied from 0 to 12 across the nine runs. The final curated table retained 3 high-confidence, 9 moderate, 18 watchlist, and 43 low-relevance orthogroups. The most robust direct candidates were sulfatase (OG0017138) and sulfotransferase (OG0020703) families and an FG-GAP/integrin-like surface protein family (OG0018986), whereas common error modes included elevating pentapeptide-repeat orthogroups on motif evidence alone, treating weakly secreted housekeeping enzymes as matrix proteins, and taking low-complexity BLAST labels at face value. Skill-enabled agents improved file handling, evidence traceability, and reproducibility of computational checking, but they did not eliminate biological overinterpretation. These results support a best-practice workflow in which LLM agents draft annotations only after deterministic evidence tables are generated, with explicit scoring rules, provenance columns, run-to-run replication, and expert review of high-impact claims.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/ec05818f963451755cc7dd4e4e17c5866e341234",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.04.18.719404",
+      "reason_for_inclusion": "In scope: agentic LLM benchmark for protein functional annotation, a direct hit on both AI agents for scientific discovery and foundation models for biology; bioRxiv preprint but squarely on-scope."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-04-24T00:00:00",
+      "title": "H2O: A Foundation Model Bridging Histopathology to Spatial Multi-Omics Profiling",
+      "team": "Jianhua Yao",
+      "authors": [
+        "Yunjie Gu",
+        "Zi-Han Wu",
+        "Rui Yan",
+        "Zhi-Kang Wang",
+        "Yuan Li",
+        "Senlin Lin",
+        "Yan Cui",
+        "Haoran Lai",
+        "Xin Luo",
+        "S. Zhou",
+        "Zhiyuan Yuan",
+        "Jianhua Yao"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Histopathology / Spatial Multi-Omics",
+      "abstract": "Spatial omics technologies have revolutionized the molecular profiling of tissues but remain constrained by high costs and limited scalability. While hematoxylin and eosin (H&E) staining is ubiquitous, it lacks molecular specificity. Here, we present H2O (Histopathology to Omics), a generalist AI framework that bridges the modality gap between histopathology and spatial multi-omics, enabling the direct inference of spatial transcriptomics (ST) and proteomics (SP) landscapes from routine H&E images. H2O integrates Vision Transformers (ViT) with Large Language Models (LLM) via contrastive learning to align histological morphology with semantic molecular knowledge. This cross-modal approach allows the model to incorporate spatial expression profiles into histological pattern recognition, effectively decoding the molecular heterogeneity underlying tissue morphology. Trained on a pan-tissue dataset of 1.3 million paired H&E-spatial patches across 25 organs and cancer types, H2O predicts spatial omics expression from histology with high concordance to sequenced measurements and consistently outperforms state-of-the-art models across three cancer benchmarks. Notably, H2O recovers the MIF-CD74/CD44 signaling axis directly from H&E images, highlighting its capacity to infer biologically meaningful cell-cell communication without molecular profiling. Applying on three additional public cohorts covering fetal and paediatric thymus tissues, human metastatic lymph node, and breast cancer, encompassing human development, 3D spatial frameworks, and integrative multi-omics, H2O yields biologically concordant insights, demonstrating superior accuracy, robustness, and generalizability across real-world applications in diverse scenarios. H2O converts routine histopathology into a portal for spatially resolved multi-omics profiling by computationally generating transcriptomic and proteomic landscapes, thereby enhancing tissue phenotyping and enabling scalable, integrative tissue-atlas construction.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/8c1c4e2ffa9ba3156c782f95d8491c9dd4969f73",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.04.21.717342",
+      "reason_for_inclusion": "In scope: a foundation model connecting histopathology with spatial multi-omics, directly advancing foundation models for biology and multi-omics analysis; preprint venue offset by precise scope fit."
+    },
+    {
+      "year": "2026-04-21T00:00:00",
+      "title": "sdAbs-LLM: Generative Large Language Models For de novo Antibody Design and Agentic Evaluation",
+      "team": "J. Chen",
+      "authors": [
+        "Delower Hossain",
+        "Fuad Al Abir",
+        "Sixue Zhang",
+        "J. Chen"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Antibody Design / Protein Engineering",
+      "abstract": "Despite major advances in computational antibody engineering, no systematic comparison of modern open-source LLM backbone families for antibody sequence generation exists, nor is it known whether architectural differences matter at compact model scales. In this study, five compact transformer variants inspired by prominent open-source LLM families (Llama-4, Gemma-3, DeepSeek-V3, Mistral 7B, and NVIDIA Nemotron-3) were customized and trained from scratch for de novo VH single-domain antibody (sdAb) design. All five models were pretrained from scratch on 15 million sequences from the Observed Antibody Space (OAS) database. Pretraining yielded uniformly high generative fidelity across architectures: sequence diversity 0.507–0.516 (CV=0.8%), uniqueness approaching 1.0, and novelty 0.925–0.977 (CV=2.2%). The models were subsequently fine-tuned on disease-stratified repertoires spanning SARS-CoV-2 (n=4,688), HIV (n=430), HER2 (n=22,778), and Ebola virus (n=2,868). Structural assessment of top-ranked candidates of those case studies via AlphaFold-2, Boltz-2, RoseTTAFold-2, and ESMFold produced mean pLDDT scores of 92.88±1.54 to 93.77±2.16, with no statistically significant inter-model differences (Kruskal–Wallis H=2.06, p>0.05; N=100), indicating no statistically detectable difference was observed across architectures at this compressed scale in a single-seed experiment, suggesting that generative capacity at this parameter regime is primarily determined by training data and model scale rather than family-specific design elements at this scale. Computational docking yielded predicted binding free energies of −36.34 to −65.60 kcal/mol; independent biological rigor validation through IMGT-defined CDR-H3 extraction, BLASTp novelty assessment, and NetMHCIIpan 4.3 MHC-II immunogenicity profiling collectively confirmed antigen-binding loop novelty (CDR-H3 identity 0–29% to closest database hits), germline-consistent humanness (77–90% VH germline content), and immunogenically silent antigen-binding surfaces with no strong MHC-II binders detected across CDR regions in any candidate. We further introduce a proof-of-concept agentic evaluation pipeline leveraging the Model Context Protocol (MCP) with Claude Sonnet 4.6, enabling automated structural profiling and candidate prioritization across disease targets.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/57f620be2b3b38e1471e7d94af210f3492759260",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.04.18.716776",
+      "reason_for_inclusion": "In scope: generative LLMs for de novo antibody design with agentic evaluation, a direct hit on drug discovery and protein engineering; bioRxiv preprint but on-scope subject matter."
+    }
+  ]
+}

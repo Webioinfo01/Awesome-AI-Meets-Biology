@@ -1,0 +1,196 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-06-28T00:00:00",
+      "title": "Client-server interfaces enable efficient agent-driven variant calling",
+      "team": "Ruibang Luo",
+      "authors": [
+        "Xian Yu",
+        "Zhenxian Zheng",
+        "Lei Chen",
+        "Zilan Qin",
+        "Xinyi Guo",
+        "M. He",
+        "Ruibang Luo"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Genomic variant calling",
+      "abstract": "Background Large language model (LLM) agents increasingly automate bioinformatics analyses, but most existing bioinformatics tools were built for standalone use by human experts. An agent driving such a tool must reason about its installation, configuration, and execution from documentation for human, spending many turns, tokens, and tool calls per result. How a method is exposed to an agent can therefore matter as much as the method itself. By designing agentic interfaces for these tools, agent can reduce such overhead and improve the reliability of agent-driven analyses. Findings To test this design, we re-architected Clair3, a widely used deep-learning-based long-read variant caller, into a client-server system, Clair3-Connect. The client performs all genomics related processing and holds the identifiable data. The server runs only neural-network inference, and the client sends only feature tensors to the server, while sample identifiers and genomic context remain on the client. The client exposes schema-defined agent-facing tools that an agent invokes through single structured calls. On an APOE diplotyping task, all 60 agent runs were correct. The agentic tools used 12K tokens in 3 turns, 6.8 to 14 times fewer tokens than the shell-driven baselines (81K-163K tokens), at about a quarter the wall-clock time and far more stably (4% versus 35% token usage variation). Dropping the pileup and phasing stages to keep the client light left SNP F1 within 0.1-0.3 points of standard Clair3 by 50× coverage, while mutual TLS and AES-256-GCM encryption added 7.2% to end-to-end runtime. Conclusions Recasting an established algorithm as developer-built, agentic tools behind a secure client-server boundary makes it more efficient, reliable, and easier to deploy for an LLM agent than a third-party wrapper, which cannot recover the defaults and conventions only its developers know. Agentic interfaces should be a first-class deliverable of bioinformatics tool development.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/c2b76fbc0fbe3c0bb9841235127ec12319f32018",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.06.25.734665",
+      "reason_for_inclusion": "In scope: agent-driven genomic variant calling infrastructure, combining AI agents with large-scale genomics analysis; bioRxiv preprint but directly relevant to AI agents for genomic discovery."
+    },
+    {
+      "year": "2026-06-21T00:00:00",
+      "title": "BioBrain: A Multi-Agent Framework for Natural Language Driven Quantitative Microscopy Data Analysis",
+      "team": "N. Hatzakis",
+      "authors": [
+        "K. Tsolakidis",
+        "Artù Breuer",
+        "S. Bender",
+        "Stavroula Margaritaki",
+        "Marcus W. Dreisler",
+        "A. Oikonomou",
+        "N. Hatzakis"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Quantitative microscopy data analysis",
+      "abstract": "Advances in fluorescence microscopy have dramatically expanded the range of biological questions that can be addressed, enabling quantitative observations of molecular interactions and cellular dynamics with unprecedented spatial and temporal resolution. However, the growing complexity of imaging data has outpaced our ability to analyze them. Despite numerous computational methods exist, they often rely on specialized software environments, heterogeneous data formats, and technical expertise, limiting adoption and widening the gap between data acquisition and quantitative biological interpretation. Here we introduce BioBrain, a multi-agent framework that translates natural-language analytical goals into executable and reproducible microscopy analysis pipelines. Instead of generating analysis code, BioBrain assembles validated analytical methods and can expands its analytical capabilities by integrating existing laboratory scripts into a unified conversational framework. Every selected method and inferred parameter is transparently reported, ensuring traceable and reproducible analyses. On two-channel total internal reflection fluorescence and three-dimensional lattice light-sheet benchmarks, BioBrain exactly reproduces expert-derived results when parameters are specified and degrades predictably and traceably when they are not, while frontier language models generated large, model-dependent quantitative errors despite completing without warning. BioBrain offers a practical path for closing the widening gap between data acquisition and biological discovery, enabling experimental scientists to communicate with computational analysis in the language of biology rather than the language of software.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/3e3ba0820ac286451d7d8727e1f6645e097fb661",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.06.17.732700",
+      "reason_for_inclusion": "In scope: multi-agent LLM framework driving quantitative biological microscopy analysis — a direct instance of AI agents for scientific discovery; bioRxiv preprint but strongly on-topic."
+    }
+  ],
+  "Benchmarks": [
+    {
+      "year": "2026-06-25T00:00:00",
+      "title": "What Large Language Models Know About Plant Molecular Biology",
+      "team": "E. Ferrante",
+      "authors": [
+        "Manuel Fernandez Burda",
+        "Lucía V. Ferrero",
+        "Nicolás Gaggion",
+        "Camille Fonouni-Farde",
+        "M. Crespi",
+        "Federico Ariel",
+        "E. Ferrante"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Plant molecular biology",
+      "abstract": "Large language models (LLMs) are rapidly permeating scientific research, yet their capabilities in plant molecular biology remain largely uncharacterized. Here, we present MOBIPLANT, the first comprehensive benchmark for evaluating LLMs in this domain, developed by a consortium of 112 plant scientists across 19 countries. MOBIPLANT comprises 565 expert-curated multiple-choice questions and 1,075 synthetically generated questions, spanning core topics from gene regulation to plant-environment interactions. We benchmarked seven leading chat-based LLMs using both automated scoring and human evaluation of open-ended answers. Models performed well on multiple-choice tasks (exceeding 75% accuracy), although most of them exhibited a consistent bias towards option A. In contrast, expert reviews exposed persistent limitations, including factual misalignment, hallucinations, and low self-awareness. Critically, we found that model performance strongly correlated with the citation frequency of source literature, suggesting that LLM knowledge inherits the visibility distribution of the underlying scientific corpus. Consequently, models tend to be more reliable on consolidated topics and less reliable on under-cited or recently emerging ones. We also benchmarked agents equipped with web-search and additional tools in more complex tasks involving DNA sequence analysis. These agents were outperformed by domain specific models in sequence classification and regression tasks, indicating an opportunity for joint agentic systems that combine both the reasoning power of LLMs and the dedicated processing of DNA models. This understanding is key to guiding both the development of next-generation models and the informed use of current tools in the everyday work of plant researchers. MOBIPLANT is publicly available online in this link.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/b1d0477f46c0932e44668ae05cca5802cec024db",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1101/2025.08.31.672925",
+      "reason_for_inclusion": "In scope: systematic probing of LLM knowledge in plant molecular biology, evaluating foundation models for biology; bioRxiv preprint but a direct hit on foundation-model assessment in biology."
+    }
+  ],
+  "Reviews": [
+    {
+      "year": "2026-06-17T00:00:00",
+      "title": "AI-Driven Synthesis in Medicinal Chemistry: Integrating Large Language Models, Robotic Automation, and Sustainability Metrics to Accelerate Drug Discovery.",
+      "team": "Antonio Lavecchia",
+      "authors": [
+        "Amit Gangwal",
+        "Antonio Lavecchia"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Medicinal chemistry synthesis",
+      "abstract": "Artificial intelligence (AI) is transforming synthetic chemistry from task-specific predictors into integrated platforms that unify retrosynthesis, reaction optimization, and closed-loop robotic automation. This review highlights how AI-assisted planning and robotic execution shorten cycle times, reduce step counts, and improve route sustainability in medicinal chemistry. Recent advances, including large language models (LLMs), template-free retrosynthesis, and Bayesian optimization, are evaluated alongside key limitations in dataset quality, reproducibility, and deployment costs. To ensure translational relevance, reproducible benchmarks such as step count, time-to-in vitro, and green metrics (E-factor, process mass intensity) are emphasized. This review proposes a hierarchical framework structured across three interconnected levels: cognitive planning, physical execution, and translational evaluation. Within this structure, key elements include LLM-based synthesis planning, robotic and closed-loop execution, interpretable decision-making, sustainability-by-design, advanced reaction optimization, and multi-objective retrosynthesis. Together, these components provide a conceptual basis for integrating digital intelligence with physical experimentation. By embedding green chemistry principles and regulatory awareness, AI is increasingly positioned not only as a predictive tool but also as an assistive collaborator supporting decision-making in medicinal chemistry workflows. The convergence of AI, robotics, and sustainability metrics highlights an emerging transition; however, realizing a future where every experiment reliably feeds back into autonomous learning loops requires overcoming significant current barriers in data standardization and hardware interoperability.",
+      "venue": "Medicinal research reviews (Print)",
+      "paperUrl": "https://www.semanticscholar.org/paper/5db902956f06728deecf9f72c2278864658e9486",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1002/med.70074",
+      "reason_for_inclusion": "In scope: review of LLMs, robotic automation, and synthesis planning to accelerate drug discovery; Q1 journal (Medicinal Research Reviews)."
+    },
+    {
+      "year": "2026-06-30T00:00:00",
+      "title": "AI foundation models in plant biology.",
+      "team": "Haopeng Yu",
+      "authors": [
+        "Haopeng Yu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Plant biology foundation models",
+      "abstract": "Rapid technological progress has enabled plant biologists to accumulate unprecedented volumes of multi-scale, multi-modal data, yet this abundance of data has intensified the challenge of translating complexity into biological understanding. Foundation models (FMs), large-scale artificial intelligence (AI) systems pretrained on millions of sequences, structures, or images and adaptable to diverse tasks are breaking through this barrier. Across plant science, these FMs are already making an impact: genomic FMs decode regulatory grammar, protein FMs enable rational protein engineering, vision FMs score phenotypes at breeding-population scale, single-cell FMs annotate cell types across species, and FM-powered AI agents accelerate knowledge retrieval and automate research workflows. While experimental validation remains indispensable, foundation models empower plant scientists to accelerate scientific discovery.",
+      "venue": "New Phytologist",
+      "paperUrl": "https://www.semanticscholar.org/paper/420629ba33c8f07b4ae7808dd526ba7ed9f2234c",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1111/nph.71395",
+      "reason_for_inclusion": "In scope: review of AI foundation models applied across plant biology — core to foundation models for biology; New Phytologist is a premier plant science journal."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-06-24T00:00:00",
+      "title": "Foundation Model-Based Zero-Shot Tissue Segmentation of Pathological Images via the Mixture of Local-to-Global Experts",
+      "team": "Wei Shao",
+      "authors": [
+        "Yu-Feng Ye",
+        "Jin Yuan",
+        "Jiao Tang",
+        "Peng Wan",
+        "Liang Sun",
+        "Jianpeng Sheng",
+        "Daoqiang Zhang",
+        "Wei Shao"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Pathology image tissue segmentation",
+      "abstract": "Tissue segmentation in pathological images plays a crucial role for the diagnosis and prognosis of human cancers. However, due to the complexity of tumor micro-environment, it is difficult to annotate all tissue types especially for the categories with small tissue proportions, which limits the ability of the traditional tissue segmentation models to these tissue types with zero training samples. To address the above issues, we present a novel architecture, ZSPMLG, that relies on pathology vision-language foundation model (i.e., CONCH) to learn pixel-wise classifiers for both seen and unseen tissue types based on their text descriptions. Specifically, we firstly apply large language model (LLM) to generate the descriptions for both seen and unseen tissue categories, followed by feeding them to the CONCH text encoder to acquire their corresponding prototypes that are shared by both vision and semantic space. By considering that the textual descriptions of specific tissue categories can be observed from the pathological images at different scales of magnification, our ZSPMLG consists of Mixture of Local Experts (MoLE) and Mixture of Global Experts (MoGE) modules, where MoLE performs the specialized decoding that can map individual scale patch-level representation to dense pixel-level representation, while MoGE aims at fusing the multi-scale representations together. Finally, a convolutional layer is designed to map the pixel-level representation to the category prototype for tissue segmentation on both seen and unseen categories. We evaluate our method on three datasets and the experimental results demonstrate the superiority of our method on both seen and unseen tissue categories.",
+      "venue": "IEEE Transactions on Image Processing",
+      "paperUrl": "https://www.semanticscholar.org/paper/1dfb032e48c9e1346773eb524023db3b6dba1c3c",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1109/TIP.2026.3705155",
+      "reason_for_inclusion": "In scope: zero-shot pathology tissue segmentation using vision foundation models for biological image analysis; premier venue (IEEE Transactions on Image Processing)."
+    },
+    {
+      "year": "2026-06-18T00:00:00",
+      "title": "Adapting Generative Genome Foundation Model Evo for Functional Genomics Prediction via Progressive Fine-Tuning.",
+      "team": "Rong-Jie Wang",
+      "authors": [
+        "Bing-Jie Xie",
+        "Shaowei Gan",
+        "Jianhao Wu",
+        "Xinxin Han",
+        "Rong-Jie Wang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "DNA functional genomics prediction",
+      "abstract": "Modeling genomic sequence data is crucial for identifying functional genomic elements, predicting mutation effects, and driving advancements in precision medicine and bioengineering. However, the inherent complexity of genomic information poses significant challenges for functional analysis and structural prediction of genomic sequences. Recent developments in large language models (LLMs) have introduced powerful new paradigms for modeling biological sequences. The genomic foundation model Evo, trained on vast multi-species DNA sequence data, has demonstrated remarkable capabilities in generative tasks across molecular to genomic scales. However, Evo cannot be directly applied to specific supervised functional genomics prediction tasks, such as core promoter detection. To address this limitation, we propose Evo-TSFT, a novel progressive two-stage fine-tuning strategy that adapts Evo for DNA functional genomics classification tasks. Evo-TSFT integrates LoRA-based fine-tuning and selective layer unfreezing with the pre-trained Evo model, achieving strong overall performance across 7 DNA functional genomics classification tasks spanning 24 datasets. Experimental results show that Evo-TSFT is an effective and competitive strategy for adapting Evo to downstream DNA functional genomics prediction tasks.",
+      "venue": "IEEE transactions on computational biology and bioinformatics",
+      "paperUrl": "https://www.semanticscholar.org/paper/f325597cfdee0a45ba2967e82f06762308a0a52a",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1109/TCBBIO.2026.3705107",
+      "reason_for_inclusion": "In scope: adapting the Evo genome foundation model for functional genomics prediction — a direct hit on foundation models for biology; IEEE TCBB is a relevant peer-reviewed venue."
+    },
+    {
+      "year": "2026-06-22T00:00:00",
+      "title": "DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology",
+      "team": "G. Raetsch",
+      "authors": [
+        "K. Nonchev",
+        "S. Dawo",
+        "K. Silina",
+        "V. H. Koelzer",
+        "G. Raetsch"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Spatial transcriptomics prediction from histology",
+      "abstract": "Spatial transcriptomics remains costly and low-throughput, limiting it to a small fraction of routine histology and leaving the molecular state of disease unmeasured in most patients. Predicting spatial expression from histology could address this gap, but existing methods are restricted to predefined genes and small cohorts. We present DeepSpot-M, a multimodal foundation model that predicts spatial expression by representing genes with embeddings from foundation models spanning DNA, RNA, proteins, single cells and biomedical text. By reformulating prediction as a query over genes, DeepSpot-M spans the protein-coding transcriptome and predicts genes unseen during training. Trained on a large pan-cancer dataset, it transfers to held-out cancers, outperforming specialised models trained on them, and adapts to new cohorts and single-cell assays from one slide via test-time adaptation. Applied to TCGA, it generates a virtual atlas of 28,664 slides across 32 cancers, recovering a pan-cancer map of malignancy from histology. The same query interface further enables transcriptome restoration, cross-species non-coding RNA inference, in silico variant-effect mapping and natural-language querying. We anticipate DeepSpot-M will provide a scalable foundation for virtual spatial transcriptomics and biomarker discovery.",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/341927299737f89abe9bec619b9f6d3008f807b2",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.64898/2026.06.19.26356060",
+      "reason_for_inclusion": "In scope: multimodal foundation model predicting transcriptome-wide spatial transcriptomics from histology, bridging foundation models for biology and single-cell/spatial omics; medRxiv preprint but a direct topical hit."
+    }
+  ]
+}

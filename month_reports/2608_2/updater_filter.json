@@ -1,0 +1,169 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-08-21T00:00:00",
+      "title": "AI-augmented discovery of autophagy regulators through mechanistic interpretation of multiomics data.",
+      "team": "Di Peng",
+      "authors": [
+        "Dachao Tang",
+        "Weiduo Xia",
+        "Chi Zhang",
+        "Yu Xue",
+        "Di Peng"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Cell biology / autophagy (multiomics regulator discovery via hybrid AI+LLM workflow)",
+      "abstract": "Yu Xue: xueyu@hust.edu.cn Large-scale multiomics profiling has delineated dynamic molecular landscapes during autophagy, yet translating these complex datasets into mechanistic regulatory insights remains a major challenge. In our recent work, we developed LyMOI, a hybrid artificial intelligence workflow that combines graph-based deep learning and a large language model (LLM) for mechanistic interpretation of autophagy-related omics. The graph model integrates 1.3 TB of autophagy-associated multiomics datasets and prioritizes molecules of interest (MOIs) across 34 autophagy-specific conditions, and then LLM-based chain-of-thought (CoT) reasoning generates mechanistic hypotheses to interpret their potential roles in biological contexts. Using LyMOI, we identified essential regulators, including GIN4, ELM1, RVS167 and STE50, involved in yeast autophagy induced by nutrient deprivation. Furthermore, LyMOI revealed that two cancer-associated proteins, CTSL and FAM98A, are required for maintaining autophagy activity upon disulfiram (DSF) treatment. Silencing either CTSL or FAM98A attenuated DSF-induced autophagy and inhibited cancer cell proliferation. Notably, combination treatment with DSF and Z-FY-CHO, a CTSL-specific inhibitor previously developed against SARS-CoV-2 infection, potently suppressed tumor growth. Collectively, our work presents an LLM-powered platform with biologist-like reasoning for uncovering autophagy regulatory mechanisms.",
+      "venue": "Autophagy",
+      "paperUrl": "https://www.semanticscholar.org/paper/6ae44d86d69add66909b637127ef996f98081437",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1080/15548627.2026.2719421",
+      "reason_for_inclusion": "In scope: hybrid AI/LLM workflow for mechanistic discovery of autophagy regulators from multiomics data is a direct hit on AI for biological discovery; published in Autophagy, a leading Q1 cell-biology journal."
+    },
+    {
+      "year": "2026-08-27T00:00:00",
+      "title": "MetaboAnnotate: An AI-powered Multiagent Framework for Integrating Annotation Tools for Untargeted Metabolomics.",
+      "team": "Soha Hassoun",
+      "authors": [
+        "Yan-Zhou Chen",
+        "Brandon Mukadziwashe",
+        "Frederick Zhang",
+        "Soha Hassoun"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Untargeted metabolomics (multi-agent metabolite annotation framework)",
+      "abstract": "Metabolite annotation remains a major bottleneck in untargeted metabolomics, limiting biological interpretation of large-scale mass spectrometry data sets. Although substantial advances have been made through spectral libraries, machine learning-based annotation models, and community benchmarking efforts, many recently developed tools remain difficult to incorporate into routine workflows because they are distributed as research-oriented software with complex dependencies and nonstandard interfaces. Here, we present MetaboAnnotate, a web-based framework that uses a large language model (LLM) in a multiagent system to orchestrate multiple metabolite annotation tools through a unified natural-language interface. The system enables users to submit MS/MS spectra and execute multitool annotation workflows without local installation or programming expertise. The current implementation integrates complementary methods, including SIRIUS, FLARE, JESTR, and DiffMS. Evaluation on the CASMI 2016 and CASMI 2022 benchmarks shows that agreement among independent annotation tools substantially reduces false discovery rates and improves annotation accuracy. Application to a fecal metabolomics data set further demonstrates the utility of multitool consensus for identifying high-confidence putative metabolites. MetaboAnnotate is available at: https://hassounlab.cs.tufts.edu/MetaboAnnotate/.",
+      "venue": "Analytical Chemistry",
+      "paperUrl": "https://www.semanticscholar.org/paper/294e38d2ceb4bbf95392f3bdbb6c04eb51f6750c",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1021/acs.analchem.6c01717",
+      "reason_for_inclusion": "In scope: a multi-agent AI framework for metabolite annotation in untargeted metabolomics directly serves AI agents for scientific discovery in omics; Q1 ACS journal (Analytical Chemistry)."
+    },
+    {
+      "year": "2026-08-20T00:00:00",
+      "title": "An AI System for Autonomous Algorithm Evolution in Drug Development",
+      "team": "Feng Zhu",
+      "authors": [
+        "Zhimeng Zhou",
+        "Yang Nan",
+        "M. Mou",
+        "Yun-Tao Qian",
+        "Yixiu Liu",
+        "Zheng-Yun Zuo",
+        "Hao Yang",
+        "Weixiang Xu",
+        "Bo Li",
+        "Wanghao Jiang",
+        "Yan-Lin Ren",
+        "Yang Liao",
+        "Yimeng Wang",
+        "Ying-Hong Li",
+        "Qingxia Yang",
+        "Zhiheng Xi",
+        "Tian-Tian Mi",
+        "Huaicheng Sun",
+        "Pengfei Liu",
+        "Feng Zhu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Drug development (autonomous multi-role LLM algorithm evolution system)",
+      "abstract": "Artificial intelligence (AI) is increasingly permeating the drug development pipeline. Numerous algorithms for accelerating this multi-stage and multi-task process have been constructed, which depends heavily on expert design and labor-intensive task-specific optimization. Given that AI-driven acceleration of drug development is recognized as a cumulative, often synergistic, effect across multiple stages, the autonomous evolution of existing algorithms across the entire pipeline is demanded to achieve a holistic advancement. Here, we present DrugEvolve, a multi-role large language model system for systematic and autonomous algorithm evolution in drug development. DrugEvolve realizes a closed-loop evolution process by incorporating Researcher, Engineer, and Analyst domains, and enables an iterative design, implementation, evaluation, and refinement of algorithm by leveraging scientific knowledge and accumulated evolutionary experience. Across eleven representative tasks spanning target identification, drug discovery, preclinical study, and clinical trial, DrugEvolve autonomously evolved the corresponding task-specific algorithms and achieved substantial performance enhancement on 120 benchmark test sets. Moreover, it showed robust generalizabilities across heterogeneous data modalities (ranging from biological sequence and graph to molecular topology and textual language), and realized gains in both predictive and generative tasks. Collectively, this AI system can serve not only as an algorithmic infrastructure for drug development, but also as a transferable paradigm for broader scientific domains.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/2e04edc06f5429398dcb160de30451a780a1fe42",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.08.16.745117",
+      "reason_for_inclusion": "In scope: autonomous multi-role LLM system for algorithm evolution in drug development is a direct hit on both AI agents for scientific discovery and drug discovery; bioRxiv preprint but a strong topical match."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-08-31T00:00:00",
+      "title": "Surprisal-based large language models reveal immunologic insights in lobular breast cancer",
+      "team": "Sasha E. Stanton",
+      "authors": [
+        "Bodhisattwa Prasad Majumder",
+        "Jessica Linak",
+        "Reece Adamson",
+        "Ruben Lozano Aguilera",
+        "Dhruv Agarwal",
+        "Zachary Reitz",
+        "Sophia Loiselle",
+        "S. Devarakonda",
+        "Peter Clark",
+        "Kelly G Paulson",
+        "Sasha E. Stanton"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Cancer immunology (lobular breast cancer, LLM-based omics analysis)",
+      "abstract": "",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/8e0719ba40dc40f0039247d6ab85842507086155",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.08.25.26361365",
+      "reason_for_inclusion": "In scope: applies LLM surprisal analysis to multiomic tumor data to derive immunologic insights in lobular breast cancer, i.e., foundation models applied to cancer-biology discovery; medRxiv preprint."
+    },
+    {
+      "year": "2026-08-24T00:00:00",
+      "title": "CodonMamba: a foundation model for programmable mRNA coding sequence design",
+      "team": "Xiao-Lin Li",
+      "authors": [
+        "Mei Lang",
+        "Xing-Yu Fang",
+        "Zhen Wang",
+        "Ming-Xuan Chen",
+        "Zhao-Hua Cheng",
+        "Xia-Gu Zhu",
+        "Kin-Yip Tam",
+        "Jun-Wei Zhang",
+        "Xiao-Lin Li"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "mRNA coding sequence design (codon language model)",
+      "abstract": "Although mRNA codon language models provide a generalizable framework for biological sequence design, effective CDS design requires both a learned sequence design space that captures biological constraints and context-configurable design preferences. Here we present CodonMamba, a codon language model framework for mRNA prediction and programmable CDS design. Pretrained on large-scale coding-sequence corpora, CodonMamba achieved state-of-the-art performance across a comprehensive benchmark of 12 mRNA prediction tasks, ranking first on 10 of 12 tasks. Furthermore, CodonMamba establishes a programmable CDS design framework, transforming codon optimization from a process dependent on preferences embedded during model training into an inference-time steerable generation framework. By introducing user-specified codon usage priors during generation, CodonMamba enables inference-time steering toward host- or application-specific codon preferences without retraining. In design experiments, CodonMamba enabled coordinated optimization over multiple design-relevant sequence properties and demonstrated programmable cross-host CDS retargeting through inference-time prior switching, while preserving most model-derived codon choices.Together, these results establish CodonMamba as a programmable foundation model framework for CDS design, enabling context-specific mRNA sequence engineering and highlighting a promising direction for precise mRNA design using foundation models.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/d12c1ce2315d973967052c4cc1494bf4dedfdcac",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.08.24.746601",
+      "reason_for_inclusion": "In scope: a codon-level language foundation model for programmable mRNA sequence design directly matches foundation models for biology with clear drug/therapeutic design relevance; bioRxiv preprint but a direct hit."
+    }
+  ],
+  "Reviews": [
+    {
+      "year": "2026-08-24T00:00:00",
+      "title": "Large language models in bioinformatics: a comprehensive survey",
+      "team": "Jian-Zhen Xu",
+      "authors": [
+        "Zhi-Gang Meng",
+        "Zhi-Kai Yang",
+        "Mingming Zhu",
+        "Jian-Zhen Xu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Bioinformatics (LLMs for genomics, proteomics, drug discovery)",
+      "abstract": "The emergence of foundation models with trillion-level parameters has redefined the landscape of artificial intelligence. Various fields are developing their own large-scale models, which can solve many problems within the field and improve work efficiency. Biological large-scale models are a cross-disciplinary research field that combines mathematics, computer science, and biology, aiming to simulate and understand the structure, function, and dynamic changes of biological systems through the establishment of complex computational models. This field covers multiple levels such as biological pathways, population dynamics, protein folding, etc., providing us with tools for deep exploration of the mysteries of life and applications in medicine, ecology, and other fields. This article reviews the background and research status of biological large-scale models, and discusses future directions. Large language models (LLMs) and other large-scale foundation models have rapidly advanced in recent years, enabling powerful representation learning and generation across text, sequences, and multimodal data. In bioinformatics and biomedicine, these models are increasingly used to analyze genomic sequences, infer protein properties and structures, support drug discovery, and integrate heterogeneous biomedical evidence. This survey reviews the basic principles of LLMs and summarizes representative applications in (i) gene and genome sequence analysis, (ii) protein structure and function prediction, and (iii) drug design, including virtual screening and personalized medicine. We also discuss emerging multi-model modeling approaches, as well as key challenges such as data quality and privacy, interpretability, generalization to new organisms and tasks, and responsible deployment in health-related settings. Finally, we outline future directions for developing reliable, scalable, and explainable bioinformatics foundation models.",
+      "venue": "Frontiers in Genetics",
+      "paperUrl": "https://www.semanticscholar.org/paper/d0cbde3e889ea6b13a602e30282bdcfbe4d268a0",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.3389/fgene.2026.1797863",
+      "reason_for_inclusion": "In scope: comprehensive survey of LLMs across genomics, proteomics, and drug discovery directly matches several collection interests; specialist bioinformatics journal with broad topical coverage."
+    }
+  ]
+}

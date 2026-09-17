@@ -1,0 +1,276 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-03-12T00:00:00",
+      "title": "ELISA (Embedding-Linked Interactive Single-cell Agent): an interpretable hybrid generative Artificial Intelligence agent for expression-grounded discovery in single-cell genomics",
+      "team": "Omar Coser",
+      "authors": [
+        "Omar Coser"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "single-cell genomics discovery",
+      "abstract": "Abstract Translating single-cell RNA sequencing (scRNA-seq) data into mechanistic biological hypotheses remains a critical bottleneck, as agentic AI systems lack direct access to transcriptomic representations while expression foundation models remain opaque to natural language. Here, we introduce ELISA (Embedding-Linked Interactive Single-cell Agent), an interpretable framework that unifies single-cell generative pretrained transformer expression embeddings with biomedical bidirectional encoder representations from transformers-based semantic retrieval and large-language model (LLM)-mediated interpretation for interactive single-cell discovery. An automatic query classifier routes inputs to gene marker scoring, semantic matching, or reciprocal rank fusion pipelines depending on whether the query is a gene signature, natural language concept, or mixture of both. Integrated analytical modules perform pathway activity scoring across 60+ gene sets, ligand–receptor interaction prediction using 280+ curated pairs, condition-aware comparative analysis, and cell-type proportion estimation, all operating directly on embedded data without access to the original count matrix. Benchmarked across six diverse scRNA-seq datasets spanning inflammatory lung disease, pediatric and adult cancers, organoid models, healthy tissue, and neurodevelopment, ELISA significantly outperforms CellWhisperer, a classical lexical retriever (BM25), and a random baseline in cell type retrieval (combined permutation test, \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{upgreek} \\usepackage{mathrsfs} \\setlength{\\oddsidemargin}{-69pt} \\begin{document} $p < 2\\times 10^{-5}$\\end{document} for each), with particularly large gains on gene-signature queries (Cohen’s d = 5.98 for mean reciprocal rank). ELISA replicates published biological findings (mean composite score 0.88), and generates candidate hypotheses through grounded LLM reasoning, bridging the gap between transcriptomic data exploration and biological discovery.",
+      "venue": "Briefings in Bioinformatics",
+      "paperUrl": "https://www.semanticscholar.org/paper/5150d672e73f2ebbbac970dc86ccf404f1a77cf9",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1093/bib/bbag501",
+      "reason_for_inclusion": "In scope: hybrid generative AI agent for expression-grounded discovery in single-cell genomics, hitting both single-cell analysis and AI agents for scientific discovery; Q1 venue (Briefings in Bioinformatics)."
+    },
+    {
+      "year": "2026-03-11T00:00:00",
+      "title": "Automated extraction and optimization of protein purification protocols using multi-agent large language models",
+      "team": "Isabelle Q. Phan",
+      "authors": [
+        "Jeffery Ye",
+        "Amy E. DeRocher",
+        "Monique Khim",
+        "Sandhya Subramanian",
+        "Lisabeth Cron",
+        "P. Myler",
+        "Isabelle Q. Phan"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "protein purification protocol optimization",
+      "abstract": "Recent advances in Large Language Models (LLMs) present new opportunities for automating critical bottlenecks in scientific workflows such as literature reviews or protocol design. One such bottleneck is the purification of recombinant proteins, a vital aspect of biomedical research that frequently fails. To improve success rates, researchers must manually define optimal large-scale purification conditions and establish robust rescue protocols for proteins with low stability or solubility – a time-intensive process. To address this gap, we introduce a multi-agent LLM system that automates the creation and optimization of protein purification protocols to facilitate the production of high-concentration, high-purity protein samples. Our application streamlines the labor-intensive manual process of sequence similarity searches, literature reviews, and protocol comparison. Operating in a tool-like constrained workflow, the system identifies analogous proteins, leverages specialized LLM agents to extract successful purification methodologies from primary source literature, and cross-references them against failed protocols to generate optimization recommendations. Evaluation on a select number of targets demonstrated high accuracy in protocol extraction and the generation of scientifically sound, expert-validated optimization recommendations. While this system reduces complex analysis time from hours to minutes, we identify the lack of programmatic open access to literature, specifically primary citations in the Protein Data Bank, as a fundamental limitation to LLM agent-based scientific workflows. Ultimately, this system demonstrates the feasibility of using LLM agents to streamline wet-lab workflows while preserving methodological transparency and reproducibility.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/56b7ba76249e5be96d203b7d6c54620097b1c37c",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.03.709341",
+      "reason_for_inclusion": "In scope: multi-agent LLM system automating protein purification protocol optimization, a direct instance of AI agents for scientific discovery in biology; bioRxiv preprint but a clear scope hit."
+    },
+    {
+      "year": "2026-03-03T00:00:00",
+      "title": "Monte Carlo Committee Simulation with Large Language Models for Predicting Drug Reimbursement Recommendations and Conditions: A Novel Neurosymbolic AI Approach",
+      "team": "T. Richter",
+      "authors": [
+        "G. Janoudi",
+        "M. Rada",
+        "E. Yasinov",
+        "T. Richter"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "drug reimbursement / HTA prediction",
+      "abstract": "Background: Health technology assessment (HTA) agencies issue reimbursement recommendations that determine patient access to new therapies. Predicting these outcomes would enable sponsors to optimize market access strategies and health systems to anticipate budget impacts. However, traditional machine learning approaches require extensive manual feature extraction and predict only categorical outcomes, not the specific conditions attached to recommendations. Methods: We developed Monte Carlo Committee Simulation, a neurosymbolic system that simulates multi-panelist deliberation using 14 persona-conditioned large language model panelists with weighted voting and uncertainty quantification. We conducted a temporal external validation study on CDA-AMC (Canada's Drug Agency) sponsor-submitted recommendations published between October 2024 and December 2025 (n=67), after the knowledge cutoff of the underlying models, ensuring predictions reflected reasoning rather than memorization. The system predicted both recommendation category (Reimburse with Conditions, Do Not Reimburse) and five condition categories (Population Restrictions, Prescriber/Setting Requirements, Continuation Conditions, Economic Conditions, Evidence Conditions). Results: On submissions where the system expressed confidence (n=44), recommendation prediction achieved 93.2% accuracy (95% CI: 84.1 to 100.0%), exceeding the 91.8% (95% CI: 83.7 to 98.0%) majority class baseline. The system demonstrated superior discrimination versus chance level (AUROC 0.817, 95% CI: 0.45 to 0.99, vs 0.500) and calibrated confidence estimates (ECE = 0.091). Pre-specified Strength of Mandate stratified accuracy from 96.8% (High, 95% CI: 90.3 to 100.0%) to 40.0% (Weak, 95% CI: 0.0 to 80.0%), with 83.3% of errors occurring in cases flagged as uncertain (p=0.0025). Analysis of the 5 abstained cases confirmed 40.0% accuracy, validating the system's identification of uncertain predictions. For condition prediction, the system achieved 48.8% subset accuracy, requiring correct simultaneous prediction of all 5 condition categories (25 = 32 possible combinations), and 86.3% Hamming accuracy versus 25.8% for a no-conditions baseline. Per-category accuracy ranged from 68.3% (Continuation Conditions) to 97.6% (Economic Conditions), with Continuation Conditions demonstrating the strongest discriminative ability (AUROC 0.896, 95% CI: 0.79 to 0.98). Conclusions: Monte Carlo Committee Simulation enables a shift from reactive to proactive market access: anticipating specific reimbursement conditions before committee review, with calibrated confidence that identifies which predictions to trust. Validated on temporally separated data the models could not have memorized, the system can be positioned as a forecasting aid that complements rather than replaces human deliberation.",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/c46049f1e8f552860e106591cf20b453bca82d53",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.02.26347434",
+      "reason_for_inclusion": "In scope: genomic language model combined with large-scale mutational scanning (a perturbation-style study) for NMD prediction; bioRxiv preprint but directly on foundation models for biology and perturbation studies."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-03-10T00:00:00",
+      "title": "GREmLN: A Cellular Graph Structure Aware Transcriptomics Foundation Model",
+      "team": "Andrea Califano",
+      "authors": [
+        "Mingxuan Zhang",
+        "Vinay Swamy",
+        "Rowan Cassius",
+        "Léo Dupire",
+        "Charilaos I. Kanatsoulis",
+        "Evan Paull",
+        "Mohammed AlQuraishi",
+        "Theofanis Karaletsos",
+        "Andrea Califano"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "single-cell transcriptomics foundation model",
+      "abstract": "The ever-increasing availability of large-scale single-cell profiles presents an opportunity to develop foundation models to capture cell properties and behavior. However, standard language models such as transformers benefits from sequentially structured data with well defined absolute or relative positional relationships, while single cell RNA data have orderless gene features. Molecular-interaction graphs, such as gene regulatory networks (GRN) or protein-protein interaction (PPI) networks, offer graph structure-based models that effectively encode both non-local gene token dependencies, as well as potential causal relationships. We introduce GREmLN (Gene Regulatory Embedding-based Large Neural model), a foundation model that leverages graph signal processing to embed gene token graph structure directly within its attention mechanism, producing biologically informed single cell specific gene embeddings. Our model faithfully captures transcriptomics landscapes and achieves superior performance relative to state-of-the-art baselines on cell type annotation, graph structure understanding, and fine-tuned reverse perturbation prediction tasks. It offers a unified and interpretable framework for learning high-capacity foundational representations that capture complex, long-range regulatory dependencies from high-dimensional single-cell transcriptomic data. Moreover, the incorporation of graph-structured inductive biases enables more parameter-efficient architectures and accelerates training convergence.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/ccb45803b1d2011cfee1a62b8dfcf9bc8b5a5379",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 5,
+      "doi": "10.1101/2025.07.03.663009",
+      "reason_for_inclusion": "In scope: graph-structure-aware transcriptomics foundation model for single-cell analysis; bioRxiv preprint but squarely on foundation models for biology."
+    },
+    {
+      "year": "2026-03-04T00:00:00",
+      "title": "LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design",
+      "team": "Cristian Taccioli",
+      "authors": [
+        "Wageesha Widuranga",
+        "Fabio Bove",
+        "D. Righelli",
+        "Salvatore Romano",
+        "R. Visone",
+        "Marilena V. Iorio",
+        "Pietro Lio'",
+        "Cristian Taccioli"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "de novo drug design",
+      "abstract": "The discovery of novel small molecules is challenging because of the vastness of chemical space and the complexity of protein-ligand interactions, leading to low success rates and time-consuming workflows. Here, we present LLMsFold, a computational framework that combines Large Language Models (LLMs) and biophysical foundation tools to design and validate new small molecules targeting pathogenic proteins. The pipeline starts by identifying viable binding pockets on a target protein through geometry-based pocket detection. A 70-billion-parameter transformer model from the LlaMA family then generates candidate molecules as SMILES strings under prompt constraints that enforce drug-likeness. Each molecule is evaluated by Boltz-2, a diffusion-based model for protein-ligand co-folding that predicts bound 3D structure and binding affinity. Promising candidates are iteratively optimized through a reinforcement learning loop that prioritizes high predicted affinity and synthetic accessibility. We demonstrate the approach on two challenging targets: ACVR1 (Activin A Receptor Type 1), implicated in fibrodysplasia ossificans progressiva (FOP), and CD19, a surface antigen expressed on most B-cell lymphoma and leukemia cells. Top candidates show strong in silico binding predictions and favorable drug-like profiles. All code and models are made available to support reproducibility and further development.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/3d78f173e2c07b03e229a1e5d65e2d19b8c55e71",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.02.709055",
+      "reason_for_inclusion": "In scope: LLMs integrated with biophysical simulations for de novo drug design, a direct hit on the drug discovery interest; bioRxiv preprint."
+    },
+    {
+      "year": "2026-03-17T00:00:00",
+      "title": "RNAElectra: An ELECTRA-Style RNA Foundation Model for RNA Regulatory Inference",
+      "team": "Jiayu Wen",
+      "authors": [
+        "Ke Ding",
+        "Lixinyu Liu",
+        "Brian J. Parker",
+        "Jiayu Wen"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "RNA regulatory genomics",
+      "abstract": "Background RNA regulation programs gene expression through sequence-encoded mechanisms—including RNA structure formation, protein binding, chemical modification, and RNA–RNA targeting—whose rules span nucleotide-scale motifs and longer-range context. RNA foundation models aim to learn transferable representations from large RNA corpora, but most rely on masked language modeling (MLM), where the model loss is computed on a small subset of positions and training relies on artificially corrupted inputs that are absent at downstream inference, introducing a pretraining–downstream discrepancy. Results We introduce RNAElectra, a single-nucleotide–resolution RNA foundation model pretrained on diverse non-coding RNAs from RNAcentral using ELECTRA-style replaced-token detection (RTD). RTD trains a discriminator with a loss defined over all input positions on realistically corrupted sequences, providing dense supervision that better aligns pretraining with sequence-to-function fine-tuning. RNAElectra combines nucleotide-resolution tokenization with an efficient attention design to capture local regulatory motifs and longer-range dependencies within a single reusable backbone. Using a unified, sequence-only fine-tuning pipeline without task-specific architectures or auxiliary inputs, RNAElectra demonstrates strong cross-task generalization across benchmarks and downstream evaluations spanning RNA structure and function, RNA–protein and RNA–RNA interactions, RNA modification landscapes, and quantitative regulatory readouts such as translation efficiency and mRNA stability, outperforming widely used RNA foundation model baselines on the majority of evaluated tasks. In addition to predictive performance, RNAElectra supports interpretability by enabling analysis of learned representations and sequence determinants underlying model predictions. Conclusion RNAElectra establishes RTD pretraining as a practical alternative to MLM for RNA foundation modeling, coupling dense position-wise supervision with an efficient architecture to deliver broadly transferable RNA representations. This framework provides a reusable backbone for RNA regulatory prediction and supports sequence-level RNA engineering and design.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/01eb78cee4251558a58e460645b9e1e87e705efb",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.15.711950",
+      "reason_for_inclusion": "In scope: RNA foundation model for regulatory genomics inference, core to foundation models for biology; bioRxiv preprint."
+    },
+    {
+      "year": "2026-03-16T00:00:00",
+      "title": "Illuminating cell states by a comprehensive and interpretable single cell foundation model",
+      "team": "Stan Z. Li",
+      "authors": [
+        "Jue Wang",
+        "Cheng Tan",
+        "Zhangyang Gao",
+        "Sida Shao",
+        "Shiping Liu",
+        "Stan Z. Li"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "single-cell cell state modeling",
+      "abstract": "Advances in single-cell sequencing have enabled AI-driven foundation models with powerful data representation. However, their practical use is limited by real-world data sparsity, heterogeneity, and poor interpretability. To overcome these, we introduce CellVQ. To enhance generalizability, we incorporate a large-scale single-cell dataset comprising 68 million cells, model parameters totaling 500 million, and challenging pretraining tasks. Notably, we introduce a Single-Cell Discretization (SCD) module that effectively represents cell embeddings, addressing data heterogeneity. For improved interpretability, the SCD module transforms high-dimensional and sparse single-cell data into a “cell code,” facilitating recognition and analysis. Additionally, we also present CellVQ-Graph, a plug-and-play tool that integrates CellVQ’s features with multimodal data (genes, cell communication, annotations) to build a knowledge graph for biological discovery. Extensively evaluated, CellVQ outperforms strong baselines in all downstream tasks, and also uncovered intriguing biological phenomena with compelling explanations. CellVQ aspires to serve as a truly applicable and generalizable AI tool for the cell biology community.",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/ddc51b538938b204cd34da67f71c3731afc9dca8",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1038/s41467-026-70071-5",
+      "reason_for_inclusion": "In scope: interpretable single-cell foundation model for cell-state modeling, aligning with single-cell analysis and foundation models for biology; premier venue (Nature Communications)."
+    },
+    {
+      "year": "2026-03-11T00:00:00",
+      "title": "CDS-BART: A BART-Based Foundation Model for mRNA Sequence Analysis",
+      "team": "Hyunjin Shin",
+      "authors": [
+        "Erkhembayar Jadamba",
+        "Sang-Heon Lee",
+        "Jinhee Hong",
+        "Hyekyoung Lee",
+        "Sunghwan Lee",
+        "Hyunjin Shin"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "mRNA sequence analysis",
+      "abstract": "",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/8fa3a506ba2a8f57bfea0bf5f2c3764983515416",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.09.710670",
+      "reason_for_inclusion": "In scope: BART-based foundation model for mRNA sequence analysis, relevant to both foundation models for biology and mRNA therapeutic design; bioRxiv preprint."
+    },
+    {
+      "year": "2026-03-10T00:00:00",
+      "title": "A paired sequence language model for protein-protein interaction modeling",
+      "team": "Yang Zhang",
+      "authors": [
+        "Jun Liu",
+        "Hung-Yu Chen",
+        "Yang Zhang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "protein-protein interaction modeling",
+      "abstract": "Understanding protein–protein interactions (PPIs) is crucial for deciphering cellular processes and guiding therapeutic discovery. While recent protein language models have advanced sequence-based protein representation, most are designed for individual chains and fail to capture inherent PPI patterns. Here, we introduce a Protein Pair Language Model (PPLM) that jointly encodes paired sequences, enabling direct learning of interaction-aware representations beyond what single-chain models can provide. Building on this foundation, we develop PPLM-PPI, PPLM-Affinity, and PPLM-Contact for binary interaction, binding affinity, and interface contact prediction. Large-scale experiments show that PPLM-PPI achieves state-of-the-art performance across different species on binary interaction prediction, while PPLM-Affinity outperforms both ESM2 and structure-based methods on binding affinity modeling, particularly on challenging cases including antibody–antigen and TCR–pMHC complexes. PPLM-Contact further surpasses existing contact predictors on inter-protein contact prediction and interface residue recognition, including those deduced from cutting-edge complex structure predictions. Together, these results highlight the potential of co-represented language models to advance computational modeling of PPIs.",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/def29041b210412ce9d686dd3c29ab4973998429",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 8,
+      "doi": "10.1038/s41467-026-70457-5",
+      "reason_for_inclusion": "In scope: protein sequence language model for protein-protein interaction modeling, a foundation model directly advancing protein biology; premier venue (Nature Communications)."
+    }
+  ],
+  "Reviews": [
+    {
+      "year": "2026-03-01T00:00:00",
+      "title": "Large language model agents for biological intelligence across genomics, proteomics, spatial biology, and biomedicine",
+      "team": "Li-Qing Zhang",
+      "authors": [
+        "Sajib Acharjee Dip",
+        "D. Mallick",
+        "Uddip Acharjee Shuvo",
+        "Shovito Barua Soumma",
+        "Fazle Rafsani",
+        "Bikash Kumar Paul",
+        "Nazifa Ahmed Moumi",
+        "Shafayat Ahmed",
+        "Li-Qing Zhang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "LLM agents in biology and bioinformatics",
+      "abstract": "Abstract Large language models (LLMs) are evolving from passive predictors into agentic systems capable of planning, tool-use, and multimodal reasoning. This shift is especially consequential for biology, where complex, noisy, and multi-scale data require adaptive and integrative computational strategies. In this review, we provide the first systematic synthesis of LLM-based agents across genomics, molecular biology, imaging, biomedical analysis, and automated bioinformatics workflows. We analyze >60 emerging systems and organize them within a unifying framework that characterizes agentic traits, such as autonomous decision-making, external tool invocation, memory, and self-correction. Across domains, agentic LLMs show early promise in enabling multi-step analysis, linking heterogeneous evidence, and supporting exploratory scientific tasks. At the same time, our comparative assessment highlights consistent challenges, including unstable reasoning, limited biological grounding, retrieval misalignment, and barriers to reproducibility and biosafety. We conclude by outlining opportunities for trustworthy and collaborative biological agents, including multimodal integration, closed-loop experimental design, and robust evaluation practices. This survey aims to clarify the emerging landscape and chart a path toward reliable agentic systems for biological discovery.",
+      "venue": "Briefings in Bioinformatics",
+      "paperUrl": "https://www.semanticscholar.org/paper/a1d299a100d3590802954c2f6c183323f81a30a5",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 8,
+      "doi": "10.1093/bib/bbag110",
+      "reason_for_inclusion": "In scope: review of LLM agents across genomics, proteomics, and spatial biology, directly mapping the AI agents for scientific discovery interest; Q1 venue (Briefings in Bioinformatics)."
+    }
+  ],
+  "Databases/Simulation": [
+    {
+      "year": "2026-03-03T00:00:00",
+      "title": "h5adify: neuro-symbolic metadata harmonization enables scalable AnnData integration with local large language models",
+      "team": "A. Alentorn",
+      "authors": [
+        "L. Rincón de la Rosa",
+        "Abdelmalek Mouazer",
+        "Masoud Navidi",
+        "Edgar Degroodt",
+        "Tamara Künzle",
+        "Sylvain Geny",
+        "A. Idbaih",
+        "Maïté Verrault",
+        "Karim Labreche",
+        "I. Hernández-Verdin",
+        "A. Alentorn"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "single-cell metadata harmonization",
+      "abstract": "Background The rapid growth of public single-cell and spatial transcriptomics repositories has shifted the main bottleneck for atlas-scale integration from data generation to metadata heterogeneity. Even when datasets are released in the AnnData H5AD format, inconsistent column naming, partial annotations, and mixed gene identifier conventions frequently prevent reproducible merging, downstream benchmarking, and reuse in foundation model training. Automated approaches that resolve semantic inconsistency while preserving biological validity are therefore essential for scalable data reuse. Results We present h5adify, a neuro-symbolic toolkit that combines deterministic biological inference with locally deployed large language models to transform heterogeneous AnnData objects into schema-normalized, integration-ready representations. The framework performs metadata field discovery, gene identifier harmonization, optional paper-aware extraction, and consensus resolution with explicit uncertainty logging. Benchmarking four open-weight model families deployed through Ollama (Gemma, Llama, Mistral, and Qwen) demonstrates that small local models achieve high semantic accuracy in metadata resolution with low hallucination rates and modest computational requirements. In controlled simulations introducing annotation noise into single-cell and Visium-like datasets, harmonization improves integration benchmarking and reduces spurious batch effects. Application to sex-annotated glioblastoma datasets recovers biologically coherent microenvironmental patterns and cell type–specific genomic differences not explained by differential expression alone. Conclusions Together, h5adify provides a reproducible framework for evaluating LLM-assisted biocuration and enables scalable, privacy-preserving metadata harmonization for modern single-cell atlases and foundation model pipelines. These results demonstrate that modular neuro-symbolic integration of deterministic biological inference and small local language models can effectively resolve semantic heterogeneity while remaining computationally accessible.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/d8b6ba540049dd5310cbf6bac5076fb05173c48a",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.02.28.708740",
+      "reason_for_inclusion": "In scope: LLM-based metadata harmonization enabling scalable AnnData integration, directly supporting single-cell analysis infrastructure; bioRxiv preprint but a clear scope hit."
+    }
+  ]
+}

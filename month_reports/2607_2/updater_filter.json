@@ -1,0 +1,120 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-07-17T00:00:00",
+      "title": "A ReAct Agentic AI System for Natural Language Querying and Statistical Analysis of The Cancer Genome Atlas Clinical Data",
+      "team": "S. Amal",
+      "authors": [
+        "R. Korutla",
+        "S. Amal"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Cancer clinical data analysis (TCGA natural-language querying agent)",
+      "abstract": "The Cancer Genome Atlas (TCGA) holds clinical data for over 11,000 patients across 33 cancer types, but access is hard because of complex file structures, heterogeneous formats, and the need for programming. We present an agentic system for natural language querying and statistical analysis of TCGA clinical data. The system uses a large language model as an autonomous ReAct agent that selects from eight computational tools, including data extraction, descriptive statistics, Kaplan-Meier survival analysis with log-rank tests, hypothesis testing, and verification against the curated TCGA Pan-Cancer Clinical Data Resource (CDR). The agent reasons about intermediate results, adapts its approach, and returns clinically contextualized responses with source attribution and auditable traces. We introduce TCGA-Agent-Bench, 440 queries across five difficulty tiers with ground truth from the independently curated TCGA-CDR, evaluated with dual metrics of numerical accuracy and clinical completeness. The system achieves 93.4% overall accuracy (100% single-patient lookups, 99.1% cohort statistics, 92.8% comparative analyses), outperforming a fixed rule-based pipeline (87.1%), a single-pass LLM (81.8%), and retrieval-augmented generation (66.9% on a subset). Most of the benchmark is answerable from the CDR alone, so we locate the extraction layer's value in fields the CDR lacks (drug treatments, TNM components, biomarkers, biospecimen metadata): on 26 queries targeting these, the full system answers 100% versus 3.8% for CDR-only. Ablations show the reasoning loop is most impactful (+9.1% accuracy, +22.0 completeness points). A tool-based agentic architecture enables accurate, auditable analysis of clinical repositories, with value driven by tool design and recovered fields rather than model scale.",
+      "venue": "medRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/27c47bb4a408badb83b4b898471c608b3e9b8e53",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.07.15.26358188",
+      "reason_for_inclusion": "In scope: ReAct agent enabling natural-language querying and statistical analysis of TCGA cancer data, an AI agent supporting biomedical research workflows; medRxiv preprint, marginal but on-interest."
+    }
+  ],
+  "Benchmarks": [
+    {
+      "year": "2026-07-30T00:00:00",
+      "title": "An embedding-based framework enables statistical testing of gene-set function hypotheses inferred by large language models",
+      "team": "Yu-Chiao Chiu",
+      "authors": [
+        "Yanhao Tan",
+        "Li-Ju Wang",
+        "Tianyuzhou Liang",
+        "Ying-Ju Lai",
+        "Chien-Hung Shih",
+        "Yibing Guo",
+        "Tyler M. Yasaka",
+        "George C. Tseng",
+        "Yu-Chiao Chiu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Functional genomics (embedding-based gene-set function testing)",
+      "abstract": "Emerging large language models (LLMs) can infer gene functions directly from gene lists, enabling hypothesis generation without predefined gene sets. However, these LLM-derived predictions are qualitative, and principled statistical validation is lacking. Here, we develop an embedding-based statistical framework that transforms gene and function descriptions into vector representations, enabling statistical testing of gene-gene and gene-function relationships and quantitative prioritization of de novo functional hypotheses inferred by LLMs. We benchmark seven state-of-the-art embedding models using curated and retrieval-augmented literature-derived gene descriptions across diverse biological contexts. OpenAI’s text-embedding-3-large and Google’s gemini-embedding-001 perform best, capturing gene-gene functional relationships in 88.7-92.5% of Gene Ontology biological processes and approximately 98.6% of canonical pathways. In gene-function association analyses, these models achieve high sensitivity (95.2-98.4%) and specificity (72.7-84.3%). Through contamination analysis and evaluation using experimentally informed protein assembly gene sets, our framework distinguishes biologically meaningful LLM-inferred hypotheses from noise, outperforming confidence-based inference and conventional enrichment analysis. We further develop the open-source R package DEGEmbedR and demonstrate its utility for interpreting a drug perturbation-derived differentially expressed gene (DEG) signature lacking significant conventional enrichment results. Together, these results establish LLM-derived embeddings as a quantitative foundation for functional genomics and the statistical validation of LLM-based gene function inference. Whilst large language models can infer gene functions from gene lists, these predictions lack validation. Here the authors develop a framework to transform gene and function descriptions into vector representations, enabling statistical testing of gene-gene and gene-function relationships.",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/4ee3e30c14f90463927180ad11f99b48d0a234f4",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1038/s41467-026-75972-z",
+      "reason_for_inclusion": "In scope: embedding-based statistical testing of LLM-inferred gene-set function hypotheses in functional genomics, bridging foundation models and biology; premier venue (Nature Communications)."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-07-28T00:00:00",
+      "title": "ProtSyntax: a protein large language model for decoding post-translational modification syntax and function",
+      "team": "Sen Yang",
+      "authors": [
+        "Yiyu Lin",
+        "Jiahui Wu",
+        "You Zhou",
+        "Xinye Ni",
+        "Shan Chang",
+        "Jun Ding",
+        "Yan Wang",
+        "Xin Gao",
+        "Sen Yang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Protein language model (post-translational modification prediction)",
+      "abstract": "Post-translational modifications (PTMs) expand protein function by encoding context-dependent regulatory states, and their dysregulation contributes to cancer, neurodegeneration and metabolic disease. However, existing methods treat PTMs as independent residue labels, limiting their ability to distinguish contextually permissible sites, model crosstalk and infer functional consequences. Here we introduce ProtSyntax, a PTM-aware foundation protein language model combining protein-aware positional encoding, bidirectional state-space propagation, geometry-constrained attention and adaptive multi-objective learning. This design integrates residue chemistry, motif order, long-range context and three-dimensional microenvironments while coupling PTM recognition to enzyme function. Across 40 PTM-site benchmarks, ProtSyntax exceeded the strongest baselines in mean MCC and AP by 12.66% and 10.67%. ProtSyntax also recovered masked PTM types and sites, rejected structural decoys, generalized to data-scarce modifications, reconstructed crosstalk and linked PTM perturbations to enzyme kinetics. Applications to pathogenic variants, biomolecular condensates and disease-associated PTM landscapes demonstrate its potential to decode the regulatory language of the modified proteome.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/76f60f49c134f5f36aa186669d639589e0908afd",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.07.18.739331",
+      "reason_for_inclusion": "In scope: protein language model decoding post-translational modification syntax and function, a direct hit on foundation models for biology; bioRxiv preprint."
+    },
+    {
+      "year": "2026-07-29T00:00:00",
+      "title": "GPCR-SLM: Small Language Model-Based Classification of GPCRs Using Knowledge Distillation Technique.",
+      "team": "Fairuz Shadmani Shishir",
+      "authors": [
+        "Fairuz Shadmani Shishir"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Protein classification model (GPCR small language model)",
+      "abstract": "Accurate protein family classification is essential since proteins within the same family share conserved structural domains and biochemical functions that deter mine their biological roles. G protein-coupled receptors (GPCRs) represent one of the largest and most diverse protein families in eukaryotes, serving as targets for ap proximately 35% of FDA-approved drugs. While traditional sequence alignment methods, such as BLAST, provide foundational tools for identifying homologous sequences, they exhibit limited accuracy in distinguishing closely related GPCR families with low sequence homology. Recently, deep learning approaches offer promising accuracy; however, they employ fixed-size classification architectures that force newly discovered protein families into pre-existing categories, preventing the recognition of novel families and limiting scalability as the protein universe expands. In this work, we present a scalable machine learning framework GPCR SLM, that classifies GPCRs across 86 distinct families using a lightweight transformer model optimized through knowledge distillation. Our approach achieved an overall ac curacy of 99%, significantly outperforming BLAST (86.1%) and HMMER (91%), while demonstrating substantial computational efficiency with an average speedup of 33.5× compared to large protein language models. These results demonstrate the effectiveness of combining distilled protein language models with flexible classification frameworks for high-resolution functional annotation.",
+      "venue": "IEEE transactions on computational biology and bioinformatics",
+      "paperUrl": "https://www.semanticscholar.org/paper/c5e8db9d426262710c64234e17b7f236b1e00759",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1109/TCBBIO.2026.3718339",
+      "reason_for_inclusion": "In scope: small language model with knowledge distillation for GPCR classification, relevant to foundation models for biology and GPCR-targeted drug discovery; peer-reviewed computational biology venue."
+    },
+    {
+      "year": "2026-07-16T00:00:00",
+      "title": "Biological Continued Pretraining Reshapes the Capability Profile of a Foundation Model Without Catastrophic Forgetting",
+      "team": "Liang Wang",
+      "authors": [
+        "Liang Wang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Biomedical foundation model training (biological continued pretraining)",
+      "abstract": "It is widely assumed that continued pretraining (CPT) on a narrow, out-of-distribution corpus such as raw biological sequence must trade away a general-purpose model’s broad competence — the “alignment tax” or catastrophic-forgetting intuition. We test this directly, without any new training, by re-analyzing three checkpoints from a single lineage of a 26B-parameter Mixture-of-Experts model (Gemma-4-26B-A4B): the instruction-tuned base, the same model after biological CPT (8.7B tokens of DNA, protein, and biomedical text), and after subsequent supervised fine-tuning (SFT). Across three independent capability axes — general knowledge/reasoning (MMLU, ARC, HellaSwag), code generation (MBPP), and biomedical knowledge (BixBench) — we find that biological CPT does not degrade the model; it lifts it: MMLU +13 points, MBPP pass@1 nearly doubles (0.33 →0.63), and BixBench discrimination rises sharply (MCC 0.23 → 0.92). The single measured regression is truthfulness (TruthfulQA 8.8 points), a small and interpretable domain drift. A clean vocabulary-expansion ablation (< 0.4 pt on every general metric) confirms the gains are attributable to CPT, not tokenizer changes. Crucially, subsequent SFT narrows the model back: all three axes fall to near-base levels, revealing a consistent division of labor — CPT re-organizes and lifts the shared capability substrate; SFT cashes it out onto target tasks. We argue this reframes biological sequence not as a competitor for a foundation model’s capacity but as a form of structured scientific data that reshapes its capability profile, and that CPT and SFT should be budgeted as complementary rather than substitutable stages. All checkpoints, evaluation code, and per-example outputs are public. Highlights A training-free re-analysis of one 26B MoE lineage isolates the effect of biological continued pretraining (CPT) from tokenizer changes and from fine-tuning. Biological CPT does not cause catastrophic forgetting; it raises general knowledge (MMLU +13 pts) and code generation (MBPP pass@1 0.33 → 0.63). CPT also makes chain-of-thought reasoning 41% shorter and near-backtrack-free while pre-serving accuracy — an effect invisible to accuracy metrics. A consistent CPT-lifts / SFT-narrows division of labor recurs across four axes, reframing biological sequence as structured scientific data that reshapes a model’s capability profile. The Bigger Picture Adapting a general-purpose AI model to a specialized domain — here, the language of DNA and proteins — is usually assumed to come at a cost: teach it biology and it forgets how to reason about everything else. This “no free lunch” intuition shapes how practitioners budget compute and whether they attempt domain adaptation at all. We test the assumption directly, and without running any new training, by comparing three snapshots of the same model taken before and after biological training. The result overturns the intuition: feeding the model raw biological sequence made it better at general knowledge, at writing code, and even changed how it reasons — producing shorter, more decisive chains of thought without losing accuracy. The gains appear during the sequence-pretraining stage and are partly given back during task-specific fine-tuning, revealing that the two stages play complementary rather than interchangeable roles. This suggests a broader principle for data-centric AI: structured scientific data — biological sequence today, and by extension code, mathematics, and chemistry — is not merely knowledge to be absorbed but a lever that reshapes what a foundation model can do.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/a955a623dccfc18111d64bda7df675a2753eef34",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.07.06.736700",
+      "reason_for_inclusion": "In scope: biological continued pretraining method that preserves foundation model capabilities, directly informing foundation models for biology; bioRxiv preprint."
+    }
+  ]
+}

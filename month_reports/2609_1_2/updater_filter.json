@@ -1,0 +1,131 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-09-01T00:00:00",
+      "title": "TeroSeek: An AI-powered platform integrating literature-derived knowledge base and expert Q&A agent for terpenoid research.",
+      "team": "Rui-Bo Wu",
+      "authors": [
+        "Xu Kang",
+        "Siqi Jiang",
+        "Kang-Wei Xu",
+        "Jia-Hao Li",
+        "Rui-Bo Wu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "AI Knowledge Platform for Terpenoid Research",
+      "abstract": "SHORT SUMMARY\nTeroSeek is an AI-powered platform that converts terpenoid literature into a structured knowledge base of over 3 million entries and an expert Q&A agent. By coupling knowledge-graph retrieval with large language models, it delivers evidence-based, fully cited answers that reduce hallucination and bypass knowledge cutoffs. The framework is readily transferable to other scientific domains.",
+      "venue": "Plant Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/a832f4fd2de400777ea51e8d90e4e1be9212d0b6",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1016/j.xplc.2026.102091",
+      "reason_for_inclusion": "In scope: AI agent for scientific discovery in terpenoid research/drug discovery; Q1 journal (Plant Communications)."
+    },
+    {
+      "year": "2026-09-10T00:00:00",
+      "title": "Agent-driven Model Development for RNA 3D Structure Prediction",
+      "team": "Hervé Minoux",
+      "authors": [
+        "Maciej Majewski",
+        "Laura Malo",
+        "Ariadna Montero-Blay",
+        "Matteo Marengo",
+        "R. N. dos Santos",
+        "P. Gkeka",
+        "Hervé Minoux"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "LLM Agent for RNA 3D Structure Prediction",
+      "abstract": "Large language model (LLM) agents have shown promise in driving scientific discovery, but their effectiveness in complex, real-world biological problems remains underexplored. We ask whether a general-purpose LLM agent can drive semi-autonomous development of a model for a genuinely hard biological problem, RNA 3D structure prediction. We designed a development loop where, under a fixed budget and with human supervision, the agent iteratively proposed, implemented, trained, and evaluated model changes. Over 297 iterations, the model evolved from a randomly-initialised baseline to QuickFold, an 8.9 M-parameter folding trunk that matches the strongest open-source baselines (RhoFold+, NuFold) on lDDT and TM-score within noise on a held-out test set at a fraction of their inference cost. We frame this less as a new predictor than as a case study in feedback-driven, agent-led model development.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/665529460dd78a8cad094c84593c07487f6cc101",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.08.749228",
+      "reason_for_inclusion": "In scope: LLM agent for RNA 3D structure prediction in biology; preprint directly advances AI agents for scientific discovery."
+    },
+    {
+      "year": "2026-09-06T00:00:00",
+      "title": "From code to natural language: MErlin – a multi-omics toolkit for bacterial epigenomics delivered as Claude agent skill",
+      "team": "Elena Perrin",
+      "authors": [
+        "Iacopo Passeri",
+        "Solène Pety",
+        "Michele Giovannini",
+        "M. Fondi",
+        "Alessio Mengoni",
+        "Elena Perrin"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Multi-omics Toolkit as LLM Agent Skill",
+      "abstract": "Interpreting a bacterial methylome is a multi-omics problem. It requires integrating modified-base calls with genome annotation, motif inventories, methyltransferase genotypes, transcript abundance, replichore position and, increasingly, chromosome conformation. These data types are commonly generated in incompatible formats, use inconsistent sequence and gene identifiers, and originate from different analytical workflows. Relevant algorithms are available but assembling them into a coherent and statistically defensible analysis remains a substantial data-integration and interface problem. We present MErlin (Methylation-driven Expression & Regulation Linkage in Interacting Nuclear-domains), a multi-omics toolkit comprising seventeen composable modules, from basecalled modBAM files to ranked gene-level evidence and a self-contained HTML report. MErlin is distributed both as a conventional Python package and as an agent skill: a structured, version-controlled layer of procedural knowledge that enables a compatible large language model (LLM) assistant to select and operate the audited package without generating a new analysis implementation for each request. This design treats natural language as an interface to fixed analytical operations rather than as a substitute for tested scientific software. The skill encodes module-selection rules, mandatory preflight checks, questions that require human input, design-to-inference constraints, and interpretation guidance. We describe MErlin’s architecture and statistics, validate it against a synthetic dataset with planted ground truth, and illustrate the conversational interface on a real methylome–transcriptome comparison in Pseudoalteromonas haloplanktis TAC125. MErlin is open source and available at https://github.com/IacopoPasseri/MErlin.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/8e2d941e43c80fdf1aa1d048a9171f7c1f9a25b2",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.02.748773",
+      "reason_for_inclusion": "In scope: multi-omics toolkit delivered as LLM agent skill for bacterial epigenomics; preprint but direct hit on AI agents for scientific discovery."
+    }
+  ],
+  "Benchmarks": [
+    {
+      "year": "2026-09-01T00:00:00",
+      "title": "Large language model-driven knowledge graph learning for herb-macromolecule interaction prediction and functional analysis.",
+      "team": "Jian-Fu Xia",
+      "authors": [
+        "Si-Si Yuan",
+        "Hui-Hui Wu",
+        "Jia-Peng Yao",
+        "Xin-Ze Lian",
+        "Linlin Zhuo",
+        "Keqin Li",
+        "Dong-Sheng Cao",
+        "Ai-Ping Lu",
+        "Jian-Fu Xia"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "LLM for Herb-Macromolecule Interaction Prediction",
+      "abstract": "The rapid accumulation of biological macromolecule data has created an urgent need for computational methods capable of characterizing the functional roles of macromolecular targets in complex therapeutic systems. Traditional Chinese medicine represents a typical scenario, in which multiple herbal components may coordinately regulate diverse protein targets through multi-component and multi-target mechanisms. However, existing methods often fail to jointly integrate traditional medicine knowledge, modern biomedical associations, and the functional context of biological targets, limiting systematic identification and mechanistic interpretation of herb-macromolecular target interactions (HTIs). Here, we propose LLM-HTI, a large language model (LLM)-driven graph learning framework with adaptive parameter updating based on a Traditional Chinese and Western medicine knowledge graph (TWKG), for predicting potential interactions between herbs and biological macromolecular targets. LLM-HTI extracts latent semantic representations of herb-target associations using LLMs and integrates them with knowledge graph topology, enabling joint characterization of herbs, macromolecular targets, and their functional relationships. The framework further introduces a gradient-guided adaptive parameter updating mechanism to dynamically select important parameter subsets, improving training stability and optimization efficiency. In addition, gastrointestinal surgeons independently assessed the top-ranked candidate targets for disease relevance, biological plausibility, clinical actionability, and translational priority to provide a clinician-guided evaluation of their medical relevance. These benchmark and case-study results demonstrate that LLM-HTI supports macromolecular target function analysis and herb-target mechanism discovery, while clinician-guided assessment further highlights medically relevant candidates for translational follow-up. Our data and code are publicly available at https://github.com/sisyyuan/LLM-HTI.",
+      "venue": "International Journal of Biological Macromolecules",
+      "paperUrl": "https://www.semanticscholar.org/paper/472b96a063cfdf01c6937a0a738b7592317c62a9",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1016/j.ijbiomac.2026.154371",
+      "reason_for_inclusion": "In scope: LLM-driven knowledge graph for herb-macromolecule interaction prediction relevant to drug discovery; Q1 journal (Int J Biological Macromolecules)."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-09-01T00:00:00",
+      "title": "Scaling recipes for single-cell RNA sequencing foundation models: when do scaling laws hold?",
+      "team": "Francesca M. Buffa",
+      "authors": [
+        "Federico Borra",
+        "Giacomo Cirò",
+        "Arianna Castellini",
+        "Giovanni Gatti",
+        "A. Tangherloni",
+        "Francesca M. Buffa"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Scaling Laws for Single-Cell Foundation Models",
+      "abstract": "Deep learning models exhibit empirical scaling laws whereby performance changes predictably with model size, dataset size, and training compute. Although these relationships are well established in domains such as language and image modelling, their applicability to biological data remains unclear. Here, we investigate scaling behaviour in foundation models trained on large collections of single-cell transcriptomes. We show that pre-training loss decreases systematically with model capacity and training compute, exhibiting a power-law dependence on model size. The strength and regularity of these trends differ between model formulations. We identify and quantify empirical relationships linking the optimal learning rate and depth-to-width ratio to model size and depth or compute. These results demonstrate that scaling principles extend to transcriptomic modelling. More broadly, they provide a quantitative framework for estimating the expected returns from additional resources and selecting suitable hyperparameters and architectures, thereby supporting the development of increasingly capable foundation models for omics data.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/1c960237c4e8a8856c5edc6615bfbe3add22c043",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.08.31.747783",
+      "reason_for_inclusion": "In scope: single-cell RNA sequencing foundation models scaling laws; preprint directly addresses foundation models for biology and single cell analysis."
+    }
+  ]
+}

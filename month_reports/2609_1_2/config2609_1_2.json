@@ -1,0 +1,37 @@
+{
+    "model": {
+        "profile": "deepseek",
+        "name": "deepseek-v4-pro"
+    },
+    "search": {
+        "query": "AI agent|large language model|foundation model",
+        "fields_of_study": [
+            "Biology",
+            "Medicine",
+            "Chemistry"
+        ],
+        "limit": 100,
+        "include_abstracts": true
+    },
+    "filter": {
+        "limit": 15,
+        "research_interests": [
+            "pharmacogenomics",
+            "foundation models for biology",
+            "AI agents for scientific discovery",
+            "drug discovery",
+            "single cell analysis",
+            "perturbation study"
+        ]
+    },
+    "output": {
+        "db_path": "month_reports/2609_1_2"
+    },
+    "categories": [
+        "AI Agents",
+        "Foundation models",
+        "Databases/Simulation",
+        "Benchmarks",
+        "Reviews"
+    ]
+}

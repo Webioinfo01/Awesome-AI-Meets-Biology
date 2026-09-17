@@ -1,0 +1,210 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-06-13T00:00:00",
+      "title": "Pepti-Agent: An AI Agent for Peptide Design and Optimization",
+      "team": "A. Farimani",
+      "authors": [
+        "Houxu Chen",
+        "Achuth Chandrasekhar",
+        "A. Farimani"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Peptide design and optimization (drug discovery)",
+      "abstract": "Therapeutic peptides occupy a valuable design space between small molecules and biologics, but their development requires satisfying several competing constraints at once: solubility, hemolytic activity, and nonspecific surface fouling are governed by overlapping sequence features, so improving one property often degrades another. Computational design addresses this by pairing generative models with sequence-based property predictors, iteratively proposing and refining candidates. However, these components are typically wired together as monolithic scripts that are difficult to inspect, extend, or reuse, and they often refine sequences by natural-language reasoning rather than by tracking the evolving multi-property state of each candidate. We present Pepti-Agent, a closed-loop, peptide-specific framework that exposes generation, property prediction, and single-residue mutation as independently inspectable Model Context Protocol (MCP) tools. A large language model controller invokes these tools and consults live predictor output between calls, so refinement is guided by each sequence's current property profile rather than by language reasoning alone. Task-specific PeptideGPT models generate candidates, ProtBERT-based classifiers score solubility, hemolysis, and non-fouling, and two interchangeable mutation operators propose sequence edits. By recording a per-step trace of controller decisions, predictor outputs, and accepted mutations, Pepti-Agent offers a reproducible substrate for benchmarking multi-objective design strategies and for prioritizing candidates for experimental validation.",
+      "venue": "arXiv.org",
+      "paperUrl": "https://www.semanticscholar.org/paper/a995496539d5c45f642b92829ddfcba92cdb1db4",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.48550/arXiv.2606.15422",
+      "reason_for_inclusion": "In scope: an AI agent for peptide design and optimization, a direct hit on both 'AI agents for scientific discovery' and 'drug discovery'; arXiv preprint, but an exact topical match to the collection."
+    }
+  ],
+  "Databases/Simulation": [
+    {
+      "year": "2026-06-12T00:00:00",
+      "title": "Systematic functional annotation of thousands of BAHD acyltransferases in plant genomes using Protein Language Model and phylogenomic tools",
+      "team": "G. Moghe",
+      "authors": [
+        "Nathaniel S. S. Smith",
+        "Xin-Yu Yuan",
+        "Chesney Melissinos",
+        "Sahaj Satani",
+        "C. Grissom",
+        "G. Moghe"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Plant enzyme functional annotation (protein language models)",
+      "abstract": "The functional annotation of plant genes lags significantly behind their genomic annotation. Closing this gap requires thorough cataloging of reported protein activities alongside predictive methods that scale beyond sequence-similarity inference. Focusing on the BAHD acyltransferase enzyme family as a model, we assembled FuncZymeDB-BAHD, a large database of 2,705 LLM-retrieved and curated enzyme-acceptor-donor activities covering 336 BAHDs from 156 plant species, a 2-to-6-fold expansion over Swiss-Prot and prior compilations. We further developed FuncPred-OG, which maps queries to orthologous groups and previously characterized enzymes in FuncZymeDB-BAHD, returning hits with high evidence provenance. FuncPred-OG enabled functional prediction of over half of BAHDs across 85 plant proteomes, of which five novel predictions were validated via in vitro assays and recent studies. For the remaining BAHDs without FuncPred-OG annotation, we developed FuncPred-AI, where logistic-regression classifiers trained on protein language model embeddings achieved high Area-Under-the-Precision-Recall-curve (AUPR) scores and correct-hit rates up to 93%. FuncPred-AI yielded ≥1 probable donor/acceptor annotation for 99.9% (8894/8897) of BAHDs in our pan-plant dataset. Finally, the FuncPred workflow and datasets were deployed on a web portal for broader utilization, potentially reducing experimentalists’ efforts for selecting candidates from days to minutes. Overall, this framework provides a generalizable template for functional annotation of entire enzyme families.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/82981a38d935b3eb3ca7aa7e33bbf578d707ada1",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.06.09.730906",
+      "reason_for_inclusion": "In scope: protein language models applied to large-scale functional genome annotation, directly advancing 'foundation models for biology'; preprint venue, but a direct scope hit."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-06-05T00:00:00",
+      "title": "Evaluating the learnability of single-cell large language models on multiple tasks",
+      "team": "Dongyuan Song",
+      "authors": [
+        "Yuhai Yan",
+        "Xutao Wang",
+        "Dongyuan Song"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Single-cell foundation models (Geneformer/scGPT)",
+      "abstract": "The rise of single-cell foundation models (scFMs) has sparked interest in their potential to unify diverse biological tasks. However, their practical utility and the validity of scaling laws—the assumption that performance improves with model and data size—remain under-examined. Here, we systematically evaluate two representative scFMs, Geneformer and scGPT, across perturbation prediction and cell type annotation tasks. Our findings suggest that the benefits of large-scale pretraining are strongly task-dependent, conferring substantial advantages in cell type annotation but limited gains in perturbation prediction. Furthermore, our results indicate that increasing model size does not guarantee improved performance and can even be detrimental, challenging the “bigger is better” paradigm for the models and tasks examined here. By comparing model performance on real versus synthetic data with different levels of complexity, our analysis suggests that for perturbation prediction, the tested scFMs may capture little more than simple summary statistics, suggesting limited capacity to learn complex biological interactions within our experimental design. Based on our evaluation of Geneformer and scGPT, these results highlight the need to move beyond scaling and toward developing models that integrate deeper biological knowledge. We suggest that a renewed focus on task-specific architectures and biologically-informed priors may be critical for unlocking the true potential of foundation models in single-cell biology.",
+      "venue": "BMC Genomics",
+      "paperUrl": "https://www.semanticscholar.org/paper/ebb2a06c78a424537459de56f44f9f0e99810083",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1186/s12864-026-12975-6",
+      "reason_for_inclusion": "In scope: systematic evaluation of single-cell foundation models (e.g., Geneformer/scGPT-type models), a direct hit on both 'single cell analysis' and 'foundation models for biology'; solid Q1/Q2 genomics journal."
+    },
+    {
+      "year": "2026-06-04T00:00:00",
+      "title": "A universal foundation model for grounded biomedical image interpretation",
+      "team": "Hao Chen",
+      "authors": [
+        "Linshan Wu",
+        "Yuxiang Nie",
+        "Sunan He",
+        "Jia-Xin Zhuang",
+        "Luyang Luo",
+        "Tao Li",
+        "Zhuoyao Xie",
+        "Dexuan Chen",
+        "Yinghua Zhao",
+        "N. Mahboobani",
+        "Varut Vardhanabhuti",
+        "R. Chan",
+        "Yifan Peng",
+        "Pranav Rajpurkar",
+        "Hao Chen"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Grounded biomedical image interpretation",
+      "abstract": "The integration of AI-assisted biomedical image analysis into clinical practice demands AI-generated findings that are not only accurate but also interpretable. However, existing models generally lack the ability to simultaneously generate diagnostic findings and localize corresponding targets. This limitation makes it challenging to correlate AI-generated findings with visual evidence and interpret the results. To this end, we introduce UniBiomed, a universal foundation model for grounded biomedical image interpretation, which is capable of generating accurate diagnostic findings and segmenting the biomedical targets. UniBiomed is based on an integration of Multi-modal Large Language Model and Segment Anything Model, which can unify diverse biomedical tasks in universal training for advancing grounded interpretation. To develop UniBiomed, we curate a large-scale dataset comprising 27 million triplets of images, region annotations, and text descriptions. Extensive validation on 70 internal and 14 external datasets demonstrated the state-of-the-art performance of UniBiomed in diverse biomedical tasks. We introduce UniBiomed, a universal foundation model for grounded biomedical image interpretation, which is capable of generating accurate diagnostic findings and segmenting the biomedical targets.",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/4e3d7c65c095c5e2a9c528b93c57480a1d2f1274",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 3,
+      "doi": "10.1038/s41467-026-73986-1",
+      "reason_for_inclusion": "In scope: a general-purpose foundation model for biomedical image interpretation, advancing foundation models for biology; premier venue (Nature Communications)."
+    },
+    {
+      "year": "2026-06-10T00:00:00",
+      "title": "ConnectoFM: A Foundation Model for Learning the Language of the Connectome",
+      "team": "Md. Shamsuzzoha Bayzid",
+      "authors": [
+        "Abrar Rahman Abir",
+        "Anik Saha",
+        "Ruwad Naswan",
+        "Md. Shamsuzzoha Bayzid"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Connectomics (EM image analysis)",
+      "abstract": "Accurate reconstruction of neural circuits from electron microscopy (EM) data is central to connectomics, yet modern datasets are now so large and heterogeneous that manual annotation and dataset-specific model retraining have become major challenges. While recent EM foundation models provide general visual representations, they are not specifically tailored to the connectomics domain, where preserving fine membrane boundaries and synaptic structures is essential to mitigate topological and connectivity errors. Here, we present ConnectoFM, the first foundation model for connectomics, pretrained on a diverse corpus of 1.7 million unlabeled EM images drawn from six species and 25 subdomains. ConnectoFM combines masked image modeling with contrastive alignment to learn robust visual representations directly from large-scale connectomics data. These representations organize EM images into biologically meaningful clusters across species, brain regions, developmental cohorts, and acquisition domains. Using frozen pretrained features with lightweight decoder heads, we transfer ConnectoFM to three important downstream tasks: binary segmentation, multiclass cell typing, and instance segmentation. Across 29 diverse datasets, including established benchmarks, ConnectoFM consistently outperforms existing EM foundation models and state-of-the-art methods that require task-specific training from scratch. With only 10% labeled data, ConnectoFM surpasses the baselines trained on 100% annotation budget, showing the superiority of ConnectoFM in low-data regimes. Improvements of ConnectoFM are especially pronounced for challenging and biologically important targets, including membranes, mitochondria, vesicles, post-synaptic densities and synapses, and remain strong in low-label settings. Extension to 3D volumetric segmentation and qualitative comparisons further show that ConnectoFM enables more accurate and biologically faithful performance across downstream tasks. These results establish ConnectoFM as a generalizable and data-efficient foundation model for connectomics and provide a scalable route towards more reliable neural circuit reconstruction.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/6de7a2c757c0894f93d7e55ffd596ea5c32ee2e4",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.06.06.730367",
+      "reason_for_inclusion": "In scope: a foundation model for connectome (biological EM image) analysis, directly advancing 'foundation models for biology'; preprint, but a clear scope hit."
+    },
+    {
+      "year": "2026-06-09T00:00:00",
+      "title": "Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance",
+      "team": "L. Crawford",
+      "authors": [
+        "Alan DenAdel",
+        "Madeline Hughes",
+        "Akshaya Thoutam",
+        "Anay Gupta",
+        "Andrew W. Navia",
+        "Nicolo Fusi",
+        "Srivatsan Raghavan",
+        "Peter S. Winter",
+        "Ava A. Amini",
+        "L. Crawford"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Single-cell foundation model pretraining (scaling effects)",
+      "abstract": "The success of transformer-based foundation models on natural language and images has motivated their use in single-cell biology. Single-cell foundation models have been trained on increasingly larger transcriptomic datasets, scaling from initial studies with 1 million cells to newer atlases with over 100 million cells. Here we investigate the role of pretraining dataset size and diversity on the performance of single-cell foundation models on both zero-shot and fine-tuned tasks. Using a large corpus of 22.2 million cells, we pretrain a total of 400 models, which we evaluate by conducting 6,400 experiments. Our results show that current methods tend to plateau in performance with pretraining datasets that are only a fraction of the size of current training corpora. Unlike large language models, single-cell foundation models show no clear data scaling laws, indicating that developers should focus on balancing model capacity, dataset size and computational resources rather than indiscriminately increasing all three. The performance of single-cell foundation models is dependent on many factors. This study assesses the effect of the pretraining dataset’s size and diversity, revealing potential challenges in pursuing consistent improvement by naively scaling up pretraining data.",
+      "venue": "Nature Methods",
+      "paperUrl": "https://www.semanticscholar.org/paper/480a2bac7c57e9cf5490ea6af87515e07854cddd",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 3,
+      "doi": "10.1038/s41592-026-03120-y",
+      "reason_for_inclusion": "In scope: scaling and data-diversity effects in single-cell foundation model pretraining — a direct hit on 'single cell analysis' and 'foundation models for biology'; premier venue (Nature Methods)."
+    },
+    {
+      "year": "2026-06-09T00:00:00",
+      "title": "GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction",
+      "team": "Andreas Luttens",
+      "authors": [
+        "Emily Nguyen",
+        "Yong-Chan Hong",
+        "Harshita Toshniwal",
+        "Yan Liu",
+        "Andreas Luttens"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Molecular property prediction",
+      "abstract": "Deep learning models facilitate the discovery of molecules with tailored properties among billions of candidate compounds. However, the computational burden to develop and deploy state-of-the-art models continuously increases, limiting their scalability. Most large-scale models are unimodal in nature and overlook the potential to leverage complementary molecular data modalities. To address these shortcomings, this paper introduces the Graph-Language Alignment for Chemical Inference and Exploration using Representations (GLACIER) model, a student-teacher framework that integrates molecular graphs, SMILES strings, and physicochemical descriptors to learn rich molecular embeddings. Our framework consists of three stages: (1) we pretrain three student encoders on 100,000 drug-like molecules: a message-passing neural network for molecular graphs, a transformer-based encoder for SMILES strings, and a multilayer perceptron for physicochemical descriptors, (2) we fuse these student modalities using a novel Finsler geometry-aware module, and (3) distill complementary knowledge from large teacher models, including MiniMol and MolFormer, into a single lightweight model via contrastive learning. We demonstrate that GLACIER is a robust framework that delivers high predictive performance and computational efficiency in complex molecular property prediction tasks. Our code is publicly available at https://github.com/eemokey/glacier.",
+      "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+      "paperUrl": "https://www.semanticscholar.org/paper/cab3e35726a95c1402faccb3ed5cb9e30e859604",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1145/3770855.3819032",
+      "reason_for_inclusion": "In scope: multimodal foundation model for molecular property prediction, core infrastructure for 'drug discovery'; premier ML venue (KDD)."
+    },
+    {
+      "year": "2026-06-10T00:00:00",
+      "title": "A generalist biomedical vision-language model via multi-CLIP knowledge distillation",
+      "team": "Xiaofeng Yang",
+      "authors": [
+        "Shansong Wang",
+        "Zhe Jin",
+        "Ming-Zhe Hu",
+        "M. Safari",
+        "Yuan Gao",
+        "Feng Zhao",
+        "Chih-Wei Chang",
+        "Richard L. J. Qiu",
+        "Justin Roper",
+        "David S. Yu",
+        "J. Baciak",
+        "Xiaofeng Yang"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Biomedical vision-language model (knowledge distillation)",
+      "abstract": "Contrastive Language-Image Pretraining (CLIP) models, which are pretrained on natural images with billions of image-text pairs, exhibit strong zero-shot and cross-modal capabilities. However, their application in biomedicine remains challenging due to limited large-scale image-text data and heterogeneous imaging modalities. Here we show that a generalist biomedical foundation model can be effectively built via multimodal medical knowledge distillation. We introduce MMKD-CLIP, which integrates complementary knowledge from nine biomedical CLIP models. Our two-stage pipeline combines CLIP-style pretraining on 2.9 million biomedical image-text pairs across 26 modalities with large-scale feature-level distillation. We evaluate MMKD-CLIP on 58 datasets spanning nine modalities and six tasks, including classification, retrieval, visual question answering, survival prediction, and cancer diagnosis. MMKD-CLIP performs favorably relative to the teacher models, with results supporting its robustness and cross-domain generalization. This study introduces MMKD-CLIP, a generalist biomedical vision-language model trained with multi-teacher knowledge distillation to improve performance across heterogeneous medical imaging modalities and tasks.",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.semanticscholar.org/paper/f6a8800a610d3bc60de200a2e8d7fa6d210bae1a",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1038/s41467-026-74120-x",
+      "reason_for_inclusion": "In scope: a generalist biomedical vision-language foundation model, directly advancing 'foundation models for biology'; premier venue (Nature Communications)."
+    }
+  ]
+}
