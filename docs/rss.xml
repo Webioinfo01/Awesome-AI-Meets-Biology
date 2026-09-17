@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 17 Sep 2026 01:27:36 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 01:50:10 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -789,18 +789,19 @@
     <guid isPermaLink="false">Autonomousbiomedicalresearchwithanartificialintelligenceagent202608</guid>
   </item>
   <item>
-    <title>Knowledge-guided Contextual Gene Set Analysis Using Large Language Models</title>
-    <link>https://doi.org/10.48550/arXiv.2506.04303</link>
+    <title>Knowledge-guided contextual gene set analysis with large language models</title>
+    <link>https://doi.org/10.1093/bioinformatics/btag214</link>
     <description>
       <![CDATA[
         <p><b>Team:</b> Zhiyong Lu</p>
-        <p><b>Domain:</b> Context-aware gene set analysis using large language models</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/7cb3a28963a5ceb201e4092a4e52644c3436a7c7">Read the Paper</a></p>
+        <p><b>Domain:</b> Genomics / contextual gene set analysis</p>
+        <p><b>Venue:</b> Bioinformatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/4933774916cde2a2bd5346b4e391f37304240795">Read the Paper</a></p>
+        <p><a href="https://github.com/ncbi-nlp/cGSA">Code</a></p>
       ]]>
     </description>
-    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">KnowledgeguidedContextualGeneSetAnalysisUsingLargeLanguageModels202506</guid>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Knowledgeguidedcontextualgenesetanalysiswithlargelanguagemodels2026-07</guid>
   </item>
   <item>
     <title>DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models</title>
@@ -1777,6 +1778,134 @@
     <guid isPermaLink="false">MutexaGPTanintuitiontodesigntranslatorforphysicsbasedenzymeengineering202609</guid>
   </item>
   <item>
+    <title>Skill-File-Guided Virtual Screening: A Single-Target Formyl Peptide Receptor 2 Case Study of Large-Language-Model-Coordinated Physics and Diffusion Docking</title>
+    <link>https://doi.org/10.34133/csbj.0187</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Osman Gani</p>
+        <p><b>Domain:</b> Drug discovery virtual screening</p>
+        <p><b>Venue:</b> Computational and Structural Biotechnology Journal</p>
+        <p><a href="https://www.semanticscholar.org/paper/82cb0dbc21da4dc63e7153726e71e73afec36667">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SkillFileGuidedVirtualScreeningASingleTargetFormylPeptideReceptorCaseStudyofLargeLanguageModelCoordinatedPhysicsandDiffusionDocking2026-07</guid>
+  </item>
+  <item>
+    <title>OCellus: A Language-Model Framework for Single-Cell, Spatial, and Perturbation Biology with Natural-Language Reasoning</title>
+    <link>https://doi.org/10.64898/2026.07.08.737248</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Gufeng Wang</p>
+        <p><b>Domain:</b> Single-cell, spatial, and perturbation biology</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/664abc9b011d5ddbeefebd2a48b09631f24f9478">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">OCellusALanguageModelFrameworkforSingleCellSpatialandPerturbationBiologywithNaturalLanguageReasoning2026-07</guid>
+  </item>
+  <item>
+    <title>A ReAct Agentic AI System for Natural Language Querying and Statistical Analysis of The Cancer Genome Atlas Clinical Data</title>
+    <link>https://doi.org/10.64898/2026.07.15.26358188</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> S. Amal</p>
+        <p><b>Domain:</b> Cancer clinical data analysis (TCGA natural-language querying agent)</p>
+        <p><b>Venue:</b> medRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/27c47bb4a408badb83b4b898471c608b3e9b8e53">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AReActAgenticAISystemforNaturalLanguageQueryingandStatisticalAnalysisofTheCancerGenomeAtlasClinicalData2026-07</guid>
+  </item>
+  <item>
+    <title>A Toolset-First Paradigm Based on Large Language Model and Agent via Model Context Protocol for Intelligent Computation.</title>
+    <link>https://doi.org/10.1021/acs.jpclett.6c02004</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Guoyong Fang</p>
+        <p><b>Domain:</b> Computational chemistry and materials science tools</p>
+        <p><b>Venue:</b> Journal of Physical Chemistry Letters</p>
+        <p><a href="https://www.semanticscholar.org/paper/6c3bd0045452c18ecc493852b88f146d5eea5607">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AToolsetFirstParadigmBasedonLargeLanguageModelandAgentviaModelContextProtocolforIntelligentComputation2026-08</guid>
+  </item>
+  <item>
+    <title>AI-augmented discovery of autophagy regulators through mechanistic interpretation of multiomics data.</title>
+    <link>https://doi.org/10.1080/15548627.2026.2719421</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Di Peng</p>
+        <p><b>Domain:</b> Cell biology / autophagy (multiomics regulator discovery via hybrid AI+LLM workflow)</p>
+        <p><b>Venue:</b> Autophagy</p>
+        <p><a href="https://www.semanticscholar.org/paper/6ae44d86d69add66909b637127ef996f98081437">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIaugmenteddiscoveryofautophagyregulatorsthroughmechanisticinterpretationofmultiomicsdata2026-08</guid>
+  </item>
+  <item>
+    <title>MetaboAnnotate: An AI-powered Multiagent Framework for Integrating Annotation Tools for Untargeted Metabolomics.</title>
+    <link>https://doi.org/10.1021/acs.analchem.6c01717</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Soha Hassoun</p>
+        <p><b>Domain:</b> Untargeted metabolomics (multi-agent metabolite annotation framework)</p>
+        <p><b>Venue:</b> Analytical Chemistry</p>
+        <p><a href="https://www.semanticscholar.org/paper/294e38d2ceb4bbf95392f3bdbb6c04eb51f6750c">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MetaboAnnotateAnAIpoweredMultiagentFrameworkforIntegratingAnnotationToolsforUntargetedMetabolomics2026-08</guid>
+  </item>
+  <item>
+    <title>An AI System for Autonomous Algorithm Evolution in Drug Development</title>
+    <link>https://doi.org/10.64898/2026.08.16.745117</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Feng Zhu</p>
+        <p><b>Domain:</b> Drug development (autonomous multi-role LLM algorithm evolution system)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/2e04edc06f5429398dcb160de30451a780a1fe42">Read the Paper</a></p>
+        <p><a href="https://github.com/GAIR-NLP/DrugEvolve">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AnAISystemforAutonomousAlgorithmEvolutioninDrugDevelopment2026-08</guid>
+  </item>
+  <item>
+    <title>Agent-driven Model Development for RNA 3D Structure Prediction</title>
+    <link>https://doi.org/10.64898/2026.09.08.749228</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hervé Minoux</p>
+        <p><b>Domain:</b> RNA 3D structure prediction</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/665529460dd78a8cad094c84593c07487f6cc101">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AgentdrivenModelDevelopmentforRNADStructurePrediction2026-09</guid>
+  </item>
+  <item>
+    <title>From code to natural language: MErlin – a multi-omics toolkit for bacterial epigenomics delivered as Claude agent skill</title>
+    <link>https://doi.org/10.64898/2026.09.02.748773</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Elena Perrin</p>
+        <p><b>Domain:</b> Bacterial epigenomics multi-omics toolkit</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/8e2d941e43c80fdf1aa1d048a9171f7c1f9a25b2">Read the Paper</a></p>
+        <p><a href="https://github.com/IacopoPasseri/MErlin">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FromcodetonaturallanguageMErlinamultiomicstoolkitforbacterialepigenomicsdeliveredasClaudeagentskill2026-09</guid>
+  </item>
+  <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
     <link>https://doi.org/10.1038/s41592-025-02899-6</link>
     <description>
@@ -2119,21 +2248,6 @@
     </description>
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ePGeneralizablepancancerimmunotherapyresponsepredictionusingtheCUREAIlargeclinicogenomicfoundationmodel202509</guid>
-  </item>
-  <item>
-    <title>PlantCAD2: A Long-Context DNA Language Model for Cross-Species Functional Annotation in Angiosperms</title>
-    <link>https://doi.org/10.1101/2025.08.27.672609</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> E. Buckler</p>
-        <p><b>Domain:</b> Plant genomics DNA language model</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/da44248c3ced760711c56032ca91d9f400ecea38">Read the Paper</a></p>
-        <p><a href="https://github.com/plantcad/plantcad2">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">PlantCADALongContextDNALanguageModelforCrossSpeciesFunctionalAnnotationinAngiosperms202509</guid>
   </item>
   <item>
     <title>A foundation model for human-AI collaboration in medical literature mining</title>
@@ -3560,6 +3674,151 @@
     <guid isPermaLink="false">DevelopmentofLargeLanguageModelSpecializedintoMicrobiomeDatasetsanApplicationofSelfEvaluationandScoringComparisonwithConventionalNaturalLanguageProcessingMarkers202601</guid>
   </item>
   <item>
+    <title>A unified vision-language model for precision oncology and biomarker prediction in neuroblastoma</title>
+    <link>https://doi.org/10.1038/s41467-026-74865-5</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Bi-Yue Zhu</p>
+        <p><b>Domain:</b> Neuroblastoma precision oncology (pathology imaging)</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/0fbfb61f90576018d3cb524b1b1cbbd67f68532e">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Aunifiedvisionlanguagemodelforprecisiononcologyandbiomarkerpredictioninneuroblastoma2026-07</guid>
+  </item>
+  <item>
+    <title>ProtSyntax: a protein large language model for decoding post-translational modification syntax and function</title>
+    <link>https://doi.org/10.64898/2026.07.18.739331</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Sen Yang</p>
+        <p><b>Domain:</b> Protein language model (post-translational modification prediction)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/76f60f49c134f5f36aa186669d639589e0908afd">Read the Paper</a></p>
+        <p><a href="https://github.com/Yuqiu-rgb/ProtSyntax">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ProtSyntaxaproteinlargelanguagemodelfordecodingposttranslationalmodificationsyntaxandfunction2026-07</guid>
+  </item>
+  <item>
+    <title>GPCR-SLM: Small Language Model-Based Classification of GPCRs Using Knowledge Distillation Technique.</title>
+    <link>https://doi.org/10.1109/TCBBIO.2026.3718339</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fairuz Shadmani Shishir</p>
+        <p><b>Domain:</b> Protein classification model (GPCR small language model)</p>
+        <p><b>Venue:</b> IEEE transactions on computational biology and bioinformatics</p>
+        <p><a href="https://www.semanticscholar.org/paper/c5e8db9d426262710c64234e17b7f236b1e00759">Read the Paper</a></p>
+        <p><a href="https://github.com/FairuzShadmaniShishir/GPCR-SLM">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GPCRSLMSmallLanguageModelBasedClassificationofGPCRsUsingKnowledgeDistillationTechnique2026-07</guid>
+  </item>
+  <item>
+    <title>Biological Continued Pretraining Reshapes the Capability Profile of a Foundation Model Without Catastrophic Forgetting</title>
+    <link>https://doi.org/10.64898/2026.07.06.736700</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Liang Wang</p>
+        <p><b>Domain:</b> Biomedical foundation model training (biological continued pretraining)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/a955a623dccfc18111d64bda7df675a2753eef34">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BiologicalContinuedPretrainingReshapestheCapabilityProfileofaFoundationModelWithoutCatastrophicForgetting2026-07</guid>
+  </item>
+  <item>
+    <title>Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model</title>
+    <link>https://doi.org/10.64898/2025.12.03.692003</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Teng Wang</p>
+        <p><b>Domain:</b> Prokaryotic genome representation learning</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/1800553d6e0136185bcd79607493d315c7b4c2b1">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DecodingProkaryoticWholeGenomeswithaProductContextualizedLargeLanguageModel2026-08</guid>
+  </item>
+  <item>
+    <title>PlantCAD2: A DNA foundation model for interpreting genomes across flowering plants.</title>
+    <link>https://doi.org/10.1016/j.xgen.2026.101329</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> E. S. Buckler</p>
+        <p><b>Domain:</b> Plant genomics DNA language modeling</p>
+        <p><b>Venue:</b> Cell Genomics</p>
+        <p><a href="https://www.semanticscholar.org/paper/c1c61896fa853c2234f5b522ef0588ab8e3cc346">Read the Paper</a></p>
+        <p><a href="https://github.com/plantcad/plantcad2">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PlantCADADNAfoundationmodelforinterpretinggenomesacrossfloweringplants2026-08</guid>
+  </item>
+  <item>
+    <title>PARNET: A CLIP-SEQ-BASED FOUNDATION MODEL FOR RNA SEQUENCE REPRESENTATION LEARNING</title>
+    <link>https://doi.org/10.64898/2026.08.08.743506</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Annalisa Marsico</p>
+        <p><b>Domain:</b> RNA sequence representation learning</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/369ad10069ac70214f70eb25af25985e8e21dc16">Read the Paper</a></p>
+        <p><a href="https://github.com/mhorlacher/parnet">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">PARNETACLIPSEQBASEDFOUNDATIONMODELFORRNASEQUENCEREPRESENTATIONLEARNING2026-08</guid>
+  </item>
+  <item>
+    <title>CodonMamba: a foundation model for programmable mRNA coding sequence design</title>
+    <link>https://doi.org/10.64898/2026.08.24.746601</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Xiao-Lin Li</p>
+        <p><b>Domain:</b> mRNA coding sequence design (codon language model)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/d12c1ce2315d973967052c4cc1494bf4dedfdcac">Read the Paper</a></p>
+        <p><a href="https://github.com/meilanglang/CodonMamba">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CodonMambaafoundationmodelforprogrammablemRNAcodingsequencedesign2026-08</guid>
+  </item>
+  <item>
+    <title>Large language model-driven knowledge graph learning for herb-macromolecule interaction prediction and functional analysis.</title>
+    <link>https://doi.org/10.1016/j.ijbiomac.2026.154371</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jian-Fu Xia</p>
+        <p><b>Domain:</b> Herb-macromolecule interaction prediction (TCM knowledge graph)</p>
+        <p><b>Venue:</b> International Journal of Biological Macromolecules</p>
+        <p><a href="https://www.semanticscholar.org/paper/472b96a063cfdf01c6937a0a738b7592317c62a9">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodeldrivenknowledgegraphlearningforherbmacromoleculeinteractionpredictionandfunctionalanalysis2026-09</guid>
+  </item>
+  <item>
+    <title>Scaling recipes for single-cell RNA sequencing foundation models: when do scaling laws hold?</title>
+    <link>https://doi.org/10.64898/2026.08.31.747783</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Francesca M. Buffa</p>
+        <p><b>Domain:</b> Single-cell RNA-seq foundation models (scaling laws)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/1c960237c4e8a8856c5edc6615bfbe3add22c043">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ScalingrecipesforsinglecellRNAsequencingfoundationmodelswhendoscalinglawshold2026-09</guid>
+  </item>
+  <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
     <link>https://doi.org/10.64898/2025.12.23.696273</link>
     <description>
@@ -4052,6 +4311,21 @@
     </description>
     <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">hadifyneurosymbolicmetadataharmonizationenablesscalableAnnDataintegrationwithlocallargelanguagemodels202603</guid>
+  </item>
+  <item>
+    <title>TeroSeek: An AI-powered platform integrating literature-derived knowledge base and expert Q&amp;A agent for terpenoid research.</title>
+    <link>https://doi.org/10.1016/j.xplc.2026.102091</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Rui-Bo Wu</p>
+        <p><b>Domain:</b> Terpenoid research knowledge base</p>
+        <p><b>Venue:</b> Plant Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/a832f4fd2de400777ea51e8d90e4e1be9212d0b6">Read the Paper</a></p>
+        <p><a href="https://github.com/qmclab/teroseek">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TeroSeekAnAIpoweredplatformintegratingliteraturederivedknowledgebaseandexpertQAagentforterpenoidresearch2026-09</guid>
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
@@ -4752,6 +5026,20 @@
     </description>
     <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Benchmarkinglargelanguagemodelbasedagentsystemsforclinicaldecisiontasks202602</guid>
+  </item>
+  <item>
+    <title>An embedding-based framework enables statistical testing of gene-set function hypotheses inferred by large language models</title>
+    <link>https://doi.org/10.1038/s41467-026-75972-z</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yu-Chiao Chiu</p>
+        <p><b>Domain:</b> Functional genomics (embedding-based gene-set function testing)</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.semanticscholar.org/paper/4ee3e30c14f90463927180ad11f99b48d0a234f4">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Anembeddingbasedframeworkenablesstatisticaltestingofgenesetfunctionhypothesesinferredbylargelanguagemodels2026-07</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>
@@ -5638,6 +5926,20 @@
     </description>
     <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Artificialintelligenceassociateddelusionsandlargelanguagemodelsrisksmechanismsofdelusioncocreationandsafeguardingstrategies202603</guid>
+  </item>
+  <item>
+    <title>Large language models in bioinformatics: a comprehensive survey</title>
+    <link>https://doi.org/10.3389/fgene.2026.1797863</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jian-Zhen Xu</p>
+        <p><b>Domain:</b> Bioinformatics (LLMs for genomics, proteomics, drug discovery)</p>
+        <p><b>Venue:</b> Frontiers in Genetics</p>
+        <p><a href="https://www.semanticscholar.org/paper/d0cbde3e889ea6b13a602e30282bdcfbe4d268a0">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelsinbioinformaticsacomprehensivesurvey2026-08</guid>
   </item>
 </channel>
 </rss>
