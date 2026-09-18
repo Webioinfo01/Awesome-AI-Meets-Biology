@@ -24,6 +24,25 @@ Deployment is GitHub Pages serving `docs/` (CNAME → awesomebio.webioinfo.top):
 pushing to main IS the deploy. There is no CI — the README/RSS in the push
 must already be rendered.
 
+## Pushing agent candidates to the AgentX hub
+
+Archive papers with a GitHub repo are registry candidates for the AgentX
+hub. Render the candidate queue here, then intake it in the hub checkout:
+
+```bash
+awescholar --config config.json render agentx --archive docs/data.json \
+  --exclude-snapshot <agentx-hub>/website/data/agents-snapshot.json \
+  --category-map map.json -o output/agentx-candidates.json
+cd <agentx-hub>/website && agentx add --from-json <path to agentx-candidates.json>
+```
+
+`--exclude-snapshot` skips repos already registered and validates category
+slugs against the hub snapshot; `--category-map` maps archive categories to
+hub slugs (unmapped entries fall to `--default-category`). Intake re-fetches
+live metrics, re-validates tags/categories, and stamps `listedAt` (the
+hub's inclusion date, drives its Today/New badges). See the awescholar README
+(`render agentx`) for `--llm-category` and the full flag reference.
+
 ## Conventions and gotchas
 
 - `archive.stars_style: "badge"` (config.json): `githubStars` holds
