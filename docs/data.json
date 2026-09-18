@@ -6436,6 +6436,30 @@
       "citations": 0,
       "doi": "",
       "addedAt": "2026-09-17T04:16:56Z"
+    },
+    {
+      "year": "2026.09",
+      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+      "team": "Wang-Han Xu",
+      "authors": [
+        "Koutian Wu",
+        "Jun Zhou",
+        "Er-Gan Shang",
+        "Jia-Yu Wang",
+        "Peng Han",
+        "Jun-Kai Wang",
+        "Wang-Han Xu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Living database and search engine tracking 14,810+ AI benchmarks and evaluation records with daily evidence updates",
+      "venue": "",
+      "paperUrl": "https://doi.org/10.48550/arXiv.2609.11115",
+      "codeUrl": "https://github.com/ktwu01/benchmark-radar",
+      "githubStars": "https://img.shields.io/github/stars/ktwu01/benchmark-radar",
+      "citations": 0,
+      "doi": "10.48550/arXiv.2609.11115",
+      "addedAt": "2026-09-18T02:12:03Z"
     }
   ],
   "Reviews": [

@@ -18,7 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
     <img src="https://img.shields.io/badge/categories-5-7C3AED?style=flat-square" alt="Categories">
-    <img src="https://img.shields.io/badge/papers-446-0EA5E9?style=flat-square" alt="Papers">
+    <img src="https://img.shields.io/badge/papers-447-0EA5E9?style=flat-square" alt="Papers">
     <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
@@ -38,17 +38,17 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 ## 🌐 Browse the Collection
 
-All 446 papers live on the [website](http://awesomebio.webioinfo.top/) — with instant search across papers, teams, domains and venues, category tabs, and per-year statistics:
+All 447 papers live on the [website](http://awesomebio.webioinfo.top/) — with instant search across papers, teams, domains and venues, category tabs, and per-year statistics:
 
 **→ http://awesomebio.webioinfo.top/**
 
 - 🌟 [AI Agents](http://awesomebio.webioinfo.top/#ai-agents) — 143 papers
 - 🎯 [Foundation models](http://awesomebio.webioinfo.top/#foundation-models) — 144 papers
 - 💾 [Databases/Simulation](http://awesomebio.webioinfo.top/#databases) — 36 papers
-- 📊 [Benchmarks](http://awesomebio.webioinfo.top/#benchmarks) — 55 papers
+- 📊 [Benchmarks](http://awesomebio.webioinfo.top/#benchmarks) — 56 papers
 - 📚 [Reviews](http://awesomebio.webioinfo.top/#reviews) — 68 papers
 
-Machine-readable data: [`docs/data.json`](docs/data.json) — 446 entries with full metadata (team, affiliation, venue, code links).
+Machine-readable data: [`docs/data.json`](docs/data.json) — 447 entries with full metadata (team, affiliation, venue, code links).
 
 
 ## Other Awesome Projects
