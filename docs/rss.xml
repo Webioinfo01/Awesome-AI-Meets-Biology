@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 18 Sep 2026 07:19:39 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 07:57:54 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -5522,6 +5522,20 @@
     </description>
     <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">BenchmarkRadarALivingDatabaseandSearchEngineforAIBenchmarksandEvaluation202609</guid>
+  </item>
+  <item>
+    <title>An open benchmark and language models for AI in aging biology</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.026</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fedor Galkin</p>
+        <p><b>Domain:</b> Benchmark</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.026">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AnopenbenchmarkandlanguagemodelsforAIinagingbiology202609</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>

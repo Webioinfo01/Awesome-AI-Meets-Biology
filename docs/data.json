@@ -6482,6 +6482,36 @@
       "citations": 0,
       "doi": "10.48550/arXiv.2609.11115",
       "addedAt": "2026-09-18T02:12:03Z"
+    },
+    {
+      "year": "2026.09",
+      "title": "An open benchmark and language models for AI in aging biology",
+      "team": "Fedor Galkin",
+      "authors": [
+        "Alex Zhavoronkov",
+        "Vladimir Naumov",
+        "Denis Sidorenko",
+        "Alex Aliper",
+        "Vladimir Aladinskiy",
+        "Ramin Hasani",
+        "Alexander Amini",
+        "Katerina Nasto",
+        "Mathieu Reymond",
+        "Rim Shayakhmetov",
+        "Zulfat Miftakhutdinov",
+        "Vadim N. Gladyshev",
+        "Fedor Galkin"
+      ],
+      "team website": "",
+      "affiliation": "INSEAD",
+      "domain": "Benchmark",
+      "venue": "Cell",
+      "paperUrl": "https://doi.org/10.1016/j.cell.2026.08.026",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1016/j.cell.2026.08.026",
+      "addedAt": "2026-09-18T07:56:31Z"
     }
   ],
   "Reviews": [
