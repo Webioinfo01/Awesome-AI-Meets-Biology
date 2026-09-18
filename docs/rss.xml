@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 18 Sep 2026 02:13:59 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 07:19:39 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2078,6 +2078,21 @@
     </description>
     <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ReimaginingresearchpapersasinteractiveandreliableAIagents202609</guid>
+  </item>
+  <item>
+    <title>The Virtual Biotech: A Multi-Agent AI Framework for Therapeutic Discovery and Development</title>
+    <link>https://doi.org/10.64898/2026.02.23.707551</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> James Zou</p>
+        <p><b>Domain:</b> Drug Discovery</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.02.23.707551">Read the Paper</a></p>
+        <p><a href="https://github.com/harrisongzhang/TheVirtualBiotech">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">TheVirtualBiotechAMultiAgentAIFrameworkforTherapeuticDiscoveryandDevelopment202602</guid>
   </item>
   <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
@@ -5500,6 +5515,7 @@
       <![CDATA[
         <p><b>Team:</b> Wang-Han Xu</p>
         <p><b>Domain:</b> Living database and search engine tracking 14,810+ AI benchmarks and evaluation records with daily evidence updates</p>
+        <p><b>Venue:</b> arXiv</p>
         <p><a href="https://doi.org/10.48550/arXiv.2609.11115">Read the Paper</a></p>
         <p><a href="https://github.com/ktwu01/benchmark-radar">Code</a></p>
       ]]>

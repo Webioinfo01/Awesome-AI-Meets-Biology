@@ -2380,6 +2380,28 @@
       "citations": 0,
       "doi": "10.1038/s41586-026-11044-y",
       "addedAt": "2026-09-17T23:58:24Z"
+    },
+    {
+      "year": "2026.02",
+      "title": "The Virtual Biotech: A Multi-Agent AI Framework for Therapeutic Discovery and Development",
+      "team": "James Zou",
+      "authors": [
+        "Harrison G. Zhang",
+        "P. Eckmann",
+        "Jia-Cheng Miao",
+        "Andrew B. Mahon",
+        "James Zou"
+      ],
+      "team website": "",
+      "affiliation": "Department of Biomedical Data Science, Stanford University, Department of Computer Science, Stanford University",
+      "domain": "Drug Discovery",
+      "venue": "bioRxiv",
+      "paperUrl": "https://doi.org/10.64898/2026.02.23.707551",
+      "codeUrl": "https://github.com/harrisongzhang/TheVirtualBiotech",
+      "githubStars": "https://img.shields.io/github/stars/harrisongzhang/TheVirtualBiotech",
+      "citations": 8,
+      "doi": "10.64898/2026.02.23.707551",
+      "addedAt": "2026-09-18T07:19:05Z"
     }
   ],
   "Foundation models": [
