@@ -6502,13 +6502,13 @@
         "Vadim N. Gladyshev",
         "Fedor Galkin"
       ],
-      "team website": "",
-      "affiliation": "INSEAD",
+      "team website": "https://longevitybenchmarks.org/",
+      "affiliation": "Insilico Medicine",
       "domain": "Benchmark",
       "venue": "Cell",
       "paperUrl": "https://doi.org/10.1016/j.cell.2026.08.026",
-      "codeUrl": "",
-      "githubStars": "",
+      "codeUrl": "https://github.com/Insilico-org/longeclaw",
+      "githubStars": "https://img.shields.io/github/stars/Insilico-org/longeclaw",
       "citations": 1,
       "doi": "10.1016/j.cell.2026.08.026",
       "addedAt": "2026-09-18T07:56:31Z"
