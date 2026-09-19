@@ -5022,6 +5022,30 @@
       "githubStars": "",
       "citations": 1,
       "doi": "10.1038/s41467-026-74120-x"
+    },
+    {
+      "year": "2026.05",
+      "title": "Bridging antiviral drug discovery with a large language model-powered framework",
+      "team": "Qinghua Cui",
+      "authors": [
+        "Boming Kang",
+        "Yang Zhao",
+        "Xingyu Chen",
+        "Rui Fan",
+        "Chun-Mei Cui",
+        "Fuping You",
+        "Qinghua Cui"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "LLM-powered antiviral drug discovery framework (DeepAVC: phenotype- and target-based, PBDD+TBDD)",
+      "venue": "Communications Biology",
+      "paperUrl": "https://doi.org/10.1038/s42003-026-10291-z",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1038/s42003-026-10291-z",
+      "addedAt": "2026-09-19T03:21:08Z"
     }
   ],
   "Databases/Simulation": [

@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 18 Sep 2026 08:03:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 03:21:58 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -4197,6 +4197,20 @@
     </description>
     <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AgeneralistbiomedicalvisionlanguagemodelviamultiCLIPknowledgedistillation2026-06</guid>
+  </item>
+  <item>
+    <title>Bridging antiviral drug discovery with a large language model-powered framework</title>
+    <link>https://doi.org/10.1038/s42003-026-10291-z</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Qinghua Cui</p>
+        <p><b>Domain:</b> LLM-powered antiviral drug discovery framework (DeepAVC: phenotype- and target-based, PBDD+TBDD)</p>
+        <p><b>Venue:</b> Communications Biology</p>
+        <p><a href="https://doi.org/10.1038/s42003-026-10291-z">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Bridgingantiviraldrugdiscoverywithalargelanguagemodelpoweredframework202605</guid>
   </item>
   <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
