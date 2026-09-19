@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 19 Sep 2026 03:25:22 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 06:01:48 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -4213,6 +4213,36 @@
     <guid isPermaLink="false">Bridgingantiviraldrugdiscoverywithalargelanguagemodelpoweredframework202605</guid>
   </item>
   <item>
+    <title>Advancing cancer detection and treatment using longitudinal routine clinical data.</title>
+    <link>https://doi.org/10.1016/j.cell.2026.07.009</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Kang Zhang</p>
+        <p><b>Domain:</b> Multimodal EHR/imaging model for cancer detection, prediction, and treatment stratification</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.07.009">Read the Paper</a></p>
+        <p><a href="https://github.com/kaiwang13/Oncoformer">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Advancingcancerdetectionandtreatmentusinglongitudinalroutineclinicaldata202607</guid>
+  </item>
+  <item>
+    <title>4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.028</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Johannes Schöneberg</p>
+        <p><b>Domain:</b> 4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.028">Read the Paper</a></p>
+        <p><a href="https://github.com/schoeneberglab/MitoSpace4D">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Dspatiotemporallandscapeofmitochondrialphenotypesacrosscellularstatesunlockedthroughrepresentationlearning202609</guid>
+  </item>
+  <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
     <link>https://doi.org/10.64898/2025.12.23.696273</link>
     <description>
@@ -5553,6 +5583,20 @@
     <guid isPermaLink="false">AnopenbenchmarkandlanguagemodelsforAIinagingbiology202609</guid>
   </item>
   <item>
+    <title>Virtual Cell Challenge 2026: Benchmarking zero-shot generalization across cellular contexts.</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.004</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hani Goodarzi</p>
+        <p><b>Domain:</b> perturbation scRNA</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.004">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">VirtualCellChallengeBenchmarkingzeroshotgeneralizationacrosscellularcontexts202608</guid>
+  </item>
+  <item>
     <title>From foundation models to autonomous agents in biology</title>
     <link>https://doi.org/10.48130/gcomm-0026-0005</link>
     <description>
@@ -6549,6 +6593,90 @@
     </description>
     <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">NextgenerationAIassisteddrugdesignagainstcancerlargelanguagemodelsmeetconventionalinsilicomethods202602</guid>
+  </item>
+  <item>
+    <title>Fifteen challenges for generative AI applications to cell biology.</title>
+    <link>https://doi.org/10.1016/j.cell.2026.07.004</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Andrea Califano</p>
+        <p><b>Domain:</b> Generative AI for cell biology</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.07.004">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FifteenchallengesforgenerativeAIapplicationstocellbiology202608</guid>
+  </item>
+  <item>
+    <title>Why machines don&#x27;t speak biology: Toward native biological language models.</title>
+    <link>https://doi.org/10.1016/j.cell.2026.07.003</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Tanay</p>
+        <p><b>Domain:</b> Biological foundation models / AI models of biology</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.07.003">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">WhymachinesdontspeakbiologyTowardnativebiologicallanguagemodels202607</guid>
+  </item>
+  <item>
+    <title>Evolving Cell with evolving science</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.040</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> John W. Pham</p>
+        <p><b>Domain:</b> General biomedical science / journal editorial</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.040">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">EvolvingCellwithevolvingscience202609</guid>
+  </item>
+  <item>
+    <title>A world model of the virtual cell</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.042</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Le Song</p>
+        <p><b>Domain:</b> Virtual cell modeling</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.042">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Aworldmodelofthevirtualcell202609</guid>
+  </item>
+  <item>
+    <title>World models for biomedicine</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.032</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Marinka Zitnik</p>
+        <p><b>Domain:</b> AI world models for biomedicine</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.032">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Worldmodelsforbiomedicine202609</guid>
+  </item>
+  <item>
+    <title>Avoiding common failures in AI for health and medicine</title>
+    <link>https://doi.org/10.1016/j.cell.2026.07.025</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Marzyeh Ghassemi</p>
+        <p><b>Domain:</b> AI for health and medicine</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.07.025">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AvoidingcommonfailuresinAIforhealthandmedicine202609</guid>
   </item>
 </channel>
 </rss>
