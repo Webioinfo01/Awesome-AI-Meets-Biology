@@ -7545,6 +7545,64 @@
       "githubStars": "",
       "citations": "",
       "doi": "10.1038/s41746-026-02787-z"
+    },
+    {
+      "year": "2026.03",
+      "title": "Large language models in healthcare",
+      "team": "J. Kather",
+      "authors": [
+        "D. Truhn",
+        "J. Kather"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "LLM in Healthcare",
+      "venue": "Nature Reviews Nephrology",
+      "paperUrl": "https://doi.org/10.1038/s41581-026-01071-3",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1038/s41581-026-01071-3",
+      "addedAt": "2026-09-19T03:24:04Z"
+    },
+    {
+      "year": "2026.06",
+      "title": "AI foundation models in plant biology.",
+      "team": "Haopeng Yu",
+      "authors": [
+        "Haopeng Yu"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Foundation models in Plant Biology (multi-modal: genomic/protein/vision/single-cell)",
+      "venue": "New Phytologist",
+      "paperUrl": "https://doi.org/10.1111/nph.71395",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1111/nph.71395",
+      "addedAt": "2026-09-19T03:24:04Z"
+    },
+    {
+      "year": "2026.02",
+      "title": "Next-generation AI-assisted drug design against cancer: large language models meet conventional in silico methods",
+      "team": "Alireza Poustforoosh",
+      "authors": [
+        "Elina Khanehzar",
+        "F. Shams",
+        "Amirsajad Jafari",
+        "Alireza Poustforoosh"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Drug Discovery (AI-assisted drug design with LLMs)",
+      "venue": "In Silico Pharmacology",
+      "paperUrl": "https://doi.org/10.1007/s40203-026-00582-y",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 2,
+      "doi": "10.1007/s40203-026-00582-y",
+      "addedAt": "2026-09-19T03:24:04Z"
     }
   ]
 }

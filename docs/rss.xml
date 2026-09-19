@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 19 Sep 2026 03:21:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 03:25:22 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -6507,6 +6507,48 @@
     </description>
     <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ExpertperspectivesonUSregulatoryapproachestolargelanguagemodelsinhealthcare2026-05</guid>
+  </item>
+  <item>
+    <title>Large language models in healthcare</title>
+    <link>https://doi.org/10.1038/s41581-026-01071-3</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> J. Kather</p>
+        <p><b>Domain:</b> LLM in Healthcare</p>
+        <p><b>Venue:</b> Nature Reviews Nephrology</p>
+        <p><a href="https://doi.org/10.1038/s41581-026-01071-3">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Largelanguagemodelsinhealthcare202603</guid>
+  </item>
+  <item>
+    <title>AI foundation models in plant biology.</title>
+    <link>https://doi.org/10.1111/nph.71395</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Haopeng Yu</p>
+        <p><b>Domain:</b> Foundation models in Plant Biology (multi-modal: genomic/protein/vision/single-cell)</p>
+        <p><b>Venue:</b> New Phytologist</p>
+        <p><a href="https://doi.org/10.1111/nph.71395">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIfoundationmodelsinplantbiology202606</guid>
+  </item>
+  <item>
+    <title>Next-generation AI-assisted drug design against cancer: large language models meet conventional in silico methods</title>
+    <link>https://doi.org/10.1007/s40203-026-00582-y</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Alireza Poustforoosh</p>
+        <p><b>Domain:</b> Drug Discovery (AI-assisted drug design with LLMs)</p>
+        <p><b>Venue:</b> In Silico Pharmacology</p>
+        <p><a href="https://doi.org/10.1007/s40203-026-00582-y">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">NextgenerationAIassisteddrugdesignagainstcancerlargelanguagemodelsmeetconventionalinsilicomethods202602</guid>
   </item>
 </channel>
 </rss>
