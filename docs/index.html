@@ -945,7 +945,12 @@
                 const sectionId = categoryToSectionId(sectionKey);
                 const tbody = document.getElementById(`${sectionId}-tbody`);
                 if (tbody) {
-                    tbody.innerHTML = projectData[sectionKey].map(item => createTableRow(item, sectionId)).join('');
+                    const sectionItems = [...projectData[sectionKey]].sort((a, b) => {
+                        const yA = parseFloat(a.year);
+                        const yB = parseFloat(b.year);
+                        return yB - yA;
+                    });
+                    tbody.innerHTML = sectionItems.map(item => createTableRow(item, sectionId)).join('');
                     addShowMoreButton(tbody);
                 }
             });
