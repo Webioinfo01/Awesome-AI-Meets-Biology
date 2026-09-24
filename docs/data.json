@@ -2402,6 +2402,43 @@
       "citations": 8,
       "doi": "10.64898/2026.02.23.707551",
       "addedAt": "2026-09-18T07:19:05Z"
+    },
+    {
+      "year": "2026.06",
+      "title": "Towards autonomous medical artificial intelligence agents",
+      "team": "J. Kather",
+      "authors": [
+        "Dyke Ferber",
+        "L. Hilgers",
+        "Christiane Höper",
+        "B. Kinny-Köster",
+        "J. Eckardt",
+        "K. Egger-Heidrich",
+        "Marius Bill",
+        "M. Schneider",
+        "J. Clusmann",
+        "Lejla Kadric",
+        "Marcel Oehme",
+        "Maximilian Mayrhofer-Schmid",
+        "Alexander Oeser",
+        "G. Wölflein",
+        "I. Wiest",
+        "J. Middeke",
+        "A. Iafrate",
+        "D. Truhn",
+        "Dirk Jaeger",
+        "J. Kather"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "",
+      "venue": "Nature",
+      "paperUrl": "https://doi.org/10.1038/s41586-026-10675-5",
+      "codeUrl": "https://github.com/Dyke-F/MIRA",
+      "githubStars": "https://img.shields.io/github/stars/Dyke-F/MIRA",
+      "citations": 31,
+      "doi": "10.1038/s41586-026-10675-5",
+      "addedAt": "2026-09-24T08:26:23Z"
     }
   ],
   "Foundation models": [
