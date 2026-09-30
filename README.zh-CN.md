@@ -18,7 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
     <img src="https://img.shields.io/badge/categories-5-7C3AED?style=flat-square" alt="Categories">
-    <img src="https://img.shields.io/badge/papers-464-0EA5E9?style=flat-square" alt="Papers">
+    <img src="https://img.shields.io/badge/papers-465-0EA5E9?style=flat-square" alt="Papers">
     <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
@@ -37,7 +37,7 @@
 
 ## 🌐 浏览全部内容
 
-全部 464 篇论文都在[网站](http://awesomebio.webioinfo.top/)上 — 支持按论文、团队、领域、期刊即时搜索，分类切换和年度统计：
+全部 465 篇论文都在[网站](http://awesomebio.webioinfo.top/)上 — 支持按论文、团队、领域、期刊即时搜索，分类切换和年度统计：
 
 **→ http://awesomebio.webioinfo.top/**
 

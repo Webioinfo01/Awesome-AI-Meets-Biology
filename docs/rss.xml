@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 24 Sep 2026 08:27:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 01:09:52 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2056,6 +2056,7 @@
     <description>
       <![CDATA[
         <p><b>Team:</b> Mirco J. Friedrich</p>
+        <p><b>Domain:</b> case-grounded clinical decision support for hematological malignancies</p>
         <p><b>Venue:</b> Nature Medicine</p>
         <p><a href="https://doi.org/10.1038/s41591-026-04494-4">Read the Paper</a></p>
         <p><a href="https://github.com/Friedrich-Lab/HemaGuide">Code</a></p>
@@ -2100,6 +2101,7 @@
     <description>
       <![CDATA[
         <p><b>Team:</b> J. Kather</p>
+        <p><b>Domain:</b> EHR-integrated medical AI agent for autonomous clinical reasoning, diagnosis and safety</p>
         <p><b>Venue:</b> Nature</p>
         <p><a href="https://doi.org/10.1038/s41586-026-10675-5">Read the Paper</a></p>
         <p><a href="https://github.com/Dyke-F/MIRA">Code</a></p>
@@ -4794,6 +4796,21 @@
     </description>
     <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">SystematicfunctionalannotationofthousandsofBAHDacyltransferasesinplantgenomesusingProteinLanguageModelandphylogenomictools2026-06</guid>
+  </item>
+  <item>
+    <title>Whole-cell particle-based digital twin simulations from 4D lattice light-sheet microscopy data</title>
+    <link>https://doi.org/10.1016/j.cell.2026.06.010</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Johannes Schöneberg</p>
+        <p><b>Domain:</b> Whole-cell modeling/simulation (particle-based digital twins from 4D lattice light-sheet microscopy)</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.06.010">Read the Paper</a></p>
+        <p><a href="https://github.com/schoeneberglab/readdy-cell">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">WholecellparticlebaseddigitaltwinsimulationsfromDlatticelightsheetmicroscopydata202607</guid>
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>

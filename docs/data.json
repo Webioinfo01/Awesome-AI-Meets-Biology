@@ -5757,6 +5757,27 @@
       "githubStars": "",
       "citations": 0,
       "doi": "10.64898/2026.06.09.730906"
+    },
+    {
+      "year": "2026.07",
+      "title": "Whole-cell particle-based digital twin simulations from 4D lattice light-sheet microscopy data",
+      "team": "Johannes Schöneberg",
+      "authors": [
+        "Eric Arkfeld",
+        "Zichen Wang",
+        "Hiroyuki Hakozaki",
+        "Johannes Schöneberg"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Whole-cell modeling/simulation (particle-based digital twins from 4D lattice light-sheet microscopy)",
+      "venue": "Cell",
+      "paperUrl": "https://doi.org/10.1016/j.cell.2026.06.010",
+      "codeUrl": "https://github.com/schoeneberglab/readdy-cell",
+      "githubStars": "https://img.shields.io/github/stars/schoeneberglab/readdy-cell",
+      "citations": 0,
+      "doi": "10.1016/j.cell.2026.06.010",
+      "addedAt": "2026-09-30T01:09:37Z"
     }
   ],
   "Benchmarks": [
