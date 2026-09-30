@@ -17,7 +17,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
-    <img src="https://img.shields.io/badge/categories-5-7C3AED?style=flat-square" alt="Categories">
+    <img src="https://img.shields.io/badge/categories-6-7C3AED?style=flat-square" alt="Categories">
     <img src="https://img.shields.io/badge/papers-465-0EA5E9?style=flat-square" alt="Papers">
     <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
@@ -27,7 +27,7 @@
 
 本项目由我们自主研发的 AI agent 和人类专家以人机协同（human-in-the-loop）的方式共同维护，结合自动化发现与专家审核，提供 AI 在生物学、生物信息学和生物医学研究中的全面综述。论文发现、标注和筛选由 [awescholar](https://github.com/Webioinfo01/awescholar) — 一个 AI agent 可操作的科学文献策展工具驱动。技能管理通过 [aweskill](https://aweskill.webioinfo.top/) 实现。
 
-本仓库将 AI 在生物学/生物医学/生物信息学研究中的应用分为五大类别："AI Agents"、"Foundation models"、"Databases/Simulation"、"Benchmarks" 和 "Reviews"。
+本仓库将 AI 在生物学/生物医学/生物信息学研究中的应用分为六大类别："AI Agents"、"Foundation models"、"Other Models"、"Databases/Simulation"、"Benchmarks" 和 "Reviews"。
 
 ## 📋 目录
 - [🌐 浏览全部内容](#浏览全部内容)
@@ -42,7 +42,8 @@
 **→ http://awesomebio.webioinfo.top/**
 
 - 🌟 [AI Agents（智能体）](http://awesomebio.webioinfo.top/#ai-agents) — 145 篇
-- 🎯 [Foundation models（基础模型）](http://awesomebio.webioinfo.top/#foundation-models) — 148 篇
+- 🎯 [Foundation models（基础模型）](http://awesomebio.webioinfo.top/#foundation-models) — 142 篇
+- 🧩 [Other Models（其他模型）](http://awesomebio.webioinfo.top/#other-models) — 6 篇
 - 💾 [Databases/Simulation（数据库/模拟）](http://awesomebio.webioinfo.top/#databases) — 36 篇
 - 📊 [Benchmarks（基准测试）](http://awesomebio.webioinfo.top/#benchmarks) — 58 篇
 - 📚 [Reviews（综述）](http://awesomebio.webioinfo.top/#reviews) — 77 篇

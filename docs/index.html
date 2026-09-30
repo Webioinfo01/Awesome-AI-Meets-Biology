@@ -627,6 +627,9 @@
             <a href="#foundation-models" class="nav-tab" data-section="foundation-models">
                 <i class="fas fa-brain"></i> Foundation Models (<span id="foundation-models-nav-count"></span>)
             </a>
+            <a href="#other-models" class="nav-tab" data-section="other-models">
+                <i class="fas fa-cubes"></i> Other Models (<span id="other-models-nav-count"></span>)
+            </a>
             <a href="#databases" class="nav-tab" data-section="databases">
                 <i class="fas fa-database"></i> Databases (<span id="databases-nav-count"></span>)
             </a>
@@ -720,6 +723,32 @@
                                 </tr>
                             </thead>
                             <tbody id="foundation-models-tbody">
+                                <!-- Data will be populated by JavaScript -->
+                            </tbody>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Other Models Section -->
+                <section class="section" id="other-models">
+                    <div class="section-header">
+                        <i class="fas fa-cubes"></i>
+                        <h2 class="section-title">Other Models</h2>
+                        <span class="section-count" id="other-models-section-count"></span>
+                    </div>
+                    <div class="table-container">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Year</th>
+                                    <th>Title</th>
+                                    <th>Team</th>
+                                    <th>Domain</th>
+                                    <th>Venue</th>
+                                    <th>Links</th>
+                                </tr>
+                            </thead>
+                            <tbody id="other-models-tbody">
                                 <!-- Data will be populated by JavaScript -->
                             </tbody>
                         </table>
@@ -838,6 +867,7 @@
             const mapping = {
                 'ai agents': 'ai-agents',
                 'foundation models': 'foundation-models',
+                'other models': 'other-models',
                 'databases/simulation': 'databases',
                 'benchmarks': 'benchmarks',
                 'reviews': 'reviews'
@@ -1028,6 +1058,7 @@
             const categoryNames = {
                 'ai-agents': 'AI Agents',
                 'foundation-models': 'Foundation Models',
+                'other-models': 'Other Models',
                 'databases': 'Databases',
                 'benchmarks': 'Benchmarks',
                 'reviews': 'Reviews'
@@ -1123,11 +1154,12 @@
             categoryChart = new Chart(categoryCtx, {
                 type: 'doughnut',
                 data: {
-                    labels: ["AI Agents", "Foundation Models", "Databases/Simulation", "Benchmarks", "Reviews"],
+                    labels: ["AI Agents", "Foundation Models", "Other Models", "Databases/Simulation", "Benchmarks", "Reviews"],
                     datasets: [{
                         data: [
                             stats["ai-agents"],
                             stats["foundation-models"],
+                            stats["other-models"],
                             stats["databases"],
                             stats["benchmarks"],
                             stats["reviews"]
@@ -1135,6 +1167,7 @@
                         backgroundColor: [
                             '#667eea',
                             '#764ba2',
+                            '#a855f7',
                             '#f5576c',
                             '#4facfe',
                             '#43e97b'

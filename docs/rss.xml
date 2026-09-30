@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 30 Sep 2026 01:09:52 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 03:08:00 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2428,21 +2428,6 @@
     <guid isPermaLink="false">NephrobaseCellMultimodalSingleCellFoundationModelforDecodingKidneyBiology202509</guid>
   </item>
   <item>
-    <title>GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks</title>
-    <link>https://doi.org/10.1186/s13059-025-03749-6</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Fatemeh Vafaee</p>
-        <p><b>Domain:</b> Bulk RNA embedding</p>
-        <p><b>Venue:</b> Genome Biology</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/40983974/">Read the Paper</a></p>
-        <p><a href="https://github.com/suzheng/GeneRAIN">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">GeneRAINmultifacetedrepresentationofgenesviadeeplearningofgeneexpressionnetworks202509</guid>
-  </item>
-  <item>
     <title>202eP Generalizable pan-cancer immunotherapy response prediction using the CURE AI large clinicogenomic foundation model</title>
     <link>https://doi.org/10.1016/j.annonc.2025.08.635</link>
     <description>
@@ -2599,21 +2584,6 @@
     </description>
     <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">ODFormeraVirtualOrganoidforPredictingPersonalizedTherapeuticResponsesinPancreaticCancer202507</guid>
-  </item>
-  <item>
-    <title>Scalable emulation of protein equilibrium ensembles with generative deep learning</title>
-    <link>https://doi.org/10.1126/science.adv9817</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Microsoft Research(Frank Noé)</p>
-        <p><b>Domain:</b> Protein</p>
-        <p><b>Venue:</b> Science</p>
-        <p><a href="https://www.science.org/doi/10.1126/science.adv9817">Read the Paper</a></p>
-        <p><a href="https://github.com/microsoft/bioemu">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Scalableemulationofproteinequilibriumensembleswithgenerativedeeplearning202507</guid>
   </item>
   <item>
     <title>Spatia: Multimodal Model for Prediction and Generation of Spatial Cell Phenotypes</title>
@@ -2854,20 +2824,6 @@
     <guid isPermaLink="false">LlamaAffinityAPredictiveAntibodyAntigenBindingModelIntegratingAntibodySequenceswithLlamaBackboneArchitecture202505</guid>
   </item>
   <item>
-    <title>GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype</title>
-    <link>https://doi.org/10.48550/arXiv.2505.03853</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Stan Z. Li</p>
-        <p><b>Domain:</b> Graph representation learning for genetic perturbation integrating LLM and DNA features</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">GRAPEHeterogeneousGraphRepresentationLearningforGeneticPerturbationwithCodingandNonCodingBiotype202505</guid>
-  </item>
-  <item>
     <title>Scaling Large Language Models for Next-Generation Single-Cell Analysis</title>
     <link>https://doi.org/10.1101/2025.04.14.648850</link>
     <description>
@@ -2924,20 +2880,6 @@
     </description>
     <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AbstractPredictiveperformancecomparisonoffoundationalandCNNmodelsforsinglecellimmuneprofiling202504</guid>
-  </item>
-  <item>
-    <title>Abstract 5059: Self-supervised representation learning of somatic mutational data</title>
-    <link>https://doi.org/10.1158/1538-7445.am2025-5059</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Etai Jacob</p>
-        <p><b>Domain:</b> Self-supervised Representation Learning for Somatic Mutation Data</p>
-        <p><b>Venue:</b> Cancer Research</p>
-        <p><a href="https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">AbstractSelfsupervisedrepresentationlearningofsomaticmutationaldata202504</guid>
   </item>
   <item>
     <title>dGeneralized Biological Foundation Model with Unified Nucleic Acid and Protein Language</title>
@@ -3160,21 +3102,6 @@
     </description>
     <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Simulatingmillionyearsofevolutionwithalanguagemodel202501</guid>
-  </item>
-  <item>
-    <title>Predicting cell morphological responses to perturbations using generative modeling</title>
-    <link>https://doi.org/10.1038/s41467-024-55707-8</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Fabian J. Theis, Mohammad Lotfollahi</p>
-        <p><b>Domain:</b> phenotype morphological responses to perturbation</p>
-        <p><b>Venue:</b> Nature Communications</p>
-        <p><a href="https://www.nature.com/articles/s41467-024-55707-8">Read the Paper</a></p>
-        <p><a href="https://github.com/theislab/IMPA">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Predictingcellmorphologicalresponsestoperturbationsusinggenerativemodeling202501</guid>
   </item>
   <item>
     <title>Improving functional protein generation via foundation model-derived latent space likelihood optimization</title>
@@ -4244,6 +4171,21 @@
     <guid isPermaLink="false">Advancingcancerdetectionandtreatmentusinglongitudinalroutineclinicaldata202607</guid>
   </item>
   <item>
+    <title>Chemist-aligned retrosynthesis by ensembling diverse inductive bias models</title>
+    <link>https://doi.org/10.1038/s41586-026-11160-9</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Marwin H. S. Segler</p>
+        <p><b>Domain:</b> RetroChimera: frontier retrosynthesis model ensembling two submodels with complementary inductive biases; preferred by chemists over reference routes, with zero-shot transfer to pharma internal datasets.</p>
+        <p><b>Venue:</b> Nature</p>
+        <p><a href="https://doi.org/10.1038/s41586-026-11160-9">Read the Paper</a></p>
+        <p><a href="https://github.com/microsoft/retrochimera">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Chemistalignedretrosynthesisbyensemblingdiverseinductivebiasmodels202609</guid>
+  </item>
+  <item>
     <title>4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.</title>
     <link>https://doi.org/10.1016/j.cell.2026.08.028</link>
     <description>
@@ -4259,19 +4201,77 @@
     <guid isPermaLink="false">Dspatiotemporallandscapeofmitochondrialphenotypesacrosscellularstatesunlockedthroughrepresentationlearning202609</guid>
   </item>
   <item>
-    <title>Chemist-aligned retrosynthesis by ensembling diverse inductive bias models</title>
-    <link>https://doi.org/10.1038/s41586-026-11160-9</link>
+    <title>GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks</title>
+    <link>https://doi.org/10.1186/s13059-025-03749-6</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> Marwin H. S. Segler</p>
-        <p><b>Domain:</b> RetroChimera: frontier retrosynthesis model ensembling two submodels with complementary inductive biases; preferred by chemists over reference routes, with zero-shot transfer to pharma internal datasets.</p>
-        <p><b>Venue:</b> Nature</p>
-        <p><a href="https://doi.org/10.1038/s41586-026-11160-9">Read the Paper</a></p>
-        <p><a href="https://github.com/microsoft/retrochimera">Code</a></p>
+        <p><b>Team:</b> Fatemeh Vafaee</p>
+        <p><b>Domain:</b> Bulk RNA embedding</p>
+        <p><b>Venue:</b> Genome Biology</p>
+        <p><a href="https://pubmed.ncbi.nlm.nih.gov/40983974/">Read the Paper</a></p>
+        <p><a href="https://github.com/suzheng/GeneRAIN">Code</a></p>
       ]]>
     </description>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Chemistalignedretrosynthesisbyensemblingdiverseinductivebiasmodels202609</guid>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GeneRAINmultifacetedrepresentationofgenesviadeeplearningofgeneexpressionnetworks202509</guid>
+  </item>
+  <item>
+    <title>Scalable emulation of protein equilibrium ensembles with generative deep learning</title>
+    <link>https://doi.org/10.1126/science.adv9817</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Microsoft Research(Frank Noé)</p>
+        <p><b>Domain:</b> Protein</p>
+        <p><b>Venue:</b> Science</p>
+        <p><a href="https://www.science.org/doi/10.1126/science.adv9817">Read the Paper</a></p>
+        <p><a href="https://github.com/microsoft/bioemu">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Scalableemulationofproteinequilibriumensembleswithgenerativedeeplearning202507</guid>
+  </item>
+  <item>
+    <title>GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype</title>
+    <link>https://doi.org/10.48550/arXiv.2505.03853</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Stan Z. Li</p>
+        <p><b>Domain:</b> Graph representation learning for genetic perturbation integrating LLM and DNA features</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">GRAPEHeterogeneousGraphRepresentationLearningforGeneticPerturbationwithCodingandNonCodingBiotype202505</guid>
+  </item>
+  <item>
+    <title>Abstract 5059: Self-supervised representation learning of somatic mutational data</title>
+    <link>https://doi.org/10.1158/1538-7445.am2025-5059</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Etai Jacob</p>
+        <p><b>Domain:</b> Self-supervised Representation Learning for Somatic Mutation Data</p>
+        <p><b>Venue:</b> Cancer Research</p>
+        <p><a href="https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AbstractSelfsupervisedrepresentationlearningofsomaticmutationaldata202504</guid>
+  </item>
+  <item>
+    <title>Predicting cell morphological responses to perturbations using generative modeling</title>
+    <link>https://doi.org/10.1038/s41467-024-55707-8</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis, Mohammad Lotfollahi</p>
+        <p><b>Domain:</b> phenotype morphological responses to perturbation</p>
+        <p><b>Venue:</b> Nature Communications</p>
+        <p><a href="https://www.nature.com/articles/s41467-024-55707-8">Read the Paper</a></p>
+        <p><a href="https://github.com/theislab/IMPA">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Predictingcellmorphologicalresponsestoperturbationsusinggenerativemodeling202501</guid>
   </item>
   <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>

@@ -2751,20 +2751,6 @@
     },
     {
       "year": "2025.09",
-      "title": "GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks",
-      "team": "Fatemeh Vafaee",
-      "team website": "",
-      "affiliation": "UNSW Sydney",
-      "domain": "Bulk RNA embedding",
-      "venue": "Genome Biology",
-      "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40983974/",
-      "codeUrl": "https://github.com/suzheng/GeneRAIN",
-      "githubStars": "https://img.shields.io/github/stars/suzheng/GeneRAIN",
-      "doi": "10.1186/s13059-025-03749-6",
-      "citations": 3
-    },
-    {
-      "year": "2025.09",
       "title": "202eP Generalizable pan-cancer immunotherapy response prediction using the CURE AI large clinicogenomic foundation model",
       "team": "N.B. Pfister",
       "team website": "",
@@ -2916,19 +2902,6 @@
       "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
       "doi": "10.1101/2025.07.08.663664",
       "citations": 4
-    },
-    {
-      "year": "2025.07",
-      "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
-      "team": "Microsoft Research(Frank Noé)",
-      "team website": "https://github.com/microsoft",
-      "affiliation": "AI for Science, Microsoft Research., Freie Universität Berlin, Berlin, Germany., Department of Chemistry, Rice University, Houston, TX, USA.",
-      "domain": "Protein",
-      "venue": "Science",
-      "paperUrl": "https://www.science.org/doi/10.1126/science.adv9817",
-      "codeUrl": "https://github.com/microsoft/bioemu",
-      "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
-      "doi": "10.1126/science.adv9817"
     },
     {
       "year": "2025.07",
@@ -3226,20 +3199,6 @@
       "citations": 3
     },
     {
-      "year": "2025.05",
-      "title": "GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype",
-      "team": "Stan Z. Li",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Graph representation learning for genetic perturbation integrating LLM and DNA features",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.48550/arXiv.2505.03853",
-      "citations": 4
-    },
-    {
       "year": "2025.04",
       "title": "Scaling Large Language Models for Next-Generation Single-Cell Analysis",
       "team": "David van Dijk",
@@ -3293,20 +3252,6 @@
       "codeUrl": "",
       "githubStars": "",
       "doi": "10.1158/1538-7445.am2025-6316",
-      "citations": 0
-    },
-    {
-      "year": "2025.04",
-      "title": "Abstract 5059: Self-supervised representation learning of somatic mutational data",
-      "team": "Etai Jacob",
-      "team website": "",
-      "affiliation": "AstraZeneca US, Waltham, MA.",
-      "domain": "Self-supervised Representation Learning for Somatic Mutation Data",
-      "venue": "Cancer Research",
-      "paperUrl": "https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.1158/1538-7445.am2025-5059",
       "citations": 0
     },
     {
@@ -3580,20 +3525,6 @@
       "githubStars": "https://img.shields.io/github/stars/evolutionaryscale/esm",
       "doi": "10.1126/science.ads0018",
       "citations": 379
-    },
-    {
-      "year": "2025.01",
-      "title": "Predicting cell morphological responses to perturbations using generative modeling",
-      "team": "Fabian J. Theis, Mohammad Lotfollahi",
-      "team website": "https://github.com/theislab",
-      "affiliation": "Wellcome/MRC Cambridge Stem Cell Institute, Wellcome Sanger Institute, Helmholtz Munich",
-      "domain": "phenotype morphological responses to perturbation",
-      "venue": "Nature Communications",
-      "paperUrl": "https://www.nature.com/articles/s41467-024-55707-8",
-      "codeUrl": "https://github.com/theislab/IMPA",
-      "githubStars": "https://img.shields.io/github/stars/theislab/IMPA",
-      "doi": "10.1038/s41467-024-55707-8",
-      "citations": 64
     },
     {
       "year": "2025.01",
@@ -5145,34 +5076,6 @@
     },
     {
       "year": "2026.09",
-      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
-      "team": "Johannes Schöneberg",
-      "authors": [
-        "Dhruv Agarwal",
-        "Zi-Chen Wang",
-        "Eric Arkfeld",
-        "Andre Modolo",
-        "Parth Natekar",
-        "Hiroyuki Hakozaki",
-        "Mehul Arora",
-        "Gillian McMahon",
-        "Siddharth Nahar",
-        "Manav Doshi",
-        "Johannes Schöneberg"
-      ],
-      "team website": "",
-      "affiliation": "",
-      "domain": "4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)",
-      "venue": "Cell",
-      "paperUrl": "https://doi.org/10.1016/j.cell.2026.08.028",
-      "codeUrl": "https://github.com/schoeneberglab/MitoSpace4D",
-      "githubStars": "https://img.shields.io/github/stars/schoeneberglab/MitoSpace4D",
-      "citations": 0,
-      "doi": "10.1016/j.cell.2026.08.028",
-      "addedAt": "2026-09-19T06:01:25Z"
-    },
-    {
-      "year": "2026.09",
       "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
       "team": "Marwin H. S. Segler",
       "authors": [
@@ -5213,6 +5116,105 @@
       "citations": 0,
       "doi": "10.1038/s41586-026-11160-9",
       "addedAt": "2026-09-22T08:12:22Z"
+    }
+  ],
+  "Other Models": [
+    {
+      "year": "2026.09",
+      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
+      "team": "Johannes Schöneberg",
+      "authors": [
+        "Dhruv Agarwal",
+        "Zi-Chen Wang",
+        "Eric Arkfeld",
+        "Andre Modolo",
+        "Parth Natekar",
+        "Hiroyuki Hakozaki",
+        "Mehul Arora",
+        "Gillian McMahon",
+        "Siddharth Nahar",
+        "Manav Doshi",
+        "Johannes Schöneberg"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)",
+      "venue": "Cell",
+      "paperUrl": "https://doi.org/10.1016/j.cell.2026.08.028",
+      "codeUrl": "https://github.com/schoeneberglab/MitoSpace4D",
+      "githubStars": "https://img.shields.io/github/stars/schoeneberglab/MitoSpace4D",
+      "citations": 0,
+      "doi": "10.1016/j.cell.2026.08.028",
+      "addedAt": "2026-09-19T06:01:25Z"
+    },
+    {
+      "year": "2025.09",
+      "title": "GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks",
+      "team": "Fatemeh Vafaee",
+      "team website": "",
+      "affiliation": "UNSW Sydney",
+      "domain": "Bulk RNA embedding",
+      "venue": "Genome Biology",
+      "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/40983974/",
+      "codeUrl": "https://github.com/suzheng/GeneRAIN",
+      "githubStars": "https://img.shields.io/github/stars/suzheng/GeneRAIN",
+      "doi": "10.1186/s13059-025-03749-6",
+      "citations": 3
+    },
+    {
+      "year": "2025.07",
+      "title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
+      "team": "Microsoft Research(Frank Noé)",
+      "team website": "https://github.com/microsoft",
+      "affiliation": "AI for Science, Microsoft Research., Freie Universität Berlin, Berlin, Germany., Department of Chemistry, Rice University, Houston, TX, USA.",
+      "domain": "Protein",
+      "venue": "Science",
+      "paperUrl": "https://www.science.org/doi/10.1126/science.adv9817",
+      "codeUrl": "https://github.com/microsoft/bioemu",
+      "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
+      "doi": "10.1126/science.adv9817"
+    },
+    {
+      "year": "2025.05",
+      "title": "GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype",
+      "team": "Stan Z. Li",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Graph representation learning for genetic perturbation integrating LLM and DNA features",
+      "venue": "ArXiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/e8cd781a1d5b928a0ff4d5eb2c3d42fdefdd6239",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.48550/arXiv.2505.03853",
+      "citations": 4
+    },
+    {
+      "year": "2025.04",
+      "title": "Abstract 5059: Self-supervised representation learning of somatic mutational data",
+      "team": "Etai Jacob",
+      "team website": "",
+      "affiliation": "AstraZeneca US, Waltham, MA.",
+      "domain": "Self-supervised Representation Learning for Somatic Mutation Data",
+      "venue": "Cancer Research",
+      "paperUrl": "https://www.semanticscholar.org/paper/f4b0d1ee35796530e33a20b8115b704361e4c180",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1158/1538-7445.am2025-5059",
+      "citations": 0
+    },
+    {
+      "year": "2025.01",
+      "title": "Predicting cell morphological responses to perturbations using generative modeling",
+      "team": "Fabian J. Theis, Mohammad Lotfollahi",
+      "team website": "https://github.com/theislab",
+      "affiliation": "Wellcome/MRC Cambridge Stem Cell Institute, Wellcome Sanger Institute, Helmholtz Munich",
+      "domain": "phenotype morphological responses to perturbation",
+      "venue": "Nature Communications",
+      "paperUrl": "https://www.nature.com/articles/s41467-024-55707-8",
+      "codeUrl": "https://github.com/theislab/IMPA",
+      "githubStars": "https://img.shields.io/github/stars/theislab/IMPA",
+      "doi": "10.1038/s41467-024-55707-8",
+      "citations": 64
     }
   ],
   "Databases/Simulation": [
