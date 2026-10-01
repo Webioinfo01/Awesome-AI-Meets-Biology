@@ -17,8 +17,8 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
-    <img src="https://img.shields.io/badge/categories-5-7C3AED?style=flat-square" alt="Categories">
-    <img src="https://img.shields.io/badge/papers-465-0EA5E9?style=flat-square" alt="Papers">
+    <img src="https://img.shields.io/badge/categories-6-7C3AED?style=flat-square" alt="Categories">
+    <img src="https://img.shields.io/badge/papers-464-0EA5E9?style=flat-square" alt="Papers">
     <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
@@ -28,7 +28,7 @@
 
 This project is collaboratively maintained by our self-developed AI agent and human experts in a human-in-the-loop workflow, combining automated discovery with expert curation to provide a comprehensive survey of AI applications in biology, bioinformatics, and biomedical research. Paper discovery, annotation, and filtering are powered by [awescholar](https://github.com/Webioinfo01/awescholar) — an AI-agent-operable scientific literature curator. Skill management is handled via [aweskill](https://aweskill.webioinfo.top/).
 
-This repository organizes AI applications in biology/biomedical/bioinformatics research into five main categories: "AI Agents", "Foundation models", "Databases/Simulation", "Benchmarks", and "Reviews".
+This repository organizes AI applications in biology/biomedical/bioinformatics research into six main categories: "AI Agents", "Foundation models", "Other Models", "Databases/Simulation", "Benchmarks", and "Reviews".
 
 ## 📋 Table of Contents
 - [🌐 Browse the Collection](#browse-the-collection)
@@ -38,17 +38,18 @@ This repository organizes AI applications in biology/biomedical/bioinformatics r
 
 ## 🌐 Browse the Collection
 
-All 465 papers live on the [website](http://awesomebio.webioinfo.top/) — with instant search across papers, teams, domains and venues, category tabs, and per-year statistics:
+All 464 papers live on the [website](http://awesomebio.webioinfo.top/) — with instant search across papers, teams, domains and venues, category tabs, and per-year statistics:
 
 **→ http://awesomebio.webioinfo.top/**
 
 - 🌟 [AI Agents](http://awesomebio.webioinfo.top/#ai-agents) — 145 papers
-- 🎯 [Foundation models](http://awesomebio.webioinfo.top/#foundation-models) — 148 papers
-- 💾 [Databases/Simulation](http://awesomebio.webioinfo.top/#databases) — 36 papers
+- 🎯 [Foundation models](http://awesomebio.webioinfo.top/#foundation-models) — 133 papers
+- 🧩 [Other Models](http://awesomebio.webioinfo.top/#other-models) — 14 papers
+- 💾 [Databases/Simulation](http://awesomebio.webioinfo.top/#databases) — 37 papers
 - 📊 [Benchmarks](http://awesomebio.webioinfo.top/#benchmarks) — 58 papers
 - 📚 [Reviews](http://awesomebio.webioinfo.top/#reviews) — 77 papers
 
-Machine-readable data: [`docs/data.json`](docs/data.json) — 465 entries with full metadata (team, affiliation, venue, code links).
+Machine-readable data: [`docs/data.json`](docs/data.json) — 464 entries with full metadata (team, affiliation, venue, code links).
 
 
 ## Other Awesome Projects
