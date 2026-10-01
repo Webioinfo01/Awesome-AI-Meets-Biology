@@ -2458,34 +2458,6 @@
     },
     {
       "year": "2025.12",
-      "title": "SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics",
-      "team": "James Zou",
-      "team website": "https://github.com/zou-group",
-      "affiliation": "Stanford University",
-      "domain": "Spatial scRNA perturbation modeling",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383",
-      "codeUrl": "https://github.com/abuendia/spatial-prop",
-      "githubStars": "https://img.shields.io/github/stars/abuendia/spatial-prop",
-      "doi": "10.64898/2025.11.30.691355",
-      "citations": 2
-    },
-    {
-      "year": "2025.12",
-      "title": "Multimodal AI generates virtual population for tumor microenvironment modeling.",
-      "team": "H. Poon",
-      "team website": "",
-      "affiliation": "Microsoft (United States), Microsoft Research (United Kingdom)",
-      "domain": "Tumor microenvironment modeling (multimodal AI-generated virtual populations)",
-      "venue": "Cell",
-      "paperUrl": "https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949",
-      "codeUrl": "https://github.com/prov-gigatime/GigaTIME",
-      "githubStars": "https://img.shields.io/github/stars/prov-gigatime/GigaTIME",
-      "doi": "10.1016/j.cell.2025.11.016",
-      "citations": 62
-    },
-    {
-      "year": "2025.12",
       "title": "A lung CT vision foundation model facilitating disease diagnosis and medical imaging.",
       "team": "Qionghai Dai",
       "team website": "",
@@ -2664,20 +2636,6 @@
       "githubStars": "https://img.shields.io/github/stars/BGI-HangzhouAI/Genos",
       "doi": "10.1093/gigascience/giaf132",
       "citations": 18
-    },
-    {
-      "year": "2025.10",
-      "title": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
-      "team": "Fabian J. Theis",
-      "team website": "https://github.com/theislab",
-      "affiliation": "Technical University of Munich",
-      "domain": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
-      "venue": "Science",
-      "paperUrl": "https://www.science.org/doi/10.1126/science.adi8577",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.1126/science.adi8577",
-      "citations": 50
     },
     {
       "year": "2025.10",
@@ -2888,20 +2846,6 @@
       "githubStars": "https://img.shields.io/github/stars/HelloWorldLTY/scELMo",
       "doi": "10.1101/2023.12.07.569910",
       "citations": 28
-    },
-    {
-      "year": "2025.07",
-      "title": "ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer",
-      "team": "Luonan Chen",
-      "team website": "",
-      "affiliation": "Second Military Medical University, Changhai Hospital",
-      "domain": "Organoid drug response prediction",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2",
-      "codeUrl": "https://github.com/microsoft/bioemu",
-      "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
-      "doi": "10.1101/2025.07.08.663664",
-      "citations": 4
     },
     {
       "year": "2025.07",
@@ -3214,20 +3158,6 @@
     },
     {
       "year": "2025.04",
-      "title": "CellFlow enables generative single-cell phenotype modeling with flow matching",
-      "team": "Fabian J. Theis",
-      "team website": "https://github.com/theislab",
-      "affiliation": "Helmholtz Munich, Technical University of Munich",
-      "domain": "Perturbation single cell RNA",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1",
-      "codeUrl": "https://github.com/theislab/CellFlow",
-      "githubStars": "https://img.shields.io/github/stars/theislab/CellFlow",
-      "doi": "10.1101/2025.04.11.648220",
-      "citations": 62
-    },
-    {
-      "year": "2025.04",
       "title": "Abstract 5084: Evaluation of single-cell foundation models for cancer outcome predictions",
       "team": "Eliezer M Van Allen",
       "team website": "",
@@ -3256,19 +3186,6 @@
     },
     {
       "year": "2025.04",
-      "title": "dGeneralized Biological Foundation Model with Unified Nucleic Acid and Protein Language",
-      "team": "Zhaorong Li",
-      "team website": "",
-      "affiliation": "Alibaba Cloud Intelligence, Alibaba Group, Hangzhou, China",
-      "domain": "Unified DNA/RNA/Protein foundation model",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/3f784482894a47708c6584f667ad38de70a3ba76",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.1101/2024.05.10.592927"
-    },
-    {
-      "year": "2025.04",
       "title": "Abstract 3762: DEL-AI: Proteome-wide in silico screening of multi-billion compound libraries using machine learning foundation models",
       "team": "Paul Novick",
       "team website": "",
@@ -3294,20 +3211,6 @@
       "githubStars": "https://img.shields.io/github/stars/biomap-research/xTrimoPGLM",
       "doi": "10.48550/arXiv.2401.06199",
       "citations": 153
-    },
-    {
-      "year": "2025.03",
-      "title": "Multimodal AI predicts clinical outcomes of drug combinations from preclinical data",
-      "team": "Marinka Zitnik",
-      "team website": "",
-      "affiliation": "",
-      "domain": "Clinical Pharmacology Modeling",
-      "venue": "ArXiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7",
-      "codeUrl": "https://github.com/mims-harvard/Madrigal",
-      "githubStars": "https://img.shields.io/github/stars/mims-harvard/Madrigal",
-      "doi": "10.48550/arXiv.2503.02781",
-      "citations": 13
     },
     {
       "year": "2026.03",
@@ -3581,20 +3484,6 @@
       "githubStars": "",
       "doi": "10.1101/2024.12.09.627422",
       "citations": 9
-    },
-    {
-      "year": "2024.12",
-      "title": "Fine-Tuned Deep Transfer Learning Models for Large Screenings of Safer Drugs Targeting Class A GPCRs",
-      "team": "M. Filizola",
-      "team website": "",
-      "affiliation": "Icahn School of Medicine at Mount Sinai",
-      "domain": "Deep transfer learning for GPCR drug screening",
-      "venue": "bioRxiv",
-      "paperUrl": "https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966",
-      "codeUrl": "",
-      "githubStars": "",
-      "doi": "10.1101/2024.12.07.627102",
-      "citations": 1
     },
     {
       "year": "2024.12",
@@ -5073,6 +4962,36 @@
       "citations": 2,
       "doi": "10.1016/j.cell.2026.07.009",
       "addedAt": "2026-09-19T06:01:08Z"
+    }
+  ],
+  "Other Models": [
+    {
+      "year": "2026.09",
+      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
+      "team": "Johannes Schöneberg",
+      "authors": [
+        "Dhruv Agarwal",
+        "Zi-Chen Wang",
+        "Eric Arkfeld",
+        "Andre Modolo",
+        "Parth Natekar",
+        "Hiroyuki Hakozaki",
+        "Mehul Arora",
+        "Gillian McMahon",
+        "Siddharth Nahar",
+        "Manav Doshi",
+        "Johannes Schöneberg"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)",
+      "venue": "Cell",
+      "paperUrl": "https://doi.org/10.1016/j.cell.2026.08.028",
+      "codeUrl": "https://github.com/schoeneberglab/MitoSpace4D",
+      "githubStars": "https://img.shields.io/github/stars/schoeneberglab/MitoSpace4D",
+      "citations": 0,
+      "doi": "10.1016/j.cell.2026.08.028",
+      "addedAt": "2026-09-19T06:01:25Z"
     },
     {
       "year": "2026.09",
@@ -5116,36 +5035,48 @@
       "citations": 0,
       "doi": "10.1038/s41586-026-11160-9",
       "addedAt": "2026-09-22T08:12:22Z"
-    }
-  ],
-  "Other Models": [
+    },
     {
-      "year": "2026.09",
-      "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
-      "team": "Johannes Schöneberg",
-      "authors": [
-        "Dhruv Agarwal",
-        "Zi-Chen Wang",
-        "Eric Arkfeld",
-        "Andre Modolo",
-        "Parth Natekar",
-        "Hiroyuki Hakozaki",
-        "Mehul Arora",
-        "Gillian McMahon",
-        "Siddharth Nahar",
-        "Manav Doshi",
-        "Johannes Schöneberg"
-      ],
+      "year": "2025.12",
+      "title": "SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics",
+      "team": "James Zou",
+      "team website": "https://github.com/zou-group",
+      "affiliation": "Stanford University",
+      "domain": "Spatial scRNA perturbation modeling",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383",
+      "codeUrl": "https://github.com/abuendia/spatial-prop",
+      "githubStars": "https://img.shields.io/github/stars/abuendia/spatial-prop",
+      "doi": "10.64898/2025.11.30.691355",
+      "citations": 2
+    },
+    {
+      "year": "2025.12",
+      "title": "Multimodal AI generates virtual population for tumor microenvironment modeling.",
+      "team": "H. Poon",
       "team website": "",
-      "affiliation": "",
-      "domain": "4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)",
+      "affiliation": "Microsoft (United States), Microsoft Research (United Kingdom)",
+      "domain": "Tumor microenvironment modeling (multimodal AI-generated virtual populations)",
       "venue": "Cell",
-      "paperUrl": "https://doi.org/10.1016/j.cell.2026.08.028",
-      "codeUrl": "https://github.com/schoeneberglab/MitoSpace4D",
-      "githubStars": "https://img.shields.io/github/stars/schoeneberglab/MitoSpace4D",
-      "citations": 0,
-      "doi": "10.1016/j.cell.2026.08.028",
-      "addedAt": "2026-09-19T06:01:25Z"
+      "paperUrl": "https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949",
+      "codeUrl": "https://github.com/prov-gigatime/GigaTIME",
+      "githubStars": "https://img.shields.io/github/stars/prov-gigatime/GigaTIME",
+      "doi": "10.1016/j.cell.2025.11.016",
+      "citations": 62
+    },
+    {
+      "year": "2025.10",
+      "title": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
+      "team": "Fabian J. Theis",
+      "team website": "https://github.com/theislab",
+      "affiliation": "Technical University of Munich",
+      "domain": "Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes",
+      "venue": "Science",
+      "paperUrl": "https://www.science.org/doi/10.1126/science.adi8577",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1126/science.adi8577",
+      "citations": 50
     },
     {
       "year": "2025.09",
@@ -5173,6 +5104,20 @@
       "codeUrl": "https://github.com/microsoft/bioemu",
       "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
       "doi": "10.1126/science.adv9817"
+    },
+    {
+      "year": "2025.07",
+      "title": "ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer",
+      "team": "Luonan Chen",
+      "team website": "",
+      "affiliation": "Second Military Medical University, Changhai Hospital",
+      "domain": "Organoid drug response prediction",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2",
+      "codeUrl": "https://github.com/microsoft/bioemu",
+      "githubStars": "https://img.shields.io/github/stars/microsoft/bioemu",
+      "doi": "10.1101/2025.07.08.663664",
+      "citations": 4
     },
     {
       "year": "2025.05",
@@ -5203,6 +5148,34 @@
       "citations": 0
     },
     {
+      "year": "2025.04",
+      "title": "CellFlow enables generative single-cell phenotype modeling with flow matching",
+      "team": "Fabian J. Theis",
+      "team website": "https://github.com/theislab",
+      "affiliation": "Helmholtz Munich, Technical University of Munich",
+      "domain": "Perturbation single cell RNA",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1",
+      "codeUrl": "https://github.com/theislab/CellFlow",
+      "githubStars": "https://img.shields.io/github/stars/theislab/CellFlow",
+      "doi": "10.1101/2025.04.11.648220",
+      "citations": 62
+    },
+    {
+      "year": "2025.03",
+      "title": "Multimodal AI predicts clinical outcomes of drug combinations from preclinical data",
+      "team": "Marinka Zitnik",
+      "team website": "",
+      "affiliation": "",
+      "domain": "Clinical Pharmacology Modeling",
+      "venue": "ArXiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7",
+      "codeUrl": "https://github.com/mims-harvard/Madrigal",
+      "githubStars": "https://img.shields.io/github/stars/mims-harvard/Madrigal",
+      "doi": "10.48550/arXiv.2503.02781",
+      "citations": 13
+    },
+    {
       "year": "2025.01",
       "title": "Predicting cell morphological responses to perturbations using generative modeling",
       "team": "Fabian J. Theis, Mohammad Lotfollahi",
@@ -5215,6 +5188,20 @@
       "githubStars": "https://img.shields.io/github/stars/theislab/IMPA",
       "doi": "10.1038/s41467-024-55707-8",
       "citations": 64
+    },
+    {
+      "year": "2024.12",
+      "title": "Fine-Tuned Deep Transfer Learning Models for Large Screenings of Safer Drugs Targeting Class A GPCRs",
+      "team": "M. Filizola",
+      "team website": "",
+      "affiliation": "Icahn School of Medicine at Mount Sinai",
+      "domain": "Deep transfer learning for GPCR drug screening",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966",
+      "codeUrl": "",
+      "githubStars": "",
+      "doi": "10.1101/2024.12.07.627102",
+      "citations": 1
     }
   ],
   "Databases/Simulation": [

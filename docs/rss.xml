@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 30 Sep 2026 03:08:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 03:18:28 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2126,36 +2126,6 @@
     <guid isPermaLink="false">Novaeagraphbasedfoundationmodelforspatialtranscriptomicsdata202512</guid>
   </item>
   <item>
-    <title>SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics</title>
-    <link>https://doi.org/10.64898/2025.11.30.691355</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> James Zou</p>
-        <p><b>Domain:</b> Spatial scRNA perturbation modeling</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383">Read the Paper</a></p>
-        <p><a href="https://github.com/abuendia/spatial-prop">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">SpatialProptissueperturbationmodelingwithspatiallyresolvedsinglecelltranscriptomics202512</guid>
-  </item>
-  <item>
-    <title>Multimodal AI generates virtual population for tumor microenvironment modeling.</title>
-    <link>https://doi.org/10.1016/j.cell.2025.11.016</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> H. Poon</p>
-        <p><b>Domain:</b> Tumor microenvironment modeling (multimodal AI-generated virtual populations)</p>
-        <p><b>Venue:</b> Cell</p>
-        <p><a href="https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949">Read the Paper</a></p>
-        <p><a href="https://github.com/prov-gigatime/GigaTIME">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">MultimodalAIgeneratesvirtualpopulationfortumormicroenvironmentmodeling202512</guid>
-  </item>
-  <item>
     <title>A lung CT vision foundation model facilitating disease diagnosis and medical imaging.</title>
     <link>https://doi.org/10.1038/s41467-025-66620-z</link>
     <description>
@@ -2341,20 +2311,6 @@
     </description>
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">GenosAHumanCentricGenomicFoundationModel202510</guid>
-  </item>
-  <item>
-    <title>Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</title>
-    <link>https://doi.org/10.1126/science.adi8577</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Fabian J. Theis</p>
-        <p><b>Domain:</b> Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</p>
-        <p><b>Venue:</b> Science</p>
-        <p><a href="https://www.science.org/doi/10.1126/science.adi8577">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Activelearningframeworkleveragingtranscriptomicsidentifiesmodulatorsofdiseasephenotypes202510</guid>
   </item>
   <item>
     <title>In silico biological discovery with large perturbation models</title>
@@ -2569,21 +2525,6 @@
     </description>
     <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">scELMoEmbeddingsfromLanguageModelsareGoodLearnersforSinglecellDataAnalysis202508</guid>
-  </item>
-  <item>
-    <title>ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer</title>
-    <link>https://doi.org/10.1101/2025.07.08.663664</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Luonan Chen</p>
-        <p><b>Domain:</b> Organoid drug response prediction</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2">Read the Paper</a></p>
-        <p><a href="https://github.com/microsoft/bioemu">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">ODFormeraVirtualOrganoidforPredictingPersonalizedTherapeuticResponsesinPancreaticCancer202507</guid>
   </item>
   <item>
     <title>Spatia: Multimodal Model for Prediction and Generation of Spatial Cell Phenotypes</title>
@@ -2839,21 +2780,6 @@
     <guid isPermaLink="false">ScalingLargeLanguageModelsforNextGenerationSingleCellAnalysis202504</guid>
   </item>
   <item>
-    <title>CellFlow enables generative single-cell phenotype modeling with flow matching</title>
-    <link>https://doi.org/10.1101/2025.04.11.648220</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Fabian J. Theis</p>
-        <p><b>Domain:</b> Perturbation single cell RNA</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1">Read the Paper</a></p>
-        <p><a href="https://github.com/theislab/CellFlow">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">CellFlowenablesgenerativesinglecellphenotypemodelingwithflowmatching202504</guid>
-  </item>
-  <item>
     <title>Abstract 5084: Evaluation of single-cell foundation models for cancer outcome predictions</title>
     <link>https://doi.org/10.1158/1538-7445.am2025-5084</link>
     <description>
@@ -2880,20 +2806,6 @@
     </description>
     <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AbstractPredictiveperformancecomparisonoffoundationalandCNNmodelsforsinglecellimmuneprofiling202504</guid>
-  </item>
-  <item>
-    <title>dGeneralized Biological Foundation Model with Unified Nucleic Acid and Protein Language</title>
-    <link>https://doi.org/10.1101/2024.05.10.592927</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Zhaorong Li</p>
-        <p><b>Domain:</b> Unified DNA/RNA/Protein foundation model</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/3f784482894a47708c6584f667ad38de70a3ba76">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">dGeneralizedBiologicalFoundationModelwithUnifiedNucleicAcidandProteinLanguage202504</guid>
   </item>
   <item>
     <title>Abstract 3762: DEL-AI: Proteome-wide in silico screening of multi-billion compound libraries using machine learning foundation models</title>
@@ -2923,21 +2835,6 @@
     </description>
     <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">xTrimoPGLMUnifiedBScalePretrainedTransformerforDecipheringtheLanguageofProtein202504</guid>
-  </item>
-  <item>
-    <title>Multimodal AI predicts clinical outcomes of drug combinations from preclinical data</title>
-    <link>https://doi.org/10.48550/arXiv.2503.02781</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Marinka Zitnik</p>
-        <p><b>Domain:</b> Clinical Pharmacology Modeling</p>
-        <p><b>Venue:</b> ArXiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7">Read the Paper</a></p>
-        <p><a href="https://github.com/mims-harvard/Madrigal">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">MultimodalAIpredictsclinicaloutcomesofdrugcombinationsfrompreclinicaldata202503</guid>
   </item>
   <item>
     <title>Genome modelling and design across all domains of life with Evo 2</title>
@@ -3160,20 +3057,6 @@
     </description>
     <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">LGRepurposingLanguageModelsforGenomicsTasks202412</guid>
-  </item>
-  <item>
-    <title>Fine-Tuned Deep Transfer Learning Models for Large Screenings of Safer Drugs Targeting Class A GPCRs</title>
-    <link>https://doi.org/10.1101/2024.12.07.627102</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> M. Filizola</p>
-        <p><b>Domain:</b> Deep transfer learning for GPCR drug screening</p>
-        <p><b>Venue:</b> bioRxiv</p>
-        <p><a href="https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966">Read the Paper</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">FineTunedDeepTransferLearningModelsforLargeScreeningsofSaferDrugsTargetingClassAGPCRs202412</guid>
   </item>
   <item>
     <title>Porter 6: Protein Secondary Structure Prediction by Leveraging Pre-Trained Language Models (PLMs)</title>
@@ -4171,6 +4054,21 @@
     <guid isPermaLink="false">Advancingcancerdetectionandtreatmentusinglongitudinalroutineclinicaldata202607</guid>
   </item>
   <item>
+    <title>4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.</title>
+    <link>https://doi.org/10.1016/j.cell.2026.08.028</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Johannes Schöneberg</p>
+        <p><b>Domain:</b> 4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://doi.org/10.1016/j.cell.2026.08.028">Read the Paper</a></p>
+        <p><a href="https://github.com/schoeneberglab/MitoSpace4D">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Dspatiotemporallandscapeofmitochondrialphenotypesacrosscellularstatesunlockedthroughrepresentationlearning202609</guid>
+  </item>
+  <item>
     <title>Chemist-aligned retrosynthesis by ensembling diverse inductive bias models</title>
     <link>https://doi.org/10.1038/s41586-026-11160-9</link>
     <description>
@@ -4186,19 +4084,48 @@
     <guid isPermaLink="false">Chemistalignedretrosynthesisbyensemblingdiverseinductivebiasmodels202609</guid>
   </item>
   <item>
-    <title>4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.</title>
-    <link>https://doi.org/10.1016/j.cell.2026.08.028</link>
+    <title>SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics</title>
+    <link>https://doi.org/10.64898/2025.11.30.691355</link>
     <description>
       <![CDATA[
-        <p><b>Team:</b> Johannes Schöneberg</p>
-        <p><b>Domain:</b> 4D live-cell imaging of mitochondrial phenotypes (self-supervised representation learning)</p>
-        <p><b>Venue:</b> Cell</p>
-        <p><a href="https://doi.org/10.1016/j.cell.2026.08.028">Read the Paper</a></p>
-        <p><a href="https://github.com/schoeneberglab/MitoSpace4D">Code</a></p>
+        <p><b>Team:</b> James Zou</p>
+        <p><b>Domain:</b> Spatial scRNA perturbation modeling</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/2629ead85b953e97d426e01a4445bfa27815b383">Read the Paper</a></p>
+        <p><a href="https://github.com/abuendia/spatial-prop">Code</a></p>
       ]]>
     </description>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">Dspatiotemporallandscapeofmitochondrialphenotypesacrosscellularstatesunlockedthroughrepresentationlearning202609</guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SpatialProptissueperturbationmodelingwithspatiallyresolvedsinglecelltranscriptomics202512</guid>
+  </item>
+  <item>
+    <title>Multimodal AI generates virtual population for tumor microenvironment modeling.</title>
+    <link>https://doi.org/10.1016/j.cell.2025.11.016</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> H. Poon</p>
+        <p><b>Domain:</b> Tumor microenvironment modeling (multimodal AI-generated virtual populations)</p>
+        <p><b>Venue:</b> Cell</p>
+        <p><a href="https://www.semanticscholar.org/paper/27e339e417eaa5af813d5f6ddba760c7d7175949">Read the Paper</a></p>
+        <p><a href="https://github.com/prov-gigatime/GigaTIME">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MultimodalAIgeneratesvirtualpopulationfortumormicroenvironmentmodeling202512</guid>
+  </item>
+  <item>
+    <title>Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</title>
+    <link>https://doi.org/10.1126/science.adi8577</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis</p>
+        <p><b>Domain:</b> Active learning framework leveraging transcriptomics identifies modulators of disease phenotypes</p>
+        <p><b>Venue:</b> Science</p>
+        <p><a href="https://www.science.org/doi/10.1126/science.adi8577">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Activelearningframeworkleveragingtranscriptomicsidentifiesmodulatorsofdiseasephenotypes202510</guid>
   </item>
   <item>
     <title>GeneRAIN: multifaceted representation of genes via deep learning of gene expression networks</title>
@@ -4231,6 +4158,21 @@
     <guid isPermaLink="false">Scalableemulationofproteinequilibriumensembleswithgenerativedeeplearning202507</guid>
   </item>
   <item>
+    <title>ODFormer: a Virtual Organoid for Predicting Personalized Therapeutic Responses in Pancreatic Cancer</title>
+    <link>https://doi.org/10.1101/2025.07.08.663664</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Luonan Chen</p>
+        <p><b>Domain:</b> Organoid drug response prediction</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.biorxiv.org/content/10.1101/2025.07.08.663664v2">Read the Paper</a></p>
+        <p><a href="https://github.com/microsoft/bioemu">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ODFormeraVirtualOrganoidforPredictingPersonalizedTherapeuticResponsesinPancreaticCancer202507</guid>
+  </item>
+  <item>
     <title>GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype</title>
     <link>https://doi.org/10.48550/arXiv.2505.03853</link>
     <description>
@@ -4259,6 +4201,36 @@
     <guid isPermaLink="false">AbstractSelfsupervisedrepresentationlearningofsomaticmutationaldata202504</guid>
   </item>
   <item>
+    <title>CellFlow enables generative single-cell phenotype modeling with flow matching</title>
+    <link>https://doi.org/10.1101/2025.04.11.648220</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Fabian J. Theis</p>
+        <p><b>Domain:</b> Perturbation single cell RNA</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1">Read the Paper</a></p>
+        <p><a href="https://github.com/theislab/CellFlow">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CellFlowenablesgenerativesinglecellphenotypemodelingwithflowmatching202504</guid>
+  </item>
+  <item>
+    <title>Multimodal AI predicts clinical outcomes of drug combinations from preclinical data</title>
+    <link>https://doi.org/10.48550/arXiv.2503.02781</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Marinka Zitnik</p>
+        <p><b>Domain:</b> Clinical Pharmacology Modeling</p>
+        <p><b>Venue:</b> ArXiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/342b7a61048fb4025a64078633f530fd3f74dbc7">Read the Paper</a></p>
+        <p><a href="https://github.com/mims-harvard/Madrigal">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MultimodalAIpredictsclinicaloutcomesofdrugcombinationsfrompreclinicaldata202503</guid>
+  </item>
+  <item>
     <title>Predicting cell morphological responses to perturbations using generative modeling</title>
     <link>https://doi.org/10.1038/s41467-024-55707-8</link>
     <description>
@@ -4272,6 +4244,20 @@
     </description>
     <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Predictingcellmorphologicalresponsestoperturbationsusinggenerativemodeling202501</guid>
+  </item>
+  <item>
+    <title>Fine-Tuned Deep Transfer Learning Models for Large Screenings of Safer Drugs Targeting Class A GPCRs</title>
+    <link>https://doi.org/10.1101/2024.12.07.627102</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> M. Filizola</p>
+        <p><b>Domain:</b> Deep transfer learning for GPCR drug screening</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/adfd39e5060b00b74a38d7b7243f60af2934e966">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FineTunedDeepTransferLearningModelsforLargeScreeningsofSaferDrugsTargetingClassAGPCRs202412</guid>
   </item>
   <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
