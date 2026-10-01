@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 01 Oct 2026 07:29:45 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 08:12:59 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2179,6 +2179,51 @@
     </description>
     <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AIModelsExcelatOrchestrationbutFalteratBiologicalJudgmentFindingsfromanAgenticGeneAnnotationStudy2026-09</guid>
+  </item>
+  <item>
+    <title>Autonomous LLM-Driven Research — from Data to Human-Verifiable Research Papers</title>
+    <link>https://doi.org/10.1056/aioa2400555</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Roy Kishony</p>
+        <p><b>Domain:</b> Autonomous LLM multi-agent system producing human-verifiable research papers from raw data</p>
+        <p><b>Venue:</b> NEJM AI</p>
+        <p><a href="https://doi.org/10.1056/aioa2400555">Read the Paper</a></p>
+        <p><a href="https://github.com/Technion-Kishony-lab/data-to-paper">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AutonomousLLMDrivenResearchfromDatatoHumanVerifiableResearchPapers202501</guid>
+  </item>
+  <item>
+    <title>Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange</title>
+    <link>https://doi.org/10.48550/arXiv.2603.14312</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Markus J. Buehler</p>
+        <p><b>Domain:</b> Autonomous scientific discovery / multi-agent AI systems</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2603.14312">Read the Paper</a></p>
+        <p><a href="https://github.com/lamm-mit/scienceclaw">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AutonomousAgentsCoordinatingDistributedDiscoveryThroughEmergentArtifactExchange202603</guid>
+  </item>
+  <item>
+    <title>An interoperable research agent network for scientific discovery</title>
+    <link>https://doi.org/10.64898/2026.08.13.744542</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Edwin Cheung</p>
+        <p><b>Domain:</b> Interoperable multi-agent system for scientific discovery (drug discovery, spatial proteomics, therapeutic target discovery)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://doi.org/10.64898/2026.08.13.744542">Read the Paper</a></p>
+        <p><a href="https://github.com/edwincheunglab/guia-cli">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Aninteroperableresearchagentnetworkforscientificdiscovery202608</guid>
   </item>
   <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
@@ -4926,6 +4971,21 @@
     <guid isPermaLink="false">WholecellparticlebaseddigitaltwinsimulationsfromDlatticelightsheetmicroscopydata202607</guid>
   </item>
   <item>
+    <title>Virtual Tumors Enable Prediction of Personalized Therapeutic Combinations for Non-Small Cell Lung Cancer</title>
+    <link>https://doi.org/10.1158/0008-5472.CAN-25-2476</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jasmin Fisher</p>
+        <p><b>Domain:</b> Virtual tumor simulation for predicting personalized NSCLC drug combinations</p>
+        <p><b>Venue:</b> Cancer Research</p>
+        <p><a href="https://doi.org/10.1158/0008-5472.CAN-25-2476">Read the Paper</a></p>
+        <p><a href="https://github.com/jfisher-lab/NSCLC">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">VirtualTumorsEnablePredictionofPersonalizedTherapeuticCombinationsforNonSmallCellLungCancer202606</guid>
+  </item>
+  <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
     <link>https://doi.org/10.1038/s41467-025-67481-2</link>
     <description>
@@ -5768,6 +5828,51 @@
     </description>
     <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">FromPrompttoPipelineAComparativeEvaluationofLargeLanguageModelCodingAgentsforReproducibleBioinformaticsPipelineConstruction2026-09</guid>
+  </item>
+  <item>
+    <title>BixBench: a Comprehensive Benchmark for LLM-based Agents in Computational Biology</title>
+    <link>https://doi.org/10.48550/arXiv.2503.00096</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Samuel G. Rodriques</p>
+        <p><b>Domain:</b> LLM Agents for Computational Biology</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2503.00096">Read the Paper</a></p>
+        <p><a href="https://github.com/Future-House/BixBench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BixBenchaComprehensiveBenchmarkforLLMbasedAgentsinComputationalBiology202502</guid>
+  </item>
+  <item>
+    <title>BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics</title>
+    <link>https://doi.org/10.48550/arXiv.2601.21800</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Mateo vCupi&#x27;c</p>
+        <p><b>Domain:</b> AI Agents for Bioinformatics</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2601.21800">Read the Paper</a></p>
+        <p><a href="https://github.com/bioagent-bench/bioagent-bench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">BioAgentBenchAnAIAgentEvaluationSuiteforBioinformatics202601</guid>
+  </item>
+  <item>
+    <title>HeurekaBench: A Benchmarking Framework for AI Co-scientist</title>
+    <link>https://doi.org/10.48550/arXiv.2601.01678</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Marija Brbić</p>
+        <p><b>Domain:</b> AI Agents for scientific discovery (single-cell biology)</p>
+        <p><b>Venue:</b> arXiv.org</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2601.01678">Read the Paper</a></p>
+        <p><a href="https://github.com/mlbio-epfl/HeurekaBench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HeurekaBenchABenchmarkingFrameworkforAICoscientist202601</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>

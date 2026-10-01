@@ -2567,6 +2567,79 @@
       "citations": 0,
       "doi": "10.64898/2026.09.23.753765",
       "addedAt": "2026-10-01T07:29:25Z"
+    },
+    {
+      "year": "2025.01",
+      "title": "Autonomous LLM-Driven Research — from Data to Human-Verifiable Research Papers",
+      "team": "Roy Kishony",
+      "authors": [
+        "Tal Ifargan",
+        "Lukas Hafner",
+        "Maor Kern",
+        "Ori Alcalay",
+        "Roy Kishony"
+      ],
+      "team website": "",
+      "affiliation": "Technion–Israel Institute of Technology",
+      "domain": "Autonomous LLM multi-agent system producing human-verifiable research papers from raw data",
+      "venue": "NEJM AI",
+      "paperUrl": "https://doi.org/10.1056/aioa2400555",
+      "codeUrl": "https://github.com/Technion-Kishony-lab/data-to-paper",
+      "githubStars": "https://img.shields.io/github/stars/Technion-Kishony-lab/data-to-paper",
+      "citations": 33,
+      "doi": "10.1056/aioa2400555",
+      "addedAt": "2026-10-01T08:07:58Z"
+    },
+    {
+      "year": "2026.03",
+      "title": "Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange",
+      "team": "Markus J. Buehler",
+      "authors": [
+        "Fiona Y. Wang",
+        "Lee Marom",
+        "Subhadeep Pal",
+        "Rachel K. Luu",
+        "Wei-Ming Lu",
+        "Jaime A. Berkovich",
+        "Markus J. Buehler"
+      ],
+      "team website": "",
+      "affiliation": "Massachusetts Institute of Technology",
+      "domain": "Autonomous scientific discovery / multi-agent AI systems",
+      "venue": "arXiv.org",
+      "paperUrl": "https://doi.org/10.48550/arXiv.2603.14312",
+      "codeUrl": "https://github.com/lamm-mit/scienceclaw",
+      "githubStars": "https://img.shields.io/github/stars/lamm-mit/scienceclaw",
+      "citations": 16,
+      "doi": "10.48550/arXiv.2603.14312",
+      "addedAt": "2026-10-01T08:08:42Z"
+    },
+    {
+      "year": "2026.08",
+      "title": "An interoperable research agent network for scientific discovery",
+      "team": "Edwin Cheung",
+      "authors": [
+        "Tin Long Cheong",
+        "Xinchen Ji",
+        "Ying Wang",
+        "Yue Zhou",
+        "Bo Li",
+        "Cui-Ting Zhang",
+        "Jiabao Huang",
+        "I. Wu",
+        "Ao Li",
+        "Edwin Cheung"
+      ],
+      "team website": "",
+      "affiliation": "University of Macau",
+      "domain": "Interoperable multi-agent system for scientific discovery (drug discovery, spatial proteomics, therapeutic target discovery)",
+      "venue": "bioRxiv",
+      "paperUrl": "https://doi.org/10.64898/2026.08.13.744542",
+      "codeUrl": "https://github.com/edwincheunglab/guia-cli",
+      "githubStars": "https://img.shields.io/github/stars/edwincheunglab/guia-cli",
+      "citations": 0,
+      "doi": "10.64898/2026.08.13.744542",
+      "addedAt": "2026-10-01T08:08:49Z"
     }
   ],
   "Foundation models": [
@@ -5996,6 +6069,37 @@
       "citations": 0,
       "doi": "10.1016/j.cell.2026.06.010",
       "addedAt": "2026-09-30T01:09:37Z"
+    },
+    {
+      "year": "2026.06",
+      "title": "Virtual Tumors Enable Prediction of Personalized Therapeutic Combinations for Non-Small Cell Lung Cancer",
+      "team": "Jasmin Fisher",
+      "authors": [
+        "Matthew A. Clarke",
+        "C. G. Barker",
+        "Ashley Nicholls",
+        "Matt P Handler",
+        "Lisa Pickard",
+        "A. Shah",
+        "David Walter",
+        "E. De Braekeleer",
+        "U. Banerji",
+        "J. Choudhary",
+        "Saif S Ahmad",
+        "Ultan McDermott",
+        "Gregory J. Hannon",
+        "Jasmin Fisher"
+      ],
+      "team website": "",
+      "affiliation": "University College London, UCL Cancer Institute",
+      "domain": "Virtual tumor simulation for predicting personalized NSCLC drug combinations",
+      "venue": "Cancer Research",
+      "paperUrl": "https://doi.org/10.1158/0008-5472.CAN-25-2476",
+      "codeUrl": "https://github.com/jfisher-lab/NSCLC",
+      "githubStars": "https://img.shields.io/github/stars/jfisher-lab/NSCLC",
+      "citations": 0,
+      "doi": "10.1158/0008-5472.CAN-25-2476",
+      "addedAt": "2026-10-01T08:10:06Z"
     }
   ],
   "Benchmarks": [
@@ -6979,6 +7083,73 @@
       "citations": 0,
       "doi": "10.64898/2026.09.11.751004",
       "addedAt": "2026-10-01T07:29:25Z"
+    },
+    {
+      "year": "2025.02",
+      "title": "BixBench: a Comprehensive Benchmark for LLM-based Agents in Computational Biology",
+      "team": "Samuel G. Rodriques",
+      "authors": [
+        "L. Mitchener",
+        "Jon M. Laurent",
+        "A. Andonian",
+        "Benjamin Tenmann",
+        "Siddharth Narayanan",
+        "G. Wellawatte",
+        "Andrew D. White",
+        "Lorenzo Sani",
+        "Samuel G. Rodriques"
+      ],
+      "team website": "",
+      "affiliation": "FutureHouse",
+      "domain": "LLM Agents for Computational Biology",
+      "venue": "arXiv.org",
+      "paperUrl": "https://doi.org/10.48550/arXiv.2503.00096",
+      "codeUrl": "https://github.com/Future-House/BixBench",
+      "githubStars": "https://img.shields.io/github/stars/Future-House/BixBench",
+      "citations": 110,
+      "doi": "10.48550/arXiv.2503.00096",
+      "addedAt": "2026-10-01T08:09:22Z"
+    },
+    {
+      "year": "2026.01",
+      "title": "BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics",
+      "team": "Mateo vCupi'c",
+      "authors": [
+        "Dionizije Fa",
+        "Marko Čuljak",
+        "Bruno Pandvza",
+        "Mateo vCupi'c"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "AI Agents for Bioinformatics",
+      "venue": "arXiv.org",
+      "paperUrl": "https://doi.org/10.48550/arXiv.2601.21800",
+      "codeUrl": "https://github.com/bioagent-bench/bioagent-bench",
+      "githubStars": "https://img.shields.io/github/stars/bioagent-bench/bioagent-bench",
+      "citations": 12,
+      "doi": "10.48550/arXiv.2601.21800",
+      "addedAt": "2026-10-01T08:09:29Z"
+    },
+    {
+      "year": "2026.01",
+      "title": "HeurekaBench: A Benchmarking Framework for AI Co-scientist",
+      "team": "Marija Brbić",
+      "authors": [
+        "Siba Smarak Panigrahi",
+        "Jovana Videnović",
+        "Marija Brbić"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "AI Agents for scientific discovery (single-cell biology)",
+      "venue": "arXiv.org",
+      "paperUrl": "https://doi.org/10.48550/arXiv.2601.01678",
+      "codeUrl": "https://github.com/mlbio-epfl/HeurekaBench",
+      "githubStars": "https://img.shields.io/github/stars/mlbio-epfl/HeurekaBench",
+      "citations": 10,
+      "doi": "10.48550/arXiv.2601.01678",
+      "addedAt": "2026-10-01T08:09:40Z"
     }
   ],
   "Reviews": [
