@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 01 Oct 2026 03:18:28 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 03:40:00 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2109,6 +2109,20 @@
     </description>
     <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">Towardsautonomousmedicalartificialintelligenceagents202606</guid>
+  </item>
+  <item>
+    <title>Multi-agent AI toward autonomous design of perovskite solar cells</title>
+    <link>https://doi.org/10.1016/j.xinn.2026.101596</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jianghui Zheng</p>
+        <p><b>Domain:</b> multi-agent AI system for autonomous perovskite solar cell design</p>
+        <p><b>Venue:</b> The Innovation</p>
+        <p><a href="https://doi.org/10.1016/j.xinn.2026.101596">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">MultiagentAItowardautonomousdesignofperovskitesolarcells202609</guid>
   </item>
   <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
@@ -6709,6 +6723,20 @@
     </description>
     <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AvoidingcommonfailuresinAIforhealthandmedicine202609</guid>
+  </item>
+  <item>
+    <title>Advancing battery research through large language models: A review</title>
+    <link>https://doi.org/10.1016/j.xinn.2025.101091</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yue-Jiu Zheng</p>
+        <p><b>Domain:</b> review of LLMs for battery research across materials, device manufacturing and system optimization</p>
+        <p><b>Venue:</b> The Innovation</p>
+        <p><a href="https://doi.org/10.1016/j.xinn.2025.101091">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AdvancingbatteryresearchthroughlargelanguagemodelsAreview202509</guid>
   </item>
 </channel>
 </rss>

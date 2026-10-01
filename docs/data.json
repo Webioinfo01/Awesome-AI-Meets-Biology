@@ -2439,6 +2439,29 @@
       "citations": 31,
       "doi": "10.1038/s41586-026-10675-5",
       "addedAt": "2026-09-24T08:26:23Z"
+    },
+    {
+      "year": "2026.09",
+      "title": "Multi-agent AI toward autonomous design of perovskite solar cells",
+      "team": "Jianghui Zheng",
+      "authors": [
+        "Yongchang Liu",
+        "Lijie Zheng",
+        "Nursultan Mussakhanuly",
+        "Zhong Chen",
+        "Jessica Yajie Jiang",
+        "Jianghui Zheng"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "multi-agent AI system for autonomous perovskite solar cell design",
+      "venue": "The Innovation",
+      "paperUrl": "https://doi.org/10.1016/j.xinn.2026.101596",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1016/j.xinn.2026.101596",
+      "addedAt": "2026-10-01T03:38:50Z"
     }
   ],
   "Foundation models": [
@@ -7930,6 +7953,36 @@
       "citations": 0,
       "doi": "10.1016/j.cell.2026.07.025",
       "addedAt": "2026-09-19T06:00:18Z"
+    },
+    {
+      "year": "2025.09",
+      "title": "Advancing battery research through large language models: A review",
+      "team": "Yue-Jiu Zheng",
+      "authors": [
+        "Jianguo Chen",
+        "Yu Wang",
+        "Dong-Xu Guo",
+        "Zhiyong Liu",
+        "Yi-Duo Wang",
+        "Suran Li",
+        "Wendong Xu",
+        "Linglong Qian",
+        "Yifan Shen",
+        "Tao Sun",
+        "Xue-Bing Han",
+        "Ming-Gao Ouyang",
+        "Yue-Jiu Zheng"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "review of LLMs for battery research across materials, device manufacturing and system optimization",
+      "venue": "The Innovation",
+      "paperUrl": "https://doi.org/10.1016/j.xinn.2025.101091",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 15,
+      "doi": "10.1016/j.xinn.2025.101091",
+      "addedAt": "2026-10-01T03:38:38Z"
     }
   ]
 }
