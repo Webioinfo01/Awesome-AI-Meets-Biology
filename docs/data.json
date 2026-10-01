@@ -646,8 +646,8 @@
       "domain": "multiple agents system for bioinformatics",
       "venue": "bioRxiv",
       "paperUrl": "https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1",
-      "codeUrl": "https://www.promptbio.ai/download.html",
-      "githubStars": "",
+      "codeUrl": "https://github.com/DeepMed-Lab-ECNU/PromptBio",
+      "githubStars": "https://img.shields.io/github/stars/DeepMed-Lab-ECNU/PromptBio",
       "doi": "10.1101/2025.07.05.663295",
       "citations": 10
     },

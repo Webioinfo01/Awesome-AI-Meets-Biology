@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 01 Oct 2026 08:12:59 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 15:14:40 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -662,7 +662,7 @@
         <p><b>Domain:</b> multiple agents system for bioinformatics</p>
         <p><b>Venue:</b> bioRxiv</p>
         <p><a href="https://www.biorxiv.org/content/10.1101/2025.07.05.663295v1">Read the Paper</a></p>
-        <p><a href="https://www.promptbio.ai/download.html">Code</a></p>
+        <p><a href="https://github.com/DeepMed-Lab-ECNU/PromptBio">Code</a></p>
       ]]>
     </description>
     <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
