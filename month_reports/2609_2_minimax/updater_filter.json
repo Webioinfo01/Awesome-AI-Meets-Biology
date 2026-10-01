@@ -1,0 +1,137 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-09-17T00:00:00",
+      "title": "From Prompt to Pipeline: A Comparative Evaluation of Large Language Model Coding Agents for Reproducible Bioinformatics Pipeline Construction",
+      "team": "Jennifer K. Grenier",
+      "authors": [
+        "Paul R. Munn",
+        "Jennifer K. Grenier"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Bioinformatics/Workflow Automation",
+      "abstract": "Agentic coding systems are increasingly presented as a way to reduce the engineering burden of scientific software development. Bioinformatics is a strong test case for this claim because useful pipelines must combine domain-specific analysis choices, command-line software, sample metadata, workflow orchestration, container or HPC execution, and interpretable quality-control reporting. We evaluated three agentic systems - Biomni, Claude Code, and Codex - on the same task: constructing a Nextflow DSL2 pipeline for paired-end CUT&Tag data that included read QC, trimming, alignment, filtering, duplicate removal, signal track generation, per-sample and group-level peak calling, control-aware group merging, annotation, FRiP calculation, deepTools visualizations, and final MultiQC reporting. Each system received the same detailed CRAFT-style prompt and was assessed against a hand-coded reference pipeline developed by the authors. All three systems produced pipeline implementations that appeared plausible at the level of documentation and file structure, but none fully satisfied the requested analysis. The most consequential failure was shared: the agent-generated pipelines performed some form of group-level merging but did not produce the requested merged-group reporting outputs. Sample-level MultiQC reports also disagreed with the reference report. Codex was closest to the reference for primary mapped-read counts, although its total-read accounting and report structure still differed. Claude Code produced the broadest final report, but its mapping summary mixed stages and therefore could not be treated as numerically correct. Biomni produced the strongest subjective documentation, but its read-count agreement with the reference report was poor and several failures required substantial Nextflow expertise to diagnose. These results suggest that current coding agents can accelerate scaffolding, documentation, and routine implementation, but they do not eliminate the need for expert review in bioinformatics workflow construction. For complex sequencing workflows, prompts must specify not only the biological intent, but also the exact stage semantics, acceptance tests, metadata contracts, expected report sections, resource propagation rules, and failure criteria needed to distinguish a plausible pipeline from a correct one. Author summary Modern AI coding agents can write large amounts of software from natural language instructions. This study asks whether that ability is enough to build a real bioinformatics pipeline for CUT&Tag sequencing data. The answer from this evaluation is mixed. The agents produced impressive-looking pipelines and documentation, but the outputs did not fully match a hand-coded reference workflow. Most importantly, the pipelines did not generate the requested merged-group reports, which were central to the biological use case. Some errors were simple programming issues, but others required a working knowledge of Nextflow, sequencing QC, and chromatin profiling workflows. The practical conclusion is not that these tools are useless. Rather, they are best viewed as accelerators for experienced users. A biology student with little programming or workflow-management background would still have difficulty detecting and fixing the most important errors.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/d609be317931109e8840a2c2fe64d95bd13036e8",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.11.751004",
+      "reason_for_inclusion": "In scope: LLM coding agents constructing reproducible bioinformatics pipelines, a clear case of agents accelerating biological/scientific discovery workflows."
+    },
+    {
+      "year": "2026-09-24T00:00:00",
+      "title": "Execution-aware agent harness for accessible and responsible synthetic biology automation",
+      "team": "Tong Si",
+      "authors": [
+        "Yuan Gao",
+        "Li-Hao Fu",
+        "Yu-Jie Liu",
+        "Yi-Zhou Luo",
+        "Jian-Zhi Zhang",
+        "Wen-Zhuo Li",
+        "Yunquan Lan",
+        "Yan-Jing Wang",
+        "Ying-Ying Li",
+        "Han Jiang",
+        "Yongcan Chen",
+        "Nan Zhang",
+        "Tessa Alexanian",
+        "Lucas Boldrini",
+        "Xiao Yi",
+        "Boyan Li",
+        "H. Alinejad-Rokny",
+        "Teng Wang",
+        "Min Yang",
+        "Dong-Zhan Zhou",
+        "Chen-Li Liu",
+        "Tong Si"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Synthetic Biology/Lab Automation",
+      "abstract": "Laboratory automation accelerates synthetic biology, but robot programming remains a barrier to broader participation. Large language model (LLM)-based automation must address four interconnected requirements in this field: sequence-level biosecurity, community standards, context-dependent biological behavior, and distributed collaboration across laboratories. Here we present LabscriptAI, an execution-aware agent framework that couples authoring and runtime control loops to translate natural-language instructions into platform-specific robot scripts and support bounded recovery under deterministic authorization and human oversight. On a 90-task liquid-handling benchmark, LabscriptAI achieved a 96.7% simulation-pass rate, the highest among the evaluated LLM-based and commercial baselines. We demonstrated its capabilities through sequence screening at designated workflow checkpoints; standardized cell-free characterization of 854 green fluorescent protein (GFP) designs from 171 student teams, coupled to data deposition; containment-aware engineering of a formaldehyde-converting enzyme, yielding 6.7-fold higher ethylene glycol titers in a two-stage cascade; and quality-assured preparation of 531 genetic parts for the 2025 iGEM Distribution Kit distributed worldwide. Together, these results establish LabscriptAI as a biosecurity-aware, community-integrated framework connecting protocol authoring, controlled execution, and traceable experimental outputs across laboratory platforms.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/3b8998f121d2d394687f48e08b5f7680b9ab4bed",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1101/2025.09.30.679666",
+      "reason_for_inclusion": "In scope: AI agent harness enabling autonomous synthetic biology experimentation, a core example of agents for scientific discovery."
+    },
+    {
+      "year": "2026-09-24T00:00:00",
+      "title": "AI Models Excel at Orchestration but Falter at Biological Judgment: Findings from an Agentic Gene Annotation Study",
+      "team": "Aritra Sinha",
+      "authors": [
+        "Aritra Sinha"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Genomics/Gene Annotation",
+      "abstract": "Large language model (LLM) agents are increasingly used both to direct biological analyses and to interpret their results. The core functions of agents-workflow control and biological adjudication-are often combined within the same agent and evaluated end-to-end, making it difficult to determine whether a model that is useful in one role is also reliable in the other. In this study, Genome Skeptic, a bacterial gene-annotation framework was developed in which all sequence-level measurements are generated by deterministic bioinformatics tools, while an AI controller can request follow-up analyses only from a predefined registry. In a prospectively locked, blinded cohort of 20 genomes balanced for tet(A)/tet(B) presence and absence, GPT-5.6 Sol acting as the workflow controller achieved the same accuracy as fixed and exhaustive strategies (18/20 correct) while requiring 32% and 47% fewer follow-up analyses, respectively. This was consistent with a 60-case prospective benchmark, in which markedly different evidence-acquisition policies produced different final evidence states but identical endpoint calls in all 60 cases. When the same Sol model was instead given final decision authority over the exact evidence state used by the deterministic adjudicator, accuracy fell from 18/20 to 11/20 (exact McNemar P = 0.016), specificity fell from 1.00 to 0.30, and the model corrected none of the deterministic errors. All nine endpoint disagreements shifted negative calls to unresolved rather than identifying missed positives. The same model that efficiently decided what to analyse next performed worse when asked to decide what the evidence meant. In this task, LLM performed well in orchestration and not biological adjudication.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/31ff5f5509162c73b69c6ea9dbad47fe04831045",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.23.753765",
+      "reason_for_inclusion": "In scope: empirical study of agentic AI for a fundamental biological task (gene annotation), directly relevant to AI agents for scientific discovery."
+    },
+    {
+      "year": "2026-09-16T00:00:00",
+      "title": "Reimagining research papers as interactive and reliable AI agents.",
+      "team": "James Zou",
+      "authors": [
+        "Jia-Cheng Miao",
+        "Joe R. Davis",
+        "Yaohui Zhang",
+        "Jonathan K. Pritchard",
+        "James Zou"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Scientific Publishing/AI Agents",
+      "abstract": "Here we introduce Paper2Agent, an automated framework that converts research papers into artificial intelligence (AI) agents. Paper2Agent transforms research output from passive artefacts into active systems that accelerate use and discovery. Conventional research papers require readers to understand and adapt the paper's code, data and methods to their work, creating barriers to dissemination and reuse. Paper2Agent addresses this challenge by converting a paper into an AI agent that functions as a virtual corresponding author, exposing its manuscript, supplementary materials, datasets, code and workflows as active, agent-native knowledge rather than static text. It analyses the paper and codebase using multiple agents to construct a model context protocol (MCP) server, then generates and runs tests to refine and increase robustness of the MCP. These paper MCPs can be connected to a chat agent (such as Claude Code) to carry out complex scientific queries through natural language while invoking tools and workflows from the paper. We demonstrate Paper2Agent's effectiveness through case studies. Paper2Agent created an agent that leveraged AlphaGenome1 to interpret genomic variants and agents based on Scanpy2 and TISSUE (transcript imputation with spatial single-cell uncertainty estimation)3 to conduct single-cell and spatial transcriptomics analyses. We validate that these agents reproduce the results of the original papers and carry out novel user queries. Paper2Agent created multiple agents that collaborate to prioritize a causal gene for psoriasis. By turning static papers into interactive AI agents, Paper2Agent introduces a paradigm for knowledge dissemination and a collaborative ecosystem of AI co-scientists.",
+      "venue": "Nature",
+      "paperUrl": "https://www.semanticscholar.org/paper/bfa74c3aa2d1223a816f30865954bb9e250a877f",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 2,
+      "doi": "10.1038/s41586-026-11044-y",
+      "reason_for_inclusion": "In scope: directly addresses AI agents for scientific discovery by transforming publications into interactive agents; premier venue (Nature)."
+    }
+  ],
+  "Other Models": [
+    {
+      "year": "2026-09-17T00:00:00",
+      "title": "LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design",
+      "team": "Cristian Taccioli",
+      "authors": [
+        "Wageesha Widuranga",
+        "Davide Rigoni",
+        "Fabio Bove",
+        "D. Righelli",
+        "Salvatore Romano",
+        "R. Visone",
+        "Marilena V. Iorio",
+        "Marco Grassia",
+        "G. Mangioni",
+        "Pietro Lio'",
+        "Cristian Taccioli"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Drug Discovery/De Novo Design",
+      "abstract": "The discovery of novel small molecules is challenging because of the vastness of chemical space and the complexity of protein-ligand interactions, leading to low success rates and time-consuming workflows. Here, we present LLMsFold, a computational framework that combines Large Language Models (LLMs) and biophysical foundation tools to design and validate new small molecules targeting pathogenic proteins. The pipeline starts by identifying viable binding pockets on a target protein through geometry-based pocket detection. A 70-billion-parameter transformer model from the Llama family then generates candidate molecules as SMILES strings under prompt constraints that enforce drug-likeness. Each molecule is evaluated by Boltz-2, a diffusion-based model for protein-ligand co-folding that predicts bound 3D structure and binding affinity. Promising candidates are iteratively optimized through a feedback loop that prioritizes high predicted affinity and synthetic accessibility. We demonstrate the approach on two challenging targets: ACVR1 (Activin A Receptor Type 1), implicated in fibrodysplasia ossificans progressiva (FOP), and CD19, a surface antigen expressed on most B-cell lymphoma and leukemia cells. Top candidates show strong in silico binding predictions and favorable drug-like profiles. All code and models are made available to support reproducibility and further development.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/3d78f173e2c07b03e229a1e5d65e2d19b8c55e71",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.02.709055",
+      "reason_for_inclusion": "In scope: direct hit on drug discovery, combining LLMs with biophysical simulations for de novo design."
+    }
+  ]
+}

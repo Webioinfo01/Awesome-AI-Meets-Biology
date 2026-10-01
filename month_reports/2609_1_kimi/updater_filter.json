@@ -1,0 +1,100 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-09-10T00:00:00",
+      "title": "Agent-driven Model Development for RNA 3D Structure Prediction",
+      "team": "Hervé Minoux",
+      "authors": [
+        "Maciej Majewski",
+        "Laura Malo",
+        "Ariadna Montero-Blay",
+        "Matteo Marengo",
+        "R. N. dos Santos",
+        "P. Gkeka",
+        "Hervé Minoux"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Agent-driven RNA 3D structure prediction",
+      "abstract": "Large language model (LLM) agents have shown promise in driving scientific discovery, but their effectiveness in complex, real-world biological problems remains underexplored. We ask whether a general-purpose LLM agent can drive semi-autonomous development of a model for a genuinely hard biological problem, RNA 3D structure prediction. We designed a development loop where, under a fixed budget and with human supervision, the agent iteratively proposed, implemented, trained, and evaluated model changes. Over 297 iterations, the model evolved from a randomly-initialised baseline to QuickFold, an 8.9 M-parameter folding trunk that matches the strongest open-source baselines (RhoFold+, NuFold) on lDDT and TM-score within noise on a held-out test set at a fraction of their inference cost. We frame this less as a new predictor than as a case study in feedback-driven, agent-led model development.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/665529460dd78a8cad094c84593c07487f6cc101",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.08.749228",
+      "reason_for_inclusion": "In scope: AI agent for RNA 3D structure prediction, advancing foundation models for biology and drug-discovery target assessment; preprint (bioRxiv)."
+    }
+  ],
+  "Foundation models": [
+    {
+      "year": "2026-09-15T00:00:00",
+      "title": "A foundation model learns the sequence and functional grammar of fully human heavy-chain-only antibodies",
+      "team": "Hong-Jiang Miao",
+      "authors": [
+        "Hong-Jiang Miao"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Antibody sequence foundation model",
+      "abstract": "",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/bb30ed3bc50291d6fae20a2e409ad5bbf1ffb52b",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.10.750553",
+      "reason_for_inclusion": "In scope: Foundation model for antibody sequence and function, directly supporting biologic drug discovery; preprint (bioRxiv)."
+    },
+    {
+      "year": "2026-09-13T00:00:00",
+      "title": "Agentic-AI-ready genome-wide poxvirus–host interaction screen refined by a protein language model",
+      "team": "A. Yakimovich",
+      "authors": [
+        "Jacob Marcel Anter",
+        "Jason Mercer",
+        "A. Yakimovich"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Protein language model for poxvirus-host interactions",
+      "abstract": "Recent mpox outbreaks highlight the necessity to understand the interactions between poxviruses and the human host. These can be discovered systematically through screening for host genes involved in infection at the single-cell level using RNA interference. However, off-target effects and assay noise obscure true gene-phenotype relationships, hampering the discovery of therapeutically relevant targets. Here, we show that integrating protein-protein interaction information derived from a protein language model boosts the discovery of vaccinia virus-host interactions. We propose ICARus – a positive-unlabelled read-out refinement framework to achieve this. Our approach enhances the identification of human genes with potential antiviral function. We provide the raw and refined read-outs of a genome-wide screen for vaccinia virus host factors as an agentic-AI-enabled community resource. Our findings provide a generalisable strategy for robust hit prioritisation in functional screens, accelerating discovery across complex biological systems.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/e942589caaa84b92babd0592dca0040919f92776",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.10.750412",
+      "reason_for_inclusion": "In scope: Protein language model (foundation model for biology) refining a genome-wide perturbation screen for poxvirus-host interactions relevant to antiviral drug discovery; preprint (bioRxiv)."
+    }
+  ],
+  "Other Models": [
+    {
+      "year": "2026-09-01T00:00:00",
+      "title": "Large language model-driven knowledge graph learning for herb-macromolecule interaction prediction and functional analysis.",
+      "team": "Jian-Fu Xia",
+      "authors": [
+        "Si-Si Yuan",
+        "Hui-Hui Wu",
+        "Jia-Peng Yao",
+        "Xin-Ze Lian",
+        "Linlin Zhuo",
+        "Ke-Qin Li",
+        "Dong-Sheng Cao",
+        "Ai-Ping Lu",
+        "Jian-Fu Xia"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Herb-macromolecule interaction prediction",
+      "abstract": "The rapid accumulation of biological macromolecule data has created an urgent need for computational methods capable of characterizing the functional roles of macromolecular targets in complex therapeutic systems. Traditional Chinese medicine represents a typical scenario, in which multiple herbal components may coordinately regulate diverse protein targets through multi-component and multi-target mechanisms. However, existing methods often fail to jointly integrate traditional medicine knowledge, modern biomedical associations, and the functional context of biological targets, limiting systematic identification and mechanistic interpretation of herb-macromolecular target interactions (HTIs). Here, we propose LLM-HTI, a large language model (LLM)-driven graph learning framework with adaptive parameter updating based on a Traditional Chinese and Western medicine knowledge graph (TWKG), for predicting potential interactions between herbs and biological macromolecular targets. LLM-HTI extracts latent semantic representations of herb-target associations using LLMs and integrates them with knowledge graph topology, enabling joint characterization of herbs, macromolecular targets, and their functional relationships. The framework further introduces a gradient-guided adaptive parameter updating mechanism to dynamically select important parameter subsets, improving training stability and optimization efficiency. In addition, gastrointestinal surgeons independently assessed the top-ranked candidate targets for disease relevance, biological plausibility, clinical actionability, and translational priority to provide a clinician-guided evaluation of their medical relevance. These benchmark and case-study results demonstrate that LLM-HTI supports macromolecular target function analysis and herb-target mechanism discovery, while clinician-guided assessment further highlights medically relevant candidates for translational follow-up. Our data and code are publicly available at https://github.com/sisyyuan/LLM-HTI.",
+      "venue": "International Journal of Biological Macromolecules",
+      "paperUrl": "https://www.semanticscholar.org/paper/472b96a063cfdf01c6937a0a738b7592317c62a9",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.1016/j.ijbiomac.2026.154371",
+      "reason_for_inclusion": "In scope: LLM-driven knowledge graph for predicting herb-macromolecule interactions, advancing natural-product drug discovery; Q1 venue (International Journal of Biological Macromolecules)."
+    }
+  ]
+}

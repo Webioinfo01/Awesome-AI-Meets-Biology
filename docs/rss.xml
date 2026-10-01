@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 01 Oct 2026 03:40:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 07:29:45 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -2125,6 +2125,62 @@
     <guid isPermaLink="false">MultiagentAItowardautonomousdesignofperovskitesolarcells202609</guid>
   </item>
   <item>
+    <title>An agentic AI framework connecting language models to electronic health records and a biomedical knowledge graph for real-world evidence</title>
+    <link>https://doi.org/10.3389/frai.2026.1883853</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Sergio Baranzini</p>
+        <p><b>Domain:</b> Agentic AI framework for EHR + KG real-world evidence</p>
+        <p><b>Venue:</b> Frontiers in Artificial Intelligence</p>
+        <p><a href="https://www.semanticscholar.org/paper/f90fb08535cdc4c8bef8ac8174a0e198ad4d942f">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AnagenticAIframeworkconnectinglanguagemodelstoelectronichealthrecordsandabiomedicalknowledgegraphforrealworldevidence2026-09</guid>
+  </item>
+  <item>
+    <title>Execution-aware agent harness for accessible and responsible synthetic biology automation</title>
+    <link>https://doi.org/10.1101/2025.09.30.679666</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tong Si</p>
+        <p><b>Domain:</b> Synthetic biology laboratory automation</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/3b8998f121d2d394687f48e08b5f7680b9ab4bed">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Executionawareagentharnessforaccessibleandresponsiblesyntheticbiologyautomation2026-09</guid>
+  </item>
+  <item>
+    <title>FiberPro 1.0: Multiagent AI-Guided Design for High-Throughput Production and Conformal Deposition of Functional Protein Micro/Nanofibers</title>
+    <link>https://doi.org/10.64898/2026.09.18.752775</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hui-Bin Chang</p>
+        <p><b>Domain:</b> Functional protein micro/nanofiber manufacturing</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/c5514a70d2c29ca4ec93573c5e89c5032f003e3a">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FiberProMultiagentAIGuidedDesignforHighThroughputProductionandConformalDepositionofFunctionalProteinMicroNanofibers2026-09</guid>
+  </item>
+  <item>
+    <title>AI Models Excel at Orchestration but Falter at Biological Judgment: Findings from an Agentic Gene Annotation Study</title>
+    <link>https://doi.org/10.64898/2026.09.23.753765</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Aritra Sinha</p>
+        <p><b>Domain:</b> Bacterial gene annotation (agentic bioinformatics)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/31ff5f5509162c73b69c6ea9dbad47fe04831045">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AIModelsExcelatOrchestrationbutFalteratBiologicalJudgmentFindingsfromanAgenticGeneAnnotationStudy2026-09</guid>
+  </item>
+  <item>
     <title>Novae: a graph-based foundation model for spatial transcriptomics data</title>
     <link>https://doi.org/10.1038/s41592-025-02899-6</link>
     <description>
@@ -4068,6 +4124,63 @@
     <guid isPermaLink="false">Advancingcancerdetectionandtreatmentusinglongitudinalroutineclinicaldata202607</guid>
   </item>
   <item>
+    <title>A foundation model learns the sequence and functional grammar of fully human heavy-chain-only antibodies</title>
+    <link>https://doi.org/10.64898/2026.09.10.750553</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Hong-Jiang Miao</p>
+        <p><b>Domain:</b> Antibody sequence foundation model</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/bb30ed3bc50291d6fae20a2e409ad5bbf1ffb52b">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Afoundationmodellearnsthesequenceandfunctionalgrammaroffullyhumanheavychainonlyantibodies2026-09</guid>
+  </item>
+  <item>
+    <title>Agentic-AI-ready genome-wide poxvirus–host interaction screen refined by a protein language model</title>
+    <link>https://doi.org/10.64898/2026.09.10.750412</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> A. Yakimovich</p>
+        <p><b>Domain:</b> Protein language model for poxvirus-host interactions</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/e942589caaa84b92babd0592dca0040919f92776">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AgenticAIreadygenomewidepoxvirushostinteractionscreenrefinedbyaproteinlanguagemodel2026-09</guid>
+  </item>
+  <item>
+    <title>Environment-Aware DNA Language Model for Stress-Responsive Genomic Prioritization in Maize</title>
+    <link>https://doi.org/10.64898/2026.09.11.749989</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Anne Thessen</p>
+        <p><b>Domain:</b> DNA language model for plant stress genomics</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/59437de2450d939dc8991f588b89a70317a6fd7e">Read the Paper</a></p>
+        <p><a href="https://github.com/iPRoBe-lab/Environment_Aware_DNA_LLM">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">EnvironmentAwareDNALanguageModelforStressResponsiveGenomicPrioritizationinMaize2026-09</guid>
+  </item>
+  <item>
+    <title>A clinically-oriented foundation model for intraoperative pathology.</title>
+    <link>https://doi.org/10.1038/s41591-026-04703-0</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Mu-yan Cai</p>
+        <p><b>Domain:</b> Computational Pathology</p>
+        <p><b>Venue:</b> Nature Medicine</p>
+        <p><a href="https://www.semanticscholar.org/paper/6adef343ade87d8830eb54131d76fcc729aaf622">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Aclinicallyorientedfoundationmodelforintraoperativepathology2026-09</guid>
+  </item>
+  <item>
     <title>4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.</title>
     <link>https://doi.org/10.1016/j.cell.2026.08.028</link>
     <description>
@@ -5641,6 +5754,20 @@
     </description>
     <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">VirtualCellChallengeBenchmarkingzeroshotgeneralizationacrosscellularcontexts202608</guid>
+  </item>
+  <item>
+    <title>From Prompt to Pipeline: A Comparative Evaluation of Large Language Model Coding Agents for Reproducible Bioinformatics Pipeline Construction</title>
+    <link>https://doi.org/10.64898/2026.09.11.751004</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jennifer K. Grenier</p>
+        <p><b>Domain:</b> Bioinformatics pipeline construction (LLM coding agents)</p>
+        <p><b>Venue:</b> bioRxiv</p>
+        <p><a href="https://www.semanticscholar.org/paper/d609be317931109e8840a2c2fe64d95bd13036e8">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">FromPrompttoPipelineAComparativeEvaluationofLargeLanguageModelCodingAgentsforReproducibleBioinformaticsPipelineConstruction2026-09</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>

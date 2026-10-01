@@ -1,0 +1,37 @@
+<!-- awescholar 0.3.6 · model: Kimi-K2.7-Code · scope: 2026-09-16:2026-09-30 -->
+
+# Research Paper Report for 2026-09-16:2026-09-30
+
+## Overall Summary
+
+The period 2026-09-16 to 2026-09-30 features three studies exploring how artificial intelligence agents can augment scientific discovery across biomedicine and synthetic biology. A unifying theme is the deployment of large language models (LLMs) not as standalone oracles, but as reasoning controllers integrated with specialized scientific tools, wet-lab execution systems, and deterministic adjudicators. Each paper addresses a different opportunity and failure mode of the current generation of agentic AI, ranging from molecular design to laboratory automation and genomic annotation.
+
+Paper [1] presents LLMsFold, a de novo drug design framework that merges a 70-billion-parameter Llama-class LLM with geometry-based pocket detection and the Boltz-2 diffusion-based protein-ligand co-folding model. The system generates candidate molecules as SMILES strings under prompt constraints that enforce drug-likeness, evaluates predicted binding affinity and 3D bound structure, and iteratively optimizes for high affinity and synthetic accessibility. Validated on ACVR1 (linked to fibrodysplasia ossificans progressiva) and CD19 (a B-cell lymphoma/leukemia antigen), it exemplifies the integration of generative AI with biophysical simulation for target-specific molecule generation.
+
+Paper [2] shifts from computation to the laboratory bench. LabscriptAI is an execution-aware agent harness for synthetic biology automation that couples authoring and runtime control loops to convert natural-language instructions into platform-specific robot scripts. It explicitly addresses four domain requirements: sequence-level biosecurity, community standards, context-dependent biological behavior, and distributed collaboration. The framework supports bounded recovery under deterministic authorization and human oversight, and demonstrated a 96.7% simulation-pass rate on a 90-task liquid-handling benchmark—outperforming LLM-based and commercial baselines. Real-world validations include standardized cell-free characterization of 854 GFP designs, containment-aware engineering of a formaldehyde-converting enzyme, and preparation of 531 genetic parts for the iGEM Distribution Kit.
+
+Paper [3] offers a cautionary note. In Genome Skeptic, an agentic bacterial gene-annotation framework, GPT-5.6 Sol serving as the workflow controller achieved accuracy matching exhaustive fixed strategies (18/20) while reducing follow-up analyses by 32–47%. However, when the same model was given final biological adjudication authority over the evidence state, accuracy dropped from 18/20 to 11/20, with specificity falling from 1.00 to 0.30. This suggests a fundamental separation of competencies: LLMs excel at orchestration and evidence acquisition, but still falter at biological judgment.
+
+Together, these papers paint a nuanced picture of the state of AI agents in science. The field is moving toward modular architectures where LLMs manage abstraction, search, and coordination, while specialized tools retain responsibility for physical-chemical prediction, biological safety, and evidence interpretation. The implications are significant: faster therapeutic discovery, more democratized synthetic biology automation, and clearer guidelines for allocating authority between models and human or deterministic systems. Limitations include the bioRxiv preprint status of all three studies, reliance on in silico validation for [1] and [2]'s binding claims, and the need for broader generalization of [3]'s governance findings across organisms and evidence types.
+
+## Table of Contents
+
+- [AI Agents](#ai-agents)
+
+## AI Agents
+
+The "AI Agents" category in this report is characterized by the convergence of large language models with domain-specific execution tools and deterministic adjudicators. Rather than treating LLMs as monolithic problem solvers, all three papers decompose the scientific workflow into stages where AI agents are assigned narrowly defined roles.
+
+LLMsFold [1] places a Llama-family LLM at the generative front end of a drug-design pipeline. The model produces SMILES representations of candidate ligands, while geometry-based pocket detection and Boltz-2's diffusion-based co-folding model handle structural and thermodynamic assessment. Iterative feedback based on predicted binding affinity and synthetic accessibility closes the loop. This architecture leverages the LLM's strength in constrained molecular generation while avoiding its weakness in direct protein-ligand energy modeling.
+
+LabscriptAI [2] extends the agent paradigm from computational design to physical execution. It translates natural-language protocols into platform-specific robot scripts and monitors their execution with bounded recovery mechanisms. Its standout result—a 96.7% simulation-pass rate on a 90-task liquid-handling benchmark—reflects the value of coupling authoring and runtime control loops. The framework also embeds biosecurity screening and human oversight, addressing a critical concern as AI-mediated automation becomes more accessible to distributed communities such as iGEM.
+
+Genome Skeptic [3] provides the most direct empirical test of agent roles. By locking the prospective cohort and separating workflow control from biological adjudication, the author shows that GPT-5.6 Sol reduces unnecessary follow-up analyses when acting as an orchestrator, but degrades diagnostic performance when deciding what evidence means. This reinforces a design principle implicit in [1] and [2]: allocate high-stakes interpretation to specialized, auditable tools rather than to the generalist LLM.
+
+Collectively, the category advances a "division of cognitive labor" in which LLMs coordinate, generate, and communicate, while biophysical simulators, robotic execution engines, and deterministic bioinformatics tools preserve scientific rigor. Future work will need to formalize these role boundaries, validate performance across larger and more diverse benchmarks, and ensure that regulatory and safety frameworks keep pace with increasingly autonomous scientific agents.
+
+| Index | Title | Domain | Venue | Team | DOI | affiliation | paperUrl |
+|---|---|---|---|---|---|---|---|
+| 1 | LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design | De novo drug design / Protein-ligand interactions | bioRxiv | Cristian Taccioli | 10.64898/2026.03.02.709055 |  | [Link](https://www.semanticscholar.org/paper/3d78f173e2c07b03e229a1e5d65e2d19b8c55e71) |
+| 2 | Execution-aware agent harness for accessible and responsible synthetic biology automation | Synthetic biology automation / Lab automation | bioRxiv | Tong Si | 10.1101/2025.09.30.679666 |  | [Link](https://www.semanticscholar.org/paper/3b8998f121d2d394687f48e08b5f7680b9ab4bed) |
+| 3 | AI Models Excel at Orchestration but Falter at Biological Judgment: Findings from an Agentic Gene Annotation Study | Gene annotation / Bacterial genomics | bioRxiv | Aritra Sinha | 10.64898/2026.09.23.753765 |  | [Link](https://www.semanticscholar.org/paper/31ff5f5509162c73b69c6ea9dbad47fe04831045) |

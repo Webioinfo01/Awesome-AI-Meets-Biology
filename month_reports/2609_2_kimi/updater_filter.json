@@ -1,0 +1,92 @@
+{
+  "AI Agents": [
+    {
+      "year": "2026-09-17T00:00:00",
+      "title": "LLMsFold: Integrating Large Language Models and Biophysical Simulations for De Novo Drug Design",
+      "team": "Cristian Taccioli",
+      "authors": [
+        "Wageesha Widuranga",
+        "Davide Rigoni",
+        "Fabio Bove",
+        "D. Righelli",
+        "Salvatore Romano",
+        "R. Visone",
+        "Marilena V. Iorio",
+        "Marco Grassia",
+        "G. Mangioni",
+        "Pietro Lio'",
+        "Cristian Taccioli"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "De novo drug design / Protein-ligand interactions",
+      "abstract": "The discovery of novel small molecules is challenging because of the vastness of chemical space and the complexity of protein-ligand interactions, leading to low success rates and time-consuming workflows. Here, we present LLMsFold, a computational framework that combines Large Language Models (LLMs) and biophysical foundation tools to design and validate new small molecules targeting pathogenic proteins. The pipeline starts by identifying viable binding pockets on a target protein through geometry-based pocket detection. A 70-billion-parameter transformer model from the Llama family then generates candidate molecules as SMILES strings under prompt constraints that enforce drug-likeness. Each molecule is evaluated by Boltz-2, a diffusion-based model for protein-ligand co-folding that predicts bound 3D structure and binding affinity. Promising candidates are iteratively optimized through a feedback loop that prioritizes high predicted affinity and synthetic accessibility. We demonstrate the approach on two challenging targets: ACVR1 (Activin A Receptor Type 1), implicated in fibrodysplasia ossificans progressiva (FOP), and CD19, a surface antigen expressed on most B-cell lymphoma and leukemia cells. Top candidates show strong in silico binding predictions and favorable drug-like profiles. All code and models are made available to support reproducibility and further development.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/3d78f173e2c07b03e229a1e5d65e2d19b8c55e71",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.03.02.709055",
+      "reason_for_inclusion": "In scope: combines LLMs with biophysical simulations for de novo drug design, directly advancing the drug-discovery interest; preprint (bioRxiv)."
+    },
+    {
+      "year": "2026-09-24T00:00:00",
+      "title": "Execution-aware agent harness for accessible and responsible synthetic biology automation",
+      "team": "Tong Si",
+      "authors": [
+        "Yuan Gao",
+        "Li-Hao Fu",
+        "Yu-Jie Liu",
+        "Yi-Zhou Luo",
+        "Jian-Zhi Zhang",
+        "Wen-Zhuo Li",
+        "Yunquan Lan",
+        "Yan-Jing Wang",
+        "Ying-Ying Li",
+        "Han Jiang",
+        "Yongcan Chen",
+        "Nan Zhang",
+        "Tessa Alexanian",
+        "Lucas Boldrini",
+        "Xiao Yi",
+        "Boyan Li",
+        "H. Alinejad-Rokny",
+        "Teng Wang",
+        "Min Yang",
+        "Dong-Zhan Zhou",
+        "Chen-Li Liu",
+        "Tong Si"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Synthetic biology automation / Lab automation",
+      "abstract": "Laboratory automation accelerates synthetic biology, but robot programming remains a barrier to broader participation. Large language model (LLM)-based automation must address four interconnected requirements in this field: sequence-level biosecurity, community standards, context-dependent biological behavior, and distributed collaboration across laboratories. Here we present LabscriptAI, an execution-aware agent framework that couples authoring and runtime control loops to translate natural-language instructions into platform-specific robot scripts and support bounded recovery under deterministic authorization and human oversight. On a 90-task liquid-handling benchmark, LabscriptAI achieved a 96.7% simulation-pass rate, the highest among the evaluated LLM-based and commercial baselines. We demonstrated its capabilities through sequence screening at designated workflow checkpoints; standardized cell-free characterization of 854 green fluorescent protein (GFP) designs from 171 student teams, coupled to data deposition; containment-aware engineering of a formaldehyde-converting enzyme, yielding 6.7-fold higher ethylene glycol titers in a two-stage cascade; and quality-assured preparation of 531 genetic parts for the 2025 iGEM Distribution Kit distributed worldwide. Together, these results establish LabscriptAI as a biosecurity-aware, community-integrated framework connecting protocol authoring, controlled execution, and traceable experimental outputs across laboratory platforms.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/3b8998f121d2d394687f48e08b5f7680b9ab4bed",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 1,
+      "doi": "10.1101/2025.09.30.679666",
+      "reason_for_inclusion": "In scope: proposes an execution-aware agent harness for automating synthetic-biology experiments, aligning with AI agents for scientific discovery in biology; preprint (bioRxiv)."
+    },
+    {
+      "year": "2026-09-24T00:00:00",
+      "title": "AI Models Excel at Orchestration but Falter at Biological Judgment: Findings from an Agentic Gene Annotation Study",
+      "team": "Aritra Sinha",
+      "authors": [
+        "Aritra Sinha"
+      ],
+      "team website": "",
+      "affiliation": "",
+      "domain": "Gene annotation / Bacterial genomics",
+      "abstract": "Large language model (LLM) agents are increasingly used both to direct biological analyses and to interpret their results. The core functions of agents-workflow control and biological adjudication-are often combined within the same agent and evaluated end-to-end, making it difficult to determine whether a model that is useful in one role is also reliable in the other. In this study, Genome Skeptic, a bacterial gene-annotation framework was developed in which all sequence-level measurements are generated by deterministic bioinformatics tools, while an AI controller can request follow-up analyses only from a predefined registry. In a prospectively locked, blinded cohort of 20 genomes balanced for tet(A)/tet(B) presence and absence, GPT-5.6 Sol acting as the workflow controller achieved the same accuracy as fixed and exhaustive strategies (18/20 correct) while requiring 32% and 47% fewer follow-up analyses, respectively. This was consistent with a 60-case prospective benchmark, in which markedly different evidence-acquisition policies produced different final evidence states but identical endpoint calls in all 60 cases. When the same Sol model was instead given final decision authority over the exact evidence state used by the deterministic adjudicator, accuracy fell from 18/20 to 11/20 (exact McNemar P = 0.016), specificity fell from 1.00 to 0.30, and the model corrected none of the deterministic errors. All nine endpoint disagreements shifted negative calls to unresolved rather than identifying missed positives. The same model that efficiently decided what to analyse next performed worse when asked to decide what the evidence meant. In this task, LLM performed well in orchestration and not biological adjudication.",
+      "venue": "bioRxiv",
+      "paperUrl": "https://www.semanticscholar.org/paper/31ff5f5509162c73b69c6ea9dbad47fe04831045",
+      "codeUrl": "",
+      "githubStars": "",
+      "citations": 0,
+      "doi": "10.64898/2026.09.23.753765",
+      "reason_for_inclusion": "In scope: investigates an agentic approach to gene annotation in bacterial genomics, advancing AI agents for biological discovery; preprint (bioRxiv)."
+    }
+  ]
+}

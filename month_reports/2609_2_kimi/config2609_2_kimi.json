@@ -1,0 +1,41 @@
+{
+    "model": {
+        "profile": "awerouter",
+        "name": "openai/doubao/Kimi-K2.7-Code"
+    },
+    "search": {
+        "query": "AI agent|large language model|foundation model",
+        "fields_of_study": [
+            "Biology",
+            "Medicine",
+            "Chemistry"
+        ],
+        "limit": 100,
+        "include_abstracts": true
+    },
+    "filter": {
+        "limit": 15,
+        "research_interests": [
+            "pharmacogenomics",
+            "foundation models for biology",
+            "AI agents for scientific discovery",
+            "drug discovery",
+            "single cell analysis",
+            "perturbation study"
+        ]
+    },
+    "archive": {
+        "stars_style": "badge"
+    },
+    "output": {
+        "db_path": "month_reports/2609_2_kimi"
+    },
+    "categories": [
+        "AI Agents",
+        "Foundation models",
+        "Other Models",
+        "Databases/Simulation",
+        "Benchmarks",
+        "Reviews"
+    ]
+}
