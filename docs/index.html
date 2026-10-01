@@ -1203,7 +1203,22 @@
                 }
             });
 
-            const sortedYears = Object.keys(yearCounts).sort();
+            // Merge everything before 2024 into a single bucket
+            const before2024 = Object.keys(yearCounts)
+                .filter(year => parseInt(year, 10) < 2024)
+                .reduce((sum, year) => sum + yearCounts[year], 0);
+            if (before2024 > 0) {
+                Object.keys(yearCounts).forEach(year => {
+                    if (parseInt(year, 10) < 2024) delete yearCounts[year];
+                });
+                yearCounts['Before 2024'] = before2024;
+            }
+
+            const sortedYears = Object.keys(yearCounts).sort((a, b) => {
+                if (a === 'Before 2024') return -1;
+                if (b === 'Before 2024') return 1;
+                return a.localeCompare(b);
+            });
             const yearData = sortedYears.map(year => yearCounts[year]);
 
             yearChart = new Chart(yearCtx, {
