@@ -167,6 +167,11 @@
             padding: 0 1rem;
         }
 
+        .nav-tabs .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
         .nav-tab {
             display: inline-block;
             padding: 1rem 1.5rem;
@@ -222,6 +227,8 @@
 
         .data-table {
             width: 100%;
+            min-width: 960px;
+            table-layout: fixed;
             border-collapse: collapse;
         }
 
@@ -231,6 +238,31 @@
             text-align: left;
             border-bottom: 1px solid #eee;
         }
+
+        .data-table td {
+            vertical-align: top;
+        }
+
+        .links-cell {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 0.35rem 0.6rem;
+        }
+
+        /* Fixed column widths keep columns stable across rows and sections
+           (table-layout: fixed takes widths from the first-row cells) */
+        .data-table th:nth-child(1) { width: 9%; }  /* Year */
+        .data-table th:nth-child(2) { width: 30%; } /* Title */
+        .data-table th:nth-child(3) { width: 11%; } /* Team */
+        .data-table th:nth-child(4) { width: 19%; } /* Domain */
+        .data-table th:nth-child(5) { width: 12%; } /* Venue (Category in All Projects) */
+        .data-table th:nth-child(6) { width: 19%; } /* Links */
+        #all-projects .data-table th:nth-child(2) { width: 26%; } /* Title */
+        #all-projects .data-table th:nth-child(4) { width: 16%; } /* Domain */
+        #all-projects .data-table th:nth-child(5) { width: 10%; } /* Category */
+        #all-projects .data-table th:nth-child(6) { width: 12%; } /* Venue */
+        #all-projects .data-table th:nth-child(7) { width: 16%; } /* Links */
 
         .data-table th {
             background: #f8f9fa;
@@ -312,14 +344,12 @@
             font-size: 0.8rem;
             text-decoration: none;
             color: #666;
-            margin-left: 0.5rem;
         }
 
         .citation-badge {
             display: inline-flex;
             align-items: center;
             gap: 0.28rem;
-            margin-top: 0.4rem;
             padding: 0.18rem 0.55rem;
             border-radius: 999px;
             font-size: 0.72rem;
@@ -361,6 +391,12 @@
 
         .hidden {
             display: none !important;
+        }
+
+        @media (max-width: 1100px) {
+            .nav-tab {
+                padding: 1rem 0.9rem;
+            }
         }
 
         @media (max-width: 768px) {
@@ -1116,13 +1152,15 @@
                     <td><span class="domain-tag">${item.domain}</span></td>
                     <td><span class="venue-badge">${item.venue}</span></td>
                     <td>
-                        ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
-                            <i class="fas fa-external-link-alt"></i> Paper
-                        </a>` : ''}
-                        ${citationBadgeHtml(item.citations)}
-                        ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
-                            <i class="fab fa-github"></i> Code
-                        </a> ${githubStarsImg}` : ''}
+                        <div class="links-cell">
+                            ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
+                                <i class="fas fa-external-link-alt"></i> Paper
+                            </a>` : ''}
+                            ${citationBadgeHtml(item.citations)}
+                            ${item.codeUrl ? `<a href="${item.codeUrl}" class="paper-link" target="_blank">
+                                <i class="fab fa-github"></i> Code
+                            </a> ${githubStarsImg}` : ''}
+                        </div>
                     </td>
                 </tr>
             `;
@@ -1142,13 +1180,15 @@
                     <td><span class="venue-badge" style="background: #e8f5e8; color: #2e7d32;">${item.category}</span></td>
                     <td><span class="venue-badge">${item.venue}</span></td>
                     <td>
-                        ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
-                            <i class="fas fa-external-link-alt"></i> Paper
-                        </a>` : ''}
-                        ${citationBadgeHtml(item.citations)}
-                        ${item.codeUrl ? `<br><a href="${item.codeUrl}" class="paper-link" target="_blank">
-                            <i class="fab fa-github"></i> Code
-                        </a> ${githubStarsImg}` : ''}
+                        <div class="links-cell">
+                            ${item.paperUrl ? `<a href="${item.paperUrl}" class="paper-link" target="_blank">
+                                <i class="fas fa-external-link-alt"></i> Paper
+                            </a>` : ''}
+                            ${citationBadgeHtml(item.citations)}
+                            ${item.codeUrl ? `<a href="${item.codeUrl}" class="paper-link" target="_blank">
+                                <i class="fab fa-github"></i> Code
+                            </a> ${githubStarsImg}` : ''}
+                        </div>
                     </td>
                 </tr>
             `;
