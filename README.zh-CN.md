@@ -18,7 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/license-MPL--2.0-22C55E?style=flat-square" alt="License">
     <img src="https://img.shields.io/badge/categories-6-7C3AED?style=flat-square" alt="Categories">
-    <img src="https://img.shields.io/badge/papers-481-0EA5E9?style=flat-square" alt="Papers">
+    <img src="https://img.shields.io/badge/papers-488-0EA5E9?style=flat-square" alt="Papers">
     <img src="https://img.shields.io/badge/updated-2026.09-334155?style=flat-square" alt="Last updated">
   </p>
 </div>
@@ -37,7 +37,7 @@
 
 ## 🌐 浏览全部内容
 
-全部 481 篇论文都在[网站](http://awesomebio.webioinfo.top/)上 — 支持按论文、团队、领域、期刊即时搜索，分类切换和年度统计：
+全部 488 篇论文都在[网站](http://awesomebio.webioinfo.top/)上 — 支持按论文、团队、领域、期刊即时搜索，分类切换和年度统计：
 
 **→ http://awesomebio.webioinfo.top/**
 
@@ -45,7 +45,7 @@
 - 🎯 [Foundation models（基础模型）](http://awesomebio.webioinfo.top/#foundation-models) — 137 篇
 - 🧩 [Other Models（其他模型）](http://awesomebio.webioinfo.top/#other-models) — 14 篇
 - 💾 [Databases/Simulation（数据库/模拟）](http://awesomebio.webioinfo.top/#databases) — 38 篇
-- 📊 [Benchmarks（基准测试）](http://awesomebio.webioinfo.top/#benchmarks) — 61 篇
+- 📊 [Benchmarks（基准测试）](http://awesomebio.webioinfo.top/#benchmarks) — 68 篇
 - 📚 [Reviews（综述）](http://awesomebio.webioinfo.top/#reviews) — 78 篇
 
 机器可读数据：[`docs/data.json`](docs/data.json) — 355 条完整元数据（团队、机构、期刊、代码链接）。

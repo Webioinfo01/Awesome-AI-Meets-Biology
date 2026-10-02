@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 Oct 2026 00:28:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 02:49:11 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -5858,6 +5858,111 @@
     </description>
     <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">HeurekaBenchABenchmarkingFrameworkforAICoscientist202601</guid>
+  </item>
+  <item>
+    <title>SWE-bench: Can Language Models Resolve Real-World GitHub Issues?</title>
+    <link>https://doi.org/10.48550/arXiv.2310.06770</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Karthik R. Narasimhan</p>
+        <p><b>Domain:</b> Agents resolving real-world GitHub issues</p>
+        <p><b>Venue:</b> International Conference on Learning Representations</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2310.06770">Read the Paper</a></p>
+        <p><a href="https://github.com/princeton-nlp/SWE-bench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">SWEbenchCanLanguageModelsResolveRealWorldGitHubIssues202310</guid>
+  </item>
+  <item>
+    <title>OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</title>
+    <link>https://doi.org/10.48550/arXiv.2404.07972</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Tao Yu</p>
+        <p><b>Domain:</b> Benchmarking multimodal agents on real OS environments</p>
+        <p><b>Venue:</b> Neural Information Processing Systems</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2404.07972">Read the Paper</a></p>
+        <p><a href="https://github.com/xlang-ai/OSWorld">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">OSWorldBenchmarkingMultimodalAgentsforOpenEndedTasksinRealComputerEnvironments202404</guid>
+  </item>
+  <item>
+    <title>AgentBench: Evaluating LLMs as Agents</title>
+    <link>https://doi.org/10.48550/arXiv.2308.03688</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Jie Tang</p>
+        <p><b>Domain:</b> Evaluating LLMs as agents across multi-turn environments</p>
+        <p><b>Venue:</b> International Conference on Learning Representations</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2308.03688">Read the Paper</a></p>
+        <p><a href="https://github.com/THUDM/AgentBench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AgentBenchEvaluatingLLMsasAgents202308</guid>
+  </item>
+  <item>
+    <title>DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents</title>
+    <link>https://doi.org/10.48550/arXiv.2506.11763</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Zhendong Mao</p>
+        <p><b>Domain:</b> Benchmarking deep research agents on PhD-level tasks</p>
+        <p><b>Venue:</b> International Conference on Learning Representations</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2506.11763">Read the Paper</a></p>
+        <p><a href="https://github.com/Ayanami0730/deep_research_bench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">DeepResearchBenchAComprehensiveBenchmarkforDeepResearchAgents202506</guid>
+  </item>
+  <item>
+    <title>ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery</title>
+    <link>https://doi.org/10.48550/arXiv.2410.05080</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Huan Sun</p>
+        <p><b>Domain:</b> Benchmarking language agents on data-driven scientific discovery</p>
+        <p><b>Venue:</b> International Conference on Learning Representations</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2410.05080">Read the Paper</a></p>
+        <p><a href="https://github.com/OSU-NLP-Group/ScienceAgentBench">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ScienceAgentBenchTowardRigorousAssessmentofLanguageAgentsforDataDrivenScientificDiscovery202410</guid>
+  </item>
+  <item>
+    <title>Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation</title>
+    <link>https://doi.org/10.48550/arXiv.2510.11977</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Arvind Narayanan</p>
+        <p><b>Domain:</b> Holistic continuous leaderboard infrastructure for AI agent evaluation</p>
+        <p><b>Venue:</b> International Conference on Learning Representations</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2510.11977">Read the Paper</a></p>
+        <p><a href="https://github.com/princeton-pli/hal-harness">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HolisticAgentLeaderboardTheMissingInfrastructureforAIAgentEvaluation202510</guid>
+  </item>
+  <item>
+    <title>Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation</title>
+    <link>https://doi.org/10.48550/arXiv.2609.04298</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Alex Shaw</p>
+        <p><b>Domain:</b> Unified infrastructure adapting 80+ agentic benchmarks (Harbor-Index)</p>
+        <p><b>Venue:</b> arXiv</p>
+        <p><a href="https://doi.org/10.48550/arXiv.2609.04298">Read the Paper</a></p>
+        <p><a href="https://github.com/harbor-framework/harbor">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">HarborAdaptersandHarborIndexInfrastructureandaCuratedMetaDatasetforLargeScaleAgenticEvaluation202609</guid>
   </item>
   <item>
     <title>From foundation models to autonomous agents in biology</title>
