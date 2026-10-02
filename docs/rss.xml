@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 01 Oct 2026 15:14:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 00:28:51 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -5407,21 +5407,6 @@
     </description>
     <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">FundamentalLimitationsofFoundationModelsinSingleCellTranscriptomics202506</guid>
-  </item>
-  <item>
-    <title>Predicting cellular responses to perturbation across diverse contexts with State.</title>
-    <link>https://doi.org/10.1016/j.cell.2026.07.052</link>
-    <description>
-      <![CDATA[
-        <p><b>Team:</b> Yusuf H. Roohani</p>
-        <p><b>Domain:</b> Perturbation scRNA</p>
-        <p><b>Venue:</b> Cell</p>
-        <p><a href="https://doi.org/10.1016/j.cell.2026.07.052">Read the Paper</a></p>
-        <p><a href="https://github.com/ArcInstitute/cell-eval">Code</a></p>
-      ]]>
-    </description>
-    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="false">PredictingcellularresponsestoperturbationacrossdiversecontextswithState202608</guid>
   </item>
   <item>
     <title>Protap: A Benchmark for Protein Modeling on Realistic Downstream Applications</title>
