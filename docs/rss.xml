@@ -5,7 +5,7 @@
   <link>https://webioinfo01.github.io/Awesome-AI-Meets-Biology/</link>
   <description>A comprehensive survey of AI applications in biology, bioinformatics, and biomedical research.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 Oct 2026 02:49:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 00:15:11 GMT</lastBuildDate>
   <atom:link href="https://webioinfo01.github.io/Awesome-AI-Meets-Biology/rss.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>MetaClaw: an auditable AI agent for end-to-end, multi-directional metagenomic and multi-omics analysis</title>
@@ -4432,6 +4432,21 @@
     <guid isPermaLink="false">FineTunedDeepTransferLearningModelsforLargeScreeningsofSaferDrugsTargetingClassAGPCRs202412</guid>
   </item>
   <item>
+    <title>An expert-level generalist AI for abdominal CT diagnosis.</title>
+    <link>https://doi.org/10.1126/science.aec6129</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Ting-Bo Liang</p>
+        <p><b>Domain:</b> Medical Imaging (abdominal CT diagnosis)</p>
+        <p><b>Venue:</b> Science</p>
+        <p><a href="https://doi.org/10.1126/science.aec6129">Read the Paper</a></p>
+        <p><a href="https://github.com/alibaba-damo-academy/damo-radar">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">AnexpertlevelgeneralistAIforabdominalCTdiagnosis202609</guid>
+  </item>
+  <item>
     <title>Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits</title>
     <link>https://doi.org/10.64898/2025.12.23.696273</link>
     <description>
@@ -4984,6 +4999,64 @@
     </description>
     <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">VirtualTumorsEnablePredictionofPersonalizedTherapeuticCombinationsforNonSmallCellLungCancer202606</guid>
+  </item>
+  <item>
+    <title>Cardiovascular digital twins using a Windkessel physics informed neural network</title>
+    <link>https://doi.org/10.1038/s41746-026-02610-9</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Roozbeh Jafari</p>
+        <p><b>Domain:</b> Cardiovascular digital twins / physiological modeling</p>
+        <p><b>Venue:</b> npj Digital Medicine</p>
+        <p><a href="https://doi.org/10.1038/s41746-026-02610-9">Read the Paper</a></p>
+        <p><a href="https://github.com/TAMU-ESP/WPINN">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">CardiovasculardigitaltwinsusingaWindkesselphysicsinformedneuralnetwork202604</guid>
+  </item>
+  <item>
+    <title>Digital twins of ex vivo human lungs enable accurate and personalized evaluation of therapeutic efficacy.</title>
+    <link>https://doi.org/10.1038/s41587-026-03121-4</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Andrew T Sage</p>
+        <p><b>Domain:</b> Organ-level digital twin modeling (ex vivo lung perfusion, multimodal physiology/omics simulation)</p>
+        <p><b>Venue:</b> Nature Biotechnology</p>
+        <p><a href="https://doi.org/10.1038/s41587-026-03121-4">Read the Paper</a></p>
+        <p><a href="https://github.com/Sage-Lab-ai/DT_Lung">Code</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Digitaltwinsofexvivohumanlungsenableaccurateandpersonalizedevaluationoftherapeuticefficacy202605</guid>
+  </item>
+  <item>
+    <title>A Real‐Time Digital Twin for Human Cardiovascular Applications</title>
+    <link>https://doi.org/10.1002/cnm.70209</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> W. Huberts</p>
+        <p><b>Domain:</b> Cardiovascular digital twin / physiological modeling</p>
+        <p><b>Venue:</b> International Journal for Numerical Methods in Biomedical Engineering</p>
+        <p><a href="https://doi.org/10.1002/cnm.70209">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">ARealTimeDigitalTwinforHumanCardiovascularApplications202609</guid>
+  </item>
+  <item>
+    <title>Accounting for uncertainty in computational models of ventricular tachycardia improves ablation guidance</title>
+    <link>https://doi.org/10.1038/s44161-026-00856-w</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Martin J. Bishop</p>
+        <p><b>Domain:</b> Cardiac electrophysiology simulation (digital twin for VT ablation guidance)</p>
+        <p><b>Venue:</b> Nature Cardiovascular Research</p>
+        <p><a href="https://doi.org/10.1038/s44161-026-00856-w">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Accountingforuncertaintyincomputationalmodelsofventriculartachycardiaimprovesablationguidance202608</guid>
   </item>
   <item>
     <title>scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction</title>
@@ -7059,6 +7132,20 @@
     </description>
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
     <guid isPermaLink="false">AdvancingbatteryresearchthroughlargelanguagemodelsAreview202509</guid>
+  </item>
+  <item>
+    <title>Structural requirements for intelligent clinical digital twins in feedback-driven care</title>
+    <link>https://doi.org/10.1038/s44401-026-00143-7</link>
+    <description>
+      <![CDATA[
+        <p><b>Team:</b> Yi Guo</p>
+        <p><b>Domain:</b> Clinical digital twins / Healthcare decision support</p>
+        <p><b>Venue:</b> npj Health Systems</p>
+        <p><a href="https://doi.org/10.1038/s44401-026-00143-7">Read the Paper</a></p>
+      ]]>
+    </description>
+    <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="false">Structuralrequirementsforintelligentclinicaldigitaltwinsinfeedbackdrivencare202609</guid>
   </item>
 </channel>
 </rss>
